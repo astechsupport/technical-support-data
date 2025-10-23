@@ -23,7 +23,7 @@ Ceasar Ian,39223,Sure-Spot Distribution Corporation,Sales Module Auto Fetch Fiel
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,For Cancel,0,2025-09-18 11:09:47,1899-12-30,26,0.0,Davao
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,For Cancel,0,2025-09-18 15:15:00,1899-12-30,26,0.0,Davao
 Ceasar Ian,39314,Activesystems Software Inc, Installation Wowie's  local laptop,Internal,In Progress,0,2025-09-22 10:26:41,1899-12-30,24,0.0,Davao
-Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30,23,0.0,Davao
+Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30,24,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,23,0.0,Davao
 Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,For Cancel,0,2025-09-23 08:57:30,1899-12-30,23,0.0,Davao
 Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,For Cancel,0,2025-09-23 08:58:42,1899-12-30,23,0.0,Davao
@@ -83,7 +83,7 @@ Ceasar Ian,40230,JTG Party Needs Central OPC ,Set up for Looseleaf Template,Serv
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,40060,Super Motor Parts,Replication Syncing ,Service Request,In Progress,0,2025-10-13 09:31:02,1899-12-30,9,60.0,CDO
+Jeric Johann,40060,Super Motor Parts,Replication Syncing ,Service Request,In Progress,0,2025-10-13 09:31:02,1899-12-30,9,120.0,CDO
 Jeric Johann,40110,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-10-14 08:58:24,1899-12-30,8,0.0,Davao
 Jeric Johann,40111,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,For Cancel,0,2025-10-14 09:02:57,1899-12-30,8,0.0,Davao
 Jeric Johann,40114,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),Setup MySQL ,Service Request,For Cancel,0,2025-10-14 09:22:11,1899-12-30,8,0.0,Davao
@@ -102,7 +102,7 @@ Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress
 Joshua,39693,IDG Enterprises,Template modification - Open invoice customized template,Service Request,In Progress,0,2025-09-30 14:18:27,1899-12-30,18,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,18,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,18,0.0,Davao
-Joshua,39704,RL Enterprises,POS Installation,Service Request,In Progress,0,2025-09-30 17:50:14,1899-12-30,17,60.0,CDO
+Joshua,39704,RL Enterprises,POS Installation,Service Request,In Progress,0,2025-09-30 17:50:14,1899-12-30,18,60.0,CDO
 Joshua,39739,Buffalo Industrial Supply,Invoice Form Enhancement,Service Request,In Progress,0,2025-10-01 09:17:30,1899-12-30,17,0.0,CDO
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,15,180.0,CDO
 Joshua,39925,AMR Healthcare Medical Supplies,Update Status Purchase Order from Open to Close,Service Request,In Progress,0,2025-10-07 10:44:40,1899-12-30,13,60.0,CDO
