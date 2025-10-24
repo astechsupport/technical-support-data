@@ -23,7 +23,7 @@ Ceasar Ian,39223,Sure-Spot Distribution Corporation,Sales Module Auto Fetch Fiel
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,For Cancel,0,2025-09-18 11:09:47,1899-12-30,27,0.0,Davao
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,For Cancel,0,2025-09-18 15:15:00,1899-12-30,27,0.0,Davao
 Ceasar Ian,39314,Activesystems Software Inc, Installation Wowie's  local laptop,Internal,Resolved,0,2025-09-22 10:26:41,1899-12-30,25,40.0,Davao
-Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30,24,0.0,Davao
+Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30,25,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,24,0.0,Davao
 Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,For Cancel,0,2025-09-23 08:57:30,1899-12-30,24,0.0,Davao
 Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,For Cancel,0,2025-09-23 08:58:42,1899-12-30,24,0.0,Davao
@@ -91,7 +91,6 @@ Jeric Johann,40114,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),Setu
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,8,0.0,Gensan
 Jeric Johann,40254,JSDR Marketing,Diagnosis in calculation of iten valuation detail report ,Service Request,Resolved,0,2025-10-17 08:58:12,1899-12-30,6,240.0,Gensan
 Jeric Johann,40255,Light Diamond Enterprises,POS concern lag ,Service Request,Reviewed,5,2025-10-17 08:59:09,1899-12-30,6,100.0,Gensan
-Jeric Johann,40260,Marbel General Merchandise Corporation,Missing activeone system,Service Request,Reviewed,5,2025-10-17 10:40:00,1899-12-30,6,60.0,Gensan
 Jeric Johann,40273,"Royal Dragon Southern Distributors, Inc.",Syncing concern on Centerpoint,Service Request,For Cancel,0,2025-10-17 16:34:42,1899-12-30,6,0.0,Davao
 
 
@@ -107,7 +106,7 @@ Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress
 Joshua,39693,IDG Enterprises,Template modification - Open invoice customized template,Service Request,In Progress,0,2025-09-30 14:18:27,1899-12-30,19,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,19,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,19,0.0,Davao
-Joshua,39704,RL Enterprises,POS Installation,Service Request,In Progress,0,2025-09-30 17:50:14,1899-12-30,18,60.0,CDO
+Joshua,39704,RL Enterprises,POS Installation,Service Request,In Progress,0,2025-09-30 17:50:14,1899-12-30,19,60.0,CDO
 Joshua,39739,Buffalo Industrial Supply,Invoice Form Enhancement,Service Request,In Progress,0,2025-10-01 09:17:30,1899-12-30,18,0.0,CDO
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,16,180.0,CDO
 Joshua,39925,AMR Healthcare Medical Supplies,Update Status Purchase Order from Open to Close,Service Request,In Progress,0,2025-10-07 10:44:40,1899-12-30,14,60.0,CDO
@@ -130,7 +129,6 @@ Jude,39444,Marbel General Merchandise Corporation,Change connections of 2 POS st
 Jude,40108,PMGL Refrigeration and Aircondition Service Center,Inventory issue: insufficient,Service Request,In Progress,0,2025-10-14 08:50:16,1899-12-30,9,0.0,Davao
 Jude,40109,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,In Progress,0,2025-10-14 08:51:32,1899-12-30,9,0.0,Davao
 Jude,40133,HS Merchandise,activeone reconnection to server (worksation unit ),Service Request,Reviewed,5,2025-10-14 14:36:00,1899-12-30,9,41.0,Gensan
-Jude,40259,NEW ERA METALFORMING CORPORATION, resyncing activity p3 main branch to main ,Service Request,Reviewed,5,2025-10-17 10:39:08,1899-12-30,6,47.0,Gensan
 
 
 User: Junmar
