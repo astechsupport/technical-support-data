@@ -23,7 +23,7 @@ Ceasar Ian,39223,Sure-Spot Distribution Corporation,Sales Module Auto Fetch Fiel
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,For Cancel,0,2025-09-18 11:09:47,1899-12-30,28,0.0,Davao
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,For Cancel,0,2025-09-18 15:15:00,1899-12-30,28,0.0,Davao
 Ceasar Ian,39314,Activesystems Software Inc, Installation Wowie's  local laptop,Internal,Resolved,0,2025-09-22 10:26:41,1899-12-30,26,40.0,Davao
-Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30,25,0.0,Davao
+Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30,26,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,25,0.0,Davao
 Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,For Cancel,0,2025-09-23 08:57:30,1899-12-30,25,0.0,Davao
 Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,For Cancel,0,2025-09-23 08:58:42,1899-12-30,25,0.0,Davao
@@ -108,7 +108,7 @@ Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress
 Joshua,39693,IDG Enterprises,Template modification - Open invoice customized template,Service Request,In Progress,0,2025-09-30 14:18:27,1899-12-30,20,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,20,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,20,0.0,Davao
-Joshua,39704,RL Enterprises,POS Installation,Service Request,In Progress,0,2025-09-30 17:50:14,1899-12-30,19,60.0,CDO
+Joshua,39704,RL Enterprises,POS Installation,Service Request,In Progress,0,2025-09-30 17:50:14,1899-12-30,20,60.0,CDO
 Joshua,39739,Buffalo Industrial Supply,Invoice Form Enhancement,Service Request,In Progress,0,2025-10-01 09:17:30,1899-12-30,19,0.0,CDO
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,17,180.0,CDO
 Joshua,39925,AMR Healthcare Medical Supplies,Update Status Purchase Order from Open to Close,Service Request,In Progress,0,2025-10-07 10:44:40,1899-12-30,15,60.0,CDO
@@ -135,6 +135,7 @@ Jude,40301,NEW ERA METALFORMING CORPORATION, syncing concern on  butuan branch(m
 Jude,40303,NEW ERA METALFORMING CORPORATION, syncing concern on  main branch( branch to main error),Service Request,In Progress,0,2025-10-20 13:10:52,1899-12-30,6,0.0,Gensan
 Jude,40317,Bahaya Balut Center,POS installation ,Service Request,In Progress,0,2025-10-20 14:39:09,1899-12-30,6,0.0,Davao
 Jude,40320,Grovic Healthcare Inc.,activeone installation,Service Request,In Progress,0,2025-10-20 14:54:22,1899-12-30,6,24.0,Davao
+Jude,40326,Activesystems Software Inc,Check 2 undetected SIM on VoIP Device of SDR Dept.,Internal,In Progress,0,2025-10-20 17:34:18,1899-12-30,6,0.0,Gensan
 
 
 User: Junmar
