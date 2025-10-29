@@ -13,7 +13,7 @@ Ceasar Ian,39057,Ecotrans Car Rentals Transport,Sales Order Form Modification,Se
 Ceasar Ian,39058,Ecotrans Car Rentals Transport, Sales Invoice form modification,Service Request,For Cancel,0,2025-09-11 10:12:48,1899-12-30,35,0.0,Davao
 Ceasar Ian,39070,Activesystems Software Inc,Install the laptop battery purchase,Internal,For Cancel,0,2025-09-11 14:11:41,1899-12-30,34,0.0,Davao
 Ceasar Ian,39074,Papat's Home of davao's Best Ham,MySQL Backup Error ,Service Request,For Cancel,0,2025-09-11 15:26:05,1899-12-30,34,0.0,Davao
-Ceasar Ian,39098,Prokrate International Trading,Discrepancy on Income Statement vs Sales By Class Summary,Service Request,For Cancel,0,2025-09-12 12:05:11,1899-12-30,33,0.0,Davao
+Ceasar Ian,39098,Prokrate International Trading,Discrepancy on Income Statement vs Sales By Class Summary,Service Request,For Cancel,0,2025-09-12 12:05:11,1899-12-30,34,0.0,Davao
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,33,0.0,Davao
 Ceasar Ian,39128,Mindanao Interior Solutions,Can't connect to server,Incident,For Cancel,0,2025-09-15 13:04:42,1899-12-30,32,0.0,Davao
 Ceasar Ian,39189,KSCI COMPUTER Marketing,Server Setup Linux,Service Request,In Progress,0,2025-09-16 16:03:34,1899-12-30,31,0.0,Davao
@@ -21,7 +21,7 @@ Ceasar Ian,39190,Sure-Spot Distribution Corporation,Deploy Customized Receive Pa
 Ceasar Ian,39223,Sure-Spot Distribution Corporation,Sales Module Auto Fetch Fields,Service Request,Resolved,0,2025-09-18 10:44:18,1899-12-30,30,40.0,Davao
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,Assigned,0,2025-09-18 11:09:47,1899-12-30,30,0.0,Davao
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,In Progress,0,2025-09-18 15:15:00,1899-12-30,29,0.0,Davao
-Ceasar Ian,39314,Activesystems Software Inc, Installation Wowie's  local laptop,Internal,Resolved,0,2025-09-22 10:26:41,1899-12-30,28,40.0,Davao
+Ceasar Ian,39314,Activesystems Software Inc, Installation Wowie's  local laptop,Internal,Reviewed,5,2025-09-22 10:26:41,1899-12-30,28,40.0,Davao
 Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,Assigned,0,2025-09-22 17:07:07,1899-12-30,27,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,In Progress,0,2025-09-22 18:18:27,1899-12-30,27,0.0,Davao
 Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,Assigned,0,2025-09-23 08:57:30,1899-12-30,27,0.0,Davao
@@ -31,7 +31,7 @@ Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Servi
 Ceasar Ian,39414,ATMI Marketing,Database Simulation,Service Request,Assigned,0,2025-09-23 16:09:24,1899-12-30,26,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,26,0.0,Davao
 Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,In Progress,0,2025-09-24 15:55:55,1899-12-30,25,0.0,Davao
-Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30,24,0.0,Davao
+Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30,25,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30,24,60.0,Davao
 Ceasar Ian,39628,Sports Town Incorporated,Sports Town: Deployment of fixes in their customize Integration concern,Service Request,In Progress,0,2025-09-29 11:27:51,1899-12-30,23,0.0,Davao
 Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30,22,0.0,Davao
@@ -50,7 +50,7 @@ Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price
 Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30,19,0.0,Davao
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,19,0.0,Davao
 Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,In Progress,0,2025-10-03 11:59:55,1899-12-30,19,0.0,Davao
-Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,18,0.0,Davao
+Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,19,0.0,Davao
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,17,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30,17,90.0,Davao
 Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30,17,120.0,Davao
@@ -182,6 +182,6 @@ Rico,40271,RJ GROCERY STORE/RJS CAR CARE SERVICE CENTER,Template Modification PO
 Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,Assigned,0,2025-10-17 16:37:50,1899-12-30,8,0.0,Davao
 Rico,40321,OFC Construction,2307 template modification,Service Request,Assigned,0,2025-10-20 14:55:05,1899-12-30,7,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,Assigned,0,2025-10-20 14:57:36,1899-12-30,7,0.0,Davao
-Rico,40342,Golden Lakemore Corporation,Setup Customized Bank Recon,Service Request,In Progress,0,2025-10-21 09:02:43,1899-12-30,7,30.0,Davao
-Rico,40357,Golden Lakemore Corporation,RS Installation,Service Request,In Progress,0,2025-10-21 11:13:29,1899-12-30,7,50.0,Davao
+Rico,40342,Golden Lakemore Corporation,Setup Customized Bank Recon,Service Request,Resolved,0,2025-10-21 09:02:43,1899-12-30,7,30.0,Davao
+Rico,40357,Golden Lakemore Corporation,RS Installation,Service Request,Resolved,0,2025-10-21 11:13:29,1899-12-30,7,50.0,Davao
 
