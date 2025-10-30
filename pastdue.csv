@@ -85,9 +85,8 @@ Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,S
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,12,0.0,Gensan
-Jeric Johann,40299,Fire Ox Trading Corporation, Batch # and Expiry to the SO report,Service Request,Resolved,0,2025-10-20 13:09:29,1899-12-30,9,120.0,Gensan
+Jeric Johann,40299,Fire Ox Trading Corporation, Batch # and Expiry to the SO report,Service Request,Reviewed,5,2025-10-20 13:09:29,1899-12-30,9,120.0,Gensan
 Jeric Johann,40359,Kristan Educational Supply,Assistance in generating copy of Back-end report as of last day of use of the machine,Service Request,For Cancel,0,2025-10-21 13:03:05,1899-12-30,8,0.0,Gensan
-Jeric Johann,40360,Kristan Educational Supply,Assistance in generating copy of last invoice,Service Request,For Cancel,0,2025-10-21 13:03:36,1899-12-30,8,0.0,Gensan
 
 
 User: Joshua
@@ -117,12 +116,8 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,33,0.0,Gensan
 Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Progress,0,2025-09-16 09:22:12,1899-12-30,33,0.0,Gensan
 Jude,39444,Marbel General Merchandise Corporation,Change connections of 2 POS standalone to direct to server,Service Request,In Progress,0,2025-09-24 10:27:14,1899-12-30,27,0.0,Gensan
-Jude,40108,PMGL Refrigeration and Aircondition Service Center,Inventory issue: insufficient,Service Request,For Cancel,0,2025-10-14 08:50:16,1899-12-30,13,0.0,Davao
 Jude,40109,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-10-14 08:51:32,1899-12-30,13,0.0,Davao
 Jude,40326,Activesystems Software Inc,Check 2 undetected SIM on VoIP Device of SDR Dept.,Internal,In Progress,0,2025-10-20 17:34:18,1899-12-30,9,0.0,Gensan
-Jude,40358,Kristan Educational Supply,Assistance in generating copy of Z-reading or end-of-day (EOD) ,Service Request,For Cancel,0,2025-10-21 13:02:33,1899-12-30,8,0.0,Gensan
-Jude,40361,Kristan Educational Supply,Assistance in generating POS details ,Service Request,For Cancel,0,2025-10-21 13:57:26,1899-12-30,8,0.0,Gensan
-Jude,40391,Raysmart Maitum Corporation,Updating of Item Discount at 5%,Service Request,For Cancel,0,2025-10-22 10:09:26,1899-12-30,7,0.0,Gensan
 
 
 User: Junmar
@@ -143,8 +138,6 @@ Junmar,40226,Davao Farms Corporation,Can't connect A1 (sir Jong Diaz Unit),Servi
 
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Rico,39721,"Deco Machine Shop, Inc.",Modify Check Voucher Template,Service Request,For Cancel,0,2025-10-01 08:21:45,1899-12-30,22,0.0,Davao
-Rico,39722,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,For Cancel,0,2025-10-01 08:23:24,1899-12-30,22,0.0,Davao
 Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,Assigned,0,2025-10-15 11:27:27,1899-12-30,12,0.0,Davao
 Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,Assigned,0,2025-10-15 11:32:52,1899-12-30,12,0.0,Davao
 Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,Assigned,0,2025-10-15 11:33:46,1899-12-30,12,0.0,Davao
