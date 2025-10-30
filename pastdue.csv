@@ -67,7 +67,7 @@ Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dext
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30,13,0.0,Davao
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,In Progress,5,2025-10-14 09:10:08,1899-12-30,13,120.0,Davao
 Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,In Progress,0,2025-10-14 13:34:24,1899-12-30,13,60.0,Davao
-Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,In Progress,0,2025-10-14 13:40:06,1899-12-30,12,0.0,Davao
+Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,In Progress,0,2025-10-14 13:40:06,1899-12-30,13,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,In Progress,0,2025-10-15 11:16:49,1899-12-30,12,60.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,12,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,12,0.0,Davao
@@ -116,8 +116,8 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,33,0.0,Gensan
 Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Progress,0,2025-09-16 09:22:12,1899-12-30,33,0.0,Gensan
 Jude,39444,Marbel General Merchandise Corporation,Change connections of 2 POS standalone to direct to server,Service Request,In Progress,0,2025-09-24 10:27:14,1899-12-30,27,0.0,Gensan
-Jude,40108,PMGL Refrigeration and Aircondition Service Center,Inventory issue: insufficient,Service Request,In Progress,0,2025-10-14 08:50:16,1899-12-30,13,0.0,Davao
-Jude,40109,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,In Progress,0,2025-10-14 08:51:32,1899-12-30,13,0.0,Davao
+Jude,40108,PMGL Refrigeration and Aircondition Service Center,Inventory issue: insufficient,Service Request,For Cancel,0,2025-10-14 08:50:16,1899-12-30,13,0.0,Davao
+Jude,40109,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-10-14 08:51:32,1899-12-30,13,0.0,Davao
 Jude,40133,HS Merchandise,activeone reconnection to server (worksation unit ),Service Request,Reviewed,5,2025-10-14 14:36:00,1899-12-30,12,41.0,Gensan
 Jude,40326,Activesystems Software Inc,Check 2 undetected SIM on VoIP Device of SDR Dept.,Internal,In Progress,0,2025-10-20 17:34:18,1899-12-30,8,0.0,Gensan
 Jude,40327,GJ and G Marketing,Data migration,Service Request,Resolved,0,2025-10-21 08:30:15,1899-12-30,8,83.0,Gensan
