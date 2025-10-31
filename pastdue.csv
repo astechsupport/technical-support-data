@@ -3,7 +3,7 @@ User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,37454,Busy Farmer Agrivet Supply,Installation of load balancer,Service Request,Assigned,0,2025-07-29 14:06:41,1899-12-30,69,0.0,Davao
 Ceasar Ian,37744,"DMI Medical Supply Company, Inc.",Change template access level into 1 (admin),Service Request,In Progress,0,2025-08-06 15:42:04,1899-12-30,62,0.0,Davao
-Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,In Progress,0,2025-08-18 15:01:43,1899-12-30,54,0.0,Davao
+Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,In Progress,0,2025-08-18 15:01:43,1899-12-30,55,0.0,Davao
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,In Progress,0,2025-09-02 13:20:08,1899-12-30,44,0.0,Davao
 Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,Assigned,0,2025-09-03 13:43:57,1899-12-30,43,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,41,0.0,Davao
@@ -78,7 +78,6 @@ Ceasar Ian,40269,"Trans-Island Plastics Industries, Inc.",Unable to save the rec
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,10,0.0,Davao
 Ceasar Ian,40372,Activesystems Software Inc,Setup Email,Service Request,In Progress,0,2025-10-21 16:03:49,1899-12-30,8,0.0,Davao
 Ceasar Ian,40428,ASL Durian Marketing OPC, PTU set up for new POS,Service Request,In Progress,0,2025-10-23 09:48:17,1899-12-30,7,40.0,Davao
-Ceasar Ian,40431,JVNI Auto Supply,set up autobackup,Service Request,Reviewed,5,2025-10-23 09:54:40,1899-12-30,7,20.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,Assigned,0,2025-10-23 16:09:31,1899-12-30,6,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,6,0.0,Davao
 
