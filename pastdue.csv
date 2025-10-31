@@ -9,8 +9,8 @@ Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,Assigned,
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,40,0.0,Davao
 Ceasar Ian,38994,Dariv Power Tools Trading,Modification Template for BIR and Internal purposes (Invoice list- BIR Format),Service Request,In Progress,0,2025-09-10 10:31:59,1899-12-30,37,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Service Request,In Progress,0,2025-09-10 10:33:13,1899-12-30,37,0.0,Davao
-Ceasar Ian,39057,Ecotrans Car Rentals Transport,Sales Order Form Modification,Service Request,In Progress,5,2025-09-11 10:12:00,1899-12-30,36,200.0,Davao
-Ceasar Ian,39058,Ecotrans Car Rentals Transport, Sales Invoice form modification,Service Request,In Progress,0,2025-09-11 10:12:48,1899-12-30,36,0.0,Davao
+Ceasar Ian,39057,Ecotrans Car Rentals Transport,Sales Order Form Modification,Service Request,In Progress,5,2025-09-11 10:12:00,1899-12-30,37,200.0,Davao
+Ceasar Ian,39058,Ecotrans Car Rentals Transport, Sales Invoice form modification,Service Request,In Progress,0,2025-09-11 10:12:48,1899-12-30,37,0.0,Davao
 Ceasar Ian,39070,Activesystems Software Inc,Install the laptop battery purchase,Internal,Assigned,0,2025-09-11 14:11:41,1899-12-30,36,0.0,Davao
 Ceasar Ian,39074,Papat's Home of davao's Best Ham,MySQL Backup Error ,Service Request,In Progress,0,2025-09-11 15:26:05,1899-12-30,36,0.0,Davao
 Ceasar Ian,39098,Prokrate International Trading,Discrepancy on Income Statement vs Sales By Class Summary,Service Request,In Progress,0,2025-09-12 12:05:11,1899-12-30,35,0.0,Davao
@@ -104,7 +104,7 @@ Joshua,40025,Marbel Computer Center,Simulation of Upgrade to Latest Database,Int
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,16,120.0,CDO
 Joshua,40331,AMR Healthcare Medical Supplies,Deployment of Customized App,Service Request,Resolved,0,2025-10-21 08:42:36,1899-12-30,9,180.0,Head Quarter
 Joshua,40347,UP MARKETING,Activeone Installation,Service Request,Reviewed,5,2025-10-21 10:07:43,1899-12-30,9,60.0,CDO
-Joshua,40349,Richstar Variety Store,Hardware Assessment for 2 POS,Service Request,In Progress,0,2025-10-21 10:14:41,1899-12-30,8,0.0,CDO
+Joshua,40349,Richstar Variety Store,Hardware Assessment for 2 POS,Service Request,In Progress,0,2025-10-21 10:14:41,1899-12-30,9,0.0,CDO
 Joshua,40350,Richstar Variety Store,Replication Setup,Service Request,Assigned,0,2025-10-21 10:15:52,1899-12-30,8,0.0,CDO
 Joshua,40382,J&J Aklan Trading ,Sales Invoice Modification,Service Request,In Progress,0,2025-10-22 08:25:06,1899-12-30,8,60.0,CDO
 Joshua,40470,Intelisoft Microcomputer Systems,Rounding off of numbers/money figure,Service Request,Resolved,0,2025-10-23 16:23:25,1899-12-30,6,60.0,CDO
