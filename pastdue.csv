@@ -95,10 +95,10 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Joshua,39500,IDG Enterprises,Ghost amounts in balance sheet detail,Service Request,In Progress,0,2025-09-25 11:29:53,1899-12-30,27,0.0,Davao
 Joshua,39502,IDG Enterprises,Diagnose Inventory Stock Status by vendor report,Service Request,In Progress,0,2025-09-25 11:31:19,1899-12-30,27,0.0,Davao
 Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,26,120.0,CDO
-Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,23,0.0,Davao
-Joshua,39693,IDG Enterprises,Template modification - Open invoice customized template,Service Request,In Progress,0,2025-09-30 14:18:27,1899-12-30,23,0.0,Davao
-Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,23,0.0,Davao
-Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,23,0.0,Davao
+Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,24,0.0,Davao
+Joshua,39693,IDG Enterprises,Template modification - Open invoice customized template,Service Request,In Progress,0,2025-09-30 14:18:27,1899-12-30,24,0.0,Davao
+Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,24,0.0,Davao
+Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,24,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,21,180.0,CDO
 Joshua,39959,C & L Pharma & General Merchandise Corp.,ActiveOne Connection Concern,Service Request,In Progress,0,2025-10-08 10:27:40,1899-12-30,18,60.0,CDO
 Joshua,40025,Marbel Computer Center,Simulation of Upgrade to Latest Database,Internal,In Progress,0,2025-10-09 15:34:24,1899-12-30,16,180.0,CDO
