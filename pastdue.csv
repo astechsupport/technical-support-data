@@ -1,9 +1,9 @@
 
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Ceasar Ian,37454,Busy Farmer Agrivet Supply,Installation of load balancer,Service Request,Assigned,0,2025-07-29 14:06:41,1899-12-30,71,0.0,Davao
-Ceasar Ian,37744,"DMI Medical Supply Company, Inc.",Change template access level into 1 (admin),Service Request,In Progress,0,2025-08-06 15:42:04,1899-12-30,65,0.0,Davao
-Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,In Progress,0,2025-08-18 15:01:43,1899-12-30,57,0.0,Davao
+Ceasar Ian,37454,Busy Farmer Agrivet Supply,Installation of load balancer,Service Request,For Cancel,0,2025-07-29 14:06:41,1899-12-30,71,0.0,Davao
+Ceasar Ian,37744,"DMI Medical Supply Company, Inc.",Change template access level into 1 (admin),Service Request,For Cancel,0,2025-08-06 15:42:04,1899-12-30,65,0.0,Davao
+Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-08-18 15:01:43,1899-12-30,57,0.0,Davao
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,In Progress,0,2025-09-02 13:20:08,1899-12-30,46,0.0,Davao
 Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,Assigned,0,2025-09-03 13:43:57,1899-12-30,45,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,43,0.0,Davao
@@ -40,7 +40,7 @@ Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,
 Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30,27,0.0,Davao
 Ceasar Ian,39699,GGM Pharmacy,Item List Migration,Service Request,In Progress,0,2025-09-30 16:24:43,1899-12-30,26,0.0,Davao
 Ceasar Ian,39705,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing unable to edit tax credit,Service Request,Assigned,0,2025-09-30 18:48:50,1899-12-30,26,0.0,Davao
-Ceasar Ian,39828,Philfumes Petroleum Corporation, Davao to Tagum,Travel Ticket,For Close,0,2025-10-03 08:49:13,1899-12-30,23,0.0,Davao
+Ceasar Ian,39828,Philfumes Petroleum Corporation, Davao to Tagum,Travel Ticket,For Close,0,2025-10-03 08:49:13,1899-12-30,24,0.0,Davao
 Ceasar Ian,39832,Philfumes Petroleum Corporation,Tagum to Davao,Travel Ticket,For Close,0,2025-10-03 08:58:07,1899-12-30,23,0.0,Davao
 Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30,23,0.0,Davao
 Ceasar Ian,39835,Farmers Edge Agriventures Inc.,ActiveOne System Log Concern,Service Request,In Progress,0,2025-10-03 10:52:43,1899-12-30,23,0.0,Davao
@@ -145,8 +145,8 @@ Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake
 Junmar,40525,Paz Distribution Inc.,Bug on custom sales app,Service Request,In Progress,0,2025-10-24 15:13:32,1899-12-30,8,0.0,Cebu
 Junmar,40552,Delta Steel Hardware,OC Re-installation,Service Request,In Progress,0,2025-10-27 10:40:15,1899-12-30,7,0.0,Cebu
 Junmar,40553,Delta Steel Hardware,Activeone  Re-installation,Service Request,Resolved,0,2025-10-27 10:40:48,1899-12-30,7,0.0,Cebu
-Junmar,40586,Romeo’s Pharmaceutical Products Distribution Trading OPC,Update on Invoice Details – Lot#/Expiry Date and Computation Adjustments,Service Request,Assigned,0,2025-10-27 14:27:54,1899-12-30,7,0.0,Ilo-ilo
-Junmar,40587,MCR Agriventure Corporation,Activeone Installation in LocalServer,Service Request,Resolved,0,2025-10-27 14:29:03,1899-12-30,7,0.0,Ilo-ilo
+Junmar,40586,Romeo’s Pharmaceutical Products Distribution Trading OPC,Update on Invoice Details – Lot#/Expiry Date and Computation Adjustments,Service Request,In Progress,0,2025-10-27 14:27:54,1899-12-30,7,0.0,Ilo-ilo
+Junmar,40587,MCR Agriventure Corporation,Activeone Installation in LocalServer,Service Request,Reviewed,5,2025-10-27 14:29:03,1899-12-30,7,0.0,Ilo-ilo
 Junmar,40589,Vexoil Phil Corporation,Cannot Open POS ( Cuartero Station) ,Service Request,Resolved,0,2025-10-27 14:31:28,1899-12-30,7,0.0,Ilo-ilo
 
 
