@@ -7,7 +7,7 @@ Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30 00:00:00,46,0.0,Davao
 Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30 00:00:00,45,0.0,Davao
 Ceasar Ian,38863,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-09-05 11:17:18,2025-10-28 11:16:42,44,0.0,Davao
-Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30 00:00:00,43,0.0,Davao
+Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30 00:00:00,44,0.0,Davao
 Ceasar Ian,38994,Dariv Power Tools Trading,Modification Template for BIR and Internal purposes (Invoice list- BIR Format),Service Request,In Progress,0,2025-09-10 10:31:59,1899-12-30 00:00:00,41,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Service Request,In Progress,0,2025-09-10 10:33:13,1899-12-30 00:00:00,41,0.0,Davao
 Ceasar Ian,39057,Ecotrans Car Rentals Transport,Sales Order Form Modification,Service Request,In Progress,5,2025-09-11 10:12:00,1899-12-30 00:00:00,40,0.0,Davao
@@ -34,7 +34,7 @@ Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For 
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39604,Nipcon Distributors,Item_Pricing doesnt exist Error,Service Request,For Cancel,0,2025-09-26 15:22:02,2025-10-28 10:55:36,28,0.0,Davao
-Ceasar Ian,39628,Sports Town Incorporated,Sports Town: Deployment of fixes in their customize Integration concern,Service Request,For Cancel,0,2025-09-29 11:27:51,1899-12-30 00:00:00,27,0.0,Davao
+Ceasar Ian,39628,Sports Town Incorporated,Sports Town: Deployment of fixes in their customize Integration concern,Service Request,For Cancel,0,2025-09-29 11:27:51,1899-12-30 00:00:00,28,0.0,Davao
 Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,Assigned,0,2025-09-29 15:55:22,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39654,Sports Town Incorporated,Restore database,Service Request,In Progress,0,2025-09-29 15:58:11,1899-12-30 00:00:00,27,0.0,Davao
@@ -70,7 +70,7 @@ Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter B
 Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-10-14 13:34:24,1899-12-30 00:00:00,16,0.0,Davao
 Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,16,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,In Progress,0,2025-10-15 11:16:49,1899-12-30 00:00:00,16,0.0,Davao
-Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,15,0.0,Davao
+Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,16,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,15,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,15,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30 00:00:00,15,0.0,Davao
@@ -84,7 +84,7 @@ Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,S
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30 00:00:00,8,0.0,Davao
-Ceasar Ian,40560,Farmers Edge Agriventures Inc.,Cant connect to my sql server,Service Request,In Progress,0,2025-10-27 11:29:15,1899-12-30 00:00:00,7,0.0,Davao
+Ceasar Ian,40560,Farmers Edge Agriventures Inc.,Cant connect to my sql server,Service Request,In Progress,0,2025-10-27 11:29:15,1899-12-30 00:00:00,8,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30 00:00:00,6,0.0,Davao
 Ceasar Ian,40666,Project D Auto Innovations,Cant Connect to activeone (laptop unit),Service Request,In Progress,0,2025-10-29 10:55:57,1899-12-30 00:00:00,6,0.0,Davao
 
@@ -100,7 +100,7 @@ Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  S
 
 User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Joshua,39500,IDG Enterprises,Ghost amounts in balance sheet detail,Service Request,In Progress,0,2025-09-25 11:29:53,1899-12-30,29,0.0,Davao
+Joshua,39500,IDG Enterprises,Ghost amounts in balance sheet detail,Service Request,In Progress,0,2025-09-25 11:29:53,1899-12-30,30,0.0,Davao
 Joshua,39502,IDG Enterprises,Diagnose Inventory Stock Status by vendor report,Service Request,In Progress,0,2025-09-25 11:31:19,1899-12-30,29,0.0,Davao
 Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,28,0.0,CDO
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,26,0.0,Davao
@@ -155,7 +155,7 @@ Junmar,40589,Vexoil Phil Corporation,Cannot Open POS ( Cuartero Station) ,Servic
 
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,Assigned,0,2025-10-15 11:27:27,1899-12-30,15,0.0,Davao
+Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,Assigned,0,2025-10-15 11:27:27,1899-12-30,16,0.0,Davao
 Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,Assigned,0,2025-10-15 11:32:52,1899-12-30,15,0.0,Davao
 Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,Assigned,0,2025-10-15 11:33:46,1899-12-30,15,0.0,Davao
 Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,Assigned,0,2025-10-16 16:35:45,1899-12-30,14,0.0,Davao
