@@ -5,7 +5,7 @@ Ceasar Ian,37454,Busy Farmer Agrivet Supply,Installation of load balancer,Servic
 Ceasar Ian,37744,"DMI Medical Supply Company, Inc.",Change template access level into 1 (admin),Service Request,For Cancel,0,2025-08-06 15:42:04,1899-12-30 00:00:00,65,0.0,Davao
 Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-08-18 15:01:43,1899-12-30 00:00:00,57,0.0,Davao
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30 00:00:00,47,0.0,Davao
-Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30 00:00:00,45,0.0,Davao
+Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30 00:00:00,46,0.0,Davao
 Ceasar Ian,38863,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-09-05 11:17:18,2025-10-28 11:16:42,44,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30 00:00:00,44,0.0,Davao
 Ceasar Ian,38994,Dariv Power Tools Trading,Modification Template for BIR and Internal purposes (Invoice list- BIR Format),Service Request,In Progress,0,2025-09-10 10:31:59,1899-12-30 00:00:00,41,0.0,Davao
@@ -61,7 +61,7 @@ Ceasar Ian,40001,MB Refreshments, Thinstuff Activation,Service Request,For Cance
 Ceasar Ian,40002,Sports Town Incorporated,VPN Installation,Service Request,For Cancel,0,2025-10-09 09:47:57,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30 00:00:00,20,0.0,Davao
-Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,Assigned,0,2025-10-09 13:41:47,1899-12-30 00:00:00,19,0.0,Davao
+Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,Assigned,0,2025-10-09 13:41:47,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30 00:00:00,18,0.0,Davao
@@ -93,7 +93,7 @@ Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,16,0.0,Gensan
-Jeric Johann,40517,JT Golden Roasters – Inasal De Cebu OPC,ServPOS Installation,Service Request,Resolved,0,2025-10-24 13:42:03,1899-12-30,8,120.0,Davao
+Jeric Johann,40517,JT Golden Roasters – Inasal De Cebu OPC,ServPOS Installation,Service Request,Resolved,0,2025-10-24 13:42:03,1899-12-30,9,120.0,Davao
 Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a system generated,Service Request,In Progress,0,2025-10-27 10:37:15,1899-12-30,8,0.0,Davao
 Jeric Johann,40643,Supplynet Inc.,Discrepancy in Item Valuation Detail Report – Wrong On-Hand Items,Service Request,In Progress,0,2025-10-28 14:06:16,1899-12-30,6,60.0,Ilo-ilo
 Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  Sales Receipt Module,Service Request,In Progress,0,2025-10-29 08:10:19,1899-12-30,6,0.0,Gensan
@@ -116,7 +116,7 @@ Joshua,40349,Richstar Variety Store,Hardware Assessment for 2 POS,Service Reques
 Joshua,40350,Richstar Variety Store,Replication Setup,Service Request,Assigned,0,2025-10-21 10:15:52,1899-12-30,12,0.0,CDO
 Joshua,40382,J&J Aklan Trading ,Sales Invoice Modification,Service Request,In Progress,0,2025-10-22 08:25:06,1899-12-30,11,0.0,CDO
 Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration,Service Request,In Progress,0,2025-10-23 17:06:46,1899-12-30,9,0.0,CDO
-Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,8,0.0,CDO
+Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,9,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,8,0.0,Davao
 Joshua,40602,HBO Marketing,Concerns in barcode printer,Service Request,In Progress,0,2025-10-27 16:05:15,1899-12-30,7,0.0,CDO
 Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration,Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,7,0.0,CDO
