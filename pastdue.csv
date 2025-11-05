@@ -54,11 +54,11 @@ Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving p
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30 00:00:00,22,0.0,Davao
-Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,19,0.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,Assigned,0,2025-10-09 09:14:44,1899-12-30 00:00:00,19,0.0,Davao
+Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,20,0.0,Davao
+Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,Assigned,0,2025-10-09 09:14:44,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,19,0.0,Davao
-Ceasar Ian,40001,MB Refreshments, Thinstuff Activation,Service Request,In Progress,0,2025-10-09 09:44:57,1899-12-30 00:00:00,19,0.0,Davao
-Ceasar Ian,40002,Sports Town Incorporated,VPN Installation,Service Request,In Progress,0,2025-10-09 09:47:57,1899-12-30 00:00:00,19,0.0,Davao
+Ceasar Ian,40001,MB Refreshments, Thinstuff Activation,Service Request,For Cancel,0,2025-10-09 09:44:57,1899-12-30 00:00:00,19,0.0,Davao
+Ceasar Ian,40002,Sports Town Incorporated,VPN Installation,Service Request,For Cancel,0,2025-10-09 09:47:57,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,Assigned,0,2025-10-09 13:41:47,1899-12-30 00:00:00,19,0.0,Davao
@@ -67,8 +67,8 @@ Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service 
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30 00:00:00,17,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30 00:00:00,17,0.0,Davao
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,In Progress,5,2025-10-14 09:10:08,1899-12-30 00:00:00,17,0.0,Davao
-Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,In Progress,0,2025-10-14 13:34:24,1899-12-30 00:00:00,16,0.0,Davao
-Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,In Progress,0,2025-10-14 13:40:06,1899-12-30 00:00:00,16,0.0,Davao
+Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-10-14 13:34:24,1899-12-30 00:00:00,16,0.0,Davao
+Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,16,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,In Progress,0,2025-10-15 11:16:49,1899-12-30 00:00:00,15,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,15,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,15,0.0,Davao
@@ -118,6 +118,7 @@ Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEAC
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,7,0.0,Davao
 Joshua,40602,HBO Marketing,Concerns in barcode printer,Service Request,In Progress,0,2025-10-27 16:05:15,1899-12-30,7,0.0,CDO
 Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration,Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,6,0.0,CDO
+Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,6,0.0,CDO
 
 
 User: Jude
@@ -138,7 +139,7 @@ Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,67,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,61,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,47,0.0,Cebu
-Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,46,0.0,Cebu
+Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,47,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,45,0.0,Cebu
 Junmar,38834,ZJF Corporation,Assist Concern on Loyalty Points Report,Service Request,In Progress,0,2025-09-04 14:23:04,1899-12-30,44,0.0,Cebu
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,32,0.0,Ilo-ilo
