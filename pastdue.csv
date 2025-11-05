@@ -18,11 +18,11 @@ Ceasar Ian,39098,Prokrate International Trading,Discrepancy on Income Statement 
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30 00:00:00,38,0.0,Davao
 Ceasar Ian,39128,Mindanao Interior Solutions,Can't connect to server,Incident,For Cancel,0,2025-09-15 13:04:42,1899-12-30 00:00:00,37,0.0,Davao
 Ceasar Ian,39189,KSCI COMPUTER Marketing,Server Setup Linux,Service Request,For Cancel,0,2025-09-16 16:03:34,1899-12-30 00:00:00,36,0.0,Davao
-Ceasar Ian,39190,Sure-Spot Distribution Corporation,Deploy Customized Receive Payment,Service Request,In Progress,0,2025-09-16 16:05:43,1899-12-30 00:00:00,36,0.0,Davao
+Ceasar Ian,39190,Sure-Spot Distribution Corporation,Deploy Customized Receive Payment,Service Request,For Cancel,0,2025-09-16 16:05:43,1899-12-30 00:00:00,36,0.0,Davao
 Ceasar Ian,39223,Sure-Spot Distribution Corporation,Sales Module Auto Fetch Fields,Service Request,Resolved,0,2025-09-18 10:44:18,1899-12-30 00:00:00,34,0.0,Davao
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,Assigned,0,2025-09-18 11:09:47,1899-12-30 00:00:00,34,0.0,Davao
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,In Progress,0,2025-09-18 15:15:00,1899-12-30 00:00:00,34,0.0,Davao
-Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,Assigned,0,2025-09-22 17:07:07,1899-12-30 00:00:00,32,0.0,Davao
+Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,In Progress,0,2025-09-22 18:18:27,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,Assigned,0,2025-09-23 08:57:30,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,Assigned,0,2025-09-23 08:58:42,1899-12-30 00:00:00,32,0.0,Davao
@@ -30,7 +30,7 @@ Ceasar Ian,39378,Suntrek Enterprises,Data Migration - Customer List,Service Requ
 Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,In Progress,0,2025-09-23 11:17:26,1899-12-30 00:00:00,31,0.0,Davao
 Ceasar Ian,39414,ATMI Marketing,Database Simulation,Service Request,Assigned,0,2025-09-23 16:09:24,1899-12-30 00:00:00,31,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30 00:00:00,31,0.0,Davao
-Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,In Progress,0,2025-09-24 15:55:55,1899-12-30 00:00:00,30,0.0,Davao
+Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For Cancel,0,2025-09-24 15:55:55,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39628,Sports Town Incorporated,Sports Town: Deployment of fixes in their customize Integration concern,Service Request,In Progress,0,2025-09-29 11:27:51,1899-12-30 00:00:00,27,0.0,Davao
@@ -81,7 +81,7 @@ Ceasar Ian,40372,Activesystems Software Inc,Setup Email,Service Request,In Progr
 Ceasar Ian,40428,ASL Durian Marketing OPC, PTU set up for new POS,Service Request,In Progress,0,2025-10-23 09:48:17,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,Assigned,0,2025-10-23 16:09:31,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30 00:00:00,9,0.0,Davao
-Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30 00:00:00,8,0.0,Davao
+Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30 00:00:00,7,0.0,Davao
 Ceasar Ian,40560,Farmers Edge Agriventures Inc.,Cant connect to my sql server,Service Request,In Progress,0,2025-10-27 11:29:15,1899-12-30 00:00:00,7,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30 00:00:00,6,0.0,Davao
