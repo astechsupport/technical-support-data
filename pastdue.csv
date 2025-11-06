@@ -45,7 +45,7 @@ Ceasar Ian,39705,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing unabl
 Ceasar Ian,39828,Philfumes Petroleum Corporation, Davao to Tagum,Travel Ticket,For Close,0,2025-10-03 08:49:13,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39832,Philfumes Petroleum Corporation,Tagum to Davao,Travel Ticket,For Close,0,2025-10-03 08:58:07,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30 00:00:00,25,0.0,Davao
-Ceasar Ian,39835,Farmers Edge Agriventures Inc.,ActiveOne System Log Concern,Service Request,In Progress,0,2025-10-03 10:52:43,1899-12-30 00:00:00,25,0.0,Davao
+Ceasar Ian,39835,Farmers Edge Agriventures Inc.,ActiveOne System Log Concern,Service Request,For Cancel,0,2025-10-03 10:52:43,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,25,0.0,Davao
@@ -84,10 +84,10 @@ Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,S
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30 00:00:00,10,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30 00:00:00,10,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30 00:00:00,9,0.0,Davao
-Ceasar Ian,40560,Farmers Edge Agriventures Inc.,Cant connect to my sql server,Service Request,In Progress,0,2025-10-27 11:29:15,1899-12-30 00:00:00,9,0.0,Davao
+Ceasar Ian,40560,Farmers Edge Agriventures Inc.,Cant connect to my sql server,Service Request,For Cancel,0,2025-10-27 11:29:15,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30 00:00:00,7,0.0,Davao
 Ceasar Ian,40666,Project D Auto Innovations,Cant Connect to activeone (laptop unit),Service Request,In Progress,0,2025-10-29 10:55:57,1899-12-30 00:00:00,7,30.0,Davao
-Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,Assigned,0,2025-10-29 13:29:59,1899-12-30 00:00:00,6,0.0,Davao
+Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,Assigned,0,2025-10-29 13:29:59,1899-12-30 00:00:00,7,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,Assigned,0,2025-10-29 17:55:00,1899-12-30 00:00:00,6,0.0,Davao
 
 
@@ -120,7 +120,7 @@ Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration,Service Request,In Progre
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,9,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,9,0.0,Davao
 Joshua,40602,HBO Marketing,Concerns in barcode printer,Service Request,In Progress,0,2025-10-27 16:05:15,1899-12-30,8,0.0,CDO
-Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration,Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,7,0.0,CDO
+Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration,Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,8,0.0,CDO
 Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,7,0.0,CDO
 Joshua,40681,Madlink Corporation,Purchase Order Form Modification,Service Request,For Cancel,0,2025-10-29 13:39:30,1899-12-30,6,0.0,CDO
 
