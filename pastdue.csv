@@ -104,7 +104,7 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39500,IDG Enterprises,Ghost amounts in balance sheet detail,Service Request,In Progress,0,2025-09-25 11:29:53,1899-12-30,32,0.0,Davao
 Joshua,39502,IDG Enterprises,Diagnose Inventory Stock Status by vendor report,Service Request,In Progress,0,2025-09-25 11:31:19,1899-12-30,32,0.0,Davao
-Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,30,0.0,CDO
+Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,31,0.0,CDO
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,28,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,28,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,28,0.0,Davao
@@ -146,7 +146,7 @@ Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake
 Junmar,40525,Paz Distribution Inc.,Bug on custom sales app,Service Request,In Progress,0,2025-10-24 15:13:32,1899-12-30,10,0.0,Cebu
 Junmar,40586,Romeo’s Pharmaceutical Products Distribution Trading OPC,Update on Invoice Details – Lot#/Expiry Date and Computation Adjustments,Service Request,Resolved,0,2025-10-27 14:27:54,1899-12-30,9,40.0,Ilo-ilo
 Junmar,40706,Vexoil Phil Corporation,Concern Regarding Automatic Price Change at Lanot Station,Service Request,For Cancel,0,2025-10-30 10:16:46,1899-12-30,7,0.0,Ilo-ilo
-Junmar,40712,ZJF Corporation,Transfer of Server,Service Request,Assigned,0,2025-10-30 13:56:39,1899-12-30,6,0.0,Cebu
+Junmar,40712,ZJF Corporation,Transfer of Server,Service Request,Assigned,0,2025-10-30 13:56:39,1899-12-30,7,0.0,Cebu
 Junmar,40715,MARNICA PHARMACEUTICAL PRODUCTS,Invoice template update.,Service Request,In Progress,0,2025-10-30 15:51:08,1899-12-30,6,0.0,Ilo-ilo
 Junmar,40716,FLUIDZ Minimart,Transfer server file to another computer,Service Request,Resolved,0,2025-10-30 15:56:33,1899-12-30,6,200.0,Cebu
 
@@ -162,7 +162,7 @@ Rico,40271,RJ GROCERY STORE/RJS CAR CARE SERVICE CENTER,Template Modification PO
 Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,15,0.0,Davao
 Rico,40321,OFC Construction,2307 template modification,Service Request,Assigned,0,2025-10-20 14:55:05,1899-12-30,14,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,Assigned,0,2025-10-20 14:57:36,1899-12-30,14,0.0,Davao
-Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,11,0.0,Davao
+Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,12,0.0,Davao
 Rico,40467,One Isla Trade and Distribution Inc.,ActiveOne Installation ,Service Request,In Progress,0,2025-10-23 16:05:49,1899-12-30,11,0.0,Davao
 Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,Assigned,0,2025-10-23 16:42:33,1899-12-30,11,0.0,Davao
 Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,10,0.0,Davao
