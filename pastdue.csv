@@ -53,8 +53,8 @@ Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving p
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,24,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,24,0.0,Davao
 Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30 00:00:00,24,0.0,Davao
-Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,21,0.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,Assigned,0,2025-10-09 09:14:44,1899-12-30 00:00:00,21,0.0,Davao
+Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,22,0.0,Davao
+Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,Assigned,0,2025-10-09 09:14:44,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,21,0.0,Davao
 Ceasar Ian,40001,MB Refreshments, Thinstuff Activation,Service Request,For Cancel,0,2025-10-09 09:44:57,1899-12-30 00:00:00,21,0.0,Davao
 Ceasar Ian,40002,Sports Town Incorporated,VPN Installation,Service Request,For Cancel,0,2025-10-09 09:47:57,1899-12-30 00:00:00,21,0.0,Davao
@@ -118,7 +118,7 @@ Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEAC
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,9,0.0,Davao
 Joshua,40602,HBO Marketing,Concerns in barcode printer,Service Request,In Progress,0,2025-10-27 16:05:15,1899-12-30,9,0.0,CDO
 Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration,Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,8,0.0,CDO
-Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,7,0.0,CDO
+Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,8,0.0,CDO
 
 
 User: Jude
@@ -158,7 +158,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,Assigned,0,2025-10-15 11:27:27,1899-12-30,17,0.0,Davao
 Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,Assigned,0,2025-10-15 11:32:52,1899-12-30,17,0.0,Davao
 Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,Assigned,0,2025-10-15 11:33:46,1899-12-30,17,0.0,Davao
-Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,Assigned,0,2025-10-16 16:35:45,1899-12-30,16,0.0,Davao
+Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,16,0.0,Davao
 Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,Assigned,0,2025-10-16 16:37:56,1899-12-30,16,0.0,CDO
 Rico,40271,RJ GROCERY STORE/RJS CAR CARE SERVICE CENTER,Template Modification POS,Service Request,In Progress,0,2025-10-17 16:31:20,1899-12-30,15,0.0,Davao
 Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,Assigned,0,2025-10-17 16:37:50,1899-12-30,15,0.0,Davao
