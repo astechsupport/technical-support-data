@@ -85,7 +85,7 @@ Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer li
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30 00:00:00,9,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30 00:00:00,8,0.0,Davao
 Ceasar Ian,40666,Project D Auto Innovations,Cant Connect to activeone (laptop unit),Service Request,In Progress,0,2025-10-29 10:55:57,1899-12-30 00:00:00,7,30.0,Davao
-Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,Assigned,0,2025-10-29 13:29:59,1899-12-30 00:00:00,7,0.0,Davao
+Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30 00:00:00,7,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,Assigned,0,2025-10-29 17:55:00,1899-12-30 00:00:00,7,0.0,Davao
 Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30 00:00:00,6,0.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30 00:00:00,6,0.0,Davao
@@ -106,7 +106,6 @@ Joshua,39500,IDG Enterprises,Ghost amounts in balance sheet detail,Service Reque
 Joshua,39502,IDG Enterprises,Diagnose Inventory Stock Status by vendor report,Service Request,In Progress,0,2025-09-25 11:31:19,1899-12-30,31,0.0,Davao
 Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,30,0.0,CDO
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,28,0.0,Davao
-Joshua,39693,IDG Enterprises,Template modification - Open invoice customized template,Service Request,Reviewed,5,2025-09-30 14:18:27,1899-12-30,28,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,28,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,28,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,25,0.0,CDO
