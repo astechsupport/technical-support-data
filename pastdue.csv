@@ -94,7 +94,7 @@ Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,18,0.0,Gensan
-Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a system generated,Service Request,In Progress,0,2025-10-27 10:37:15,1899-12-30,9,0.0,Davao
+Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a system generated,Service Request,In Progress,0,2025-10-27 10:37:15,1899-12-30,10,0.0,Davao
 Jeric Johann,40643,Supplynet Inc.,Discrepancy in Item Valuation Detail Report – Wrong On-Hand Items,Service Request,For Cancel,0,2025-10-28 14:06:16,1899-12-30,8,0.0,Ilo-ilo
 Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  Sales Receipt Module,Service Request,For Cancel,0,2025-10-29 08:10:19,1899-12-30,8,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,7,180.0,Gensan
