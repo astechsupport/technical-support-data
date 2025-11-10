@@ -34,8 +34,8 @@ Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For 
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30 00:00:00,33,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30 00:00:00,33,0.0,Davao
 Ceasar Ian,39628,Sports Town Incorporated,Sports Town: Deployment of fixes in their customize Integration concern,Service Request,For Cancel,0,2025-09-29 11:27:51,1899-12-30 00:00:00,31,0.0,Davao
-Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30 00:00:00,30,0.0,Davao
-Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30 00:00:00,30,20.0,Davao
+Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30 00:00:00,31,0.0,Davao
+Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30 00:00:00,31,20.0,Davao
 Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,0,2025-09-29 16:01:08,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30 00:00:00,30,0.0,Davao
@@ -73,7 +73,7 @@ Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - no
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40179,Shop and Save More Grocers Corporation,POS 1 Replication reset up 2,Service Request,For Cancel,0,2025-10-15 15:50:00,1899-12-30 00:00:00,19,0.0,Davao
-Ceasar Ian,40180,Shop and Save More Grocers Corporation,POS 1 Replication reset up 3,Service Request,For Cancel,0,2025-10-15 15:51:00,1899-12-30 00:00:00,18,0.0,Davao
+Ceasar Ian,40180,Shop and Save More Grocers Corporation,POS 1 Replication reset up 3,Service Request,For Cancel,0,2025-10-15 15:51:00,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40269,"Trans-Island Plastics Industries, Inc.",Unable to save the receipt (error time out exceeded),Service Request,For Cancel,0,2025-10-17 15:44:49,1899-12-30 00:00:00,17,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30 00:00:00,16,0.0,Davao
 Ceasar Ian,40372,Activesystems Software Inc,Setup Email,Service Request,For Cancel,0,2025-10-21 16:03:49,1899-12-30 00:00:00,14,0.0,Davao
@@ -100,13 +100,13 @@ Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,
 
 User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,32,0.0,CDO
+Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,Resolved,0,2025-09-26 13:58:19,1899-12-30,32,0.0,CDO
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,30,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,30,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,30,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,27,0.0,CDO
 Joshua,39959,C & L Pharma & General Merchandise Corp.,ActiveOne Connection Concern,Service Request,In Progress,0,2025-10-08 10:27:40,1899-12-30,24,0.0,CDO
-Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,22,0.0,CDO
+Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,23,0.0,CDO
 Joshua,40349,Richstar Variety Store,Hardware Assessment for 2 POS,Service Request,In Progress,0,2025-10-21 10:14:41,1899-12-30,15,0.0,CDO
 Joshua,40382,J&J Aklan Trading ,Sales Invoice Modification,Service Request,In Progress,0,2025-10-22 08:25:06,1899-12-30,14,0.0,CDO
 Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration,Service Request,In Progress,0,2025-10-23 17:06:46,1899-12-30,12,0.0,CDO
@@ -150,7 +150,7 @@ Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake
 Junmar,40525,Paz Distribution Inc.,Bug on custom sales app,Service Request,In Progress,0,2025-10-24 15:13:32,1899-12-30,12,0.0,Cebu
 Junmar,40706,Vexoil Phil Corporation,Concern Regarding Automatic Price Change at Lanot Station,Service Request,For Cancel,0,2025-10-30 10:16:46,1899-12-30,8,0.0,Ilo-ilo
 Junmar,40712,ZJF Corporation,Transfer of Server,Service Request,Assigned,0,2025-10-30 13:56:39,1899-12-30,8,0.0,Cebu
-Junmar,40715,MARNICA PHARMACEUTICAL PRODUCTS,Invoice template update.,Service Request,In Progress,0,2025-10-30 15:51:08,1899-12-30,7,0.0,Ilo-ilo
+Junmar,40715,MARNICA PHARMACEUTICAL PRODUCTS,Invoice template update.,Service Request,In Progress,0,2025-10-30 15:51:08,1899-12-30,8,0.0,Ilo-ilo
 Junmar,40716,FLUIDZ Minimart,Transfer server file to another computer,Service Request,Reviewed,5,2025-10-30 15:56:33,1899-12-30,7,200.0,Cebu
 Junmar,40748,MCR Agriventure Corporation,request adjust layout of receipts,Service Request,In Progress,0,2025-11-03 10:07:28,1899-12-30,6,155.0,Ilo-ilo
 Junmar,40754,Vexoil Phil Corporation,Cannot Open POS ( Tubungan Station) ,Service Request,In Progress,0,2025-11-03 13:47:37,1899-12-30,6,0.0,Ilo-ilo
