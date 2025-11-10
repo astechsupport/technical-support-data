@@ -44,10 +44,10 @@ Ceasar Ian,39705,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing unabl
 Ceasar Ian,39828,Philfumes Petroleum Corporation, Davao to Tagum,Travel Ticket,For Close,0,2025-10-03 08:49:13,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39832,Philfumes Petroleum Corporation,Tagum to Davao,Travel Ticket,For Close,0,2025-10-03 08:58:07,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30 00:00:00,27,0.0,Davao
-Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30 00:00:00,26,0.0,Davao
-Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30 00:00:00,26,0.0,Davao
-Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,26,0.0,Davao
-Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,26,0.0,Davao
+Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30 00:00:00,27,0.0,Davao
+Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30 00:00:00,27,0.0,Davao
+Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,27,0.0,Davao
+Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,25,0.0,Davao
@@ -156,7 +156,7 @@ Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug n
 Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,19,0.0,Davao
 Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,17,0.0,Davao
 Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,Assigned,0,2025-10-16 16:37:56,1899-12-30,17,0.0,CDO
-Rico,40271,RJ GROCERY STORE/RJS CAR CARE SERVICE CENTER,Template Modification POS,Service Request,Resolved,0,2025-10-17 16:31:20,1899-12-30,16,0.0,Davao
+Rico,40271,RJ GROCERY STORE/RJS CAR CARE SERVICE CENTER,Template Modification POS,Service Request,Reviewed,5,2025-10-17 16:31:20,1899-12-30,16,0.0,Davao
 Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,16,0.0,Davao
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,15,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,In Progress,0,2025-10-20 14:57:36,1899-12-30,15,0.0,Davao
