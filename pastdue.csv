@@ -69,8 +69,8 @@ Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access leve
 Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Resolved,0,2025-10-15 11:16:49,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,19,0.0,Davao
-Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,18,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,18,0.0,Davao
+Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,19,0.0,Davao
+Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30 00:00:00,18,0.0,Davao
 Ceasar Ian,40179,Shop and Save More Grocers Corporation,POS 1 Replication reset up 2,Service Request,For Cancel,0,2025-10-15 15:50:00,1899-12-30 00:00:00,18,0.0,Davao
 Ceasar Ian,40180,Shop and Save More Grocers Corporation,POS 1 Replication reset up 3,Service Request,For Cancel,0,2025-10-15 15:51:00,1899-12-30 00:00:00,18,0.0,Davao
@@ -101,7 +101,7 @@ Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,
 User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39500,IDG Enterprises,Ghost amounts in balance sheet detail,Service Request,For Cancel,0,2025-09-25 11:29:53,1899-12-30,33,0.0,Davao
-Joshua,39502,IDG Enterprises,Diagnose Inventory Stock Status by vendor report,Service Request,For Cancel,0,2025-09-25 11:31:19,1899-12-30,32,0.0,Davao
+Joshua,39502,IDG Enterprises,Diagnose Inventory Stock Status by vendor report,Service Request,For Cancel,0,2025-09-25 11:31:19,1899-12-30,33,0.0,Davao
 Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,In Progress,0,2025-09-26 13:58:19,1899-12-30,31,0.0,CDO
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,29,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,29,0.0,Davao
@@ -152,8 +152,8 @@ Junmar,40748,MCR Agriventure Corporation,request adjust layout of receipts,Servi
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,For Cancel,0,2025-10-15 11:27:27,1899-12-30,19,0.0,Davao
-Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,For Cancel,0,2025-10-15 11:32:52,1899-12-30,18,0.0,Davao
-Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,18,0.0,Davao
+Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,For Cancel,0,2025-10-15 11:32:52,1899-12-30,19,0.0,Davao
+Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,19,0.0,Davao
 Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,17,0.0,Davao
 Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,Assigned,0,2025-10-16 16:37:56,1899-12-30,17,0.0,CDO
 Rico,40271,RJ GROCERY STORE/RJS CAR CARE SERVICE CENTER,Template Modification POS,Service Request,Resolved,0,2025-10-17 16:31:20,1899-12-30,16,0.0,Davao
