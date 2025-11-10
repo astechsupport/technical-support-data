@@ -99,7 +99,6 @@ Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,
 
 User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Joshua,39595,J&J Aklan Trading ,Setup POS to Invoice,Service Request,Resolved,0,2025-09-26 13:58:19,1899-12-30,32,0.0,CDO
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,30,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,30,0.0,Davao
 Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Request,In Progress,0,2025-09-30 14:20:12,1899-12-30,30,0.0,Davao
