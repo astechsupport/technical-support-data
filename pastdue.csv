@@ -91,7 +91,7 @@ Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,Assigned
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,19,0.0,Gensan
+Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,20,0.0,Gensan
 Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a system generated,Service Request,In Progress,0,2025-10-27 10:37:15,1899-12-30,11,0.0,Davao
 Jeric Johann,40643,Supplynet Inc.,Discrepancy in Item Valuation Detail Report – Wrong On-Hand Items,Service Request,For Cancel,0,2025-10-28 14:06:16,1899-12-30,10,0.0,Ilo-ilo
 Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  Sales Receipt Module,Service Request,In Progress,0,2025-10-29 08:10:19,1899-12-30,10,0.0,Gensan
@@ -118,11 +118,11 @@ Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service R
 Joshua,40752,Cleech  Supermarket,Printer Issue,Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,6,0.0,CDO
 Joshua,40753,Intelliaire Refrigeration and Airconditioning Corp,Deletion of Deposit Slip ,Service Request,Resolved,0,2025-11-03 13:45:58,1899-12-30,6,60.0,CDO
 Joshua,40755,Intelisoft Microcomputer Systems,Decimal Number Concern ,Service Request,In Progress,0,2025-11-03 13:47:48,1899-12-30,6,60.0,CDO
-Joshua,40756,Richstar Variety Store,Replication Setup(R6-MainServer),Service Request,Resolved,0,2025-11-03 13:55:23,1899-12-30,6,60.0,CDO
-Joshua,40757,Richstar Variety Store,Replication Setup(R5-Server),Service Request,Resolved,0,2025-11-03 13:55:56,1899-12-30,6,60.0,CDO
-Joshua,40758,Richstar Variety Store,Replication Setup(R4-Server),Service Request,Resolved,0,2025-11-03 13:56:55,1899-12-30,6,60.0,CDO
-Joshua,40759,Richstar Variety Store,VPN Setup (R5-Server),Service Request,Resolved,0,2025-11-03 13:57:41,1899-12-30,6,30.0,CDO
-Joshua,40760,Richstar Variety Store,VPN Setup (R4-Server),Service Request,Resolved,0,2025-11-03 13:58:09,1899-12-30,6,30.0,CDO
+Joshua,40756,Richstar Variety Store,Replication Setup(R6-MainServer),Service Request,Reviewed,5,2025-11-03 13:55:23,1899-12-30,6,60.0,CDO
+Joshua,40757,Richstar Variety Store,Replication Setup(R5-Server),Service Request,Reviewed,5,2025-11-03 13:55:56,1899-12-30,6,60.0,CDO
+Joshua,40758,Richstar Variety Store,Replication Setup(R4-Server),Service Request,Reviewed,5,2025-11-03 13:56:55,1899-12-30,6,60.0,CDO
+Joshua,40759,Richstar Variety Store,VPN Setup (R5-Server),Service Request,Reviewed,5,2025-11-03 13:57:41,1899-12-30,6,30.0,CDO
+Joshua,40760,Richstar Variety Store,VPN Setup (R4-Server),Service Request,Reviewed,5,2025-11-03 13:58:09,1899-12-30,6,30.0,CDO
 
 
 User: Jude
@@ -179,5 +179,5 @@ Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request
 Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Assigned,0,2025-11-02 21:48:51,1899-12-30,6,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,6,0.0,Davao
 Rico,40744,Melcon Marine Contractors Inc.," ACtiveOne21 Installation (3Laptop, 1Desktop)",Service Request,For Cancel,0,2025-11-02 22:08:36,1899-12-30,6,0.0,Davao
-Rico,40745,Melcon Marine Contractors Inc.,Tailscale Set-up,Service Request,In Progress,0,2025-11-02 22:10:09,1899-12-30,6,0.0,Davao
+Rico,40745,Melcon Marine Contractors Inc.,Tailscale Set-up,Service Request,For Cancel,0,2025-11-02 22:10:09,1899-12-30,6,0.0,Davao
 
