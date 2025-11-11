@@ -37,7 +37,7 @@ Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory is
 Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30 00:00:00,32,20.0,Davao
 Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,0,2025-09-29 16:01:08,1899-12-30 00:00:00,32,0.0,Davao
-Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30 00:00:00,31,0.0,Davao
+Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39699,GGM Pharmacy,Item List Migration,Service Request,Reviewed,3,2025-09-30 16:24:43,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39705,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing unable to edit tax credit,Internal,In Progress,0,2025-09-30 18:48:50,1899-12-30 00:00:00,30,58.0,Davao
 Ceasar Ian,39832,Philfumes Petroleum Corporation,Tagum to Davao,Travel Ticket,For Close,0,2025-10-03 08:58:07,1899-12-30 00:00:00,28,0.0,Davao
@@ -100,6 +100,7 @@ Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,
 Jeric Johann,40808,Kristan Educational Supply,Get hardware details for POS reg,Service Request,Resolved,0,2025-11-04 11:13:41,1899-12-30,6,60.0,Gensan
 Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in the 2013 system: File, Reports, Tools, and Help menus.",Service Request,In Progress,0,2025-11-04 14:44:01,1899-12-30,6,0.0,Gensan
 Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,In Progress,0,2025-11-04 14:46:31,1899-12-30,6,0.0,Gensan
+Jeric Johann,40827,Activesystems Software Inc,Updating of email signature,Internal,Resolved,0,2025-11-04 16:18:42,1899-12-30,6,10.0,Gensan
 
 
 User: Joshua
@@ -177,4 +178,5 @@ Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Assigned,0,2
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,6,0.0,Davao
 Rico,40744,Melcon Marine Contractors Inc.," ACtiveOne21 Installation (3Laptop, 1Desktop)",Service Request,For Cancel,0,2025-11-02 22:08:36,1899-12-30,6,0.0,Davao
 Rico,40745,Melcon Marine Contractors Inc.,Tailscale Set-up,Service Request,For Cancel,0,2025-11-02 22:10:09,1899-12-30,6,0.0,Davao
+Rico,40826,Melcon Marine Contractors Inc.,Hardware Assessment,Service Request,For Cancel,0,2025-11-04 16:16:18,1899-12-30,6,0.0,Davao
 
