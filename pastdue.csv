@@ -50,8 +50,8 @@ Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving p
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30 00:00:00,26,0.0,Davao
-Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,23,0.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30 00:00:00,23,0.0,Davao
+Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,24,0.0,Davao
+Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30 00:00:00,24,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40001,MB Refreshments, Thinstuff Activation,Service Request,For Cancel,0,2025-10-09 09:44:57,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40002,Sports Town Incorporated,VPN Installation,Service Request,For Cancel,0,2025-10-09 09:47:57,1899-12-30 00:00:00,23,0.0,Davao
@@ -113,7 +113,7 @@ Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEAC
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,11,0.0,Davao
 Joshua,40602,HBO Marketing,Concerns in barcode printer,Service Request,In Progress,0,2025-10-27 16:05:15,1899-12-30,11,0.0,CDO
 Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration,Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,10,0.0,CDO
-Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,9,0.0,CDO
+Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,10,0.0,CDO
 Joshua,40752,Cleech  Supermarket,Printer Issue,Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,6,0.0,CDO
 Joshua,40753,Intelliaire Refrigeration and Airconditioning Corp,Deletion of Deposit Slip ,Service Request,Resolved,0,2025-11-03 13:45:58,1899-12-30,6,60.0,CDO
 Joshua,40755,Intelisoft Microcomputer Systems,Decimal Number Concern ,Service Request,In Progress,0,2025-11-03 13:47:48,1899-12-30,6,60.0,CDO
@@ -135,7 +135,7 @@ Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,71,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,65,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,51,0.0,Cebu
-Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,50,0.0,Cebu
+Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,51,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,49,0.0,Cebu
 Junmar,38834,ZJF Corporation,Assist Concern on Loyalty Points Report,Service Request,In Progress,0,2025-09-04 14:23:04,1899-12-30,48,254.0,Cebu
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,36,0.0,Ilo-ilo
