@@ -67,8 +67,8 @@ Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access leve
 Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Resolved,0,2025-10-15 11:16:49,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,20,0.0,Davao
-Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,19,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,19,0.0,Davao
+Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,20,0.0,Davao
+Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,20,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40179,Shop and Save More Grocers Corporation,POS 1 Replication reset up 2,Service Request,For Cancel,0,2025-10-15 15:50:00,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40180,Shop and Save More Grocers Corporation,POS 1 Replication reset up 3,Service Request,For Cancel,0,2025-10-15 15:51:00,1899-12-30 00:00:00,19,0.0,Davao
@@ -155,8 +155,8 @@ Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,For Cancel,0,2025-10-15 11:27:27,1899-12-30,20,0.0,Davao
-Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,For Cancel,0,2025-10-15 11:32:52,1899-12-30,19,0.0,Davao
-Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,19,0.0,Davao
+Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,For Cancel,0,2025-10-15 11:32:52,1899-12-30,20,0.0,Davao
+Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,20,0.0,Davao
 Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,18,0.0,Davao
 Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,In Progress,0,2025-10-16 16:37:56,1899-12-30,18,0.0,CDO
 Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,17,0.0,Davao
