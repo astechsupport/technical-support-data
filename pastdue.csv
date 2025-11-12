@@ -146,8 +146,8 @@ Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progres
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,94,0.0,Ilo-ilo
-Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,87,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,72,0.0,Cebu
+Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,88,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,73,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,67,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,52,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,52,0.0,Cebu
@@ -165,9 +165,9 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40161,"ANA'S BREEDERS FARMS, INC.",Diagnose cost in build assembly concern,Service Request,For Cancel,0,2025-10-15 11:27:27,1899-12-30,21,0.0,Davao
 Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug not reflecting amounts,Service Request,For Cancel,0,2025-10-15 11:32:52,1899-12-30,21,0.0,Davao
 Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,21,0.0,Davao
-Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,19,0.0,Davao
-Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,In Progress,0,2025-10-16 16:37:56,1899-12-30,19,0.0,CDO
-Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,18,0.0,Davao
+Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,20,0.0,Davao
+Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,In Progress,0,2025-10-16 16:37:56,1899-12-30,20,0.0,CDO
+Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,19,0.0,Davao
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,18,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,In Progress,0,2025-10-20 14:57:36,1899-12-30,18,0.0,Davao
 Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,15,0.0,Davao
