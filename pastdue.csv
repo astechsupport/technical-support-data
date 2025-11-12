@@ -98,7 +98,6 @@ Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a sys
 Jeric Johann,40643,Supplynet Inc.,Discrepancy in Item Valuation Detail Report – Wrong On-Hand Items,Service Request,For Cancel,0,2025-10-28 14:06:16,1899-12-30,12,0.0,Ilo-ilo
 Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  Sales Receipt Module,Service Request,In Progress,0,2025-10-29 08:10:19,1899-12-30,11,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,10,300.0,Gensan
-Jeric Johann,40808,Kristan Educational Supply,Get hardware details for POS reg,Service Request,Resolved,0,2025-11-04 11:13:41,1899-12-30,7,60.0,Gensan
 Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in the 2013 system: File, Reports, Tools, and Help menus.",Service Request,For Cancel,0,2025-11-04 14:44:01,1899-12-30,7,0.0,Gensan
 Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,For Cancel,0,2025-11-04 14:46:31,1899-12-30,7,0.0,Gensan
 Jeric Johann,40827,Activesystems Software Inc,Updating of email signature,Internal,Resolved,0,2025-11-04 16:18:42,1899-12-30,6,10.0,Gensan
@@ -142,9 +141,9 @@ Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Reques
 Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Progress,0,2025-09-16 09:22:12,1899-12-30,42,0.0,Gensan
 Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,12,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,7,23.0,Gensan
-Jude,40821,Philfumes Petroleum Corporation,activeone update  4-6 units ,Service Request,In Progress,5,2025-11-04 15:12:08,1899-12-30,7,25.0,Davao
-Jude,40823,Philfumes Petroleum Corporation,activeone update 7-9 units,Service Request,In Progress,5,2025-11-04 15:12:48,1899-12-30,7,22.0,Davao
-Jude,40824,Philfumes Petroleum Corporation,activeone update 10-12 units  ,Service Request,In Progress,5,2025-11-04 15:13:28,1899-12-30,7,37.0,Davao
+Jude,40821,Philfumes Petroleum Corporation,activeone update  4-6 units ,Service Request,Reviewed,5,2025-11-04 15:12:08,1899-12-30,7,25.0,Davao
+Jude,40823,Philfumes Petroleum Corporation,activeone update 7-9 units,Service Request,Reviewed,5,2025-11-04 15:12:48,1899-12-30,7,22.0,Davao
+Jude,40824,Philfumes Petroleum Corporation,activeone update 10-12 units  ,Service Request,Reviewed,5,2025-11-04 15:13:28,1899-12-30,7,37.0,Davao
 
 
 User: Junmar
@@ -152,7 +151,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,94,0.0,Ilo-ilo
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,87,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,72,0.0,Cebu
-Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,66,0.0,Cebu
+Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,67,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,52,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,52,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,51,0.0,Cebu
