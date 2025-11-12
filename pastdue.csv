@@ -187,4 +187,10 @@ Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Assigned,0,2
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,8,0.0,Davao
 Rico,40867,HTA Plastic Center,POS lagging,Service Request,Assigned,0,2025-11-05 14:42:17,1899-12-30,6,0.0,Davao
 Rico,40882,"JVC Aire Systems, Inc.",Replication Error Main,Service Request,Assigned,0,2025-11-06 09:53:05,1899-12-30,6,0.0,Davao
+Rico,40883,PDP Warehouse, Upgrade Database,Service Request,Resolved,0,2025-11-06 09:54:54,1899-12-30,6,60.0,Davao
+Rico,40884,PDP Warehouse,MySQL 8.0 Setup,Service Request,Resolved,0,2025-11-06 09:55:37,1899-12-30,6,30.0,Davao
+Rico,40885,PDP Warehouse,ActiveOne Installation 3 Units,Service Request,Resolved,0,2025-11-06 09:57:28,1899-12-30,6,30.0,Davao
+Rico,40886,PDP Warehouse,Setup Auto Backup,Service Request,Resolved,0,2025-11-06 09:58:27,1899-12-30,6,30.0,Davao
+Rico,40887,PDP Warehouse,Network Assessment,Service Request,Resolved,0,2025-11-06 09:59:00,1899-12-30,6,30.0,Davao
+Rico,40888,PDP Warehouse,Setup VPN Main,Service Request,Resolved,0,2025-11-06 09:59:50,1899-12-30,6,60.0,Davao
 
