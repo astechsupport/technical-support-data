@@ -99,7 +99,7 @@ Jeric Johann,40643,Supplynet Inc.,Discrepancy in Item Valuation Detail Report â€
 Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  Sales Receipt Module,Service Request,In Progress,0,2025-10-29 08:10:19,1899-12-30,11,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,10,300.0,Gensan
 Jeric Johann,40808,Kristan Educational Supply,Get hardware details for POS reg,Service Request,Resolved,0,2025-11-04 11:13:41,1899-12-30,7,60.0,Gensan
-Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in the 2013 system: File, Reports, Tools, and Help menus.",Service Request,For Cancel,0,2025-11-04 14:44:01,1899-12-30,6,0.0,Gensan
+Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in the 2013 system: File, Reports, Tools, and Help menus.",Service Request,For Cancel,0,2025-11-04 14:44:01,1899-12-30,7,0.0,Gensan
 Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,For Cancel,0,2025-11-04 14:46:31,1899-12-30,6,0.0,Gensan
 Jeric Johann,40827,Activesystems Software Inc,Updating of email signature,Internal,Resolved,0,2025-11-04 16:18:42,1899-12-30,6,10.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,Assigned,0,2025-11-05 09:07:27,1899-12-30,6,0.0,Gensan
@@ -186,4 +186,5 @@ Rico,40724,PDP Warehouse,Modify Template Purchase Order,Service Request,In Progr
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,9,0.0,Davao
 Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Assigned,0,2025-11-02 21:48:51,1899-12-30,7,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,7,0.0,Davao
+Rico,40867,HTA Plastic Center,POS lagging,Service Request,Assigned,0,2025-11-05 14:42:17,1899-12-30,6,0.0,Davao
 
