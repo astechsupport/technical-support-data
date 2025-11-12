@@ -41,15 +41,15 @@ Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Interna
 Ceasar Ian,39699,GGM Pharmacy,Item List Migration,Service Request,In Progress,3,2025-09-30 16:24:43,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39705,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing unable to edit tax credit,Internal,In Progress,0,2025-09-30 18:48:50,1899-12-30 00:00:00,32,58.0,Davao
 Ceasar Ian,39832,Philfumes Petroleum Corporation,Tagum to Davao,Travel Ticket,For Close,0,2025-10-03 08:58:07,1899-12-30 00:00:00,30,0.0,Davao
-Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30 00:00:00,29,0.0,Davao
+Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30 00:00:00,29,0.0,Davao
-Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,27,0.0,Davao
-Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,27,0.0,Davao
-Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30 00:00:00,27,0.0,Davao
+Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,28,0.0,Davao
+Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,28,0.0,Davao
+Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30 00:00:00,28,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30 00:00:00,25,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,25,0.0,Davao
@@ -101,7 +101,7 @@ Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,
 Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in the 2013 system: File, Reports, Tools, and Help menus.",Service Request,For Cancel,0,2025-11-04 14:44:01,1899-12-30,7,0.0,Gensan
 Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,For Cancel,0,2025-11-04 14:46:31,1899-12-30,7,0.0,Gensan
 Jeric Johann,40827,Activesystems Software Inc,Updating of email signature,Internal,Resolved,0,2025-11-04 16:18:42,1899-12-30,7,10.0,Gensan
-Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,Assigned,0,2025-11-05 09:07:27,1899-12-30,6,0.0,Gensan
+Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,Assigned,0,2025-11-05 09:07:27,1899-12-30,7,0.0,Gensan
 Jeric Johann,40851,Limco Pharma And Medical Supplies Distribution,Removing of Copy of In Purchase Order Previewed Reference # 0020,Service Request,For Cancel,0,2025-11-05 10:48:53,1899-12-30,6,0.0,Gensan
 Jeric Johann,40866,AMANA SECURITY SERVICES / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Setting invoice reference # continuation of manual ref # monitoring,Service Request,For Cancel,0,2025-11-05 13:56:10,1899-12-30,6,0.0,Head Quarter
 
@@ -152,7 +152,7 @@ Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Ser
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,88,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,73,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,67,0.0,Cebu
-Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,52,0.0,Cebu
+Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,53,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,52,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,51,0.0,Cebu
 Junmar,38834,ZJF Corporation,Assist Concern on Loyalty Points Report,Service Request,In Progress,0,2025-09-04 14:23:04,1899-12-30,50,254.0,Cebu
