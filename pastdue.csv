@@ -29,13 +29,13 @@ Ceasar Ian,39378,Suntrek Enterprises,Data Migration - Customer List,Service Requ
 Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,In Progress,0,2025-09-23 11:17:26,1899-12-30 00:00:00,37,0.0,Davao
 Ceasar Ian,39414,ATMI Marketing,Database Simulation,Internal,In Progress,0,2025-09-23 16:09:24,1899-12-30 00:00:00,36,40.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30 00:00:00,36,0.0,Davao
-Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For Cancel,0,2025-09-24 15:55:55,1899-12-30 00:00:00,35,0.0,Davao
+Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For Cancel,0,2025-09-24 15:55:55,1899-12-30 00:00:00,36,0.0,Davao
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30 00:00:00,35,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30 00:00:00,35,0.0,Davao
 Ceasar Ian,39628,Sports Town Incorporated,Sports Town: Deployment of fixes in their customize Integration concern,Service Request,For Cancel,0,2025-09-29 11:27:51,1899-12-30 00:00:00,33,0.0,Davao
 Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30 00:00:00,33,0.0,Davao
-Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30 00:00:00,32,20.0,Davao
-Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30 00:00:00,32,0.0,Davao
+Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30 00:00:00,33,20.0,Davao
+Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30 00:00:00,33,0.0,Davao
 Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,0,2025-09-29 16:01:08,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30 00:00:00,32,0.0,Davao
 Ceasar Ian,39699,GGM Pharmacy,Item List Migration,Service Request,In Progress,3,2025-09-30 16:24:43,1899-12-30 00:00:00,31,0.0,Davao
@@ -182,7 +182,7 @@ Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoic
 Rico,40680,LaserPro Inc.,Reset our old active1 system ,Service Request,Assigned,0,2025-10-29 13:38:20,1899-12-30,11,0.0,Davao
 Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-10-30 13:07:58,1899-12-30,10,0.0,Davao
 Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,Assigned,0,2025-10-30 18:09:05,1899-12-30,9,0.0,Davao
-Rico,40724,PDP Warehouse,Modify Template Purchase Order,Service Request,In Progress,0,2025-10-30 18:16:22,1899-12-30,9,60.0,Davao
+Rico,40724,PDP Warehouse,Modify Template Purchase Order,Service Request,Resolved,0,2025-10-30 18:16:22,1899-12-30,9,60.0,Davao
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,9,0.0,Davao
 Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Assigned,0,2025-11-02 21:48:51,1899-12-30,7,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,7,0.0,Davao
