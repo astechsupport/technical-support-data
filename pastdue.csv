@@ -94,12 +94,12 @@ Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not w
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,22,0.0,Gensan
-Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a system generated,Service Request,In Progress,0,2025-10-27 10:37:15,1899-12-30,14,0.0,Davao
+Jeric Johann,40550,Dulce Desserts Cafe,Duplicate invoice number even it is a system generated,Service Request,For Cancel,0,2025-10-27 10:37:15,1899-12-30,14,0.0,Davao
 Jeric Johann,40643,Supplynet Inc.,Discrepancy in Item Valuation Detail Report – Wrong On-Hand Items,Service Request,For Cancel,0,2025-10-28 14:06:16,1899-12-30,13,0.0,Ilo-ilo
 Jeric Johann,40647,BOYLES CONSTRUCTION SUPPLY,Deletion of POS transactions in  Sales Receipt Module,Service Request,For Cancel,0,2025-10-29 08:10:19,1899-12-30,12,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,11,300.0,Gensan
 Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in the 2013 system: File, Reports, Tools, and Help menus.",Service Request,For Cancel,0,2025-11-04 14:44:01,1899-12-30,8,0.0,Gensan
-Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,For Cancel,0,2025-11-04 14:46:31,1899-12-30,7,0.0,Gensan
+Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,For Cancel,0,2025-11-04 14:46:31,1899-12-30,8,0.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,Assigned,0,2025-11-05 09:07:27,1899-12-30,7,0.0,Gensan
 Jeric Johann,40851,Limco Pharma And Medical Supplies Distribution,Removing of Copy of In Purchase Order Previewed Reference # 0020,Service Request,For Cancel,0,2025-11-05 10:48:53,1899-12-30,7,0.0,Gensan
 Jeric Johann,40866,AMANA SECURITY SERVICES / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Setting invoice reference # continuation of manual ref # monitoring,Service Request,For Cancel,0,2025-11-05 13:56:10,1899-12-30,7,0.0,Head Quarter
