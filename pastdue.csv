@@ -48,8 +48,8 @@ Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Requ
 Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,28,0.0,Davao
-Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,0,2025-10-07 09:08:16,1899-12-30 00:00:00,28,0.0,Davao
-Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,0,2025-10-07 09:09:32,1899-12-30 00:00:00,28,0.0,Davao
+Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,Resolved,0,2025-10-07 09:08:16,1899-12-30 00:00:00,28,0.0,Davao
+Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,Resolved,0,2025-10-07 09:09:32,1899-12-30 00:00:00,28,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,26,0.0,Davao
@@ -102,7 +102,7 @@ Jeric Johann,40816,Asy Electronics Parts and Services,"No icons were found in th
 Jeric Johann,40817,Central Innovations Technologies Corp,cant open the system all 3 branch,Service Request,For Cancel,0,2025-11-04 14:46:31,1899-12-30,7,0.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,Assigned,0,2025-11-05 09:07:27,1899-12-30,7,0.0,Gensan
 Jeric Johann,40851,Limco Pharma And Medical Supplies Distribution,Removing of Copy of In Purchase Order Previewed Reference # 0020,Service Request,For Cancel,0,2025-11-05 10:48:53,1899-12-30,7,0.0,Gensan
-Jeric Johann,40866,AMANA SECURITY SERVICES / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Setting invoice reference # continuation of manual ref # monitoring,Service Request,For Cancel,0,2025-11-05 13:56:10,1899-12-30,6,0.0,Head Quarter
+Jeric Johann,40866,AMANA SECURITY SERVICES / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Setting invoice reference # continuation of manual ref # monitoring,Service Request,For Cancel,0,2025-11-05 13:56:10,1899-12-30,7,0.0,Head Quarter
 
 
 User: Joshua
@@ -167,7 +167,7 @@ Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga loc
 Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,19,0.0,Davao
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,18,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,In Progress,0,2025-10-20 14:57:36,1899-12-30,18,0.0,Davao
-Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,15,0.0,Davao
+Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,16,0.0,Davao
 Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,Assigned,0,2025-10-23 16:42:33,1899-12-30,15,0.0,Davao
 Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,14,0.0,Davao
 Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,14,0.0,Davao
