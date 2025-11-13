@@ -23,11 +23,11 @@ Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setu
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,In Progress,0,2025-09-18 15:15:00,1899-12-30 00:00:00,40,0.0,Davao
 Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30 00:00:00,38,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,In Progress,0,2025-09-22 18:18:27,1899-12-30 00:00:00,38,0.0,Davao
-Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,Assigned,0,2025-09-23 08:57:30,1899-12-30 00:00:00,38,0.0,Davao
-Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,Assigned,0,2025-09-23 08:58:42,1899-12-30 00:00:00,38,0.0,Davao
+Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,In Progress,0,2025-09-23 08:57:30,1899-12-30 00:00:00,38,0.0,Davao
+Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,In Progress,0,2025-09-23 08:58:42,1899-12-30 00:00:00,38,0.0,Davao
 Ceasar Ian,39378,Suntrek Enterprises,Data Migration - Customer List,Service Request,Assigned,0,2025-09-23 09:00:04,1899-12-30 00:00:00,38,0.0,Davao
 Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,In Progress,0,2025-09-23 11:17:26,1899-12-30 00:00:00,38,0.0,Davao
-Ceasar Ian,39414,ATMI Marketing,Database Simulation,Internal,In Progress,0,2025-09-23 16:09:24,1899-12-30 00:00:00,37,40.0,Davao
+Ceasar Ian,39414,ATMI Marketing,Database Simulation,Internal,Resolved,0,2025-09-23 16:09:24,1899-12-30 00:00:00,37,40.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30 00:00:00,37,0.0,Davao
 Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For Cancel,0,2025-09-24 15:55:55,1899-12-30 00:00:00,36,0.0,Davao
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30 00:00:00,36,0.0,Davao
@@ -64,7 +64,7 @@ Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dext
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,In Progress,5,2025-10-14 09:10:08,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-10-14 13:34:24,1899-12-30 00:00:00,23,0.0,Davao
-Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,22,0.0,Davao
+Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Resolved,0,2025-10-15 11:16:49,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,22,0.0,Davao
@@ -172,7 +172,7 @@ Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by
 Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,14,0.0,Davao
 Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,14,0.0,Davao
 Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoice,Service Request,Assigned,0,2025-10-27 14:21:48,1899-12-30,13,0.0,Davao
-Rico,40680,LaserPro Inc.,Reset our old active1 system ,Service Request,Assigned,0,2025-10-29 13:38:20,1899-12-30,11,0.0,Davao
+Rico,40680,LaserPro Inc.,Reset our old active1 system ,Service Request,Assigned,0,2025-10-29 13:38:20,1899-12-30,12,0.0,Davao
 Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-10-30 13:07:58,1899-12-30,11,0.0,Davao
 Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,Assigned,0,2025-10-30 18:09:05,1899-12-30,10,0.0,Davao
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,10,0.0,Davao
