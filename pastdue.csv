@@ -5,7 +5,7 @@ Ceasar Ian,37454,Busy Farmer Agrivet Supply,Installation of load balancer,Servic
 Ceasar Ian,37744,"DMI Medical Supply Company, Inc.",Change template access level into 1 (admin),Service Request,For Cancel,0,2025-08-06 15:42:04,1899-12-30 00:00:00,72,0.0,Davao
 Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-08-18 15:01:43,1899-12-30 00:00:00,64,0.0,Davao
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30 00:00:00,54,0.0,Davao
-Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30 00:00:00,52,0.0,Davao
+Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30 00:00:00,53,0.0,Davao
 Ceasar Ian,38863,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-09-05 11:17:18,2025-10-28 11:16:42,51,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30 00:00:00,51,0.0,Davao
 Ceasar Ian,38994,Dariv Power Tools Trading,Modification Template for BIR and Internal purposes (Invoice list- BIR Format),Service Request,For Cancel,0,2025-09-10 10:31:59,1899-12-30 00:00:00,48,0.0,Davao
@@ -54,7 +54,7 @@ Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Re
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30 00:00:00,27,0.0,Davao
-Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30 00:00:00,26,0.0,Davao
+Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30 00:00:00,25,0.0,Davao
@@ -108,7 +108,7 @@ Joshua,39959,C & L Pharma & General Merchandise Corp.,ActiveOne Connection Conce
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,26,60.0,CDO
 Joshua,40382,J&J Aklan Trading ,Sales Invoice Modification,Service Request,In Progress,0,2025-10-22 08:25:06,1899-12-30,18,0.0,CDO
 Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration (5 Location),Service Request,In Progress,0,2025-10-23 17:06:46,1899-12-30,16,60.0,CDO
-Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,15,0.0,CDO
+Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,16,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,15,0.0,Davao
 Joshua,40602,HBO Marketing,Concerns in barcode printer,Service Request,In Progress,0,2025-10-27 16:05:15,1899-12-30,14,0.0,CDO
 Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration (5 Location),Service Request,In Progress,0,2025-10-28 13:27:32,1899-12-30,14,60.0,CDO
