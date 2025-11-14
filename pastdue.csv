@@ -6,7 +6,7 @@ Ceasar Ian,37744,"DMI Medical Supply Company, Inc.",Change template access level
 Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-08-18 15:01:43,1899-12-30 00:00:00,64,0.0,Davao
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30 00:00:00,53,0.0,Davao
 Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30 00:00:00,52,0.0,Davao
-Ceasar Ian,38863,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-09-05 11:17:18,2025-10-28 11:16:42,50,0.0,Davao
+Ceasar Ian,38863,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-09-05 11:17:18,2025-10-28 11:16:42,51,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30 00:00:00,50,0.0,Davao
 Ceasar Ian,38994,Dariv Power Tools Trading,Modification Template for BIR and Internal purposes (Invoice list- BIR Format),Service Request,For Cancel,0,2025-09-10 10:31:59,1899-12-30 00:00:00,48,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30 00:00:00,48,0.0,Davao
@@ -26,7 +26,7 @@ Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service R
 Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,For Cancel,0,2025-09-23 08:57:30,1899-12-30 00:00:00,39,0.0,Davao
 Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,For Cancel,0,2025-09-23 08:58:42,1899-12-30 00:00:00,39,0.0,Davao
 Ceasar Ian,39378,Suntrek Enterprises,Data Migration - Customer List,Service Request,For Cancel,0,2025-09-23 09:00:04,1899-12-30 00:00:00,39,0.0,Davao
-Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,In Progress,0,2025-09-23 11:17:26,1899-12-30 00:00:00,38,0.0,Davao
+Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,In Progress,0,2025-09-23 11:17:26,1899-12-30 00:00:00,39,0.0,Davao
 Ceasar Ian,39414,ATMI Marketing,Database Simulation,Internal,Reviewed,5,2025-09-23 16:09:24,1899-12-30 00:00:00,38,40.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30 00:00:00,38,0.0,Davao
 Ceasar Ian,39460,Suntrek Enterprises,Activeone installation,Service Request,For Cancel,0,2025-09-24 15:55:55,1899-12-30 00:00:00,37,0.0,Davao
@@ -64,7 +64,7 @@ Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,In Progress,5,2025-10-14 09:10:08,1899-12-30 00:00:00,24,0.0,Davao
 Ceasar Ian,40125,"DMI Medical Supply Company, Inc.", Change template access level into 1 (admin),Service Request,For Cancel,0,2025-10-14 13:34:24,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40127,PMGL Refrigeration and Aircondition Service Center,"Inventory received, but on-hand is insufficient",Service Request,For Cancel,0,2025-10-14 13:40:06,1899-12-30 00:00:00,23,0.0,Davao
-Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Resolved,0,2025-10-15 11:16:49,1899-12-30 00:00:00,22,0.0,Davao
+Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Resolved,0,2025-10-15 11:16:49,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30 00:00:00,22,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30 00:00:00,22,0.0,Davao
