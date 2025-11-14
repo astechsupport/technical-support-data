@@ -15,7 +15,7 @@ Ceasar Ian,39058,Ecotrans Car Rentals Transport, Sales Invoice form modification
 Ceasar Ian,39070,Activesystems Software Inc,Install the laptop battery purchase,Internal,For Cancel,0,2025-09-11 14:11:41,1899-12-30 00:00:00,46,0.0,Davao
 Ceasar Ian,39074,Papat's Home of davao's Best Ham,MySQL Backup Error ,Service Request,For Cancel,0,2025-09-11 15:26:05,1899-12-30 00:00:00,46,0.0,Davao
 Ceasar Ian,39098,Prokrate International Trading,Discrepancy on Income Statement vs Sales By Class Summary,Service Request,For Cancel,0,2025-09-12 12:05:11,1899-12-30 00:00:00,45,0.0,Davao
-Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30 00:00:00,44,0.0,Davao
+Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30 00:00:00,45,0.0,Davao
 Ceasar Ian,39128,Mindanao Interior Solutions,Can't connect to server,Incident,For Cancel,0,2025-09-15 13:04:42,1899-12-30 00:00:00,44,0.0,Davao
 Ceasar Ian,39189,KSCI COMPUTER Marketing,Server Setup Linux,Service Request,For Cancel,0,2025-09-16 16:03:34,1899-12-30 00:00:00,43,0.0,Davao
 Ceasar Ian,39190,Sure-Spot Distribution Corporation,Deploy Customized Receive Payment,Service Request,For Cancel,0,2025-09-16 16:05:43,1899-12-30 00:00:00,43,0.0,Davao
@@ -23,9 +23,9 @@ Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setu
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,In Progress,0,2025-09-18 15:15:00,1899-12-30 00:00:00,41,0.0,Davao
 Ceasar Ian,39353,PMGL Refrigeration and Aircondition Service Center,Inventory received error,Service Request,For Cancel,0,2025-09-22 17:07:07,1899-12-30 00:00:00,39,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,In Progress,0,2025-09-22 18:18:27,1899-12-30 00:00:00,39,0.0,Davao
-Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,For Cancel,0,2025-09-23 08:57:30,1899-12-30 00:00:00,38,0.0,Davao
-Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,For Cancel,0,2025-09-23 08:58:42,1899-12-30 00:00:00,38,0.0,Davao
-Ceasar Ian,39378,Suntrek Enterprises,Data Migration - Customer List,Service Request,For Cancel,0,2025-09-23 09:00:04,1899-12-30 00:00:00,38,0.0,Davao
+Ceasar Ian,39376,Suntrek Enterprises,Data Migration - Item List,Service Request,For Cancel,0,2025-09-23 08:57:30,1899-12-30 00:00:00,39,0.0,Davao
+Ceasar Ian,39377,Suntrek Enterprises,Data Migration - Supplier List,Service Request,For Cancel,0,2025-09-23 08:58:42,1899-12-30 00:00:00,39,0.0,Davao
+Ceasar Ian,39378,Suntrek Enterprises,Data Migration - Customer List,Service Request,For Cancel,0,2025-09-23 09:00:04,1899-12-30 00:00:00,39,0.0,Davao
 Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,In Progress,0,2025-09-23 11:17:26,1899-12-30 00:00:00,38,0.0,Davao
 Ceasar Ian,39414,ATMI Marketing,Database Simulation,Internal,Resolved,0,2025-09-23 16:09:24,1899-12-30 00:00:00,38,40.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30 00:00:00,38,0.0,Davao
@@ -178,4 +178,5 @@ Rico,40867,HTA Plastic Center,POS lagging,Service Request,In Progress,0,2025-11-
 Rico,40882,"JVC Aire Systems, Inc.",Replication Error Main,Service Request,Assigned,0,2025-11-06 09:53:05,1899-12-30,6,0.0,Davao
 Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,6,0.0,Davao
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,6,0.0,Davao
+Rico,40925,Davao Mega Builders Co. Inc, ActiveOne Installation,Service Request,Reviewed,5,2025-11-07 08:56:48,1899-12-30,6,90.0,Davao
 
