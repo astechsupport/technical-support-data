@@ -41,10 +41,10 @@ Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Interna
 Ceasar Ian,39699,GGM Pharmacy,Item List Migration,Service Request,Reviewed,3,2025-09-30 16:24:43,1899-12-30 00:00:00,33,0.0,Davao
 Ceasar Ian,39705,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing unable to edit tax credit,Internal,Reviewed,5,2025-09-30 18:48:50,1899-12-30 00:00:00,33,58.0,Davao
 Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30 00:00:00,31,0.0,Davao
-Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30 00:00:00,30,0.0,Davao
-Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30 00:00:00,30,0.0,Davao
-Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,30,0.0,Davao
-Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,30,0.0,Davao
+Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30 00:00:00,31,0.0,Davao
+Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30 00:00:00,31,0.0,Davao
+Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,31,0.0,Davao
+Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,31,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30 00:00:00,30,0.0,Davao
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,Reviewed,5,2025-10-07 09:08:16,1899-12-30 00:00:00,29,0.0,Davao
@@ -52,8 +52,6 @@ Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,R
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30 00:00:00,27,0.0,Davao
-Ceasar Ian,40001,MB Refreshments, Thinstuff Activation,Service Request,For Cancel,0,2025-10-09 09:44:57,1899-12-30 00:00:00,27,0.0,Davao
-Ceasar Ian,40002,Sports Town Incorporated,VPN Installation,Service Request,For Cancel,0,2025-10-09 09:47:57,1899-12-30 00:00:00,27,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30 00:00:00,26,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30 00:00:00,26,0.0,Davao
