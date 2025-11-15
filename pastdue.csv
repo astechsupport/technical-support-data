@@ -1,9 +1,7 @@
 
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Ceasar Ian,38183,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-08-18 15:01:43,1899-12-30,65,0.0,Davao
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,54,0.0,Davao
-Ceasar Ian,38730,JTGO Gasoline Station,Update versions,Service Request,For Cancel,0,2025-09-03 13:43:57,1899-12-30,53,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,51,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,48,0.0,Davao
 Ceasar Ian,39057,Ecotrans Car Rentals Transport,Sales Order Form Modification,Service Request,In Progress,5,2025-09-11 10:12:00,1899-12-30,47,0.0,Davao
