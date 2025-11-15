@@ -44,7 +44,7 @@ Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Ass
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30 00:00:00,31,0.0,Davao
 Ceasar Ian,39852,JTGO Gasoline Station,Request to allow seniors and PWDs access without requiring a password,Service Request,For Cancel,0,2025-10-03 11:59:55,1899-12-30 00:00:00,31,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30 00:00:00,31,0.0,Davao
-Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30 00:00:00,29,0.0,Davao
+Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,5,2025-10-07 09:08:16,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,5,2025-10-07 09:09:32,1899-12-30 00:00:00,29,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30 00:00:00,27,0.0,Davao
@@ -68,7 +68,6 @@ Ceasar Ian,40179,Shop and Save More Grocers Corporation,POS 1 Replication reset 
 Ceasar Ian,40180,Shop and Save More Grocers Corporation,POS 1 Replication reset up 3,Service Request,For Cancel,0,2025-10-15 15:51:00,1899-12-30 00:00:00,23,0.0,Davao
 Ceasar Ian,40269,"Trans-Island Plastics Industries, Inc.",Unable to save the receipt (error time out exceeded),Service Request,For Cancel,0,2025-10-17 15:44:49,1899-12-30 00:00:00,21,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30 00:00:00,20,0.0,Davao
-Ceasar Ian,40372,Activesystems Software Inc,Setup Email,Service Request,For Cancel,0,2025-10-21 16:03:49,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,Assigned,0,2025-10-23 16:09:31,1899-12-30 00:00:00,17,0.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30 00:00:00,17,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30 00:00:00,16,0.0,Davao
@@ -147,7 +146,6 @@ Rico,40164,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal report - bug n
 Rico,40165,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Service Request,For Cancel,0,2025-10-15 11:33:46,1899-12-30,23,0.0,Davao
 Rico,40246,JCCQ Trading,Installation of POS to another branch,Service Request,For Cancel,0,2025-10-16 16:35:45,1899-12-30,22,0.0,Davao
 Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,For Cancel,0,2025-10-16 16:37:56,1899-12-30,22,0.0,CDO
-Rico,40275,Monkayo Durian Commercial,Generate Backend Report,Service Request,For Cancel,0,2025-10-17 16:37:50,1899-12-30,21,0.0,Davao
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,20,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,In Progress,0,2025-10-20 14:57:36,1899-12-30,20,0.0,Davao
 Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,17,0.0,Davao
