@@ -39,8 +39,8 @@ Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dext
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30,25,0.0,Davao
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,In Progress,5,2025-10-14 09:10:08,1899-12-30,25,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,24,0.0,Davao
-Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,23,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,23,0.0,Davao
+Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,24,0.0,Davao
+Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,24,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,23,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,20,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,Assigned,0,2025-10-23 16:09:31,1899-12-30,17,0.0,Davao
@@ -58,6 +58,8 @@ Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,S
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,9,0.0,Davao
 Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Assigned,0,2025-11-07 10:13:53,1899-12-30,7,0.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,Assigned,0,2025-11-07 14:56:23,1899-12-30,6,0.0,Davao
+Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,6,0.0,Davao
+Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,6,0.0,Davao
 
 
 User: Jeric Johann
@@ -99,6 +101,9 @@ Jude,40942,Limco Pharma And Medical Supplies Distribution,Purchase Order Qty Not
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,6,0.0,Gensan
 Jude,40945,Raysmart Maitum Corporation,correction of accounts for pos machine entries (amount tendered issue),Service Request,In Progress,0,2025-11-10 08:12:19,1899-12-30,6,0.0,Gensan
 Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,6,60.0,Gensan
+Jude,40959,Raysmart Maitum Corporation,pos reinstallation (due to unit hdd failure) kiamba unit ,Service Request,Resolved,0,2025-11-10 11:30:34,1899-12-30,6,29.0,Gensan
+Jude,40960,Raysmart Maitum Corporation,vpn reinstallation (due to unit hdd failure) kiamba unit,Service Request,Resolved,0,2025-11-10 11:31:11,1899-12-30,6,30.0,Gensan
+Jude,40962,Raysmart Maitum Corporation,pos printer reinstallation  (due to unit hdd failure) kiamba unit,Service Request,Resolved,0,2025-11-10 11:31:55,1899-12-30,6,21.0,Gensan
 
 
 User: Junmar
