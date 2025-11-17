@@ -49,7 +49,7 @@ Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer li
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,16,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30,14,0.0,Davao
 Ceasar Ian,40666,Project D Auto Innovations,Cant Connect to activeone (laptop unit),Service Request,In Progress,0,2025-10-29 10:55:57,1899-12-30,14,30.0,Davao
-Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,13,210.0,Davao
+Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,14,210.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,Assigned,0,2025-10-29 17:55:00,1899-12-30,13,0.0,Davao
 Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,12,0.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,12,0.0,Davao
@@ -82,7 +82,7 @@ Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Re
 Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration (5 Location),Service Request,Resolved,0,2025-10-23 17:06:46,1899-12-30,17,60.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,16,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,16,0.0,Davao
-Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration (5 Location),Service Request,Resolved,0,2025-10-28 13:27:32,1899-12-30,14,60.0,CDO
+Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration (5 Location),Service Request,Resolved,0,2025-10-28 13:27:32,1899-12-30,15,60.0,CDO
 Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,14,0.0,CDO
 Joshua,40752,Cleech  Supermarket,Printer Issue,Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,10,0.0,CDO
 Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,9,120.0,CDO
@@ -134,7 +134,7 @@ Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga loc
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,20,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,For Cancel,0,2025-10-20 14:57:36,1899-12-30,20,0.0,Davao
 Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,In Progress,0,2025-10-23 13:56:01,1899-12-30,17,0.0,Davao
-Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,Assigned,0,2025-10-23 16:42:33,1899-12-30,17,0.0,Davao
+Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,In Progress,0,2025-10-23 16:42:33,1899-12-30,17,0.0,Davao
 Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,16,0.0,Davao
 Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,16,0.0,Davao
 Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoice,Service Request,Assigned,0,2025-10-27 14:21:48,1899-12-30,15,0.0,Davao
