@@ -32,7 +32,7 @@ Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Re
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,28,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,28,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,28,0.0,Davao
-Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,27,0.0,Davao
+Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,28,0.0,Davao
 Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,27,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,27,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,26,0.0,Davao
@@ -80,7 +80,7 @@ Joshua,39695,IDG Enterprises,Not reflected in POs upon enter bills,Service Reque
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,32,0.0,CDO
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,27,60.0,CDO
 Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration (5 Location),Service Request,Resolved,0,2025-10-23 17:06:46,1899-12-30,17,60.0,CDO
-Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,16,0.0,CDO
+Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,17,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,16,0.0,Davao
 Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration (5 Location),Service Request,Resolved,0,2025-10-28 13:27:32,1899-12-30,15,60.0,CDO
 Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,14,0.0,CDO
@@ -106,7 +106,6 @@ Jude,40942,Limco Pharma And Medical Supplies Distribution,Purchase Order Qty Not
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,6,0.0,Gensan
 Jude,40945,Raysmart Maitum Corporation,correction of accounts for pos machine entries (amount tendered issue),Service Request,In Progress,0,2025-11-10 08:12:19,1899-12-30,6,0.0,Gensan
 Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,6,60.0,Gensan
-Jude,40962,Raysmart Maitum Corporation,pos printer reinstallation  (due to unit hdd failure) kiamba unit,Service Request,Reviewed,5,2025-11-10 11:31:55,1899-12-30,6,21.0,Gensan
 
 
 User: Junmar
