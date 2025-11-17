@@ -45,7 +45,7 @@ Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, S
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,20,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,Assigned,0,2025-10-23 16:09:31,1899-12-30,17,0.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30,17,0.0,Davao
-Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,16,0.0,Davao
+Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,17,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,15,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30,14,0.0,Davao
 Ceasar Ian,40666,Project D Auto Innovations,Cant Connect to activeone (laptop unit),Service Request,In Progress,0,2025-10-29 10:55:57,1899-12-30,13,30.0,Davao
@@ -65,7 +65,6 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,24,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,13,300.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,8,0.0,Gensan
-Jeric Johann,40907,BOYLES CONSTRUCTION SUPPLY,Clearing Documents except masterlist,Service Request,Reviewed,5,2025-11-06 14:43:39,1899-12-30,7,60.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,7,0.0,Gensan
 
 
