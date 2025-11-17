@@ -30,8 +30,8 @@ Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,I
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,28,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,28,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,28,0.0,Davao
-Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,27,0.0,Davao
-Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,27,0.0,Davao
+Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,28,0.0,Davao
+Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,28,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,27,0.0,Davao
 Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,27,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,27,0.0,Davao
@@ -133,7 +133,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40247,Mio Enterprises ,Need epa zero out(all) inventory sa claveria nga location,Service Request,For Cancel,0,2025-10-16 16:37:56,1899-12-30,22,0.0,CDO
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,20,0.0,Davao
 Rico,40322,"Deco Machine Shop, Inc.",2307 template modification,Service Request,For Cancel,0,2025-10-20 14:57:36,1899-12-30,20,0.0,Davao
-Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,Assigned,0,2025-10-23 13:56:01,1899-12-30,17,0.0,Davao
+Rico,40443,"The Rizal Memorial Colleges, Inc.",Error on generating Balance sheet report,Service Request,In Progress,0,2025-10-23 13:56:01,1899-12-30,17,0.0,Davao
 Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,Assigned,0,2025-10-23 16:42:33,1899-12-30,17,0.0,Davao
 Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,16,0.0,Davao
 Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,16,0.0,Davao
@@ -145,7 +145,7 @@ Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request
 Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Assigned,0,2025-11-02 21:48:51,1899-12-30,10,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,10,0.0,Davao
 Rico,40867,HTA Plastic Center,POS lagging,Service Request,In Progress,0,2025-11-05 14:42:17,1899-12-30,8,80.0,Davao
-Rico,40882,"JVC Aire Systems, Inc.",Replication Error Main,Service Request,Assigned,0,2025-11-06 09:53:05,1899-12-30,8,0.0,Davao
+Rico,40882,"JVC Aire Systems, Inc.",Replication Error Main,Service Request,In Progress,0,2025-11-06 09:53:05,1899-12-30,8,0.0,Davao
 Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,8,0.0,Davao
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,8,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,6,0.0,Davao
