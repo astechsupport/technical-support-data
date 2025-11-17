@@ -25,8 +25,8 @@ Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Ass
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,32,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,32,0.0,Davao
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,30,0.0,Davao
-Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,In Progress,5,2025-10-07 09:08:16,1899-12-30,30,0.0,Davao
-Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,In Progress,5,2025-10-07 09:09:32,1899-12-30,30,0.0,Davao
+Ceasar Ian,39921,178 Cargo Forwarder,Error in custom waybill form,Service Request,Reviewed,5,2025-10-07 09:08:16,1899-12-30,30,0.0,Davao
+Ceasar Ian,39922,178 Cargo Forwarder,Delivery form enhancement,Service Request,Reviewed,5,2025-10-07 09:09:32,1899-12-30,30,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,28,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,28,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,28,0.0,Davao
@@ -144,7 +144,7 @@ Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,12,0.0,Davao
 Rico,40731,Agencia Kimsan Pawnshop,Installation SE ,Service Request,Resolved,0,2025-11-02 21:48:51,1899-12-30,10,40.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,10,0.0,Davao
-Rico,40867,HTA Plastic Center,POS lagging,Service Request,In Progress,0,2025-11-05 14:42:17,1899-12-30,9,80.0,Davao
+Rico,40867,HTA Plastic Center,POS lagging,Service Request,Resolved,0,2025-11-05 14:42:17,1899-12-30,9,80.0,Davao
 Rico,40882,"JVC Aire Systems, Inc.",Replication Error Main,Service Request,For Cancel,0,2025-11-06 09:53:05,1899-12-30,8,0.0,Davao
 Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,8,0.0,Davao
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,8,0.0,Davao
