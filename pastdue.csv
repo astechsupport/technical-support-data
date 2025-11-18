@@ -17,12 +17,12 @@ Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for u
 Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30,37,0.0,Davao
 Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,0,2025-09-29 16:01:08,1899-12-30,37,0.0,Davao
 Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30,37,0.0,Davao
-Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30,33,0.0,Davao
+Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30,34,0.0,Davao
 Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30,33,0.0,Davao
 Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30,33,0.0,Davao
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,33,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,33,0.0,Davao
-Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,31,0.0,Davao
+Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,32,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,29,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,29,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,29,0.0,Davao
@@ -67,7 +67,7 @@ User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,26,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,15,330.0,Gensan
-Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,10,0.0,Gensan
+Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,11,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,9,0.0,Gensan
 
 
