@@ -1,113 +1,104 @@
 
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,57,0.0,Davao
-Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,54,0.0,Davao
-Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,51,0.0,Davao
-Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,48,0.0,Davao
-Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,Assigned,0,2025-09-18 11:09:47,1899-12-30,45,0.0,Davao
+Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,56,0.0,Davao
+Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,53,0.0,Davao
+Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,50,0.0,Davao
+Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,47,0.0,Davao
+Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,Assigned,0,2025-09-18 11:09:47,1899-12-30,44,0.0,Davao
 Ceasar Ian,39260,Malagos Agri-Ventures Corporation,Thinstuff RDP installation in (Location Planta),Service Request,In Progress,0,2025-09-18 15:15:00,1899-12-30,44,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,In Progress,0,2025-09-22 18:18:27,1899-12-30,42,0.0,Davao
-Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,For Cancel,0,2025-09-23 11:17:26,1899-12-30,42,0.0,Davao
-Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,41,0.0,Davao
-Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30,40,0.0,Davao
-Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30,40,0.0,Davao
+Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Service Request,For Cancel,0,2025-09-23 11:17:26,1899-12-30,41,0.0,Davao
+Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,40,0.0,Davao
+Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30,39,0.0,Davao
+Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30,39,0.0,Davao
 Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30,37,0.0,Davao
 Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30,37,20.0,Davao
 Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30,37,0.0,Davao
 Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,0,2025-09-29 16:01:08,1899-12-30,37,0.0,Davao
 Ceasar Ian,39657,Sports Town Incorporated,Repliction Reset up Mainserver,Internal,In Progress,0,2025-09-29 16:17:22,1899-12-30,37,0.0,Davao
-Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30,34,0.0,Davao
-Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30,34,0.0,Davao
-Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30,34,0.0,Davao
-Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,34,0.0,Davao
-Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,34,0.0,Davao
-Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,32,0.0,Davao
-Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,30,0.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,30,0.0,Davao
-Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,30,0.0,Davao
-Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,30,0.0,Davao
-Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,30,0.0,Davao
+Ceasar Ian,39833,JVNI Auto Supply, Simulation of database for upgrade,Internal,In Progress,0,2025-10-03 09:06:17,1899-12-30,33,0.0,Davao
+Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30,33,0.0,Davao
+Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30,33,0.0,Davao
+Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,33,0.0,Davao
+Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,33,0.0,Davao
+Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,31,0.0,Davao
+Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,29,0.0,Davao
+Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,29,0.0,Davao
+Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,29,0.0,Davao
+Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,29,0.0,Davao
+Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,29,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,29,0.0,Davao
-Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,29,0.0,Davao
-Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,29,0.0,Davao
-Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,28,0.0,Davao
+Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,28,0.0,Davao
+Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,28,0.0,Davao
+Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,27,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30,27,0.0,Davao
-Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,26,0.0,Davao
-Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,26,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,26,0.0,Davao
-Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,26,0.0,Davao
-Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,23,0.0,Davao
+Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,25,0.0,Davao
+Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,25,0.0,Davao
+Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,25,0.0,Davao
+Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,25,0.0,Davao
+Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,22,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,19,0.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,19,0.0,Davao
-Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,19,0.0,Davao
-Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,18,0.0,Davao
+Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,18,0.0,Davao
+Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,17,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,For Cancel,0,2025-10-28 19:57:58,1899-12-30,16,0.0,Davao
-Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,16,210.0,Davao
+Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,15,210.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,15,0.0,Davao
 Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,14,0.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,14,0.0,Davao
 Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,In Progress,0,2025-11-02 22:02:44,1899-12-30,12,0.0,Davao
-Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,12,0.0,Davao
-Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,11,0.0,Davao
-Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Assigned,0,2025-11-07 10:13:53,1899-12-30,9,0.0,Davao
+Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,11,0.0,Davao
+Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,10,0.0,Davao
+Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Assigned,0,2025-11-07 10:13:53,1899-12-30,8,0.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,Assigned,0,2025-11-07 14:56:23,1899-12-30,8,0.0,Davao
-Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,8,0.0,Davao
-Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,8,0.0,Davao
-Ceasar Ian,40970,ATMI Marketing,actveone installatio,Service Request,Assigned,0,2025-11-10 12:11:34,1899-12-30,8,0.0,Davao
-Ceasar Ian,40971,ATMI Marketing,mysql 8.0 Installation,Service Request,Assigned,0,2025-11-10 12:12:35,1899-12-30,8,0.0,Davao
+Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,7,0.0,Davao
+Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,7,0.0,Davao
+Ceasar Ian,40970,ATMI Marketing,actveone installatio,Service Request,Assigned,0,2025-11-10 12:11:34,1899-12-30,7,0.0,Davao
+Ceasar Ian,40971,ATMI Marketing,mysql 8.0 Installation,Service Request,Assigned,0,2025-11-10 12:12:35,1899-12-30,7,0.0,Davao
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,Assigned,0,2025-11-10 13:45:42,1899-12-30,7,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,Assigned,0,2025-11-10 13:46:32,1899-12-30,7,0.0,Davao
 Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,7,0.0,Davao
-Ceasar Ian,41009,Bagsak Presyo,Error in Payment ,Service Request,In Progress,4,2025-11-11 08:48:15,1899-12-30,7,10.0,Davao
+Ceasar Ian,41009,Bagsak Presyo,Error in Payment ,Service Request,In Progress,4,2025-11-11 08:48:15,1899-12-30,6,10.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,Assigned,0,2025-11-11 16:20:43,1899-12-30,6,0.0,Davao
-Ceasar Ian,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,6,0.0,Davao
-Ceasar Ian,41072,ATMI Marketing,Tailscale main server VPN,Service Request,Assigned,0,2025-11-12 10:26:56,1899-12-30,6,0.0,Davao
 
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,26,0.0,Gensan
+Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,25,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,15,330.0,Gensan
-Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,11,0.0,Gensan
-Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,9,0.0,Gensan
-Jeric Johann,41045,Elequin Pharmacy,Internal Error upon transaction of Senior/PWD Discount,Service Request,In Progress,0,2025-11-12 09:39:49,1899-12-30,6,0.0,CDO
-Jeric Johann,41046,IZON FARM SUPPLY INC.,Price Syncing Concern,Service Request,For Cancel,0,2025-11-12 09:40:27,1899-12-30,6,0.0,CDO
-Jeric Johann,41059,C7 Store,Replication Maintenance (Corrales T1),Service Request,Resolved,0,2025-11-12 10:12:19,1899-12-30,6,210.0,CDO
+Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,10,0.0,Gensan
+Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,8,0.0,Gensan
 
 
 User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,36,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,36,0.0,Davao
-Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,34,0.0,CDO
+Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,33,0.0,CDO
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,29,60.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,18,0.0,CDO
-Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,18,0.0,Davao
-Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,For Cancel,0,2025-10-29 09:12:27,1899-12-30,16,0.0,CDO
-Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,13,0.0,CDO
-Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,11,180.0,CDO
-Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,11,30.0,CDO
-Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,11,30.0,CDO
-Joshua,40946,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,Assigned,0,2025-11-10 08:49:24,1899-12-30,8,0.0,CDO
-Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,8,60.0,CDO
-Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,In Progress,0,2025-11-10 09:50:24,1899-12-30,8,10.0,CDO
+Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,17,0.0,Davao
+Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,For Cancel,0,2025-10-29 09:12:27,1899-12-30,15,0.0,CDO
+Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,12,0.0,CDO
+Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,10,180.0,CDO
+Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,10,30.0,CDO
+Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,10,30.0,CDO
+Joshua,40946,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,Assigned,0,2025-11-10 08:49:24,1899-12-30,7,0.0,CDO
+Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,7,60.0,CDO
+Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,In Progress,0,2025-11-10 09:50:24,1899-12-30,7,10.0,CDO
 Joshua,40986,Oro Agri Components Enterprises Inc.,Update to Latest Database v5.0.49,Service Request,In Progress,0,2025-11-10 16:30:24,1899-12-30,7,30.0,CDO
-Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,6,300.0,CDO
 
 
 User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,47,0.0,Gensan
-Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Progress,0,2025-09-16 09:22:12,1899-12-30,47,0.0,Gensan
-Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,17,0.0,Gensan
+Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,46,0.0,Gensan
+Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Progress,0,2025-09-16 09:22:12,1899-12-30,46,0.0,Gensan
+Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,16,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,12,23.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,8,0.0,Gensan
-Jude,40945,Raysmart Maitum Corporation,correction of accounts for pos machine entries (amount tendered issue),Service Request,For Cancel,0,2025-11-10 08:12:19,1899-12-30,8,0.0,Gensan
-Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,8,60.0,Gensan
-Jude,41050,G-FARM EVENTS CENTER / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,mysql server resetup transfer of server activity ,Service Request,Resolved,0,2025-11-12 10:02:58,1899-12-30,6,51.0,Gensan
-Jude,41052,G-FARM EVENTS CENTER / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,activeone reconfiguration setup due transfer of server activity ,Service Request,Resolved,0,2025-11-12 10:03:29,1899-12-30,6,29.0,Gensan
-Jude,41054,G-FARM EVENTS CENTER / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,POS reconfiguration setup due transfer of server activity ,Service Request,Resolved,0,2025-11-12 10:03:59,1899-12-30,6,44.0,Gensan
+Jude,40945,Raysmart Maitum Corporation,correction of accounts for pos machine entries (amount tendered issue),Service Request,For Cancel,0,2025-11-10 08:12:19,1899-12-30,7,0.0,Gensan
+Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,7,60.0,Gensan
 
 
 User: Junmar
@@ -116,43 +107,40 @@ Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Ser
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,92,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,77,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,71,0.0,Cebu
-Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,57,0.0,Cebu
-Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,57,0.0,Cebu
-Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,56,0.0,Cebu
+Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,56,0.0,Cebu
+Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,56,0.0,Cebu
+Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,55,0.0,Cebu
 Junmar,38834,ZJF Corporation,Assist Concern on Loyalty Points Report,Service Request,Reviewed,5,2025-09-04 14:23:04,1899-12-30,54,254.0,Cebu
-Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,43,0.0,Ilo-ilo
+Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,42,0.0,Ilo-ilo
 Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,37,0.0,Cebu
 Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake Shoe RR AS Japan),Service Request,In Progress,0,2025-10-13 15:32:36,1899-12-30,27,0.0,Cebu
 Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,12,150.0,Cebu
-Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,In Progress,0,2025-11-10 11:02:31,1899-12-30,8,270.0,Ilo-ilo
+Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,In Progress,0,2025-11-10 11:02:31,1899-12-30,7,270.0,Ilo-ilo
 Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,In Progress,0,2025-11-10 14:09:23,1899-12-30,7,40.0,Davao
-Junmar,41075,Vexoil Phil Corporation,Automatic change of Price ( Lanot Station) ,Service Request,Assigned,0,2025-11-12 11:45:53,1899-12-30,6,0.0,Ilo-ilo
 
 
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,22,0.0,Davao
 Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,In Progress,0,2025-10-23 16:42:33,1899-12-30,19,0.0,Davao
-Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,18,0.0,Davao
-Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,18,0.0,Davao
+Rico,40558, Chicktek Corporation,Modifications of Sales Report,Service Request,Assigned,0,2025-10-27 11:10:51,1899-12-30,17,0.0,Davao
+Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,17,0.0,Davao
 Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoice,Service Request,Assigned,0,2025-10-27 14:21:48,1899-12-30,17,0.0,Davao
 Rico,40680,LaserPro Inc.,Reset our old active1 system ,Service Request,In Progress,0,2025-10-29 13:38:20,1899-12-30,15,0.0,Davao
-Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-10-30 13:07:58,1899-12-30,15,0.0,Davao
+Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-10-30 13:07:58,1899-12-30,14,0.0,Davao
 Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,Assigned,0,2025-10-30 18:09:05,1899-12-30,14,0.0,Davao
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,14,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,12,0.0,Davao
-Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,10,0.0,Davao
-Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,10,0.0,Davao
-Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,8,0.0,Davao
+Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,9,0.0,Davao
+Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,9,0.0,Davao
+Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,7,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,7,0.0,Davao
 Rico,40993,Kelly Interior Supplies Trading,A1 Installation,Service Request,Reviewed,5,2025-11-10 16:55:33,1899-12-30,7,60.0,Davao
 Rico,40994,Kelly Interior Supplies Trading,POS installation,Service Request,Reviewed,5,2025-11-10 16:56:07,1899-12-30,7,40.0,Davao
 Rico,40995,Kelly Interior Supplies Trading,Order Capture Installation,Service Request,Reviewed,5,2025-11-10 16:57:00,1899-12-30,7,40.0,Davao
-Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Assigned,0,2025-11-11 08:11:19,1899-12-30,7,0.0,Davao
+Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Assigned,0,2025-11-11 08:11:19,1899-12-30,6,0.0,Davao
 Rico,41023,Kelly Interior Supplies Trading,SETUP MYSQL 8.0,Service Request,Reviewed,5,2025-11-11 15:58:11,1899-12-30,6,90.0,Davao
 Rico,41024,Kelly Interior Supplies Trading,SETUP AUTO BACKUP,Service Request,Reviewed,5,2025-11-11 15:58:55,1899-12-30,6,30.0,Davao
 Rico,41026,Kelly Interior Supplies Trading,AUDIT TRAIL SETUP,Service Request,Reviewed,5,2025-11-11 15:59:52,1899-12-30,6,90.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,6,0.0,Davao
-Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Assigned,0,2025-11-12 10:17:15,1899-12-30,6,0.0,Davao
-Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,Assigned,0,2025-11-12 10:31:19,1899-12-30,6,0.0,Davao
 
