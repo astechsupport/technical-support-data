@@ -1,7 +1,7 @@
 
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,55,0.0,Davao
+Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,56,0.0,Davao
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,53,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,50,0.0,Davao
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,47,0.0,Davao
@@ -37,7 +37,7 @@ Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in It
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,25,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,25,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,25,0.0,Davao
-Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,21,0.0,Davao
+Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,22,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,18,0.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,18,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,18,0.0,Davao
@@ -80,16 +80,16 @@ Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Re
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,17,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,17,0.0,Davao
 Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,15,0.0,CDO
-Joshua,40752,Cleech  Supermarket,Printer Issue,Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,11,0.0,CDO
+Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,11,0.0,CDO
 Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,10,180.0,CDO
 Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,10,30.0,CDO
 Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,10,30.0,CDO
 Joshua,40946,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,Assigned,0,2025-11-10 08:49:24,1899-12-30,7,0.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,7,60.0,CDO
 Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,In Progress,0,2025-11-10 09:50:24,1899-12-30,7,10.0,CDO
-Joshua,40972,MMP Household Appliances Trading,VPN Installation (User),Service Request,In Progress,0,2025-11-10 13:02:27,1899-12-30,7,20.0,CDO
-Joshua,40973,MMP Household Appliances Trading,VPN Installation (Server),Service Request,In Progress,0,2025-11-10 13:03:33,1899-12-30,7,20.0,CDO
-Joshua,40974,MMP Household Appliances Trading,Activeone Installation,Service Request,In Progress,0,2025-11-10 13:04:41,1899-12-30,7,20.0,CDO
+Joshua,40972,MMP Household Appliances Trading,VPN Installation (User),Service Request,Resolved,0,2025-11-10 13:02:27,1899-12-30,7,20.0,CDO
+Joshua,40973,MMP Household Appliances Trading,VPN Installation (Server),Service Request,Resolved,0,2025-11-10 13:03:33,1899-12-30,7,20.0,CDO
+Joshua,40974,MMP Household Appliances Trading,Activeone Installation,Service Request,Resolved,0,2025-11-10 13:04:41,1899-12-30,7,20.0,CDO
 Joshua,40986,Oro Agri Components Enterprises Inc.,Update to Latest Database v5.0.49,Service Request,In Progress,0,2025-11-10 16:30:24,1899-12-30,6,30.0,CDO
 
 
