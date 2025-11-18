@@ -2,7 +2,7 @@
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,55,0.0,Davao
-Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,52,0.0,Davao
+Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,53,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,50,0.0,Davao
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,47,0.0,Davao
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,Assigned,0,2025-09-18 11:09:47,1899-12-30,44,0.0,Davao
@@ -33,7 +33,7 @@ Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,28,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,26,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30,26,0.0,Davao
-Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,24,0.0,Davao
+Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,25,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,24,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,24,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,24,0.0,Davao
@@ -101,7 +101,7 @@ Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 3
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,11,23.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,7,0.0,Gensan
 Jude,40945,Raysmart Maitum Corporation,correction of accounts for pos machine entries (amount tendered issue),Service Request,For Cancel,0,2025-11-10 08:12:19,1899-12-30,7,0.0,Gensan
-Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,6,60.0,Gensan
+Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,7,60.0,Gensan
 
 
 User: Junmar
