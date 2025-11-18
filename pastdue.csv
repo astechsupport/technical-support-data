@@ -66,7 +66,7 @@ Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Requ
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,25,0.0,Gensan
-Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,14,300.0,Gensan
+Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,14,330.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,10,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,8,0.0,Gensan
 Jeric Johann,41012,ASL Durian Marketing OPC,Set-up for NEW generated PTU of POS,Service Request,Reviewed,5,2025-11-11 11:23:32,1899-12-30,6,300.0,Davao
@@ -91,7 +91,7 @@ Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,In Pr
 Joshua,40972,MMP Household Appliances Trading,VPN Installation (User),Service Request,Reviewed,4,2025-11-10 13:02:27,1899-12-30,7,20.0,CDO
 Joshua,40973,MMP Household Appliances Trading,VPN Installation (Server),Service Request,Reviewed,4,2025-11-10 13:03:33,1899-12-30,7,20.0,CDO
 Joshua,40974,MMP Household Appliances Trading,Activeone Installation,Service Request,Reviewed,4,2025-11-10 13:04:41,1899-12-30,7,20.0,CDO
-Joshua,40986,Oro Agri Components Enterprises Inc.,Update to Latest Database v5.0.49,Service Request,In Progress,0,2025-11-10 16:30:24,1899-12-30,6,30.0,CDO
+Joshua,40986,Oro Agri Components Enterprises Inc.,Update to Latest Database v5.0.49,Service Request,In Progress,0,2025-11-10 16:30:24,1899-12-30,7,30.0,CDO
 
 
 User: Jude
