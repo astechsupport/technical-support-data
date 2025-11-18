@@ -33,7 +33,6 @@ Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,28,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,26,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30,26,0.0,Davao
-Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,Reviewed,5,2025-10-14 09:10:08,1899-12-30,26,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,24,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,24,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,24,0.0,Davao
@@ -44,7 +43,6 @@ Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Ser
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,18,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,17,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,For Cancel,0,2025-10-28 19:57:58,1899-12-30,15,0.0,Davao
-Ceasar Ian,40666,Project D Auto Innovations,Cant Connect to activeone (laptop unit),Service Request,Reviewed,5,2025-10-29 10:55:57,1899-12-30,15,30.0,Davao
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,14,210.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,14,0.0,Davao
 Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,13,0.0,Davao
@@ -70,6 +68,7 @@ Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progre
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,14,300.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,10,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,8,0.0,Gensan
+Jeric Johann,41012,ASL Durian Marketing OPC,Set-up for NEW generated PTU of POS,Service Request,Reviewed,5,2025-11-11 11:23:32,1899-12-30,6,300.0,Davao
 
 
 User: Joshua
@@ -78,15 +77,13 @@ Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,35,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,33,0.0,CDO
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,28,60.0,CDO
-Joshua,40483,F.D.J Rosmar Corp.,Invoice List Migration (5 Location),Service Request,Reviewed,5,2025-10-23 17:06:46,1899-12-30,18,60.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,17,0.0,CDO
-Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,16,0.0,Davao
-Joshua,40642,F.D.J Rosmar Corp.,Purchase Order Migration (5 Location),Service Request,Reviewed,5,2025-10-28 13:27:32,1899-12-30,15,60.0,CDO
+Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,17,0.0,Davao
 Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,In Progress,0,2025-10-29 09:12:27,1899-12-30,15,0.0,CDO
 Joshua,40752,Cleech  Supermarket,Printer Issue,Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,11,0.0,CDO
 Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,10,180.0,CDO
 Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,10,30.0,CDO
-Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,9,30.0,CDO
+Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,10,30.0,CDO
 Joshua,40946,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,Assigned,0,2025-11-10 08:49:24,1899-12-30,7,0.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,7,60.0,CDO
 Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,In Progress,0,2025-11-10 09:50:24,1899-12-30,7,10.0,CDO
