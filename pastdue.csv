@@ -61,6 +61,7 @@ Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor,
 Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,7,0.0,Davao
 Ceasar Ian,41009,Bagsak Presyo,Error in Payment ,Service Request,In Progress,4,2025-11-11 08:48:15,1899-12-30,7,10.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,Assigned,0,2025-11-11 16:20:43,1899-12-30,6,0.0,Davao
+Ceasar Ian,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,6,0.0,Davao
 
 
 User: Jeric Johann
@@ -138,8 +139,8 @@ Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected 
 Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,Assigned,0,2025-10-30 18:09:05,1899-12-30,14,0.0,Davao
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,14,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,12,0.0,Davao
-Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,9,0.0,Davao
-Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,9,0.0,Davao
+Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,10,0.0,Davao
+Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,10,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,7,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,7,0.0,Davao
 Rico,40993,Kelly Interior Supplies Trading,A1 Installation,Service Request,Reviewed,5,2025-11-10 16:55:33,1899-12-30,7,60.0,Davao
