@@ -36,7 +36,7 @@ Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,26,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,Assigned,0,2025-10-15 11:30:51,1899-12-30,26,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,26,0.0,Davao
-Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,25,0.0,Davao
+Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,26,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,22,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,19,0.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,19,0.0,Davao
@@ -126,6 +126,7 @@ Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake
 Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,12,150.0,Cebu
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,In Progress,0,2025-11-10 11:02:31,1899-12-30,8,270.0,Ilo-ilo
 Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,In Progress,0,2025-11-10 14:09:23,1899-12-30,7,40.0,Davao
+Junmar,41075,Vexoil Phil Corporation,Automatic change of Price ( Lanot Station) ,Service Request,Assigned,0,2025-11-12 11:45:53,1899-12-30,6,0.0,Ilo-ilo
 
 
 User: Rico
