@@ -12,7 +12,7 @@ Ceasar Ian,39401,JCCQ Trading,Update Sales Invoice Details base on new PTU,Servi
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,41,0.0,Davao
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,Assigned,0,2025-09-25 12:01:45,1899-12-30,40,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30,40,0.0,Davao
-Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30,37,0.0,Davao
+Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,In Progress,0,2025-09-29 15:53:32,1899-12-30,38,0.0,Davao
 Ceasar Ian,39653,"WV NEW DAVAO GOLDSTAR HARDWARE CO., INC",Simulate fixing for unable to edit tax credit,Internal,In Progress,0,2025-09-29 15:55:22,1899-12-30,37,20.0,Davao
 Ceasar Ian,39654,Sports Town Incorporated,Restore database,Internal,In Progress,0,2025-09-29 15:58:11,1899-12-30,37,0.0,Davao
 Ceasar Ian,39655,Sports Town Incorporated,VPN installation,Internal,In Progress,0,2025-09-29 16:01:08,1899-12-30,37,0.0,Davao
@@ -81,7 +81,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,37,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,37,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,34,0.0,CDO
-Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,29,60.0,CDO
+Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,30,60.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,19,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,18,0.0,Davao
 Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,13,0.0,CDO
@@ -123,6 +123,8 @@ Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,In Progress,0,2025-11-10 11:02:31,1899-12-30,8,270.0,Ilo-ilo
 Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Resolved,0,2025-11-10 14:09:23,1899-12-30,8,40.0,Davao
 Junmar,41078,A + Enterprises,Upgrade database Simulation,Service Request,Reviewed,5,2025-11-12 15:43:51,1899-12-30,6,110.0,Cebu
+Junmar,41082,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Activeone Installation,Service Request,Resolved,0,2025-11-12 15:53:17,1899-12-30,6,20.0,Cebu
+Junmar,41085,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Direct Connection Set-Up,Service Request,Resolved,0,2025-11-12 15:54:03,1899-12-30,6,40.0,Cebu
 
 
 User: Rico
