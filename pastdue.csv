@@ -68,7 +68,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,In Progress,0,2025-10-15 08:16:22,1899-12-30,26,0.0,Gensan
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,15,330.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,10,0.0,Gensan
-Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,8,0.0,Gensan
+Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,9,0.0,Gensan
 
 
 User: Joshua
@@ -79,7 +79,6 @@ Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,29,60.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,18,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,17,0.0,Davao
-Joshua,40653,Richstar Variety Store,POS unable to process transactions,Service Request,For Cancel,0,2025-10-29 09:12:27,1899-12-30,15,0.0,CDO
 Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,12,0.0,CDO
 Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,10,180.0,CDO
 Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,10,30.0,CDO
@@ -97,8 +96,6 @@ Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Pro
 Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,16,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,12,23.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,8,0.0,Gensan
-Jude,40945,Raysmart Maitum Corporation,correction of accounts for pos machine entries (amount tendered issue),Service Request,For Cancel,0,2025-11-10 08:12:19,1899-12-30,8,0.0,Gensan
-Jude,40958,Marbel General Merchandise Corporation,System error kasi hindi sya maka read f mag update ng price sa,Service Request,Reviewed,5,2025-11-10 11:26:40,1899-12-30,7,60.0,Gensan
 
 
 User: Junmar
