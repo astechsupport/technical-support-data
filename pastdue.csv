@@ -38,14 +38,14 @@ Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - no
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,26,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,26,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,23,0.0,Davao
-Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,19,60.0,Davao
+Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,20,60.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,19,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,19,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,18,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,For Cancel,0,2025-10-28 19:57:58,1899-12-30,16,0.0,Davao
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,16,210.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,15,0.0,Davao
-Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,14,0.0,Davao
+Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,15,0.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,14,0.0,Davao
 Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,In Progress,0,2025-11-02 22:02:44,1899-12-30,12,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,12,0.0,Davao
@@ -91,7 +91,6 @@ Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,
 Joshua,40946,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-10 08:49:24,1899-12-30,8,0.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,8,60.0,CDO
 Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,In Progress,0,2025-11-10 09:50:24,1899-12-30,8,10.0,CDO
-Joshua,40986,Oro Agri Components Enterprises Inc.,Update to Latest Database v5.0.49,Service Request,Reviewed,5,2025-11-10 16:30:24,1899-12-30,7,30.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,6,300.0,CDO
 
 
@@ -109,7 +108,7 @@ Jude,41054,G-FARM EVENTS CENTER / EBENEZER MARKETING & MACHINERY WORKS CORPORATI
 
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,98,0.0,Ilo-ilo
+Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,99,0.0,Ilo-ilo
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,92,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,77,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,71,0.0,Cebu
@@ -117,7 +116,7 @@ Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,57,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,56,0.0,Cebu
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,43,0.0,Ilo-ilo
-Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,37,0.0,Cebu
+Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,38,0.0,Cebu
 Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake Shoe RR AS Japan),Service Request,In Progress,0,2025-10-13 15:32:36,1899-12-30,28,0.0,Cebu
 Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,13,150.0,Cebu
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,In Progress,0,2025-11-10 11:02:31,1899-12-30,8,270.0,Ilo-ilo
