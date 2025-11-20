@@ -26,8 +26,8 @@ Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modify
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,31,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,31,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,31,0.0,Davao
-Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,30,0.0,Davao
-Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,30,0.0,Davao
+Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,31,0.0,Davao
+Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,31,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,30,0.0,Davao
 Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,30,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,30,0.0,Davao
@@ -71,8 +71,6 @@ Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,For Cance
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,16,330.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,12,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,10,0.0,Gensan
-Jeric Johann,41045,Elequin Pharmacy,Internal Error upon transaction of Senior/PWD Discount,Service Request,For Cancel,0,2025-11-12 09:39:49,1899-12-30,7,0.0,CDO
-Jeric Johann,41046,IZON FARM SUPPLY INC.,Price Syncing Concern,Service Request,For Cancel,0,2025-11-12 09:40:27,1899-12-30,7,0.0,CDO
 Jeric Johann,41077,Dexluck Auto Parts Trading,Order Capture,Service Request,In Progress,0,2025-11-12 13:59:56,1899-12-30,6,0.0,Davao
 Jeric Johann,41088,Kristan Educational Supply,activeone installation,Service Request,For Cancel,0,2025-11-12 16:11:00,1899-12-30,6,0.0,Gensan
 
@@ -139,6 +137,6 @@ Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,8,0.0,Davao
 Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Assigned,0,2025-11-11 08:11:19,1899-12-30,8,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,7,0.0,Davao
-Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Assigned,0,2025-11-12 10:17:15,1899-12-30,7,0.0,Davao
+Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,In Progress,0,2025-11-12 10:17:15,1899-12-30,7,0.0,Davao
 Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,Assigned,0,2025-11-12 10:31:19,1899-12-30,7,0.0,Davao
 
