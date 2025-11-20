@@ -120,8 +120,6 @@ Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake
 Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,13,150.0,Cebu
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,Reviewed,5,2025-11-10 11:02:31,1899-12-30,9,290.0,Ilo-ilo
 Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Resolved,0,2025-11-10 14:09:23,1899-12-30,8,40.0,Davao
-Junmar,41082,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Activeone Installation,Service Request,Resolved,0,2025-11-12 15:53:17,1899-12-30,6,20.0,Cebu
-Junmar,41085,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Direct Connection Set-Up,Service Request,Resolved,0,2025-11-12 15:54:03,1899-12-30,6,40.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,6,80.0,Ilo-ilo
 
 
@@ -129,7 +127,7 @@ User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,23,0.0,Davao
 Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,In Progress,0,2025-10-23 16:42:33,1899-12-30,20,0.0,Davao
-Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,18,0.0,Davao
+Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,Assigned,0,2025-10-27 11:52:14,1899-12-30,19,0.0,Davao
 Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoice,Service Request,Assigned,0,2025-10-27 14:21:48,1899-12-30,18,0.0,Davao
 Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-10-30 13:07:58,1899-12-30,15,0.0,Davao
 Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,Assigned,0,2025-10-30 18:09:05,1899-12-30,15,0.0,Davao
