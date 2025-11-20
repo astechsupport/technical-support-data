@@ -41,7 +41,7 @@ Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progre
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,20,60.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,20,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,20,0.0,Davao
-Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,19,0.0,Davao
+Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,19,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,For Cancel,0,2025-10-28 19:57:58,1899-12-30,17,0.0,Davao
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,17,210.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,16,0.0,Davao
@@ -50,7 +50,7 @@ Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request
 Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,Reviewed,5,2025-11-02 22:02:44,1899-12-30,13,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,13,0.0,Davao
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,12,0.0,Davao
-Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Assigned,0,2025-11-07 10:13:53,1899-12-30,10,0.0,Davao
+Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,In Progress,0,2025-11-07 10:13:53,1899-12-30,10,0.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,Assigned,0,2025-11-07 14:56:23,1899-12-30,10,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,9,0.0,Davao
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,9,0.0,Davao
@@ -136,9 +136,9 @@ Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,11,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,9,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,8,0.0,Davao
-Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Resolved,0,2025-11-11 08:11:19,1899-12-30,8,60.0,Davao
+Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Reviewed,5,2025-11-11 08:11:19,1899-12-30,8,60.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,7,0.0,Davao
-Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Resolved,0,2025-11-12 10:17:15,1899-12-30,7,100.0,Davao
+Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Reviewed,5,2025-11-12 10:17:15,1899-12-30,7,100.0,Davao
 Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,Resolved,0,2025-11-12 10:31:19,1899-12-30,7,40.0,Davao
 Rico,41111,One Isla Trade and Distribution Inc.,ActiveOne Installation ,Service Request,Assigned,0,2025-11-13 15:08:48,1899-12-30,6,0.0,Davao
 
