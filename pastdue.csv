@@ -47,7 +47,7 @@ Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,16,0.0,Davao
 Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,15,0.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,15,0.0,Davao
-Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,In Progress,0,2025-11-02 22:02:44,1899-12-30,13,0.0,Davao
+Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,Resolved,0,2025-11-02 22:02:44,1899-12-30,13,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,13,0.0,Davao
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,12,0.0,Davao
 Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Assigned,0,2025-11-07 10:13:53,1899-12-30,10,0.0,Davao
@@ -71,7 +71,7 @@ Jeric Johann,40144,C7 Store,Fix general ledger concern,Service Request,For Cance
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,16,330.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,12,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,10,0.0,Gensan
-Jeric Johann,41077,Dexluck Auto Parts Trading,Order Capture,Service Request,In Progress,0,2025-11-12 13:59:56,1899-12-30,6,0.0,Davao
+Jeric Johann,41077,Dexluck Auto Parts Trading,Order Capture,Service Request,In Progress,0,2025-11-12 13:59:56,1899-12-30,7,0.0,Davao
 Jeric Johann,41088,Kristan Educational Supply,activeone installation,Service Request,For Cancel,0,2025-11-12 16:11:00,1899-12-30,6,0.0,Gensan
 
 
@@ -135,8 +135,8 @@ Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,11,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,9,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,8,0.0,Davao
-Rico,40996,Merlion Enterprises,POS Set Up,Service Request,In Progress,0,2025-11-11 08:11:19,1899-12-30,8,0.0,Davao
+Rico,40996,Merlion Enterprises,POS Set Up,Service Request,In Progress,0,2025-11-11 08:11:19,1899-12-30,8,60.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,7,0.0,Davao
 Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Resolved,0,2025-11-12 10:17:15,1899-12-30,7,100.0,Davao
-Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,Assigned,0,2025-11-12 10:31:19,1899-12-30,7,0.0,Davao
+Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,In Progress,0,2025-11-12 10:31:19,1899-12-30,7,0.0,Davao
 
