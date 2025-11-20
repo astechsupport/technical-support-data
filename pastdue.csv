@@ -91,7 +91,7 @@ Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Servic
 Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,11,30.0,CDO
 Joshua,40946,Loy's Pharmacy Incorporated,OC Installation,Service Request,In Progress,0,2025-11-10 08:49:24,1899-12-30,9,30.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,9,60.0,CDO
-Joshua,40953,Activesystems Software Inc,Installation of Scorecard,Internal,Resolved,0,2025-11-10 09:50:24,1899-12-30,9,10.0,CDO
+Joshua,40953,Activesystems Software Inc,Installation of Scorecard (Marvin),Internal,Reviewed,5,2025-11-10 09:50:24,1899-12-30,9,10.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,7,240.0,CDO
 Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,6,0.0,CDO
 
@@ -134,8 +134,8 @@ Rico,40711,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected 
 Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,Assigned,0,2025-10-30 18:09:05,1899-12-30,15,0.0,Davao
 Rico,40725,BS Safety Trade Corp.,Deployment of Upgraded Database,Service Request,Assigned,0,2025-10-30 18:17:07,1899-12-30,15,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Simulate Incomplete Amount reflected in expenses by account detail,Service Request,Assigned,0,2025-11-02 22:01:52,1899-12-30,13,0.0,Davao
-Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,10,0.0,Davao
-Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,10,0.0,Davao
+Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,11,0.0,Davao
+Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,11,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,8,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,8,0.0,Davao
 Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Assigned,0,2025-11-11 08:11:19,1899-12-30,8,0.0,Davao
