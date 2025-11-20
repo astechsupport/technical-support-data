@@ -25,7 +25,7 @@ Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving p
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,33,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,31,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,31,0.0,Davao
-Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,30,0.0,Davao
+Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,31,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,30,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,30,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,30,0.0,Davao
@@ -49,7 +49,7 @@ Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest ve
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,15,0.0,Davao
 Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,In Progress,0,2025-11-02 22:02:44,1899-12-30,13,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,12,0.0,Davao
-Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,11,0.0,Davao
+Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,12,0.0,Davao
 Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Assigned,0,2025-11-07 10:13:53,1899-12-30,9,0.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,Assigned,0,2025-11-07 14:56:23,1899-12-30,9,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,8,0.0,Davao
@@ -120,7 +120,6 @@ Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake
 Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,13,150.0,Cebu
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,Resolved,0,2025-11-10 11:02:31,1899-12-30,8,290.0,Ilo-ilo
 Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Resolved,0,2025-11-10 14:09:23,1899-12-30,8,40.0,Davao
-Junmar,41078,A + Enterprises,Upgrade database Simulation,Service Request,Reviewed,5,2025-11-12 15:43:51,1899-12-30,6,110.0,Cebu
 Junmar,41082,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Activeone Installation,Service Request,Resolved,0,2025-11-12 15:53:17,1899-12-30,6,20.0,Cebu
 Junmar,41085,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Direct Connection Set-Up,Service Request,Resolved,0,2025-11-12 15:54:03,1899-12-30,6,40.0,Cebu
 
