@@ -58,7 +58,7 @@ Ceasar Ian,40970,ATMI Marketing,actveone installatio,Service Request,Assigned,0,
 Ceasar Ian,40971,ATMI Marketing,mysql 8.0 Installation,Service Request,Assigned,0,2025-11-10 12:12:35,1899-12-30,9,0.0,Davao
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,In Progress,0,2025-11-10 13:45:42,1899-12-30,9,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,9,0.0,Davao
-Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,8,0.0,Davao
+Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,9,0.0,Davao
 Ceasar Ian,41009,Bagsak Presyo,Error in Payment ,Service Request,In Progress,4,2025-11-11 08:48:15,1899-12-30,8,10.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,Assigned,0,2025-11-11 16:20:43,1899-12-30,7,0.0,Davao
 Ceasar Ian,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,7,0.0,Davao
@@ -115,9 +115,9 @@ Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Prog
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,44,0.0,Ilo-ilo
 Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,38,0.0,Cebu
 Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake Shoe RR AS Japan),Service Request,Reviewed,5,2025-10-13 15:32:36,1899-12-30,28,0.0,Cebu
-Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,13,150.0,Cebu
+Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,14,150.0,Cebu
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,Reviewed,5,2025-11-10 11:02:31,1899-12-30,9,290.0,Ilo-ilo
-Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Resolved,0,2025-11-10 14:09:23,1899-12-30,8,40.0,Davao
+Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Resolved,0,2025-11-10 14:09:23,1899-12-30,9,40.0,Davao
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,6,80.0,Ilo-ilo
 
 
