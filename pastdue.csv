@@ -28,7 +28,7 @@ Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Re
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,31,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,31,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,31,0.0,Davao
-Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,30,0.0,Davao
+Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,31,0.0,Davao
 Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,30,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,30,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,29,0.0,Davao
@@ -56,8 +56,8 @@ Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,A
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,9,0.0,Davao
 Ceasar Ian,40970,ATMI Marketing,actveone installatio,Service Request,Assigned,0,2025-11-10 12:11:34,1899-12-30,9,0.0,Davao
 Ceasar Ian,40971,ATMI Marketing,mysql 8.0 Installation,Service Request,Assigned,0,2025-11-10 12:12:35,1899-12-30,9,0.0,Davao
-Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,Assigned,0,2025-11-10 13:45:42,1899-12-30,8,0.0,Davao
-Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,Assigned,0,2025-11-10 13:46:32,1899-12-30,8,0.0,Davao
+Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,In Progress,0,2025-11-10 13:45:42,1899-12-30,8,0.0,Davao
+Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,8,0.0,Davao
 Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,8,0.0,Davao
 Ceasar Ian,41009,Bagsak Presyo,Error in Payment ,Service Request,In Progress,4,2025-11-11 08:48:15,1899-12-30,8,10.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,Assigned,0,2025-11-11 16:20:43,1899-12-30,7,0.0,Davao
@@ -81,7 +81,7 @@ Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,37,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,35,0.0,CDO
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,30,60.0,CDO
-Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,19,0.0,CDO
+Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,20,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,19,0.0,Davao
 Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,14,0.0,CDO
 Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,12,180.0,CDO
@@ -137,6 +137,6 @@ Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,8,0.0,Davao
 Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Assigned,0,2025-11-11 08:11:19,1899-12-30,8,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,7,0.0,Davao
-Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,In Progress,0,2025-11-12 10:17:15,1899-12-30,7,100.0,Davao
+Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Resolved,0,2025-11-12 10:17:15,1899-12-30,7,100.0,Davao
 Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,Assigned,0,2025-11-12 10:31:19,1899-12-30,7,0.0,Davao
 
