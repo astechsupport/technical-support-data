@@ -41,7 +41,7 @@ Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progre
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,20,60.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,20,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,20,0.0,Davao
-Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,18,0.0,Davao
+Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,Assigned,0,2025-10-27 11:03:06,1899-12-30,19,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,For Cancel,0,2025-10-28 19:57:58,1899-12-30,17,0.0,Davao
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,16,210.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,16,0.0,Davao
@@ -91,7 +91,6 @@ Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Servic
 Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,11,30.0,CDO
 Joshua,40946,Loy's Pharmacy Incorporated,OC Installation,Service Request,In Progress,0,2025-11-10 08:49:24,1899-12-30,9,30.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,9,60.0,CDO
-Joshua,40953,Activesystems Software Inc,Installation of Scorecard (Marvin),Internal,Reviewed,5,2025-11-10 09:50:24,1899-12-30,9,10.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,7,240.0,CDO
 Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,6,0.0,CDO
 
@@ -118,7 +117,7 @@ Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,
 Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,38,0.0,Cebu
 Junmar,40099,RMD Motor Parts Ventures Inc.,Diagnose Inventory Concern (DRM Brake Shoe RR AS Japan),Service Request,Reviewed,5,2025-10-13 15:32:36,1899-12-30,28,0.0,Cebu
 Junmar,40761,San Pharma,Data Migration for AR,Service Request,In Progress,0,2025-11-03 14:07:37,1899-12-30,13,150.0,Cebu
-Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,Resolved,0,2025-11-10 11:02:31,1899-12-30,8,290.0,Ilo-ilo
+Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,Resolved,0,2025-11-10 11:02:31,1899-12-30,9,290.0,Ilo-ilo
 Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Resolved,0,2025-11-10 14:09:23,1899-12-30,8,40.0,Davao
 Junmar,41082,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Activeone Installation,Service Request,Resolved,0,2025-11-12 15:53:17,1899-12-30,6,20.0,Cebu
 Junmar,41085,ACQUA ENGINEERING AND TECHNICAL SERVICES ,Direct Connection Set-Up,Service Request,Resolved,0,2025-11-12 15:54:03,1899-12-30,6,40.0,Cebu
