@@ -42,7 +42,6 @@ Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,16,0.0,Davao
 Ceasar Ian,40717,Harry's Performance Center Inc.,Update activeone into latest version,Service Request,Assigned,0,2025-10-30 16:07:34,1899-12-30,16,0.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,15,0.0,Davao
-Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,Reviewed,5,2025-11-02 22:02:44,1899-12-30,13,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,13,0.0,Davao
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,12,0.0,Davao
 Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,In Progress,0,2025-11-07 10:13:53,1899-12-30,10,0.0,Davao
@@ -54,7 +53,6 @@ Ceasar Ian,40971,ATMI Marketing,mysql 8.0 Installation,Service Request,Assigned,
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,In Progress,0,2025-11-10 13:45:42,1899-12-30,9,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,9,0.0,Davao
 Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,9,0.0,Davao
-Ceasar Ian,41009,Bagsak Presyo,Error in Payment ,Service Request,Reviewed,4,2025-11-11 08:48:15,1899-12-30,8,10.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,For Cancel,0,2025-11-11 16:20:43,1899-12-30,8,0.0,Davao
 Ceasar Ian,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,7,0.0,Davao
 Ceasar Ian,41072,ATMI Marketing,Tailscale main server VPN,Service Request,Assigned,0,2025-11-12 10:26:56,1899-12-30,7,0.0,Davao
@@ -112,7 +110,6 @@ Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Prog
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,44,0.0,Ilo-ilo
 Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,39,0.0,Cebu
 Junmar,40955,MCR Agriventure Corporation, Consolidate PLU,Service Request,Reviewed,5,2025-11-10 11:02:31,1899-12-30,9,290.0,Ilo-ilo
-Junmar,40980,Metro Cycle Mart,Order Captiure Connection Error,Service Request,Reviewed,5,2025-11-10 14:09:23,1899-12-30,9,40.0,Davao
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,6,80.0,Ilo-ilo
 
 
@@ -130,7 +127,6 @@ Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,Assigned,0,2025-11-06 10:22:40,1899-12-30,11,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,Assigned,0,2025-11-10 11:38:20,1899-12-30,9,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,9,0.0,Davao
-Rico,40996,Merlion Enterprises,POS Set Up,Service Request,Reviewed,5,2025-11-11 08:11:19,1899-12-30,8,60.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,8,0.0,Davao
 Rico,41060,TONYO'S AGRI SUPPLY,Update latest build,Service Request,Reviewed,5,2025-11-12 10:17:15,1899-12-30,7,100.0,Davao
 Rico,41073,Kaisyd Ventures Inc.,POS Installation and get hardware details,Service Request,Reviewed,5,2025-11-12 10:31:19,1899-12-30,7,40.0,Davao
