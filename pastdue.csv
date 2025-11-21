@@ -117,7 +117,7 @@ Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jo
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,24,0.0,Davao
-Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,In Progress,0,2025-10-23 16:42:33,1899-12-30,21,150.0,Davao
+Rico,40477,Langoyon Autoparts Enterprises Corp.,Template modification - Sales by payment type report,Service Request,Resolved,0,2025-10-23 16:42:33,1899-12-30,21,150.0,Davao
 Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,In Progress,0,2025-10-27 11:52:14,1899-12-30,20,0.0,Davao
 Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoice,Service Request,Assigned,0,2025-10-27 14:21:48,1899-12-30,19,0.0,Davao
 Rico,40711,Philfumes Petroleum Corporation,Diagnose Items G/L Account from Sales Receipt not reflected to Expenses by Class Detail,Service Request,For Cancel,0,2025-10-30 13:07:58,1899-12-30,17,0.0,Davao
