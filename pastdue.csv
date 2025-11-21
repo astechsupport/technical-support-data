@@ -24,8 +24,8 @@ Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,31,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,In Progress,0,2025-10-09 13:13:02,1899-12-30,31,0.0,Davao
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Install Server,Service Request,In Progress,0,2025-10-09 13:41:47,1899-12-30,31,0.0,Davao
-Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,30,0.0,Davao
-Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,30,0.0,Davao
+Ceasar Ian,40038,Suntrek Enterprises,Static network ,Service Request,In Progress,0,2025-10-10 09:26:47,1899-12-30,31,0.0,Davao
+Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,Assigned,0,2025-10-10 09:28:06,1899-12-30,31,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,29,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,Assigned,0,2025-10-13 14:22:28,1899-12-30,29,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting Cost in Item profile concern,Service Request,Assigned,0,2025-10-15 11:29:45,1899-12-30,27,0.0,Davao
@@ -50,7 +50,7 @@ Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,A
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,9,0.0,Davao
 Ceasar Ian,40970,ATMI Marketing,actveone installatio,Service Request,Assigned,0,2025-11-10 12:11:34,1899-12-30,9,0.0,Davao
 Ceasar Ian,40971,ATMI Marketing,mysql 8.0 Installation,Service Request,Assigned,0,2025-11-10 12:12:35,1899-12-30,9,0.0,Davao
-Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,In Progress,0,2025-11-10 13:45:42,1899-12-30,9,0.0,Davao
+Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Service Request,In Progress,0,2025-11-10 13:45:42,1899-12-30,9,30.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,9,0.0,Davao
 Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,9,0.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,For Cancel,0,2025-11-11 16:20:43,1899-12-30,8,0.0,Davao
