@@ -2,7 +2,7 @@
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,38689,PMGL Refrigeration and Aircondition Service Center,Item Serial unable to issue invoice  ,Service Request,For Cancel,0,2025-09-02 13:20:08,1899-12-30,58,0.0,Davao
-Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,55,0.0,Davao
+Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,For Cancel,0,2025-09-05 11:29:53,1899-12-30,55,0.0,Davao
 Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,52,0.0,Davao
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,50,0.0,Davao
 Ceasar Ian,39232,People's Bazar of Laak Dry Goods Retailing,Thermal printer setup,Service Request,Assigned,0,2025-09-18 11:09:47,1899-12-30,46,0.0,Davao
@@ -55,7 +55,7 @@ Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor,
 Ceasar Ian,40978,PC GATE TECHNOLOGIES INC. (temporary),Errors in activeone and pos,Service Request,Assigned,0,2025-11-10 14:05:56,1899-12-30,9,0.0,Davao
 Ceasar Ian,41030,GDY Airtech Enterprises,Installation of Tailscale ,Service Request,For Cancel,0,2025-11-11 16:20:43,1899-12-30,8,0.0,Davao
 Ceasar Ian,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,8,0.0,Davao
-Ceasar Ian,41072,ATMI Marketing,Tailscale main server VPN,Service Request,Assigned,0,2025-11-12 10:26:56,1899-12-30,7,0.0,Davao
+Ceasar Ian,41072,ATMI Marketing,Tailscale main server VPN,Service Request,Assigned,0,2025-11-12 10:26:56,1899-12-30,8,0.0,Davao
 Ceasar Ian,41110,Optical World Corporation,Simulate Upgrade database,Service Request,Assigned,0,2025-11-13 15:07:36,1899-12-30,6,0.0,Davao
 
 
