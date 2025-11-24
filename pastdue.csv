@@ -16,7 +16,7 @@ Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price
 Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,Assigned,0,2025-10-03 11:57:04,1899-12-30,36,0.0,Davao
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,36,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,36,0.0,Davao
-Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,34,0.0,Davao
+Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,In Progress,0,2025-10-07 09:06:48,1899-12-30,35,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,32,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,32,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,32,0.0,Davao
@@ -64,7 +64,7 @@ Ceasar Ian,41136,TSCA Electrical Group of Company Incorporated,Install active of
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,18,330.0,Gensan
-Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,13,0.0,Gensan
+Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,14,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,12,0.0,Gensan
 Jeric Johann,41088,Kristan Educational Supply,activeone installation,Service Request,For Cancel,0,2025-11-12 16:11:00,1899-12-30,8,0.0,Gensan
 Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,In Progress,0,2025-11-14 16:42:46,1899-12-30,6,30.0,Gensan
@@ -108,7 +108,7 @@ Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Ser
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,95,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,80,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,74,0.0,Cebu
-Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,59,0.0,Cebu
+Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,60,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,59,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,58,0.0,Cebu
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,45,0.0,Ilo-ilo
