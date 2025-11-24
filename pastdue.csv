@@ -33,7 +33,7 @@ Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax do
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,29,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,In Progress,0,2025-10-20 13:17:31,1899-12-30,26,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,23,60.0,Davao
-Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30,22,0.0,Davao
+Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,Assigned,0,2025-10-23 16:44:03,1899-12-30,23,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,22,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,21,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,Assigned,0,2025-10-28 19:57:58,1899-12-30,19,0.0,Davao
@@ -64,11 +64,11 @@ Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Ser
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,18,330.0,Gensan
+Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,19,330.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,In Progress,0,2025-11-05 09:07:27,1899-12-30,14,0.0,Gensan
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,12,0.0,Gensan
 Jeric Johann,41088,Kristan Educational Supply,activeone installation,Service Request,For Cancel,0,2025-11-12 16:11:00,1899-12-30,9,0.0,Gensan
-Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,In Progress,0,2025-11-14 16:42:46,1899-12-30,6,30.0,Gensan
+Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,In Progress,0,2025-11-14 16:42:46,1899-12-30,7,30.0,Gensan
 Jeric Johann,41160,Dadiangas Orient Marketing Inc.,No appearance sa available quality on new entry,Service Request,Resolved,0,2025-11-17 13:35:30,1899-12-30,6,150.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,Resolved,0,2025-11-17 14:16:50,1899-12-30,6,60.0,Gensan
 Jeric Johann,41162,GJ and G Marketing - Kidapawan,Header  in Invoice Transaction must appeare when printed,Service Request,Reviewed,5,2025-11-17 14:18:23,1899-12-30,6,60.0,Gensan
@@ -102,7 +102,7 @@ Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Reques
 Jude,39166,Timber Motor Parts,2) Unbalanced balance Sheet,Service Request,In Progress,0,2025-09-16 09:22:12,1899-12-30,50,0.0,Gensan
 Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,20,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,Resolved,0,2025-11-03 17:30:15,1899-12-30,15,112.0,Gensan
-Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,11,0.0,Gensan
+Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,12,0.0,Gensan
 Jude,41116,Raysmart Maitum Corporation,Receipt  stub concern on charge counter area(POS unit) cannot view full details of unit symbol,Service Request,Resolved,0,2025-11-13 15:46:37,1899-12-30,8,60.0,Gensan
 Jude,41120,Raysmart Maitum Corporation,Pa remote po sa set up ng printer ng cheque ..,Service Request,Resolved,0,2025-11-14 09:01:42,1899-12-30,7,60.0,Gensan
 Jude,41124,Jazz Save Pharmacy and Genedz Mini Mart,ORDER CAPTURE installation (additional),Service Request,Resolved,0,2025-11-14 13:26:31,1899-12-30,7,41.0,Gensan
