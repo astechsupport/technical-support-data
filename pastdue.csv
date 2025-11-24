@@ -72,6 +72,7 @@ Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment t
 Jeric Johann,41160,Dadiangas Orient Marketing Inc.,No appearance sa available quality on new entry,Service Request,Resolved,0,2025-11-17 13:35:30,1899-12-30,6,150.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,Resolved,0,2025-11-17 14:16:50,1899-12-30,6,60.0,Gensan
 Jeric Johann,41162,GJ and G Marketing - Kidapawan,Header  in Invoice Transaction must appeare when printed,Service Request,Reviewed,5,2025-11-17 14:18:23,1899-12-30,6,60.0,Gensan
+Jeric Johann,41170,JAELA'S BAKESHOPPE AND FOOD HOUSE,Get Hardware Details for POS Registration,Service Request,Resolved,0,2025-11-17 16:33:24,1899-12-30,6,90.0,Gensan
 
 
 User: Joshua
@@ -127,7 +128,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,26,0.0,Davao
 Rico,40568,Philfumes Petroleum Corporation,Financial Report Customization,Internal,For Cancel,0,2025-10-27 11:52:14,1899-12-30,21,0.0,Davao
 Rico,40582,Seawind Damosa Condominium Corporation,Template modification - invoice,Service Request,In Progress,0,2025-10-27 14:21:48,1899-12-30,21,0.0,Davao
-Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,In Progress,0,2025-10-30 18:09:05,1899-12-30,17,0.0,Davao
+Rico,40722,Davao Great Wall Trading Inc.,Processing Delay of generating reports,Service Request,For Cancel,0,2025-10-30 18:09:05,1899-12-30,17,0.0,Davao
 Rico,40738,Philfumes Petroleum Corporation,Diagnose Items G/L Account from Sales Receipt not reflected to Expenses by Class Detail,Service Request,For Cancel,0,2025-11-02 22:01:52,1899-12-30,15,0.0,Davao
 Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,Assigned,0,2025-11-06 10:22:08,1899-12-30,13,0.0,Davao
 Rico,40895,Bahaya Balut Center,Request for an Override system in which our staff will have to call our attention to provide a password if there are any circumstances of voids. ,Service Request,For Cancel,0,2025-11-06 10:22:40,1899-12-30,13,0.0,Davao
