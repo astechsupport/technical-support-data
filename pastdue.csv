@@ -12,7 +12,7 @@ Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service R
 Ceasar Ian,39507,Rhean Marketing,User Logs Type Map,Service Request,For Cancel,0,2025-09-25 12:01:45,1899-12-30,44,0.0,Davao
 Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,In Progress,0,2025-09-25 13:32:53,1899-12-30,44,0.0,Davao
 Ceasar Ian,39652,PMGL Refrigeration and Aircondition Service Center,Inventory issue naga insufficient,Service Request,For Cancel,0,2025-09-29 15:53:32,1899-12-30,42,0.0,Davao
-Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,Assigned,0,2025-10-03 11:55:37,1899-12-30,38,0.0,Davao
+Ceasar Ian,39849,JTGO Gasoline Station, Sales by item details error (Sales price) ,Service Request,For Cancel,0,2025-10-03 11:55:37,1899-12-30,38,0.0,Davao
 Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,In Progress,0,2025-10-03 11:57:04,1899-12-30,38,600.0,Davao
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,Assigned,0,2025-10-03 11:58:34,1899-12-30,38,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,38,0.0,Davao
@@ -38,8 +38,8 @@ Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer li
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,22,0.0,Davao
 Ceasar Ian,40646,Optical World Corporation,Report Concern,Service Request,For Cancel,0,2025-10-28 19:57:58,1899-12-30,20,0.0,Davao
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,In Progress,0,2025-10-29 13:29:59,1899-12-30,20,210.0,Davao
-Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,19,37.0,Davao
-Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,18,0.0,Davao
+Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,20,37.0,Davao
+Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,19,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,Assigned,0,2025-11-04 09:48:17,1899-12-30,16,0.0,Davao
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,15,0.0,Davao
 Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Reviewed,5,2025-11-07 10:13:53,1899-12-30,13,30.0,Davao
