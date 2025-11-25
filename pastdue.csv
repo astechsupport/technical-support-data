@@ -78,6 +78,7 @@ Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment t
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,Resolved,0,2025-11-17 14:16:50,1899-12-30,7,60.0,Gensan
 Jeric Johann,41162,GJ and G Marketing - Kidapawan,Header  in Invoice Transaction must appeare when printed,Service Request,In Progress,5,2025-11-17 14:18:23,1899-12-30,7,60.0,Gensan
 Jeric Johann,41170,JAELA'S BAKESHOPPE AND FOOD HOUSE,Get Hardware Details for POS Registration,Service Request,Resolved,0,2025-11-17 16:33:24,1899-12-30,7,90.0,Gensan
+Jeric Johann,41211,"Mega Grand Commercial Inc.,",Diagnosis : sales Description is not functioning ,Internal,Resolved,0,2025-11-18 16:38:36,1899-12-30,6,150.0,Gensan
 
 
 User: Joshua
@@ -121,8 +122,8 @@ Jude,41208,Jazz Save Pharmacy and Genedz Mini Mart,activeone & pos/oc database u
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,103,0.0,Ilo-ilo
-Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,96,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,81,0.0,Cebu
+Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,97,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,82,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,76,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,61,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,61,0.0,Cebu
