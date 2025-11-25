@@ -77,7 +77,7 @@ Jeric Johann,41088,Kristan Educational Supply,activeone installation,Service Req
 Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,In Progress,0,2025-11-14 16:42:46,1899-12-30,7,30.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,Resolved,0,2025-11-17 14:16:50,1899-12-30,7,60.0,Gensan
 Jeric Johann,41162,GJ and G Marketing - Kidapawan,Header  in Invoice Transaction must appeare when printed,Service Request,In Progress,5,2025-11-17 14:18:23,1899-12-30,7,60.0,Gensan
-Jeric Johann,41170,JAELA'S BAKESHOPPE AND FOOD HOUSE,Get Hardware Details for POS Registration,Service Request,Resolved,0,2025-11-17 16:33:24,1899-12-30,6,90.0,Gensan
+Jeric Johann,41170,JAELA'S BAKESHOPPE AND FOOD HOUSE,Get Hardware Details for POS Registration,Service Request,Resolved,0,2025-11-17 16:33:24,1899-12-30,7,90.0,Gensan
 
 
 User: Joshua
@@ -101,6 +101,8 @@ Joshua,41108,Activesystems Software Inc,Update Asset Monitoring ,Internal,Assign
 Joshua,41167,Richstar Variety Store,R5 POS Concern,Service Request,Assigned,0,2025-11-17 16:09:03,1899-12-30,7,0.0,CDO
 Joshua,41196,Reyrose Construction and Supply Development Corp.,MySQL Resetup (Temporary Server),Service Request,In Progress,0,2025-11-18 14:33:31,1899-12-30,6,60.0,CDO
 Joshua,41197,Reyrose Construction and Supply Development Corp.,AutoBackup (Temporary Server),Service Request,In Progress,0,2025-11-18 14:34:01,1899-12-30,6,30.0,CDO
+Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,6,60.0,CDO
+Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,6,60.0,CDO
 
 
 User: Jude
@@ -109,9 +111,11 @@ Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Reques
 Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,21,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,Resolved,0,2025-11-03 17:30:15,1899-12-30,16,112.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,In Progress,0,2025-11-07 16:40:41,1899-12-30,12,0.0,Gensan
-Jude,41116,Raysmart Maitum Corporation,Receipt  stub concern on charge counter area(POS unit) cannot view full details of unit symbol,Service Request,Resolved,0,2025-11-13 15:46:37,1899-12-30,9,60.0,Gensan
 Jude,41120,Raysmart Maitum Corporation,Pa remote po sa set up ng printer ng cheque ..,Service Request,Resolved,0,2025-11-14 09:01:42,1899-12-30,8,60.0,Gensan
 Jude,41124,Jazz Save Pharmacy and Genedz Mini Mart,ORDER CAPTURE installation (additional),Service Request,Resolved,0,2025-11-14 13:26:31,1899-12-30,8,41.0,Gensan
+Jude,41205,Jazz Save Pharmacy and Genedz Mini Mart,pos upgrade version base on latest GA  at pos unit,Service Request,Reviewed,5,2025-11-18 16:32:21,1899-12-30,6,40.0,Gensan
+Jude,41206,Jazz Save Pharmacy and Genedz Mini Mart,order capture upgrade version base on latest GA  at order capture  unit,Service Request,Reviewed,5,2025-11-18 16:32:56,1899-12-30,6,10.0,Gensan
+Jude,41208,Jazz Save Pharmacy and Genedz Mini Mart,activeone & pos/oc database upgrade version base on latest GA ,Service Request,Reviewed,5,2025-11-18 16:33:32,1899-12-30,6,206.0,Gensan
 
 
 User: Junmar
