@@ -32,7 +32,7 @@ Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - no
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Assigned,0,2025-10-15 11:34:36,1899-12-30,31,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,Assigned,0,2025-10-15 11:45:23,1899-12-30,31,0.0,Davao
 Ceasar Ian,40310,Davao Farms Corporation,Cloud Concern,Service Request,For Cancel,0,2025-10-20 13:17:31,1899-12-30,28,0.0,Davao
-Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,24,60.0,Davao
+Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,25,60.0,Davao
 Ceasar Ian,40479,989 Tagum Industrial / BUILDWELL INDUSTRIAL HARDWARE,onsite Server Maintenance,Service Request,For Cancel,0,2025-10-23 16:44:03,1899-12-30,24,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,24,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,23,0.0,Davao
@@ -97,7 +97,7 @@ Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Prog
 Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,10,0.0,CDO
 Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,10,60.0,CDO
 Joshua,41108,Activesystems Software Inc,Update Asset Monitoring ,Internal,Assigned,0,2025-11-13 14:31:28,1899-12-30,10,0.0,CDO
-Joshua,41167,Richstar Variety Store,R5 POS Concern,Service Request,Assigned,0,2025-11-17 16:09:03,1899-12-30,7,0.0,CDO
+Joshua,41167,Richstar Variety Store,R5 POS Concern,Service Request,Assigned,0,2025-11-17 16:09:03,1899-12-30,8,0.0,CDO
 Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,6,60.0,CDO
 Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,6,60.0,CDO
 Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Request,In Progress,0,2025-11-19 12:03:29,1899-12-30,6,120.0,CDO
@@ -117,7 +117,7 @@ Jude,41247,Marbel General Merchandise Corporation,pos connected to server (cant 
 
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,103,0.0,Ilo-ilo
+Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,104,0.0,Ilo-ilo
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,97,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,82,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,76,0.0,Cebu
@@ -125,7 +125,7 @@ Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,62,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,61,0.0,Cebu
 Junmar,39306,Niel Pharmacy OPC,Put Trigger on POS Item Quantity,Service Request,In Progress,0,2025-09-22 09:48:48,1899-12-30,48,0.0,Ilo-ilo
-Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,42,41.0,Cebu
+Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service Request,In Progress,0,2025-09-29 16:07:51,1899-12-30,43,41.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,10,80.0,Ilo-ilo
 
 
