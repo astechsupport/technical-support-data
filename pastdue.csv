@@ -97,8 +97,8 @@ Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,
 Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,9,60.0,CDO
 Joshua,41108,Activesystems Software Inc,Update Asset Monitoring ,Internal,Assigned,0,2025-11-13 14:31:28,1899-12-30,9,0.0,CDO
 Joshua,41167,Richstar Variety Store,R5 POS Concern,Service Request,Assigned,0,2025-11-17 16:09:03,1899-12-30,7,0.0,CDO
-Joshua,41196,Reyrose Construction and Supply Development Corp.,MySQL Resetup (Temporary Server),Service Request,Resolved,0,2025-11-18 14:33:31,1899-12-30,6,60.0,CDO
-Joshua,41197,Reyrose Construction and Supply Development Corp.,AutoBackup (Temporary Server),Service Request,In Progress,0,2025-11-18 14:34:01,1899-12-30,6,30.0,CDO
+Joshua,41196,Reyrose Construction and Supply Development Corp.,MySQL Resetup (Temporary Server),Service Request,Reviewed,5,2025-11-18 14:33:31,1899-12-30,6,60.0,CDO
+Joshua,41197,Reyrose Construction and Supply Development Corp.,AutoBackup (Temporary Server),Service Request,Reviewed,5,2025-11-18 14:34:01,1899-12-30,6,30.0,CDO
 Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,6,60.0,CDO
 Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,6,60.0,CDO
 
