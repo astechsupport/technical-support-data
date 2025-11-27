@@ -74,7 +74,7 @@ Jeric Johann,41088,Kristan Educational Supply,activeone installation,Service Req
 Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,In Progress,0,2025-11-14 16:42:46,1899-12-30,9,30.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,9,60.0,Gensan
 Jeric Johann,41162,GJ and G Marketing - Kidapawan,Header  in Invoice Transaction must appeare when printed,Service Request,In Progress,5,2025-11-17 14:18:23,1899-12-30,9,60.0,Gensan
-Jeric Johann,41239,San Lorenzo Ruiz Fishing Industry Inc.,Customized P.O signature visibility,Service Request,In Progress,5,2025-11-19 12:01:25,1899-12-30,7,150.0,Gensan
+Jeric Johann,41239,San Lorenzo Ruiz Fishing Industry Inc.,Customized P.O signature visibility,Service Request,Reviewed,5,2025-11-19 12:01:25,1899-12-30,7,150.0,Gensan
 Jeric Johann,41275,Optical World Corporation,Simulate Upgrade database(2010),Service Request,In Progress,0,2025-11-20 14:37:26,1899-12-30,6,270.0,Gensan
 
 
@@ -118,8 +118,8 @@ Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Rec
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Junmar,36506,Vexoil Phil Corporation,LPI redemption - not showing or syncing,Service Request,For Cancel,0,2025-07-04 16:06:04,1899-12-30,105,0.0,Ilo-ilo
-Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,98,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,83,0.0,Cebu
+Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,99,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,84,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,78,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,63,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,63,0.0,Cebu
