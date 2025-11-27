@@ -17,8 +17,8 @@ Ceasar Ian,39850,JTGO Gasoline Station,Vat Computation Error,Service Request,In 
 Ceasar Ian,39851,JTGO Gasoline Station,Statement  Computation Error,Service Request,For Cancel,0,2025-10-03 11:58:34,1899-12-30,39,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,39,0.0,Davao
 Ceasar Ian,39920,178 Cargo Forwarder,Fixed module not activated when when modifying documents,Internal,For Cancel,0,2025-10-07 09:06:48,1899-12-30,38,0.0,Davao
-Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,35,0.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,35,0.0,Davao
+Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,Assigned,0,2025-10-09 09:12:11,1899-12-30,36,0.0,Davao
+Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,36,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,35,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,Assigned,0,2025-10-09 13:11:36,1899-12-30,35,0.0,Davao
 Ceasar Ian,40007,"Li-Dav Agribis, Inc.",New Template for Charge invoice,Service Request,For Cancel,0,2025-10-09 13:13:02,1899-12-30,35,0.0,Davao
@@ -88,13 +88,13 @@ Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Re
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,24,0.0,CDO
 Joshua,40559,Caraga Multilines Distribution Inc.,Add check date field in sales receipt module,Service Request,In Progress,0,2025-10-27 11:22:51,1899-12-30,23,0.0,Davao
 Joshua,40752,HBO Marketing,Printer Issue (Cleech Supermart),Service Request,In Progress,0,2025-11-03 13:34:37,1899-12-30,18,0.0,CDO
-Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,16,180.0,CDO
-Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,16,30.0,CDO
+Joshua,40846,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Sales Invoice Modification,Service Request,In Progress,0,2025-11-05 09:14:44,1899-12-30,17,180.0,CDO
+Joshua,40847,GOLD STAR DAILY NEWS PUBLISHING OPC. ,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 09:15:09,1899-12-30,17,30.0,CDO
 Joshua,40858,Loy's Pharmacy Incorporated,ActiveOne Installation,Service Request,In Progress,0,2025-11-05 11:23:59,1899-12-30,16,30.0,CDO
 Joshua,40946,Loy's Pharmacy Incorporated,OC Installation,Service Request,In Progress,0,2025-11-10 08:49:24,1899-12-30,14,30.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,14,60.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,11,240.0,CDO
-Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,10,0.0,CDO
+Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,11,0.0,CDO
 Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,10,60.0,CDO
 Joshua,41108,Activesystems Software Inc,Update Asset Monitoring ,Internal,Assigned,0,2025-11-13 14:31:28,1899-12-30,10,0.0,CDO
 Joshua,41167,Richstar Variety Store,R5 POS Concern,Service Request,Assigned,0,2025-11-17 16:09:03,1899-12-30,8,0.0,CDO
