@@ -43,14 +43,14 @@ Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,S
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Assigned,0,2025-11-05 09:18:25,1899-12-30,18,0.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,Assigned,0,2025-11-07 14:56:23,1899-12-30,15,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,15,0.0,Davao
-Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,15,0.0,Davao
+Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,15,0.0,Davao
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Internal,In Progress,0,2025-11-10 13:45:42,1899-12-30,15,30.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,15,0.0,Davao
 Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Service Request,Assigned,0,2025-11-14 14:14:58,1899-12-30,11,0.0,Davao
 Ceasar Ian,41136,TSCA Electrical Group of Company Incorporated,Install active of new unit....change unit lng,Service Request,Assigned,0,2025-11-14 14:17:56,1899-12-30,11,0.0,Davao
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,9,0.0,Davao
 Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,Assigned,0,2025-11-15 18:35:17,1899-12-30,9,0.0,Davao
-Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,Assigned,0,2025-11-15 18:39:56,1899-12-30,9,0.0,Davao
+Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,For Cancel,0,2025-11-15 18:39:56,1899-12-30,9,0.0,Davao
 Ceasar Ian,41149,GDY Airtech Enterprises,Can't back up. Need to change the server. ,Service Request,In Progress,0,2025-11-15 18:42:56,1899-12-30,9,28.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,Assigned,0,2025-11-17 09:25:20,1899-12-30,10,0.0,Davao
 Ceasar Ian,41192,Southplas Manufacturing Corp.,Activeone installation,Service Request,For Cancel,0,2025-11-18 10:58:41,1899-12-30,9,0.0,Davao
@@ -106,7 +106,7 @@ Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Prog
 User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,54,0.0,Gensan
-Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,Resolved,0,2025-11-03 17:30:15,1899-12-30,19,112.0,Gensan
+Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,19,112.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,For Cancel,0,2025-11-07 16:40:41,1899-12-30,15,0.0,Gensan
 Jude,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,13,0.0,Davao
 Jude,41124,Jazz Save Pharmacy and Genedz Mini Mart,ORDER CAPTURE installation (additional),Service Request,Reviewed,5,2025-11-14 13:26:31,1899-12-30,11,41.0,Gensan
@@ -134,7 +134,7 @@ Junmar,41322,Kergen Marketing,Installation of Activeone (Warehouse),Service Requ
 
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,29,120.0,Davao
+Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,30,120.0,Davao
 Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,In Progress,0,2025-11-06 10:22:08,1899-12-30,17,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,In Progress,0,2025-11-10 11:38:20,1899-12-30,15,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,14,0.0,Davao
