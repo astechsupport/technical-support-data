@@ -46,7 +46,6 @@ Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,A
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,15,0.0,Davao
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Internal,In Progress,0,2025-11-10 13:45:42,1899-12-30,14,30.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,14,0.0,Davao
-Ceasar Ian,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,13,0.0,Davao
 Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Service Request,Assigned,0,2025-11-14 14:14:58,1899-12-30,10,0.0,Davao
 Ceasar Ian,41136,TSCA Electrical Group of Company Incorporated,Install active of new unit....change unit lng,Service Request,Assigned,0,2025-11-14 14:17:56,1899-12-30,10,0.0,Davao
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,9,0.0,Davao
@@ -65,8 +64,6 @@ Ceasar Ian,41281,"Royal Dragon Southern Distributors, Inc.",Replication set up f
 Ceasar Ian,41282,"Royal Dragon Southern Distributors, Inc.",Replication set up for Datu Bagu 3,Service Request,Resolved,0,2025-11-20 16:15:26,1899-12-30,6,40.0,Davao
 Ceasar Ian,41284,"Royal Dragon Southern Distributors, Inc.", OS installation (Temp server unit),Service Request,Resolved,0,2025-11-20 16:21:12,1899-12-30,6,80.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,6,0.0,Davao
-Ceasar Ian,41310,"Davao Baker's Choice Enterprises, Inc.",error in write check ,Service Request,Assigned,0,2025-11-21 09:41:33,1899-12-30,6,0.0,Davao
-Ceasar Ian,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,Assigned,0,2025-11-21 13:07:39,1899-12-30,6,0.0,Davao
 
 
 User: Jeric Johann
@@ -112,8 +109,10 @@ Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Reques
 Jude,40634,Raysmart Maitum Corporation,Fixing on inventory under items Tanduay 375 ml & Tanduay 750ml,Service Request,Resolved,0,2025-10-28 10:33:30,1899-12-30,24,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,Resolved,0,2025-11-03 17:30:15,1899-12-30,19,112.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,For Cancel,0,2025-11-07 16:40:41,1899-12-30,15,0.0,Gensan
+Jude,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,13,0.0,Davao
 Jude,41124,Jazz Save Pharmacy and Genedz Mini Mart,ORDER CAPTURE installation (additional),Service Request,Resolved,0,2025-11-14 13:26:31,1899-12-30,10,41.0,Gensan
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,8,0.0,Gensan
+Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,Assigned,0,2025-11-21 13:07:39,1899-12-30,6,0.0,Davao
 
 
 User: Junmar
@@ -144,4 +143,9 @@ Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,13,0.0,Davao
 Rico,41181,FB Lastimosa Enterprises,POS Installation,Service Request,For Cancel,0,2025-11-18 08:00:50,1899-12-30,9,0.0,Davao
 Rico,41184,FB Lastimosa Enterprises,ActiveOne Installation,Service Request,In Progress,0,2025-11-18 08:04:30,1899-12-30,9,0.0,Davao
+
+
+User: Venz Jan
+Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
+Venz Jan,41310,"Davao Baker's Choice Enterprises, Inc.",error in write check ,Service Request,Assigned,0,2025-11-21 09:41:33,1899-12-30,6,0.0,Davao
 
