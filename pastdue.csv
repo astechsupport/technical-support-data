@@ -46,7 +46,7 @@ Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,A
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,15,0.0,Davao
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Internal,In Progress,0,2025-11-10 13:45:42,1899-12-30,15,30.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,15,0.0,Davao
-Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Service Request,Assigned,0,2025-11-14 14:14:58,1899-12-30,10,0.0,Davao
+Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Service Request,Assigned,0,2025-11-14 14:14:58,1899-12-30,11,0.0,Davao
 Ceasar Ian,41136,TSCA Electrical Group of Company Incorporated,Install active of new unit....change unit lng,Service Request,Assigned,0,2025-11-14 14:17:56,1899-12-30,10,0.0,Davao
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,9,0.0,Davao
 Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,Assigned,0,2025-11-15 18:35:17,1899-12-30,9,0.0,Davao
@@ -98,7 +98,7 @@ Joshua,41256,Marbel Computer Center,Reset Password (Butuan),Service Request,In P
 Joshua,41257,Marbel Computer Center,Reset Password (Kauswagan),Service Request,In Progress,0,2025-11-19 16:15:47,1899-12-30,7,15.0,CDO
 Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,In Progress,0,2025-11-20 08:43:22,1899-12-30,7,90.0,CDO
 Joshua,41269,Marbel Computer Center,Sales Receipt Form Modification,Service Request,In Progress,0,2025-11-20 11:55:43,1899-12-30,7,60.0,CDO
-Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,6,0.0,CDO
+Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,7,0.0,CDO
 Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Progress,0,2025-11-21 11:40:41,1899-12-30,6,720.0,CDO
 
 
@@ -128,7 +128,7 @@ Junmar,39656,LKC Auto Parts and General Merchandise,Diagnose Inventory,Service R
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,12,80.0,Ilo-ilo
 Junmar,41267,MCR Agriventure Corporation,Consolidation for discounted price per UM,Service Request,For Cancel,0,2025-11-20 10:07:58,1899-12-30,7,0.0,Ilo-ilo
 Junmar,41268,LM Commercial,Fix Concern Vatable does not reflect in Sales Invoice,Service Request,Resolved,0,2025-11-20 10:59:02,1899-12-30,7,422.0,Cebu
-Junmar,41300,Preman Marketing & Distribution Network Inc.,Activeone Mobile Installation,Service Request,Resolved,0,2025-11-21 08:45:50,1899-12-30,6,235.0,Cebu
+Junmar,41300,Preman Marketing & Distribution Network Inc.,Activeone Mobile Installation,Service Request,Reviewed,5,2025-11-21 08:45:50,1899-12-30,6,235.0,Cebu
 Junmar,41308,San Pharma,Delivery Receipt Form Modification,Service Request,In Progress,0,2025-11-21 09:31:39,1899-12-30,6,50.0,Cebu
 Junmar,41322,Kergen Marketing,Installation of Activeone (Warehouse),Service Request,For Cancel,0,2025-11-21 11:35:49,1899-12-30,6,0.0,Ilo-ilo
 
