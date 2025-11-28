@@ -75,7 +75,6 @@ Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operationa
 Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,16,0.0,Gensan
 Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,For Cancel,0,2025-11-14 16:42:46,1899-12-30,10,30.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,9,60.0,Gensan
-Jeric Johann,41239,San Lorenzo Ruiz Fishing Industry Inc.,Customized P.O signature visibility,Service Request,Reviewed,5,2025-11-19 12:01:25,1899-12-30,7,150.0,Gensan
 Jeric Johann,41275,Optical World Corporation,Simulate Upgrade database(2010),Service Request,In Progress,0,2025-11-20 14:37:26,1899-12-30,6,270.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,6,15.0,Davao
 
@@ -139,7 +138,7 @@ Junmar,41308,San Pharma,Delivery Receipt Form Modification,Service Request,In Pr
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,29,120.0,Davao
-Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,In Progress,0,2025-11-06 10:22:08,1899-12-30,16,0.0,Davao
+Rico,40894,Bahaya Balut Center, Request for access of shared license for 2 units to be installed to my new computer.,Service Request,In Progress,0,2025-11-06 10:22:08,1899-12-30,17,0.0,Davao
 Rico,40968,Bahaya Balut Center,printer sa POS,Service Request,In Progress,0,2025-11-10 11:38:20,1899-12-30,14,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,14,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,13,0.0,Davao
