@@ -53,7 +53,7 @@ Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Ass
 Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,For Cancel,0,2025-11-15 18:39:56,1899-12-30,9,0.0,Davao
 Ceasar Ian,41149,GDY Airtech Enterprises,Can't back up. Need to change the server. ,Service Request,Reviewed,5,2025-11-15 18:42:56,1899-12-30,9,28.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,Assigned,0,2025-11-17 09:25:20,1899-12-30,10,0.0,Davao
-Ceasar Ian,41192,Southplas Manufacturing Corp.,Activeone installation,Service Request,For Cancel,0,2025-11-18 10:58:41,1899-12-30,9,0.0,Davao
+Ceasar Ian,41192,Southplas Manufacturing Corp., Sales receipt template modify,Service Request,Resolved,0,2025-11-18 10:58:41,1899-12-30,9,40.0,Davao
 Ceasar Ian,41238,Southplas Manufacturing Corp.,Reinstallation of Activeone,Service Request,Resolved,0,2025-11-19 11:28:11,1899-12-30,8,20.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,8,60.0,Davao
 Ceasar Ian,41277,"Royal Dragon Southern Distributors, Inc.",Replication set up for Temporary server 1,Service Request,Reviewed,5,2025-11-20 15:32:56,1899-12-30,7,30.0,Davao
@@ -92,8 +92,8 @@ Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Pro
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,13,240.0,CDO
 Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,12,0.0,CDO
 Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,12,60.0,CDO
-Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,8,60.0,CDO
-Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,8,60.0,CDO
+Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,9,60.0,CDO
+Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,9,60.0,CDO
 Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Request,In Progress,0,2025-11-19 12:03:29,1899-12-30,8,120.0,CDO
 Joshua,41256,Marbel Computer Center,Reset Password (Butuan),Service Request,In Progress,0,2025-11-19 16:15:20,1899-12-30,8,15.0,CDO
 Joshua,41257,Marbel Computer Center,Reset Password (Kauswagan),Service Request,In Progress,0,2025-11-19 16:15:47,1899-12-30,8,15.0,CDO
