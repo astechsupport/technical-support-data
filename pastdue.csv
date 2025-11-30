@@ -60,17 +60,17 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,44,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,44,0.0,Davao
-Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,41,0.0,CDO
-Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,37,120.0,CDO
+Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,41,60.0,CDO
+Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,37,180.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,26,0.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,15,60.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,13,240.0,CDO
 Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,In Progress,0,2025-11-13 09:11:42,1899-12-30,12,120.0,CDO
 Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,12,60.0,CDO
-Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,9,120.0,CDO
+Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,9,180.0,CDO
 Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,9,120.0,CDO
 Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Request,In Progress,0,2025-11-19 12:03:29,1899-12-30,8,120.0,CDO
-Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,In Progress,0,2025-11-20 08:43:22,1899-12-30,7,90.0,CDO
+Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,In Progress,0,2025-11-20 08:43:22,1899-12-30,7,120.0,CDO
 Joshua,41269,Marbel Computer Center,Sales Receipt Form Modification,Service Request,In Progress,0,2025-11-20 11:55:43,1899-12-30,7,60.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,7,0.0,CDO
 Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Progress,0,2025-11-21 11:40:41,1899-12-30,6,720.0,CDO
