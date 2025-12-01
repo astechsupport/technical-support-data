@@ -40,14 +40,14 @@ Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Ass
 Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,For Cancel,0,2025-11-15 18:39:56,1899-12-30,10,0.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,Assigned,0,2025-11-17 09:25:20,1899-12-30,10,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,8,0.0,Davao
-Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,6,0.0,Davao
+Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,7,0.0,Davao
 
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,23,0.0,Gensan
 Jeric Johann,40843,Activesystems Software Inc,Update Asset Monitoring,Operational Support,For Cancel,0,2025-11-05 09:07:27,1899-12-30,18,0.0,Gensan
-Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,16,0.0,Gensan
+Jeric Johann,40920,A and C Baking Supply Enterprise, Cannot Cashcount concern,Service Request,For Cancel,0,2025-11-07 08:39:27,1899-12-30,17,0.0,Gensan
 Jeric Johann,41140,J and G Trading Corporation,Computation of sales by payment type total,Service Request,For Cancel,0,2025-11-14 16:42:46,1899-12-30,11,0.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,10,0.0,Gensan
 Jeric Johann,41275,Optical World Corporation,Simulate Upgrade database(2010),Service Request,In Progress,0,2025-11-20 14:37:26,1899-12-30,7,0.0,Gensan
@@ -82,7 +82,7 @@ Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Reques
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,20,0.0,Gensan
 Jude,40943,Raysmart Maitum Corporation,customize report check list due date,Service Request,For Cancel,0,2025-11-07 16:40:41,1899-12-30,16,0.0,Gensan
 Jude,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,In Progress,0,2025-11-12 10:20:04,1899-12-30,13,0.0,Davao
-Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,8,0.0,Gensan
+Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,9,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,Assigned,0,2025-11-21 13:07:39,1899-12-30,6,0.0,Davao
 
 
