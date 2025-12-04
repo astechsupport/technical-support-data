@@ -40,7 +40,7 @@ Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login 
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,14,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,For Cancel,0,2025-11-19 16:18:58,1899-12-30,11,0.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,10,0.0,Davao
-Ceasar Ian,41353,178 Cargo Forwarder, Continuation Deployment of Waybill Template,Service Request,In Progress,0,2025-11-24 13:13:44,1899-12-30,9,0.0,Davao
+Ceasar Ian,41353,178 Cargo Forwarder, Continuation Deployment of Waybill Template,Service Request,Reviewed,4,2025-11-24 13:13:44,1899-12-30,9,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,8,0.0,Davao
 
 
@@ -92,7 +92,7 @@ Jude,41061,Ecotrans Car Rentals Transport,Installation request,Service Request,I
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,12,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2025-11-21 13:07:39,1899-12-30,10,0.0,Davao
 Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Progress,0,2025-11-26 12:52:53,1899-12-30,7,0.0,Davao
-Jude,41459,Activesystems Software Inc,database update for GMS for demo purposes of AE,Internal,For Cancel,0,2025-11-26 15:13:33,1899-12-30,6,0.0,Gensan
+Jude,41459,Activesystems Software Inc,database update for GMS for demo purposes of AE,Internal,For Cancel,0,2025-11-26 15:13:33,1899-12-30,7,0.0,Gensan
 
 
 User: Junmar
