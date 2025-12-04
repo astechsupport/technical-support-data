@@ -79,7 +79,7 @@ Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) ma
 Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Progress,0,2025-11-21 11:40:41,1899-12-30,10,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,8,0.0,CDO
 Joshua,41414,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Customer Balance Summary Modification,Service Request,In Progress,0,2025-11-25 13:10:43,1899-12-30,8,0.0,CDO
-Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,In Progress,0,2025-11-25 13:23:44,1899-12-30,7,0.0,CDO
+Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,In Progress,0,2025-11-25 13:23:44,1899-12-30,8,0.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,7,60.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,6,120.0,CDO
 
@@ -120,6 +120,5 @@ Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision f
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,41474,Activesystems Software Inc,Office Printer Cleaning ,Internal,For Close,0,2025-11-27 09:50:28,1899-12-30,6,25.0,CDO
 Venz Jan,41484,Philfumes Petroleum Corporation,Custom field does not persist in the form after saving,Service Request,In Progress,0,2025-11-27 10:24:21,1899-12-30,6,400.0,Davao
 
