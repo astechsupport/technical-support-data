@@ -114,3 +114,8 @@ Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Req
 Rico,41184,FB Lastimosa Enterprises,ActiveOne Installation,Service Request,In Progress,0,2025-11-18 08:04:30,1899-12-30,13,0.0,Davao
 Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,In Progress,0,2025-11-24 15:17:07,1899-12-30,8,0.0,Davao
 
+
+User: Venz Jan
+Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
+Venz Jan,41474,Activesystems Software Inc,Office Printer Cleaning ,Internal,In Progress,0,2025-11-27 09:50:28,1899-12-30,6,25.0,CDO
+
