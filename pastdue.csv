@@ -28,7 +28,7 @@ Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,26,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,24,105.0,Davao
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Resolved,0,2025-11-05 09:18:25,1899-12-30,23,30.0,Davao
-Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,20,0.0,Davao
+Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,21,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,20,0.0,Davao
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,20,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,20,0.0,Davao
@@ -54,7 +54,7 @@ Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail repor
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,Resolved,0,2025-11-24 16:24:42,1899-12-30,9,90.0,Davao
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,9,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,In Progress,0,2025-11-25 10:43:13,1899-12-30,9,0.0,Gensan
-Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,7,0.0,Davao
+Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,7,60.0,Davao
 Jeric Johann,41520,Philfumes Petroleum Corporation,Setup RDP/Thinstuff connection (Mac) Unit,Service Request,Reviewed,5,2025-11-28 14:04:06,1899-12-30,6,180.0,Davao
 
 
