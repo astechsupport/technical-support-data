@@ -23,7 +23,7 @@ Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, S
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,31,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,31,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,30,0.0,Davao
-Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,For Cancel,0,2025-10-29 13:29:59,1899-12-30,27,0.0,Davao
+Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,For Cancel,0,2025-10-29 13:29:59,1899-12-30,28,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,27,50.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,26,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,24,105.0,Davao
@@ -47,7 +47,7 @@ Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliverie
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,27,0.0,Gensan
-Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,14,0.0,Gensan
+Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,14,59.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,11,0.0,Davao
 Jeric Johann,41336,Melcon Marine Contractors Inc.,Deposit payment cant select individual,Service Request,For Cancel,0,2025-11-21 14:45:47,1899-12-30,10,0.0,Davao
 Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,10,0.0,Davao
