@@ -50,7 +50,7 @@ Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,15,59.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,11,0.0,Davao
 Jeric Johann,41336,Melcon Marine Contractors Inc.,Deposit payment cant select individual,Service Request,For Cancel,0,2025-11-21 14:45:47,1899-12-30,11,0.0,Davao
-Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,10,0.0,Davao
+Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,11,0.0,Davao
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,Resolved,0,2025-11-24 16:24:42,1899-12-30,10,90.0,Davao
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,9,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,In Progress,0,2025-11-25 10:43:13,1899-12-30,9,0.0,Gensan
@@ -108,7 +108,7 @@ Junmar,41450,Meat JAS 4U OPC,Backward Date for POS,Service Request,For Cancel,0,
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,35,0.0,Davao
-Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,19,0.0,Davao
+Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,20,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,19,0.0,Davao
 Rico,41184,FB Lastimosa Enterprises,ActiveOne Installation,Service Request,In Progress,0,2025-11-18 08:04:30,1899-12-30,14,0.0,Davao
 Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,For Cancel,0,2025-11-24 15:17:07,1899-12-30,10,0.0,Davao
