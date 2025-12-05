@@ -2,7 +2,7 @@
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,65,0.0,Davao
-Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,62,0.0,Davao
+Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,In Progress,0,2025-09-10 10:33:13,1899-12-30,63,0.0,Davao
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,60,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,54,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,53,0.0,Davao
@@ -54,7 +54,7 @@ Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail repor
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,Resolved,0,2025-11-24 16:24:42,1899-12-30,9,90.0,Davao
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,9,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,In Progress,0,2025-11-25 10:43:13,1899-12-30,8,0.0,Gensan
-Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,6,0.0,Davao
+Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,7,0.0,Davao
 
 
 User: Joshua
