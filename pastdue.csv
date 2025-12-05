@@ -2,11 +2,9 @@
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,66,0.0,Davao
-Ceasar Ian,38995,Dariv Power Tools Trading,Modification template (Purchases by vendor details),Internal,For Close,0,2025-09-10 10:33:13,1899-12-30,63,0.0,Davao
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,60,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,54,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,53,0.0,Davao
-Ceasar Ian,39529,Malagos Agri-Ventures Corporation,Update Activeone to Latest,Service Request,Reviewed,5,2025-09-25 13:32:53,1899-12-30,52,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,46,0.0,Davao
 Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,For Cancel,0,2025-10-09 09:12:11,1899-12-30,42,0.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,For Cancel,0,2025-10-09 09:14:44,1899-12-30,42,0.0,Davao
@@ -40,7 +38,6 @@ Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login 
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,15,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,For Cancel,0,2025-11-19 16:18:58,1899-12-30,13,0.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,11,0.0,Davao
-Ceasar Ian,41353,178 Cargo Forwarder, Continuation Deployment of Waybill Template,Service Request,Reviewed,4,2025-11-24 13:13:44,1899-12-30,10,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,9,0.0,Davao
 
 
@@ -55,7 +52,6 @@ Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,9,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,In Progress,0,2025-11-25 10:43:13,1899-12-30,9,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,7,60.0,Davao
-Jeric Johann,41520,Philfumes Petroleum Corporation,Setup RDP/Thinstuff connection (Mac) Unit,Service Request,Reviewed,5,2025-11-28 14:04:06,1899-12-30,6,180.0,Davao
 
 
 User: Joshua
