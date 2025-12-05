@@ -61,7 +61,7 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,48,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,48,0.0,Davao
-Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,45,0.0,CDO
+Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,46,0.0,CDO
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,41,0.0,CDO
 Joshua,40520,REYROSE CONSTRUCTION AND SUPPLY DEVELOPMENT CORP. / MAHIGALAON BEACH RESORT,POS Receipt Vat Concern ,Service Request,In Progress,0,2025-10-24 13:44:19,1899-12-30,30,0.0,CDO
 Joshua,40948,Unisafe Marketing Inc.,Run CheckInv. Utility,Service Request,In Progress,0,2025-11-10 08:51:37,1899-12-30,20,0.0,CDO
@@ -79,7 +79,7 @@ Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Reque
 Joshua,41414,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Customer Balance Summary Modification,Service Request,In Progress,0,2025-11-25 13:10:43,1899-12-30,8,0.0,CDO
 Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,In Progress,0,2025-11-25 13:23:44,1899-12-30,8,0.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,8,60.0,CDO
-Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,6,120.0,CDO
+Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,7,120.0,CDO
 
 
 User: Jude
