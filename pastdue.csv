@@ -40,7 +40,7 @@ Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Ser
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,11,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,6,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,6,0.0,Davao
-Ceasar Ian,41576,LYN Development Cooperative,Cant Open A1,Service Request,Resolved,0,2025-12-02 09:07:31,1899-12-30,6,17.0,Davao
+Ceasar Ian,41576,LYN Development Cooperative,Cant Open A1,Service Request,Reviewed,5,2025-12-02 09:07:31,1899-12-30,6,17.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,6,30.0,Davao
 Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,In Progress,0,2025-12-02 09:49:46,1899-12-30,6,0.0,Davao
 Ceasar Ian,41591,GMS Auto Care Center,set up autobackup,Service Request,In Progress,0,2025-12-02 09:50:19,1899-12-30,6,0.0,Davao
@@ -54,7 +54,7 @@ Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,13,0.0,Davao
 Jeric Johann,41336,Melcon Marine Contractors Inc.,Deposit payment cant select individual,Service Request,For Cancel,0,2025-11-21 14:45:47,1899-12-30,12,0.0,Davao
 Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,12,0.0,Davao
-Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,Resolved,0,2025-11-24 16:24:42,1899-12-30,11,90.0,Davao
+Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,11,90.0,Davao
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,11,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,In Progress,0,2025-11-25 10:43:13,1899-12-30,11,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,9,60.0,Davao
@@ -77,7 +77,7 @@ Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Reque
 Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,15,0.0,CDO
 Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Request,In Progress,0,2025-11-19 12:03:29,1899-12-30,14,60.0,CDO
 Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,In Progress,0,2025-11-20 08:43:22,1899-12-30,14,0.0,CDO
-Joshua,41269,Marbel Computer Center,Sales Receipt Form Modification,Service Request,In Progress,0,2025-11-20 11:55:43,1899-12-30,13,0.0,CDO
+Joshua,41269,Marbel Computer Center,Sales Receipt Form Modification,Service Request,In Progress,0,2025-11-20 11:55:43,1899-12-30,14,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,13,0.0,CDO
 Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Progress,0,2025-11-21 11:40:41,1899-12-30,13,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,11,0.0,CDO
