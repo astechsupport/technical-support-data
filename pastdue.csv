@@ -97,6 +97,7 @@ Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2
 Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Progress,0,2025-11-26 12:52:53,1899-12-30,10,0.0,Davao
 Jude,41557,BOYLES CONSTRUCTION SUPPLY,Can't Open POS,Service Request,Resolved,0,2025-12-01 16:08:37,1899-12-30,6,60.0,Gensan
 Jude,41613,GJ and G Marketing - Kidapawan,on fly assistance on CSm ,Service Request,In Progress,0,2025-12-02 14:02:35,1899-12-30,6,264.0,Gensan
+Jude,41617,Raysmart Maitum Corporation,lag concern on activeone/ pos concern,Service Request,In Progress,0,2025-12-02 14:07:44,1899-12-30,6,510.0,Gensan
 
 
 User: Junmar
@@ -131,4 +132,5 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41484,Philfumes Petroleum Corporation,Custom field does not persist in the form after saving,Service Request,In Progress,0,2025-11-27 10:24:21,1899-12-30,9,490.0,Davao
 Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,7,95.0,Davao
 Venz Jan,41552,Super Motor Parts,Replication Maintenance: Document not found on JR Broja,Service Request,In Progress,0,2025-12-01 15:33:03,1899-12-30,6,35.0,CDO
+Venz Jan,41616,Activesystems Software Inc,Update Sales Invoice ,Internal,In Progress,0,2025-12-02 14:07:20,1899-12-30,6,29.0,CDO
 
