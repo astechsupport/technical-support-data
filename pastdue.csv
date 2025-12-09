@@ -36,7 +36,7 @@ Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Ass
 Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,For Cancel,0,2025-11-15 18:39:56,1899-12-30,16,0.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,16,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,For Cancel,0,2025-11-19 16:18:58,1899-12-30,14,0.0,Davao
-Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,12,0.0,Davao
+Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,13,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,10,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,6,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,6,0.0,Davao
@@ -53,8 +53,8 @@ Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,10,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,In Progress,0,2025-11-25 10:43:13,1899-12-30,10,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,8,60.0,Davao
-Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,6,0.0,Gensan
-Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,6,0.0,Gensan
+Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,7,0.0,Gensan
+Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,7,0.0,Gensan
 Jeric Johann,41537,Divsmed Pharmaceutical Products Distribution,Unit of measurement pa add sa receipt.,Service Request,Reviewed,5,2025-12-01 09:54:04,1899-12-30,6,30.0,Gensan
 
 
@@ -87,7 +87,7 @@ User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,60,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,26,0.0,Gensan
-Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,14,0.0,Gensan
+Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,15,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2025-11-21 13:07:39,1899-12-30,12,0.0,Davao
 Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Progress,0,2025-11-26 12:52:53,1899-12-30,9,0.0,Davao
 Jude,41557,BOYLES CONSTRUCTION SUPPLY,Can't Open POS,Service Request,Resolved,0,2025-12-01 16:08:37,1899-12-30,6,60.0,Gensan
