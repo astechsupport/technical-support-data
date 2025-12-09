@@ -61,7 +61,7 @@ Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not bein
 Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,7,0.0,Gensan
 Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,7,0.0,Gensan
 Jeric Johann,41624,JAELA'S BAKESHOPPE AND FOOD HOUSE,update sales invoice under new registration,Service Request,For Cancel,0,2025-12-02 15:18:08,1899-12-30,6,0.0,Gensan
-Jeric Johann,41626,Kristan Educational Supply,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:19:26,1899-12-30,6,90.0,Gensan
+Jeric Johann,41626,Kristan Educational Supply,Update sales invoice under new regostration,Service Request,Resolved,0,2025-12-02 15:19:26,1899-12-30,6,90.0,Gensan
 
 
 User: Joshua
@@ -93,7 +93,7 @@ Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service 
 User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,61,0.0,Gensan
-Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,26,0.0,Gensan
+Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,27,0.0,Gensan
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,15,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2025-11-21 13:07:39,1899-12-30,13,0.0,Davao
 Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Progress,0,2025-11-26 12:52:53,1899-12-30,10,0.0,Davao
