@@ -39,7 +39,7 @@ Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,For C
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,13,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,11,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,7,0.0,Davao
-Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,6,0.0,Davao
+Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,7,0.0,Davao
 Ceasar Ian,41576,LYN Development Cooperative,Cant Open A1,Service Request,Reviewed,5,2025-12-02 09:07:31,1899-12-30,6,17.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,6,30.0,Davao
 Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,In Progress,0,2025-12-02 09:49:46,1899-12-30,6,0.0,Davao
@@ -123,7 +123,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,37,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,22,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,21,0.0,Davao
-Rico,41184,FB Lastimosa Enterprises,ActiveOne Installation,Service Request,In Progress,0,2025-11-18 08:04:30,1899-12-30,16,0.0,Davao
+Rico,41184,FB Lastimosa Enterprises,ActiveOne Installation,Service Request,In Progress,0,2025-11-18 08:04:30,1899-12-30,17,0.0,Davao
 Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,For Cancel,0,2025-11-24 15:17:07,1899-12-30,12,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,9,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,6,0.0,Davao
