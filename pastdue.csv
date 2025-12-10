@@ -17,7 +17,7 @@ Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not 
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,For Cancel,0,2025-10-15 11:30:51,1899-12-30,41,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,In Progress,0,2025-10-15 11:34:36,1899-12-30,41,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,In Progress,0,2025-10-15 11:45:23,1899-12-30,41,0.0,Davao
-Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,34,0.0,Davao
+Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,35,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,34,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,33,0.0,Davao
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,For Cancel,0,2025-10-29 13:29:59,1899-12-30,31,0.0,Davao
@@ -94,7 +94,7 @@ Joshua,41414,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Customer Balance Summary Modi
 Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,In Progress,0,2025-11-25 13:23:44,1899-12-30,12,0.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,11,60.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,10,120.0,CDO
-Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,7,90.0,CDO
+Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,7,150.0,CDO
 
 
 User: Jude
@@ -104,7 +104,7 @@ Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progres
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,16,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2025-11-21 13:07:39,1899-12-30,14,0.0,Davao
 Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Progress,0,2025-11-26 12:52:53,1899-12-30,11,0.0,Davao
-Jude,41557,BOYLES CONSTRUCTION SUPPLY,Can't Open POS,Service Request,Resolved,0,2025-12-01 16:08:37,1899-12-30,7,60.0,Gensan
+Jude,41557,BOYLES CONSTRUCTION SUPPLY,Can't Open POS,Service Request,Resolved,0,2025-12-01 16:08:37,1899-12-30,8,60.0,Gensan
 Jude,41613,GJ and G Marketing - Kidapawan,on fly assistance on CSm ,Service Request,In Progress,0,2025-12-02 14:02:35,1899-12-30,7,324.0,Gensan
 Jude,41617,Raysmart Maitum Corporation,lag concern on activeone/ pos concern,Service Request,In Progress,0,2025-12-02 14:07:44,1899-12-30,7,510.0,Gensan
 Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Service Request,In Progress,0,2025-12-02 14:34:26,1899-12-30,7,0.0,Gensan
@@ -149,6 +149,6 @@ User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41484,Philfumes Petroleum Corporation,Custom field does not persist in the form after saving,Service Request,In Progress,0,2025-11-27 10:24:21,1899-12-30,10,554.0,Davao
 Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,9,95.0,Davao
-Venz Jan,41552,Super Motor Parts,Replication Maintenance: Document not found on JR Broja,Service Request,In Progress,0,2025-12-01 15:33:03,1899-12-30,8,255.0,CDO
+Venz Jan,41552,Super Motor Parts,Replication Maintenance: Document not found on JR Broja,Service Request,In Progress,0,2025-12-01 15:33:03,1899-12-30,8,305.0,CDO
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,6,80.0,CDO
 
