@@ -60,7 +60,7 @@ Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,
 Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,8,0.0,Gensan
 Jeric Johann,41624,JAELA'S BAKESHOPPE AND FOOD HOUSE,update sales invoice under new registration,Service Request,For Cancel,0,2025-12-02 15:18:08,1899-12-30,6,0.0,Gensan
 Jeric Johann,41626,Kristan Educational Supply,Update sales invoice under new regostration,Service Request,Resolved,0,2025-12-02 15:19:26,1899-12-30,6,90.0,Gensan
-Jeric Johann,41641,Green Rise Marketing and Co.,re-installation of A1 POS,Service Request,Reviewed,5,2025-12-03 10:08:18,1899-12-30,6,84.0,Davao
+Jeric Johann,41646,18 Degrees Air Cooling Solutions Inc., Remote Desktop Setup on Server - Thinstuff ,Service Request,Assigned,0,2025-12-03 10:19:34,1899-12-30,6,0.0,Davao
 
 
 User: Joshua
@@ -139,6 +139,5 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41484,Philfumes Petroleum Corporation,Custom field does not persist in the form after saving,Service Request,In Progress,0,2025-11-27 10:24:21,1899-12-30,9,554.0,Davao
 Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,8,95.0,Davao
 Venz Jan,41552,Super Motor Parts,Replication Maintenance: Document not found on JR Broja,Service Request,In Progress,0,2025-12-01 15:33:03,1899-12-30,7,215.0,CDO
-Venz Jan,41616,J&J Aklan Trading ,Update Sales Invoice ,Internal,For Close,0,2025-12-02 14:07:20,1899-12-30,6,49.0,CDO
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,6,80.0,CDO
 
