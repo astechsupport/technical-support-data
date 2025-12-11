@@ -49,7 +49,7 @@ Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the d
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,31,0.0,Gensan
+Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,For Close,0,2025-10-29 16:41:27,1899-12-30,31,0.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,19,104.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,15,0.0,Davao
 Jeric Johann,41336,Melcon Marine Contractors Inc.,Deposit payment cant select individual,Service Request,For Cancel,0,2025-11-21 14:45:47,1899-12-30,14,0.0,Davao
@@ -157,7 +157,7 @@ Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,Assigned,0,
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,9,95.0,Davao
+Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,10,95.0,Davao
 Venz Jan,41552,Super Motor Parts,Replication Maintenance: Document not found on JR Broja,Service Request,In Progress,0,2025-12-01 15:33:03,1899-12-30,8,425.0,CDO
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,7,80.0,CDO
 Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,In Progress,0,2025-12-04 11:24:29,1899-12-30,6,60.0,Davao
