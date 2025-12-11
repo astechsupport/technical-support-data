@@ -16,7 +16,7 @@ Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,For Cancel,0,2025-10-15 11:29:45,1899-12-30,42,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,For Cancel,0,2025-10-15 11:30:51,1899-12-30,42,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,In Progress,0,2025-10-15 11:34:36,1899-12-30,42,0.0,Davao
-Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,In Progress,0,2025-10-15 11:45:23,1899-12-30,41,0.0,Davao
+Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,In Progress,0,2025-10-15 11:45:23,1899-12-30,42,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,35,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,35,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,34,0.0,Davao
@@ -131,7 +131,7 @@ Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Prog
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,21,0.0,Ilo-ilo
 Junmar,41450,Meat JAS 4U OPC,Backward Date for POS,Service Request,For Cancel,0,2025-11-26 14:20:15,1899-12-30,11,0.0,Davao
 Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,7,50.0,Cebu
-Junmar,41665,Baraclan Sari-Sari Store,Set up Autobackup,Service Request,Resolved,0,2025-12-03 11:47:05,1899-12-30,6,80.0,Davao
+Junmar,41665,Baraclan Sari-Sari Store,Set up Autobackup,Service Request,Resolved,0,2025-12-03 11:47:05,1899-12-30,7,80.0,Davao
 
 
 User: Rico
