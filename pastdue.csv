@@ -91,7 +91,7 @@ Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Requ
 Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,For Close,0,2025-11-20 08:43:22,1899-12-30,16,0.0,CDO
 Joshua,41269,Marbel Computer Center,Sales Receipt Form Modification,Service Request,In Progress,0,2025-11-20 11:55:43,1899-12-30,15,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,15,0.0,CDO
-Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Progress,0,2025-11-21 11:40:41,1899-12-30,14,0.0,CDO
+Joshua,41325,Companero Commercial,Mobile Syncing concern,Service Request,In Progress,0,2025-11-21 11:40:41,1899-12-30,15,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,13,120.0,CDO
 Joshua,41414,GOLD STAR DAILY NEWS PUBLISHING OPC. ,Customer Balance Summary Modification,Service Request,In Progress,0,2025-11-25 13:10:43,1899-12-30,12,0.0,CDO
 Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,In Progress,0,2025-11-25 13:23:44,1899-12-30,12,0.0,CDO
@@ -157,6 +157,8 @@ Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Servic
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,6,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,In Progress,0,2025-12-04 11:38:37,1899-12-30,6,120.0,Davao
 Rico,41701,St. Francis Shell Station V,Check Network Connectivity all Units,Service Request,In Progress,0,2025-12-04 11:40:18,1899-12-30,6,80.0,Davao
+Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,6,0.0,Davao
+Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,Assigned,0,2025-12-04 11:43:53,1899-12-30,6,0.0,Davao
 
 
 User: Venz Jan
