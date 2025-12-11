@@ -112,7 +112,7 @@ Jude,41617,Raysmart Maitum Corporation,lag concern on activeone/ pos concern,Ser
 Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Service Request,In Progress,0,2025-12-02 14:34:26,1899-12-30,7,0.0,Gensan
 Jude,41625,BREADS & BLENDS CAFE,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:18:57,1899-12-30,7,0.0,Gensan
 Jude,41627,JAZZCARE PHARMACY,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:20:03,1899-12-30,7,0.0,Gensan
-Jude,41639,U7DS Corporation,other units is not connected to the server,Service Request,In Progress,0,2025-12-03 10:03:25,1899-12-30,6,0.0,Gensan
+Jude,41639,U7DS Corporation,other units is not connected to the server,Service Request,In Progress,0,2025-12-03 10:03:25,1899-12-30,7,0.0,Gensan
 Jude,41673,ACJDM Consumer Goods Trading,Request for new connection,Service Request,For Cancel,0,2025-12-04 08:24:54,1899-12-30,6,0.0,Gensan
 Jude,41674,Lynnre Trading,We would like to formally request assistance in recovering all the files that were corrupted or lost due to the system being formatted.,Service Request,For Cancel,0,2025-12-04 08:34:18,1899-12-30,6,0.0,Gensan
 
@@ -149,6 +149,7 @@ Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,6,0.0,Davao
 Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,Assigned,0,2025-12-04 09:59:27,1899-12-30,6,0.0,Davao
 Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,Assigned,0,2025-12-04 10:00:05,1899-12-30,6,0.0,Davao
+Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,Assigned,0,2025-12-04 10:00:46,1899-12-30,6,0.0,Davao
 
 
 User: Venz Jan
