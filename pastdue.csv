@@ -101,7 +101,7 @@ Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-
 
 User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,62,0.0,Gensan
+Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,63,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,28,0.0,Gensan
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,17,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2025-11-21 13:07:39,1899-12-30,14,0.0,Davao
@@ -141,7 +141,7 @@ Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,Fo
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,10,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,8,0.0,Davao
 Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,8,0.0,Davao
-Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,7,0.0,Davao
+Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,8,0.0,Davao
 Rico,41585,St. Francis Shell Station V,Meeting with Client,Service Request,In Progress,0,2025-12-02 09:34:57,1899-12-30,7,120.0,Davao
 Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Request,Assigned,0,2025-12-03 10:09:25,1899-12-30,6,0.0,Davao
 Rico,41643,Philfumes Petroleum Corporation,MOdify Cheque Templat,Service Request,Assigned,0,2025-12-03 10:10:08,1899-12-30,6,0.0,Davao
