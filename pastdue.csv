@@ -2,7 +2,7 @@
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,38867,Sports Town Incorporated,Diagnosed Sales discount from ETP not synced to ActiveOne.,Service Request,In Progress,0,2025-09-05 11:29:53,1899-12-30,69,0.0,Davao
-Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,63,0.0,Davao
+Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,64,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,58,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,57,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,Assigned,0,2025-10-03 12:01:18,1899-12-30,49,0.0,Davao
@@ -69,6 +69,7 @@ Jeric Johann,41649,18 Degrees Air Cooling Solutions Inc.,Data Migration - Master
 Jeric Johann,41650,18 Degrees Air Cooling Solutions Inc.,Data Migration - Inventory,Service Request,Assigned,0,2025-12-03 10:37:23,1899-12-30,6,0.0,Davao
 Jeric Johann,41652,18 Degrees Air Cooling Solutions Inc., Data Migration - Accounts Receivables,Service Request,Assigned,0,2025-12-03 10:38:20,1899-12-30,6,0.0,Davao
 Jeric Johann,41653,18 Degrees Air Cooling Solutions Inc.,Data Migration - Accounts Payables,Service Request,Assigned,0,2025-12-03 10:39:00,1899-12-30,6,0.0,Davao
+Jeric Johann,41678,Limco Pharma And Medical Supplies Distribution,Workstation can't connect to server,Service Request,Resolved,0,2025-12-04 08:57:18,1899-12-30,6,30.0,Gensan
 
 
 User: Joshua
@@ -150,7 +151,7 @@ Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,A
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,41484,Philfumes Petroleum Corporation,Custom field does not persist in the form after saving,Service Request,In Progress,0,2025-11-27 10:24:21,1899-12-30,10,554.0,Davao
+Venz Jan,41484,Philfumes Petroleum Corporation,Custom field does not persist in the form after saving,Service Request,For Close,0,2025-11-27 10:24:21,1899-12-30,10,554.0,Davao
 Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,9,95.0,Davao
 Venz Jan,41552,Super Motor Parts,Replication Maintenance: Document not found on JR Broja,Service Request,In Progress,0,2025-12-01 15:33:03,1899-12-30,8,425.0,CDO
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,7,80.0,CDO
