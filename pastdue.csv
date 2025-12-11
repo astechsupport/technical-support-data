@@ -51,7 +51,7 @@ Ceasar Ian,41692,"Royal Dragon Southern Distributors, Inc.", Replication reset u
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,In Progress,0,2025-10-29 16:41:27,1899-12-30,31,0.0,Gensan
+Jeric Johann,40695,Light Diamond Enterprises,autobackup resetup,Service Request,For Close,0,2025-10-29 16:41:27,1899-12-30,31,0.0,Gensan
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,18,104.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,15,0.0,Davao
 Jeric Johann,41336,Melcon Marine Contractors Inc.,Deposit payment cant select individual,Service Request,For Cancel,0,2025-11-21 14:45:47,1899-12-30,14,0.0,Davao
@@ -110,7 +110,7 @@ Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2
 Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Progress,0,2025-11-26 12:52:53,1899-12-30,12,0.0,Davao
 Jude,41557,BOYLES CONSTRUCTION SUPPLY,Can't Open POS,Service Request,Resolved,0,2025-12-01 16:08:37,1899-12-30,8,60.0,Gensan
 Jude,41613,GJ and G Marketing - Kidapawan,on fly assistance on CSm ,Service Request,For Close,0,2025-12-02 14:02:35,1899-12-30,8,324.0,Gensan
-Jude,41617,Raysmart Maitum Corporation,lag concern on activeone/ pos concern,Service Request,For Close,0,2025-12-02 14:07:44,1899-12-30,7,510.0,Gensan
+Jude,41617,Raysmart Maitum Corporation,lag concern on activeone/ pos concern,Service Request,For Close,0,2025-12-02 14:07:44,1899-12-30,8,510.0,Gensan
 Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Service Request,In Progress,0,2025-12-02 14:34:26,1899-12-30,7,0.0,Gensan
 Jude,41625,BREADS & BLENDS CAFE,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:18:57,1899-12-30,7,0.0,Gensan
 Jude,41627,JAZZCARE PHARMACY,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:20:03,1899-12-30,7,0.0,Gensan
