@@ -109,7 +109,7 @@ Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,In Pr
 Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Service Request,In Progress,0,2025-12-02 14:34:26,1899-12-30,8,0.0,Gensan
 Jude,41625,BREADS & BLENDS CAFE,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:18:57,1899-12-30,8,0.0,Gensan
 Jude,41627,JAZZCARE PHARMACY,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:20:03,1899-12-30,8,0.0,Gensan
-Jude,41639,U7DS Corporation,other units is not connected to the server,Service Request,In Progress,0,2025-12-03 10:03:25,1899-12-30,7,0.0,Gensan
+Jude,41639,U7DS Corporation,other units is not connected to the server,Service Request,In Progress,0,2025-12-03 10:03:25,1899-12-30,8,0.0,Gensan
 
 
 User: Junmar
@@ -142,7 +142,7 @@ Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,7,0.0,Davao
 Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,In Progress,0,2025-12-04 09:59:27,1899-12-30,7,0.0,Davao
 Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,Assigned,0,2025-12-04 10:00:05,1899-12-30,7,0.0,Davao
-Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,Assigned,0,2025-12-04 10:00:46,1899-12-30,6,0.0,Davao
+Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,Assigned,0,2025-12-04 10:00:46,1899-12-30,7,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,6,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,6,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,In Progress,0,2025-12-04 11:38:37,1899-12-30,6,120.0,Davao
