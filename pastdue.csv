@@ -16,7 +16,7 @@ Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,For Cancel,0,2025-10-15 11:29:45,1899-12-30,43,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,For Cancel,0,2025-10-15 11:30:51,1899-12-30,43,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,In Progress,0,2025-10-15 11:34:36,1899-12-30,43,0.0,Davao
-Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,For Cancel,0,2025-10-15 11:45:23,1899-12-30,42,0.0,Davao
+Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,For Cancel,0,2025-10-15 11:45:23,1899-12-30,43,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,36,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,36,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,35,0.0,Davao
@@ -148,8 +148,8 @@ Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Servic
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,7,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,In Progress,0,2025-12-04 11:38:37,1899-12-30,7,120.0,Davao
 Rico,41701,St. Francis Shell Station V,Check Network Connectivity all Units,Service Request,In Progress,0,2025-12-04 11:40:18,1899-12-30,7,80.0,Davao
-Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,6,0.0,Davao
-Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,In Progress,0,2025-12-04 11:43:53,1899-12-30,6,0.0,Davao
+Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,7,0.0,Davao
+Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,In Progress,0,2025-12-04 11:43:53,1899-12-30,7,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,6,0.0,Davao
 
 
