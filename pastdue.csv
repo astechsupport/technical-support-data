@@ -10,7 +10,7 @@ Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,For 
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,For Cancel,0,2025-10-09 09:14:44,1899-12-30,47,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,For Cancel,0,2025-10-09 09:17:49,1899-12-30,47,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,For Cancel,0,2025-10-09 13:11:36,1899-12-30,46,0.0,Davao
-Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,45,0.0,Davao
+Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,46,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,44,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,In Progress,0,2025-10-13 14:22:28,1899-12-30,44,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,For Cancel,0,2025-10-15 11:29:45,1899-12-30,42,150.0,Davao
@@ -134,7 +134,7 @@ Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,Fo
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,11,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,9,0.0,Davao
 Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,9,0.0,Davao
-Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,9,0.0,Davao
+Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,9,60.0,Davao
 Rico,41585,St. Francis Shell Station V,Meeting with Client,Service Request,In Progress,0,2025-12-02 09:34:57,1899-12-30,8,120.0,Davao
 Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Request,Assigned,0,2025-12-03 10:09:25,1899-12-30,7,0.0,Davao
 Rico,41643,Philfumes Petroleum Corporation,MOdify Cheque Templat,Service Request,Assigned,0,2025-12-03 10:10:08,1899-12-30,7,0.0,Davao
