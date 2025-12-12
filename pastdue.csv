@@ -23,7 +23,7 @@ Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in
 Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,For Cancel,0,2025-10-29 13:29:59,1899-12-30,32,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,32,50.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,31,0.0,Davao
-Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,28,105.0,Davao
+Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,29,105.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,25,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,24,0.0,Davao
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,24,0.0,Davao
@@ -40,8 +40,8 @@ Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliverie
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,9,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,9,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,9,30.0,Davao
-Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,In Progress,0,2025-12-02 09:49:46,1899-12-30,8,0.0,Davao
-Ceasar Ian,41591,GMS Auto Care Center,set up autobackup,Service Request,In Progress,0,2025-12-02 09:50:19,1899-12-30,8,0.0,Davao
+Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,In Progress,0,2025-12-02 09:49:46,1899-12-30,9,0.0,Davao
+Ceasar Ian,41591,GMS Auto Care Center,set up autobackup,Service Request,In Progress,0,2025-12-02 09:50:19,1899-12-30,9,0.0,Davao
 Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,Assigned,0,2025-12-02 09:52:16,1899-12-30,8,0.0,Davao
 Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30,7,0.0,Davao
 Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30,7,0.0,Davao
@@ -132,8 +132,8 @@ Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Req
 Rico,41184,FB Lastimosa Enterprises,POS Installation,Service Request,For Cancel,0,2025-11-18 08:04:30,1899-12-30,19,0.0,Davao
 Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,For Cancel,0,2025-11-24 15:17:07,1899-12-30,14,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,11,0.0,Davao
-Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,9,0.0,Davao
-Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,9,0.0,Davao
+Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,9,120.0,Davao
+Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,9,120.0,Davao
 Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,9,60.0,Davao
 Rico,41585,St. Francis Shell Station V,Meeting with Client,Service Request,In Progress,0,2025-12-02 09:34:57,1899-12-30,9,120.0,Davao
 Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Request,Assigned,0,2025-12-03 10:09:25,1899-12-30,7,0.0,Davao
@@ -149,6 +149,7 @@ Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Serv
 Rico,41701,St. Francis Shell Station V,Check Network Connectivity all Units,Service Request,In Progress,0,2025-12-04 11:40:18,1899-12-30,6,80.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,6,0.0,Davao
 Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,Assigned,0,2025-12-04 11:43:53,1899-12-30,6,0.0,Davao
+Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,6,0.0,Davao
 
 
 User: Venz Jan
