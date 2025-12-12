@@ -14,8 +14,8 @@ Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service 
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,44,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,In Progress,0,2025-10-13 14:22:28,1899-12-30,44,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,For Cancel,0,2025-10-15 11:29:45,1899-12-30,43,150.0,Davao
-Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,For Cancel,0,2025-10-15 11:30:51,1899-12-30,42,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,In Progress,0,2025-10-15 11:34:36,1899-12-30,42,0.0,Davao
+Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Service Request,For Cancel,0,2025-10-15 11:30:51,1899-12-30,43,0.0,Davao
+Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,In Progress,0,2025-10-15 11:34:36,1899-12-30,43,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,In Progress,0,2025-10-15 11:45:23,1899-12-30,42,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,36,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,36,0.0,Davao
@@ -25,8 +25,8 @@ Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,31,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,29,105.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,25,0.0,Davao
-Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,24,0.0,Davao
-Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,24,0.0,Davao
+Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,25,0.0,Davao
+Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,25,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,24,0.0,Davao
 Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Internal,For Close,0,2025-11-14 14:14:58,1899-12-30,20,0.0,Davao
 Ceasar Ian,41136,TSCA Electrical Group of Company Incorporated,Install active of new unit....change unit lng,Service Request,For Cancel,0,2025-11-14 14:17:56,1899-12-30,20,0.0,Davao
@@ -40,8 +40,8 @@ Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliverie
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,9,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,9,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,9,30.0,Davao
-Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,In Progress,0,2025-12-02 09:49:46,1899-12-30,9,0.0,Davao
-Ceasar Ian,41591,GMS Auto Care Center,set up autobackup,Service Request,In Progress,0,2025-12-02 09:50:19,1899-12-30,9,0.0,Davao
+Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,For Cancel,0,2025-12-02 09:49:46,1899-12-30,9,0.0,Davao
+Ceasar Ian,41591,GMS Auto Care Center,set up autobackup,Service Request,For Cancel,0,2025-12-02 09:50:19,1899-12-30,9,0.0,Davao
 Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,Assigned,0,2025-12-02 09:52:16,1899-12-30,9,0.0,Davao
 Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30,8,0.0,Davao
 Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30,8,0.0,Davao
@@ -85,7 +85,7 @@ Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Serv
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,51,120.0,CDO
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,46,30.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,23,0.0,CDO
-Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,21,0.0,CDO
+Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,22,0.0,CDO
 Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,In Progress,0,2025-11-18 16:33:23,1899-12-30,18,60.0,CDO
 Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,In Progress,0,2025-11-18 16:33:51,1899-12-30,18,0.0,CDO
 Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Request,In Progress,0,2025-11-19 12:03:29,1899-12-30,17,60.0,CDO
