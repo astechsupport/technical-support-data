@@ -107,14 +107,14 @@ Jude,41639,U7DS Corporation,other units is not connected to the server,Service R
 
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,110,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,95,0.0,Cebu
+Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,111,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,96,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,90,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,75,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,75,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,74,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,23,0.0,Ilo-ilo
-Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,9,50.0,Cebu
+Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,10,50.0,Cebu
 
 
 User: Rico
@@ -125,14 +125,12 @@ Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision f
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,10,0.0,Davao
 Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,10,120.0,Davao
 Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,10,60.0,Davao
-Rico,41585,St. Francis Shell Station V,Meeting with Client,Service Request,For Close,0,2025-12-02 09:34:57,1899-12-30,10,120.0,Davao
 Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Request,In Progress,0,2025-12-03 10:09:25,1899-12-30,9,0.0,Davao
-Rico,41643,Philfumes Petroleum Corporation,MOdify Cheque Templat,Service Request,For Close,0,2025-12-03 10:10:08,1899-12-30,9,120.0,Davao
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,9,0.0,Davao
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,9,0.0,Davao
 Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,In Progress,0,2025-12-04 09:59:27,1899-12-30,8,90.0,Davao
-Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,In Progress,0,2025-12-04 10:00:05,1899-12-30,8,0.0,Davao
-Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,In Progress,0,2025-12-04 10:00:46,1899-12-30,8,0.0,Davao
+Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,In Progress,0,2025-12-04 10:00:05,1899-12-30,8,90.0,Davao
+Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,In Progress,0,2025-12-04 10:00:46,1899-12-30,8,60.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,8,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,8,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,For Close,0,2025-12-04 11:38:37,1899-12-30,8,120.0,Davao
