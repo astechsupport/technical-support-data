@@ -6,8 +6,8 @@ Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transact
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,60,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,59,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,In Progress,0,2025-10-03 12:01:18,1899-12-30,51,20.0,Davao
-Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,For Cancel,0,2025-10-09 09:12:11,1899-12-30,47,0.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,For Cancel,0,2025-10-09 09:14:44,1899-12-30,47,0.0,Davao
+Ceasar Ian,39993,Paramond Inc,Assess concern in Inventory transfer,Internal,For Cancel,0,2025-10-09 09:12:11,1899-12-30,48,0.0,Davao
+Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,For Cancel,0,2025-10-09 09:14:44,1899-12-30,48,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,For Cancel,0,2025-10-09 09:17:49,1899-12-30,47,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,For Cancel,0,2025-10-09 13:11:36,1899-12-30,47,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,46,0.0,Davao
@@ -25,16 +25,16 @@ Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,29,105.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,26,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,25,0.0,Davao
-Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,25,0.0,Davao
+Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,25,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,25,0.0,Davao
 Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Internal,For Close,0,2025-11-14 14:14:58,1899-12-30,21,0.0,Davao
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,20,0.0,Davao
 Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,Assigned,0,2025-11-15 18:35:17,1899-12-30,20,0.0,Davao
-Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,For Cancel,0,2025-11-15 18:39:56,1899-12-30,20,0.0,Davao
+Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,Assigned,0,2025-11-15 18:39:56,1899-12-30,20,0.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,20,0.0,Davao
-Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,For Cancel,0,2025-11-19 16:18:58,1899-12-30,18,0.0,Davao
+Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,18,0.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,17,0.0,Davao
-Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,14,0.0,Davao
+Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,15,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,10,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,10,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,10,30.0,Davao
@@ -57,7 +57,6 @@ User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,20,104.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,17,0.0,Davao
-Jeric Johann,41336,Melcon Marine Contractors Inc.,Deposit payment cant select individual,Service Request,For Cancel,0,2025-11-21 14:45:47,1899-12-30,16,0.0,Davao
 Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,16,0.0,Davao
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,15,180.0,Davao
 Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,14,0.0,Davao
@@ -128,7 +127,6 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40321,OFC Construction,2307 template modification,Service Request,In Progress,0,2025-10-20 14:55:05,1899-12-30,40,0.0,Davao
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,25,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,24,0.0,Davao
-Rico,41184,FB Lastimosa Enterprises,POS Installation,Service Request,For Cancel,0,2025-11-18 08:04:30,1899-12-30,20,0.0,Davao
 Rico,41363,Davao Great Wall Trading Inc.,POS Network Incident,Service Request,For Cancel,0,2025-11-24 15:17:07,1899-12-30,15,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,12,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,9,0.0,Davao
