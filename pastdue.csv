@@ -20,7 +20,6 @@ Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, S
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,37,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,37,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,35,0.0,Davao
-Ceasar Ian,40677,"Royal Dragon Southern Distributors, Inc.",Replicating Sales of Centerpoint,Service Request,For Cancel,0,2025-10-29 13:29:59,1899-12-30,33,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,33,50.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,32,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Service Request,In Progress,0,2025-11-04 09:48:17,1899-12-30,29,105.0,Davao
@@ -29,9 +28,8 @@ Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,A
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,For Cancel,0,2025-11-10 11:35:02,1899-12-30,25,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,25,0.0,Davao
 Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Internal,For Close,0,2025-11-14 14:14:58,1899-12-30,21,0.0,Davao
-Ceasar Ian,41136,TSCA Electrical Group of Company Incorporated,Install active of new unit....change unit lng,Service Request,For Cancel,0,2025-11-14 14:17:56,1899-12-30,21,0.0,Davao
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,20,0.0,Davao
-Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,For Cancel,0,2025-11-15 18:35:17,1899-12-30,20,0.0,Davao
+Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,Assigned,0,2025-11-15 18:35:17,1899-12-30,20,0.0,Davao
 Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,For Cancel,0,2025-11-15 18:39:56,1899-12-30,20,0.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,20,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,For Cancel,0,2025-11-19 16:18:58,1899-12-30,18,0.0,Davao
@@ -39,7 +37,7 @@ Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Ser
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,14,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,10,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,10,0.0,Davao
-Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,9,30.0,Davao
+Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,10,30.0,Davao
 Ceasar Ian,41590,GMS Auto Care Center,Activeone Installation,Service Request,For Cancel,0,2025-12-02 09:49:46,1899-12-30,9,0.0,Davao
 Ceasar Ian,41591,GMS Auto Care Center,set up autobackup,Service Request,For Cancel,0,2025-12-02 09:50:19,1899-12-30,9,0.0,Davao
 Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,Assigned,0,2025-12-02 09:52:16,1899-12-30,9,0.0,Davao
@@ -51,8 +49,8 @@ Ceasar Ian,41711,Photo Dynamics,re installation of mysql server,Service Request,
 Ceasar Ian,41720,JCSPLAS AND INDUSTRIES CORP.,Template Modification,Service Request,In Progress,0,2025-12-05 09:02:22,1899-12-30,7,60.0,Davao
 Ceasar Ian,41721,JCSPLAS AND INDUSTRIES CORP., Sequence of reference #,Service Request,In Progress,0,2025-12-05 09:03:18,1899-12-30,7,50.0,Davao
 Ceasar Ian,41722,New A & M Commercial & General Merchandise,Set up VPN connection (server and workstation- warehouse),Service Request,Assigned,0,2025-12-05 09:04:26,1899-12-30,7,0.0,Davao
-Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,Assigned,0,2025-12-05 09:07:18,1899-12-30,6,0.0,Davao
-Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,6,480.0,Davao
+Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,Assigned,0,2025-12-05 09:07:18,1899-12-30,7,0.0,Davao
+Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,7,480.0,Davao
 
 
 User: Jeric Johann
@@ -118,8 +116,8 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,110,0.0,Cebu
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,95,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,89,0.0,Cebu
-Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,74,0.0,Cebu
-Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,74,0.0,Cebu
+Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,75,0.0,Cebu
+Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,75,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,73,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,22,0.0,Ilo-ilo
 Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,9,50.0,Cebu
