@@ -78,8 +78,8 @@ Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,
 Joshua,40026,Happy Valley Community Hospital,Sales Report Enhancement,Service Request,In Progress,0,2025-10-09 15:50:54,1899-12-30,48,30.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,24,0.0,CDO
 Joshua,41105,Loy's Pharmacy Incorporated,Printer Concern,Service Request,In Progress,0,2025-11-13 11:30:41,1899-12-30,23,0.0,CDO
-Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,For Close,0,2025-11-18 16:33:23,1899-12-30,19,60.0,CDO
-Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,For Close,0,2025-11-18 16:33:51,1899-12-30,19,0.0,CDO
+Joshua,41207,KNKS Construction Services, Invoice Form Modification,Service Request,For Close,0,2025-11-18 16:33:23,1899-12-30,20,60.0,CDO
+Joshua,41209,KNKS Construction Services,Sales Order Form Modification,Service Request,For Close,0,2025-11-18 16:33:51,1899-12-30,20,0.0,CDO
 Joshua,41240,KNKS Construction Services,Purchase Order Modification,Service Request,For Close,0,2025-11-19 12:03:29,1899-12-30,19,60.0,CDO
 Joshua,41269,Marbel Computer Center,Sales Receipt Form Modification,Service Request,In Progress,0,2025-11-20 11:55:43,1899-12-30,18,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,18,0.0,CDO
@@ -130,9 +130,9 @@ Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Reques
 Rico,41643,Philfumes Petroleum Corporation,MOdify Cheque Templat,Service Request,For Close,0,2025-12-03 10:10:08,1899-12-30,9,120.0,Davao
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,9,0.0,Davao
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,9,0.0,Davao
-Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,In Progress,0,2025-12-04 09:59:27,1899-12-30,8,0.0,Davao
-Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,Assigned,0,2025-12-04 10:00:05,1899-12-30,8,0.0,Davao
-Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,Assigned,0,2025-12-04 10:00:46,1899-12-30,8,0.0,Davao
+Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,In Progress,0,2025-12-04 09:59:27,1899-12-30,8,90.0,Davao
+Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,In Progress,0,2025-12-04 10:00:05,1899-12-30,8,0.0,Davao
+Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,In Progress,0,2025-12-04 10:00:46,1899-12-30,8,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,8,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,8,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,For Close,0,2025-12-04 11:38:37,1899-12-30,8,120.0,Davao
