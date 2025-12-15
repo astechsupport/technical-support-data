@@ -31,7 +31,7 @@ Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,20,0.0,Davao
 Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,Assigned,0,2025-11-15 18:35:17,1899-12-30,20,0.0,Davao
 Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,Assigned,0,2025-11-15 18:39:56,1899-12-30,20,0.0,Davao
-Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,20,0.0,Davao
+Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,21,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,18,0.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,17,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.","There are deliveries that were not included, and some items in the branches have quantities but cannot be punched or reflected",Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,15,0.0,Davao
@@ -59,7 +59,6 @@ Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,17,0.0,Davao
 Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,16,0.0,Davao
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,15,180.0,Davao
-Jeric Johann,41399,The Generics Pharmacy - Matina,Can't See encode in stockin main POS,Service Request,For Cancel,0,2025-11-25 10:11:05,1899-12-30,14,0.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30,14,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,12,104.0,Davao
 Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,11,0.0,Gensan
@@ -99,7 +98,7 @@ Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress
 
 User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,64,0.0,Gensan
+Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,65,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,30,0.0,Gensan
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,In Progress,0,2025-11-19 08:35:22,1899-12-30,19,0.0,Gensan
 Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,In Progress,0,2025-11-21 13:07:39,1899-12-30,16,0.0,Davao
@@ -130,7 +129,7 @@ Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Req
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,12,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,10,0.0,Davao
 Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,10,120.0,Davao
-Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,9,60.0,Davao
+Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,10,60.0,Davao
 Rico,41585,St. Francis Shell Station V,Meeting with Client,Service Request,In Progress,0,2025-12-02 09:34:57,1899-12-30,9,120.0,Davao
 Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Request,In Progress,0,2025-12-03 10:09:25,1899-12-30,8,0.0,Davao
 Rico,41643,Philfumes Petroleum Corporation,MOdify Cheque Templat,Service Request,Assigned,0,2025-12-03 10:10:08,1899-12-30,8,0.0,Davao
