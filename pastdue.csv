@@ -39,8 +39,8 @@ Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,202
 Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,Assigned,0,2025-12-02 09:52:16,1899-12-30,11,0.0,Davao
 Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30,10,0.0,Davao
 Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30,10,0.0,Davao
-Ceasar Ian,41709,ASL Durian Marketing OPC,MIN cancelled because the set-up of POS machine has connected to server with server consolidator,Service Request,Assigned,0,2025-12-04 14:49:18,1899-12-30,8,0.0,Davao
-Ceasar Ian,41710,Dexluck Auto Parts Trading,OC 3 error ang license key,Service Request,Assigned,0,2025-12-04 14:50:02,1899-12-30,8,0.0,Davao
+Ceasar Ian,41709,ASL Durian Marketing OPC,MIN cancelled because the set-up of POS machine has connected to server with server consolidator,Service Request,Assigned,0,2025-12-04 14:49:18,1899-12-30,9,0.0,Davao
+Ceasar Ian,41710,Dexluck Auto Parts Trading,OC 3 error ang license key,Service Request,Assigned,0,2025-12-04 14:50:02,1899-12-30,9,0.0,Davao
 Ceasar Ian,41711,Photo Dynamics,re installation of mysql server,Service Request,Assigned,0,2025-12-04 14:58:42,1899-12-30,8,0.0,Davao
 Ceasar Ian,41720,JCSPLAS AND INDUSTRIES CORP.,Template Modification,Service Request,In Progress,0,2025-12-05 09:02:22,1899-12-30,8,60.0,Davao
 Ceasar Ian,41721,JCSPLAS AND INDUSTRIES CORP., Sequence of reference #,Service Request,In Progress,0,2025-12-05 09:03:18,1899-12-30,8,50.0,Davao
@@ -111,6 +111,11 @@ Jude,41775,St. Francis Shell Station V, replication setup for branch cabantian p
 Jude,41776,St. Francis Shell Station V,autobackup setup for branch cabantian ,Service Request,For Close,0,2025-12-09 14:42:34,1899-12-30,6,29.0,Davao
 Jude,41777,St. Francis Shell Station V,replication setup for main project 1,Service Request,For Close,0,2025-12-09 14:43:28,1899-12-30,6,26.0,Davao
 Jude,41778,St. Francis Shell Station V, replication setup for main project 2,Service Request,For Close,0,2025-12-09 14:44:21,1899-12-30,6,29.0,Davao
+Jude,41780,St. Francis Shell Station V, replication setup for main project 3,Service Request,For Close,0,2025-12-09 14:45:23,1899-12-30,6,30.0,Davao
+Jude,41781,St. Francis Shell Station V,replication setup for branch ecoland project 1,Service Request,For Close,0,2025-12-09 14:46:52,1899-12-30,6,27.0,Davao
+Jude,41782,St. Francis Shell Station V,replication setup for branch ecoland project 2,Service Request,For Close,0,2025-12-09 14:47:40,1899-12-30,6,28.0,Davao
+Jude,41783,St. Francis Shell Station V,replication setup for branch ecolandproject 3,Service Request,For Close,0,2025-12-09 14:48:31,1899-12-30,6,30.0,Davao
+Jude,41784,St. Francis Shell Station V,autobackup setup for branch ecoland,Service Request,In Progress,0,2025-12-09 14:50:20,1899-12-30,6,26.0,Davao
 
 
 User: Junmar
