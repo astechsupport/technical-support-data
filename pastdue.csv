@@ -3,7 +3,7 @@ User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,66,0.0,Davao
 Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,In Progress,0,2025-09-22 18:18:27,1899-12-30,61,0.0,Davao
-Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,59,0.0,Davao
+Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,60,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,In Progress,0,2025-10-03 12:01:18,1899-12-30,52,20.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,48,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,48,0.0,Davao
@@ -85,7 +85,7 @@ Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,In Progres
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,14,60.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,13,180.0,CDO
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,10,210.0,CDO
-Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-04 08:55:10,1899-12-30,8,180.0,CDO
+Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-04 08:55:10,1899-12-30,9,180.0,CDO
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,8,90.0,CDO
 
 
@@ -134,7 +134,7 @@ Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Req
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,In Progress,0,2025-11-28 14:41:59,1899-12-30,12,115.0,Davao
+Venz Jan,41522,"Davao Baker's Choice Enterprises, Inc.",Error in Write Check,Service Request,For Close,0,2025-11-28 14:41:59,1899-12-30,12,115.0,Davao
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,10,80.0,CDO
 Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,In Progress,0,2025-12-04 11:24:29,1899-12-30,8,60.0,Davao
 
