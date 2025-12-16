@@ -6,7 +6,7 @@ Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service R
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,60,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,In Progress,0,2025-10-03 12:01:18,1899-12-30,52,20.0,Davao
 Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,In Progress,0,2025-10-09 09:14:44,1899-12-30,49,0.0,Davao
-Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,48,0.0,Davao
+Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,49,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,For Cancel,0,2025-10-09 13:11:36,1899-12-30,48,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,47,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,46,0.0,Davao
@@ -100,6 +100,8 @@ Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Servic
 Jude,41625,BREADS & BLENDS CAFE,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:18:57,1899-12-30,10,0.0,Gensan
 Jude,41627,JAZZCARE PHARMACY,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:20:03,1899-12-30,10,0.0,Gensan
 Jude,41639,U7DS Corporation,other units is not connected to the server,Service Request,In Progress,0,2025-12-03 10:03:25,1899-12-30,9,0.0,Gensan
+Jude,41746,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - Acharon branch,Service Request,Assigned,0,2025-12-09 09:18:12,1899-12-30,6,0.0,Gensan
+Jude,41747,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - RD Plaza branch,Service Request,Assigned,0,2025-12-09 09:19:14,1899-12-30,6,0.0,Gensan
 
 
 User: Junmar
@@ -119,8 +121,8 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,26,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,25,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,13,0.0,Davao
-Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,10,0.0,Davao
-Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,10,120.0,Davao
+Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,11,0.0,Davao
+Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,11,120.0,Davao
 Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,10,60.0,Davao
 Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Request,In Progress,0,2025-12-03 10:09:25,1899-12-30,9,0.0,Davao
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,9,0.0,Davao
