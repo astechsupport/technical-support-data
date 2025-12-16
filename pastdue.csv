@@ -124,14 +124,14 @@ Jude,41798,St. Francis Shell Station V,POS REINSTALLATION ECOLAND  POS,Service R
 
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,111,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,96,0.0,Cebu
+Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,112,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,97,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,91,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,76,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,76,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,75,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,24,0.0,Ilo-ilo
-Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,10,70.0,Cebu
+Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,11,70.0,Cebu
 
 
 User: Rico
@@ -159,6 +159,6 @@ Rico,41763,Davao Great Wall Trading Inc.,ActiveONE POS Installation,Service Requ
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,11,80.0,CDO
-Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,In Progress,0,2025-12-04 11:24:29,1899-12-30,9,130.0,Davao
+Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,In Progress,0,2025-12-04 11:24:29,1899-12-30,9,180.0,Davao
 Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,6,0.0,Davao
 
