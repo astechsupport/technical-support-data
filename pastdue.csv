@@ -2,19 +2,15 @@
 User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,68,0.0,Davao
-Ceasar Ian,39360,Starplas Corporation,Add items to customized template,Service Request,For Cancel,0,2025-09-22 18:18:27,1899-12-30,62,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,61,0.0,Davao
 Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,In Progress,0,2025-10-03 12:01:18,1899-12-30,54,20.0,Davao
-Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Request,For Cancel,0,2025-10-09 09:14:44,1899-12-30,50,0.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,50,0.0,Davao
-Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,For Cancel,0,2025-10-09 13:11:36,1899-12-30,50,0.0,Davao
-Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,For Cancel,0,2025-10-10 09:28:06,1899-12-30,49,0.0,Davao
+Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,49,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,48,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,In Progress,0,2025-10-13 14:22:28,1899-12-30,47,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,46,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,46,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Internal,In Progress,0,2025-10-15 11:34:36,1899-12-30,46,0.0,Davao
-Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,For Cancel,0,2025-10-15 11:45:23,1899-12-30,46,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,39,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,39,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,38,0.0,Davao
@@ -102,8 +98,6 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,67,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,32,0.0,Gensan
 Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,For Cancel,0,2025-11-19 08:35:22,1899-12-30,21,0.0,Gensan
-Jude,41331,GGM Pharmacy,Put TIN on sales receipt,Service Request,For Cancel,0,2025-11-21 13:07:39,1899-12-30,19,0.0,Davao
-Jude,41448,"DMI Medical Supply Company, Inc.",POS validity,Service Request,For Cancel,0,2025-11-26 12:52:53,1899-12-30,16,0.0,Davao
 Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Service Request,In Progress,0,2025-12-02 14:34:26,1899-12-30,11,0.0,Gensan
 Jude,41625,BREADS & BLENDS CAFE,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:18:57,1899-12-30,11,0.0,Gensan
 Jude,41627,JAZZCARE PHARMACY,Update sales invoice under new regostration,Service Request,In Progress,0,2025-12-02 15:20:03,1899-12-30,11,0.0,Gensan
