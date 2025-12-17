@@ -11,7 +11,7 @@ Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential orde
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,For Cancel,0,2025-10-10 09:28:06,1899-12-30,49,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,47,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-10-13 14:22:28,1899-12-30,47,0.0,Davao
-Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,45,150.0,Davao
+Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,46,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,45,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Internal,In Progress,0,2025-10-15 11:34:36,1899-12-30,45,0.0,Davao
 Ceasar Ian,40168,3A Dressed Chicken Trading,"template error (income statement, Sales receipt, and invoice)",Service Request,For Cancel,0,2025-10-15 11:45:23,1899-12-30,45,0.0,Davao
@@ -42,8 +42,8 @@ Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the d
 Ceasar Ian,41709,ASL Durian Marketing OPC,MIN cancelled because the set-up of POS machine has connected to server with server consolidator,Service Request,Assigned,0,2025-12-04 14:49:18,1899-12-30,9,0.0,Davao
 Ceasar Ian,41710,Dexluck Auto Parts Trading,OC 3 error ang license key,Service Request,Assigned,0,2025-12-04 14:50:02,1899-12-30,9,0.0,Davao
 Ceasar Ian,41711,Photo Dynamics,re installation of mysql server,Service Request,Assigned,0,2025-12-04 14:58:42,1899-12-30,9,0.0,Davao
-Ceasar Ian,41720,JCSPLAS AND INDUSTRIES CORP.,Template Modification,Service Request,In Progress,0,2025-12-05 09:02:22,1899-12-30,9,60.0,Davao
-Ceasar Ian,41721,JCSPLAS AND INDUSTRIES CORP., Sequence of reference #,Service Request,In Progress,0,2025-12-05 09:03:18,1899-12-30,9,50.0,Davao
+Ceasar Ian,41720,JCSPLAS AND INDUSTRIES CORP.,Template Modification,Service Request,For Close,0,2025-12-05 09:02:22,1899-12-30,9,60.0,Davao
+Ceasar Ian,41721,JCSPLAS AND INDUSTRIES CORP., Sequence of reference #,Service Request,For Close,0,2025-12-05 09:03:18,1899-12-30,9,50.0,Davao
 Ceasar Ian,41722,New A & M Commercial & General Merchandise,Set up VPN connection (server and workstation- warehouse),Service Request,Assigned,0,2025-12-05 09:04:26,1899-12-30,9,0.0,Davao
 Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,Assigned,0,2025-12-05 09:07:18,1899-12-30,9,0.0,Davao
 Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,9,480.0,Davao
@@ -109,7 +109,7 @@ Jude,41639,U7DS Corporation,other units is not connected to the server,Service R
 Jude,41746,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - Acharon branch,Service Request,In Progress,0,2025-12-09 09:18:12,1899-12-30,7,0.0,Gensan
 Jude,41747,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - RD Plaza branch,Service Request,In Progress,0,2025-12-09 09:19:14,1899-12-30,7,0.0,Gensan
 Jude,41749,SJL Lubricant and Auto Services,Activeone Installation,Service Request,In Progress,0,2025-12-09 10:05:39,1899-12-30,7,0.0,Gensan
-Jude,41757,Central Innovations Technologies Corp,cant open the system and if ever when open it logs,Service Request,In Progress,0,2025-12-09 11:25:19,1899-12-30,6,0.0,Gensan
+Jude,41757,Central Innovations Technologies Corp,cant open the system and if ever when open it logs,Service Request,In Progress,0,2025-12-09 11:25:19,1899-12-30,7,0.0,Gensan
 Jude,41773,St. Francis Shell Station V,replication setup for branch cabantian project 1,Service Request,For Close,0,2025-12-09 14:38:06,1899-12-30,6,55.0,Davao
 Jude,41774,St. Francis Shell Station V, replication setup for branch cabantian project 2,Service Request,For Close,0,2025-12-09 14:40:29,1899-12-30,6,28.0,Davao
 Jude,41775,St. Francis Shell Station V, replication setup for branch cabantian project 3,Service Request,For Close,0,2025-12-09 14:41:36,1899-12-30,6,27.0,Davao
@@ -152,8 +152,8 @@ Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Re
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,9,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,9,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,Assigned,0,2025-12-09 11:13:20,1899-12-30,7,0.0,Davao
-Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,6,0.0,Davao
-Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,Assigned,0,2025-12-09 11:27:12,1899-12-30,6,0.0,Davao
+Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,7,0.0,Davao
+Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,Assigned,0,2025-12-09 11:27:12,1899-12-30,7,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,6,0.0,Davao
 Rico,41762,Davao Great Wall Trading Inc., ActiveONE Installation,Service Request,Assigned,0,2025-12-09 11:36:37,1899-12-30,6,0.0,Davao
 Rico,41763,Davao Great Wall Trading Inc.,ActiveONE POS Installation,Service Request,Assigned,0,2025-12-09 11:37:48,1899-12-30,6,0.0,Davao
