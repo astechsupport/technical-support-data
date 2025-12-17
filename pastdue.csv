@@ -93,6 +93,8 @@ Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,Assigned,0,2025-1
 Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,In Progress,0,2025-12-09 15:22:27,1899-12-30,6,30.0,CDO
 Joshua,41807,Richstar Variety Store,R5 Hardware Assessment (5POS),Service Request,In Progress,0,2025-12-10 08:34:50,1899-12-30,6,60.0,CDO
 Joshua,41808,Richstar Variety Store,R5 Allow Negative ,Service Request,In Progress,0,2025-12-10 08:35:21,1899-12-30,6,10.0,CDO
+Joshua,41841,Richstar Variety Store,Hardware Assesment R5 - 5 POS,Service Request,Assigned,0,2025-12-10 11:57:54,1899-12-30,6,0.0,CDO
+Joshua,41842,Sharp Electrical Supply Inc.,Audit Trail Deployment,Service Request,In Progress,0,2025-12-10 11:58:57,1899-12-30,6,30.0,CDO
 
 
 User: Jude
@@ -118,7 +120,6 @@ Jude,41777,St. Francis Shell Station V,replication setup for main project 1,Serv
 Jude,41778,St. Francis Shell Station V, replication setup for main project 2,Service Request,For Close,0,2025-12-09 14:44:21,1899-12-30,6,29.0,Davao
 Jude,41780,St. Francis Shell Station V, replication setup for main project 3,Service Request,For Close,0,2025-12-09 14:45:23,1899-12-30,6,30.0,Davao
 Jude,41781,St. Francis Shell Station V,replication setup for branch ecoland project 1,Service Request,For Close,0,2025-12-09 14:46:52,1899-12-30,6,27.0,Davao
-Jude,41798,St. Francis Shell Station V,POS REINSTALLATION ECOLAND  POS,Service Request,For Close,0,2025-12-09 16:19:28,1899-12-30,6,27.0,Davao
 
 
 User: Junmar
