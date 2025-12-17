@@ -10,7 +10,7 @@ Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,For Cancel,0,2025-10-09 13:11:36,1899-12-30,49,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,For Cancel,0,2025-10-10 09:28:06,1899-12-30,49,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,47,0.0,Davao
-Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,In Progress,0,2025-10-13 14:22:28,1899-12-30,47,0.0,Davao
+Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-10-13 14:22:28,1899-12-30,47,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,45,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,45,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Internal,In Progress,0,2025-10-15 11:34:36,1899-12-30,45,0.0,Davao
@@ -69,7 +69,7 @@ Jeric Johann,41649,18 Degrees Air Cooling Solutions Inc.,Data Migration - Master
 Jeric Johann,41650,18 Degrees Air Cooling Solutions Inc.,Data Migration - Inventory,Service Request,Assigned,0,2025-12-03 10:37:23,1899-12-30,10,0.0,Davao
 Jeric Johann,41652,18 Degrees Air Cooling Solutions Inc., Data Migration - Accounts Receivables,Service Request,Assigned,0,2025-12-03 10:38:20,1899-12-30,10,0.0,Davao
 Jeric Johann,41653,18 Degrees Air Cooling Solutions Inc.,Data Migration - Accounts Payables,Service Request,Assigned,0,2025-12-03 10:39:00,1899-12-30,10,0.0,Davao
-Jeric Johann,41734,Photo Dynamics,ActiveOne reinstallaton,Incident,In Progress,0,2025-12-05 10:12:16,1899-12-30,8,0.0,Davao
+Jeric Johann,41734,Photo Dynamics,ActiveOne reinstallaton,Incident,In Progress,0,2025-12-05 10:12:16,1899-12-30,9,0.0,Davao
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,In Progress,0,2025-12-09 11:07:46,1899-12-30,6,30.0,Gensan
 
 
@@ -119,7 +119,7 @@ Jude,41780,St. Francis Shell Station V, replication setup for main project 3,Ser
 Jude,41781,St. Francis Shell Station V,replication setup for branch ecoland project 1,Service Request,For Close,0,2025-12-09 14:46:52,1899-12-30,6,27.0,Davao
 Jude,41782,St. Francis Shell Station V,replication setup for branch ecoland project 2,Service Request,For Close,0,2025-12-09 14:47:40,1899-12-30,6,28.0,Davao
 Jude,41783,St. Francis Shell Station V,replication setup for branch ecolandproject 3,Service Request,For Close,0,2025-12-09 14:48:31,1899-12-30,6,30.0,Davao
-Jude,41784,St. Francis Shell Station V,autobackup setup for branch ecoland,Service Request,In Progress,0,2025-12-09 14:50:20,1899-12-30,6,26.0,Davao
+Jude,41784,St. Francis Shell Station V,autobackup setup for branch ecoland,Service Request,For Close,0,2025-12-09 14:50:20,1899-12-30,6,26.0,Davao
 Jude,41797,St. Francis Shell Station V,POS REINSTALLATION CABANTIAN POS,Service Request,In Progress,0,2025-12-09 16:18:37,1899-12-30,6,29.0,Davao
 Jude,41798,St. Francis Shell Station V,POS REINSTALLATION ECOLAND  POS,Service Request,In Progress,0,2025-12-09 16:19:28,1899-12-30,6,27.0,Davao
 
