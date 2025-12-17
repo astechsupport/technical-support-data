@@ -9,7 +9,7 @@ Ceasar Ian,39994,Paramond Inc,Diagnoses concern in inventory transfer,Service Re
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,50,0.0,Davao
 Ceasar Ian,40006,Starplas Corporation,The check series is not in sequential order,Service Request,For Cancel,0,2025-10-09 13:11:36,1899-12-30,49,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,For Cancel,0,2025-10-10 09:28:06,1899-12-30,49,0.0,Davao
-Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,47,0.0,Davao
+Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,48,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Service Request,For Cancel,0,2025-10-13 14:22:28,1899-12-30,47,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,46,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,46,0.0,Davao
@@ -148,20 +148,20 @@ Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,10,0.0,Davao
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,10,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,10,0.0,Davao
-Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,9,0.0,Davao
+Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,10,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,9,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,9,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,Assigned,0,2025-12-09 11:13:20,1899-12-30,7,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,7,0.0,Davao
 Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,Assigned,0,2025-12-09 11:27:12,1899-12-30,7,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,7,0.0,Davao
-Rico,41762,Davao Great Wall Trading Inc., ActiveONE Installation,Service Request,Assigned,0,2025-12-09 11:36:37,1899-12-30,6,0.0,Davao
-Rico,41763,Davao Great Wall Trading Inc.,ActiveONE POS Installation,Service Request,Assigned,0,2025-12-09 11:37:48,1899-12-30,6,0.0,Davao
+Rico,41762,Davao Great Wall Trading Inc., ActiveONE Installation,Service Request,Assigned,0,2025-12-09 11:36:37,1899-12-30,7,0.0,Davao
+Rico,41763,Davao Great Wall Trading Inc.,ActiveONE POS Installation,Service Request,Assigned,0,2025-12-09 11:37:48,1899-12-30,7,0.0,Davao
 
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,11,80.0,CDO
 Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,For Close,0,2025-12-04 11:24:29,1899-12-30,10,180.0,Davao
-Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,6,0.0,Davao
+Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,7,0.0,Davao
 
