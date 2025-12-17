@@ -118,10 +118,6 @@ Jude,41777,St. Francis Shell Station V,replication setup for main project 1,Serv
 Jude,41778,St. Francis Shell Station V, replication setup for main project 2,Service Request,For Close,0,2025-12-09 14:44:21,1899-12-30,6,29.0,Davao
 Jude,41780,St. Francis Shell Station V, replication setup for main project 3,Service Request,For Close,0,2025-12-09 14:45:23,1899-12-30,6,30.0,Davao
 Jude,41781,St. Francis Shell Station V,replication setup for branch ecoland project 1,Service Request,For Close,0,2025-12-09 14:46:52,1899-12-30,6,27.0,Davao
-Jude,41782,St. Francis Shell Station V,replication setup for branch ecoland project 2,Service Request,For Close,0,2025-12-09 14:47:40,1899-12-30,6,28.0,Davao
-Jude,41783,St. Francis Shell Station V,replication setup for branch ecolandproject 3,Service Request,For Close,0,2025-12-09 14:48:31,1899-12-30,6,30.0,Davao
-Jude,41784,St. Francis Shell Station V,autobackup setup for branch ecoland,Service Request,For Close,0,2025-12-09 14:50:20,1899-12-30,6,26.0,Davao
-Jude,41797,St. Francis Shell Station V,POS REINSTALLATION CABANTIAN POS,Service Request,For Close,0,2025-12-09 16:18:37,1899-12-30,6,29.0,Davao
 Jude,41798,St. Francis Shell Station V,POS REINSTALLATION ECOLAND  POS,Service Request,For Close,0,2025-12-09 16:19:28,1899-12-30,6,27.0,Davao
 
 
@@ -145,8 +141,8 @@ Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision f
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,12,0.0,Davao
 Rico,41581,"ANA'S BREEDERS FARMS, INC.", Diagnose cost in build assembly concern,Service Request,In Progress,0,2025-12-02 09:17:48,1899-12-30,12,120.0,Davao
 Rico,41582,"ANA'S BREEDERS FARMS, INC.",Diagnose purchase journal book - bug not reflecting amount,Service Request,In Progress,0,2025-12-02 09:24:41,1899-12-30,12,60.0,Davao
-Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,10,0.0,Davao
-Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,10,0.0,Davao
+Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,11,0.0,Davao
+Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,11,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,10,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,10,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,10,0.0,Davao
