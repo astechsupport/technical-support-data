@@ -163,10 +163,4 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,11,80.0,CDO
 Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,For Close,0,2025-12-04 11:24:29,1899-12-30,9,180.0,Davao
 Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,6,0.0,Davao
-Venz Jan,41820,"Bethel Baptist Church, Inc.",MySQL Setup,Service Request,For Close,0,2025-12-10 08:49:29,1899-12-30,6,29.0,CDO
-Venz Jan,41821,"Bethel Baptist Church, Inc.",Set-Up Auto Backup,Service Request,For Close,0,2025-12-10 08:50:00,1899-12-30,6,29.0,CDO
-Venz Jan,41822,"Bethel Baptist Church, Inc.",ActiveOne Installation,Service Request,For Close,0,2025-12-10 08:50:33,1899-12-30,6,48.0,CDO
-Venz Jan,41823,Bethel Baptist Christian Academy Inc.,MySQL Setup,Service Request,For Close,0,2025-12-10 08:51:22,1899-12-30,6,28.0,CDO
-Venz Jan,41824,Bethel Baptist Christian Academy Inc.,Set-Up Auto Backup,Service Request,For Close,0,2025-12-10 08:52:00,1899-12-30,6,28.0,CDO
-Venz Jan,41825,Bethel Baptist Christian Academy Inc.,ActiveOne Installation,Service Request,For Close,0,2025-12-10 08:52:39,1899-12-30,6,48.0,CDO
 
