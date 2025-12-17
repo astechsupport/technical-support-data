@@ -50,7 +50,7 @@ User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,23,104.0,Gensan
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,19,0.0,Davao
-Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,18,0.0,Davao
+Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,19,0.0,Davao
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,18,180.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30,17,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,15,104.0,Davao
@@ -125,7 +125,7 @@ Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern
 
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,27,0.0,Davao
+Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,28,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,27,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,15,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,12,0.0,Davao
