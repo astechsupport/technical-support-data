@@ -65,7 +65,7 @@ Jeric Johann,41649,18 Degrees Air Cooling Solutions Inc.,Data Migration - Master
 Jeric Johann,41650,18 Degrees Air Cooling Solutions Inc.,Data Migration - Inventory,Service Request,For Cancel,0,2025-12-03 10:37:23,1899-12-30,11,0.0,Davao
 Jeric Johann,41652,18 Degrees Air Cooling Solutions Inc., Data Migration - Accounts Receivables,Service Request,For Cancel,0,2025-12-03 10:38:20,1899-12-30,11,0.0,Davao
 Jeric Johann,41653,18 Degrees Air Cooling Solutions Inc.,Data Migration - Accounts Payables,Service Request,For Cancel,0,2025-12-03 10:39:00,1899-12-30,11,0.0,Davao
-Jeric Johann,41734,Photo Dynamics,ActiveOne reinstallaton,Incident,In Progress,0,2025-12-05 10:12:16,1899-12-30,9,0.0,Davao
+Jeric Johann,41734,Photo Dynamics,ActiveOne reinstallaton,Incident,In Progress,0,2025-12-05 10:12:16,1899-12-30,10,0.0,Davao
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,In Progress,0,2025-12-09 11:07:46,1899-12-30,7,30.0,Gensan
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,In Progress,0,2025-12-10 16:33:51,1899-12-30,6,70.0,Gensan
 
@@ -147,5 +147,5 @@ User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,12,215.0,CDO
 Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,For Close,0,2025-12-04 11:24:29,1899-12-30,10,180.0,Davao
-Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,7,0.0,Davao
+Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,7,39.0,Davao
 
