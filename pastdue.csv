@@ -49,7 +49,7 @@ Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Insta
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,23,104.0,Gensan
-Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,19,0.0,Davao
+Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,20,0.0,Davao
 Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,19,0.0,Davao
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,18,180.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30,17,0.0,Gensan
@@ -86,7 +86,7 @@ Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,10,150.0,CDO
 Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,7,60.0,CDO
 Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,In Progress,0,2025-12-09 15:22:27,1899-12-30,7,30.0,CDO
-Joshua,41807,Richstar Variety Store,R5 Hardware Assessment (5POS),Service Request,In Progress,0,2025-12-10 08:34:50,1899-12-30,6,60.0,CDO
+Joshua,41807,Richstar Variety Store,R5 Hardware Assessment (5POS),Service Request,In Progress,0,2025-12-10 08:34:50,1899-12-30,7,60.0,CDO
 Joshua,41808,Richstar Variety Store,R5 Allow Negative ,Service Request,In Progress,0,2025-12-10 08:35:21,1899-12-30,6,10.0,CDO
 Joshua,41841,Richstar Variety Store,Hardware Assesment R5 - 5 POS,Service Request,For Cancel,0,2025-12-10 11:57:54,1899-12-30,6,0.0,CDO
 Joshua,41842,Sharp Electrical Supply Inc.,Audit Trail Deployment,Service Request,In Progress,0,2025-12-10 11:58:57,1899-12-30,6,30.0,CDO
