@@ -3,7 +3,7 @@ User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,68,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,61,0.0,Davao
-Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,In Progress,0,2025-10-03 12:01:18,1899-12-30,54,20.0,Davao
+Ceasar Ian,39853,JTGO Gasoline Station,Duplication of reference when receiving payment,Service Request,For Close,0,2025-10-03 12:01:18,1899-12-30,54,20.0,Davao
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,50,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,49,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,48,0.0,Davao
@@ -88,7 +88,7 @@ Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,202
 Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,In Progress,0,2025-12-09 15:22:27,1899-12-30,7,30.0,CDO
 Joshua,41807,Richstar Variety Store,R5 Hardware Assessment (5POS),Service Request,In Progress,0,2025-12-10 08:34:50,1899-12-30,6,60.0,CDO
 Joshua,41808,Richstar Variety Store,R5 Allow Negative ,Service Request,In Progress,0,2025-12-10 08:35:21,1899-12-30,6,10.0,CDO
-Joshua,41841,Richstar Variety Store,Hardware Assesment R5 - 5 POS,Service Request,Assigned,0,2025-12-10 11:57:54,1899-12-30,6,0.0,CDO
+Joshua,41841,Richstar Variety Store,Hardware Assesment R5 - 5 POS,Service Request,For Cancel,0,2025-12-10 11:57:54,1899-12-30,6,0.0,CDO
 Joshua,41842,Sharp Electrical Supply Inc.,Audit Trail Deployment,Service Request,In Progress,0,2025-12-10 11:58:57,1899-12-30,6,30.0,CDO
 Joshua,41863,Bethel Baptist Christian Academy Inc.,Customer List Migration,Service Request,In Progress,0,2025-12-10 16:23:56,1899-12-30,6,60.0,CDO
 Joshua,41864,Bethel Baptist Christian Academy Inc.,Invoice List Migration,Service Request,In Progress,0,2025-12-10 16:24:27,1899-12-30,6,90.0,CDO
