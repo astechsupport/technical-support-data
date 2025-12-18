@@ -33,8 +33,8 @@ Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progr
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,13,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,13,30.0,Davao
 Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,Assigned,0,2025-12-02 09:52:16,1899-12-30,13,0.0,Davao
-Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30,11,0.0,Davao
-Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30,11,0.0,Davao
+Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30,12,0.0,Davao
+Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30,12,0.0,Davao
 Ceasar Ian,41709,ASL Durian Marketing OPC,MIN cancelled because the set-up of POS machine has connected to server with server consolidator,Service Request,Assigned,0,2025-12-04 14:49:18,1899-12-30,10,0.0,Davao
 Ceasar Ian,41710,Dexluck Auto Parts Trading,OC 3 error ang license key,Service Request,Assigned,0,2025-12-04 14:50:02,1899-12-30,10,0.0,Davao
 Ceasar Ian,41711,Photo Dynamics,re installation of mysql server,Service Request,Assigned,0,2025-12-04 14:58:42,1899-12-30,10,0.0,Davao
@@ -43,7 +43,7 @@ Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Req
 Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,10,480.0,Davao
 Ceasar Ian,41748,JCCQ Trading,POS Error Concern,Service Request,In Progress,0,2025-12-09 09:45:29,1899-12-30,8,0.0,Davao
 Ceasar Ian,41750,TSCA Electrical Group of Company Incorporated,Activesystem tailscale,Service Request,Assigned,0,2025-12-09 10:47:07,1899-12-30,7,0.0,Davao
-Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,6,0.0,Davao
+Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,7,0.0,Davao
 Ceasar Ian,41874,"Royal Dragon Southern Distributors, Inc.", Replication set up (backupandrestore to Sto nino,Service Request,For Close,0,2025-12-11 09:39:02,1899-12-30,6,60.0,Davao
 
 
@@ -53,7 +53,7 @@ Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,
 Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30,20,0.0,Davao
 Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30,19,0.0,Davao
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,18,180.0,Davao
-Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30,17,0.0,Gensan
+Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30,18,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,16,104.0,Davao
 Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,14,0.0,Gensan
 Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,14,0.0,Gensan
@@ -78,7 +78,7 @@ Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,27,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,20,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,18,120.0,CDO
-Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,16,120.0,CDO
+Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,17,120.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,15,180.0,CDO
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,12,210.0,CDO
 Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-04 08:55:10,1899-12-30,11,180.0,CDO
@@ -148,4 +148,5 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,12,215.0,CDO
 Venz Jan,41696,RB Shopping Center," Error in item valuation summary, dili mag reflect ang amounts",Service Request,For Close,0,2025-12-04 11:24:29,1899-12-30,10,180.0,Davao
 Venz Jan,41764,RB Shopping Center," Total in Sales by Class Summary Report is the same with its Gross, supposedly not.",Service Request,In Progress,0,2025-12-09 11:38:44,1899-12-30,7,39.0,Davao
+Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,6,0.0,CDO
 
