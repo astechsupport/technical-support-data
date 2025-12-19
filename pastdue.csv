@@ -98,22 +98,22 @@ Jude,41746,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration
 Jude,41747,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - RD Plaza branch,Service Request,For Cancel,0,2025-12-09 09:19:14,1899-12-30,9,0.0,Gensan
 Jude,41749,SJL Lubricant and Auto Services,Activeone Installation,Service Request,In Progress,0,2025-12-09 10:05:39,1899-12-30,9,0.0,Gensan
 Jude,41757,Central Innovations Technologies Corp,cant open the system and if ever when open it logs,Service Request,In Progress,0,2025-12-09 11:25:19,1899-12-30,9,0.0,Gensan
-Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,Assigned,0,2025-12-10 16:35:31,1899-12-30,7,0.0,Gensan
-Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,7,0.0,Gensan
+Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,Assigned,0,2025-12-10 16:35:31,1899-12-30,8,0.0,Gensan
+Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,8,0.0,Gensan
 Jude,41896,JAELA'S BAKESHOPPE AND FOOD HOUSE,Paid Out Amounts reflected in Cash Short / Over in POS Receipt,Service Request,In Progress,0,2025-12-11 16:29:53,1899-12-30,7,0.0,Gensan
 Jude,41948,NEW ERA METALFORMING CORPORATION,error 1032,Service Request,In Progress,0,2025-12-12 16:30:56,1899-12-30,6,0.0,Gensan
 
 
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,114,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,99,0.0,Cebu
+Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,115,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,100,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,94,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,79,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,79,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,78,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,27,0.0,Ilo-ilo
-Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,13,70.0,Cebu
+Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,14,70.0,Cebu
 Junmar,41888,MCR Agriventure Corporation, Zero beginning and ending SI no. ,Service Request,In Progress,0,2025-12-11 16:18:58,1899-12-30,7,0.0,Ilo-ilo
 
 
