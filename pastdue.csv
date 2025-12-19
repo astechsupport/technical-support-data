@@ -15,7 +15,7 @@ Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer li
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,39,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,37,50.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,36,0.0,Davao
-Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,33,105.0,Davao
+Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,34,105.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,30,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,29,0.0,Davao
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,29,0.0,Davao
@@ -40,7 +40,7 @@ Ceasar Ian,41711,Photo Dynamics,re installation of mysql server,Service Request,
 Ceasar Ian,41722,New A & M Commercial & General Merchandise,Set up VPN connection (server and workstation- warehouse),Service Request,Assigned,0,2025-12-05 09:04:26,1899-12-30,11,0.0,Davao
 Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,Assigned,0,2025-12-05 09:07:18,1899-12-30,11,0.0,Davao
 Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,11,480.0,Davao
-Ceasar Ian,41748,JCCQ Trading,POS Error Concern,Service Request,In Progress,0,2025-12-09 09:45:29,1899-12-30,8,240.0,Davao
+Ceasar Ian,41748,JCCQ Trading,POS Error Concern,Service Request,In Progress,0,2025-12-09 09:45:29,1899-12-30,9,240.0,Davao
 Ceasar Ian,41750,TSCA Electrical Group of Company Incorporated,Activesystem tailscale,Service Request,Assigned,0,2025-12-09 10:47:07,1899-12-30,8,0.0,Davao
 Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,7,0.0,Davao
 
@@ -127,7 +127,7 @@ Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,A
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,11,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,11,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,11,0.0,Davao
-Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,10,0.0,Davao
+Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,11,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30,8,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,8,0.0,Davao
 Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,8,0.0,Davao
