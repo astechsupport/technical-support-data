@@ -69,7 +69,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,59,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,59,0.0,Davao
 Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,In Progress,0,2025-10-03 10:52:35,1899-12-30,56,120.0,CDO
-Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,28,0.0,CDO
+Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,29,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,22,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,20,120.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,18,120.0,CDO
@@ -133,7 +133,7 @@ Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localh
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,9,0.0,Davao
 Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,9,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,9,0.0,Davao
-Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,7,0.0,Davao
+Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,8,0.0,Davao
 Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,Assigned,0,2025-12-11 13:17:15,1899-12-30,7,0.0,Davao
 
 
