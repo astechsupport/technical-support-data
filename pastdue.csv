@@ -7,7 +7,7 @@ Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,52,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,50,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30,50,20.0,Davao
-Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,48,150.0,Davao
+Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,49,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,48,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Internal,In Progress,0,2025-10-15 11:34:36,1899-12-30,48,210.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,42,0.0,Davao
@@ -97,7 +97,7 @@ Jude,41639,U7DS Corporation,other units is not connected to the server,Service R
 Jude,41746,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - Acharon branch,Service Request,For Cancel,0,2025-12-09 09:18:12,1899-12-30,10,0.0,Gensan
 Jude,41747,BROTHERS D&D INCORPORATED,Update Sales Invoice under new Registration - RD Plaza branch,Service Request,For Cancel,0,2025-12-09 09:19:14,1899-12-30,10,0.0,Gensan
 Jude,41749,SJL Lubricant and Auto Services,Activeone Installation,Service Request,In Progress,0,2025-12-09 10:05:39,1899-12-30,10,0.0,Gensan
-Jude,41757,Central Innovations Technologies Corp,cant open the system and if ever when open it logs,Service Request,In Progress,0,2025-12-09 11:25:19,1899-12-30,9,0.0,Gensan
+Jude,41757,Central Innovations Technologies Corp,cant open the system and if ever when open it logs,Service Request,In Progress,0,2025-12-09 11:25:19,1899-12-30,10,0.0,Gensan
 Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,In Progress,0,2025-12-10 16:35:31,1899-12-30,8,0.0,Gensan
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,8,0.0,Gensan
 Jude,41896,JAELA'S BAKESHOPPE AND FOOD HOUSE,Paid Out Amounts reflected in Cash Short / Over in POS Receipt,Service Request,In Progress,0,2025-12-11 16:29:53,1899-12-30,7,0.0,Gensan
@@ -130,9 +130,9 @@ Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Re
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,12,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,12,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30,10,0.0,Davao
-Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,9,0.0,Davao
-Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,9,0.0,Davao
-Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,9,0.0,Davao
+Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,10,0.0,Davao
+Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,10,0.0,Davao
+Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,10,0.0,Davao
 Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,8,0.0,Davao
 Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,Assigned,0,2025-12-11 13:17:15,1899-12-30,7,0.0,Davao
 
