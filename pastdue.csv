@@ -75,7 +75,7 @@ Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) ma
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,21,120.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,19,120.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,18,180.0,CDO
-Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,14,210.0,CDO
+Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,15,210.0,CDO
 Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-04 08:55:10,1899-12-30,13,180.0,CDO
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,13,150.0,CDO
 Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,10,60.0,CDO
@@ -104,6 +104,8 @@ Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches N
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,8,0.0,Gensan
 Jude,41896,JAELA'S BAKESHOPPE AND FOOD HOUSE,Paid Out Amounts reflected in Cash Short / Over in POS Receipt,Service Request,In Progress,0,2025-12-11 16:29:53,1899-12-30,7,0.0,Gensan
 Jude,41948,NEW ERA METALFORMING CORPORATION,error 1032,Service Request,In Progress,0,2025-12-12 16:30:56,1899-12-30,6,0.0,Gensan
+Jude,41991,GJ and G Marketing - Kidapawan,Change date of bacalnce forwarded,Service Request,In Progress,0,2025-12-15 16:00:48,1899-12-30,6,115.0,Gensan
+Jude,41993,Central Innovations Technologies Corp,Need assitance how to view audit trail in systen,Service Request,For Cancel,0,2025-12-15 16:03:20,1899-12-30,6,0.0,Gensan
 
 
 User: Junmar
@@ -117,6 +119,7 @@ Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Prog
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,28,0.0,Ilo-ilo
 Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,14,70.0,Cebu
 Junmar,41888,MCR Agriventure Corporation, Zero beginning and ending SI no. ,Service Request,In Progress,0,2025-12-11 16:18:58,1899-12-30,7,40.0,Ilo-ilo
+Junmar,41992,Vexoil Phil Corporation, Banate Branch expire user account set up,Service Request,For Close,0,2025-12-15 16:02:13,1899-12-30,6,20.0,Ilo-ilo
 
 
 User: Rico
