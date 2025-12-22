@@ -9,7 +9,6 @@ Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dext
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30,51,20.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,49,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,49,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,For Close,0,2025-10-15 11:34:36,1899-12-30,49,210.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,43,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,42,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,41,0.0,Davao
@@ -58,11 +57,11 @@ Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no defa
 Jeric Johann,41624,JAELA'S BAKESHOPPE AND FOOD HOUSE,update sales invoice under new registration,Service Request,For Cancel,0,2025-12-02 15:18:08,1899-12-30,15,0.0,Gensan
 Jeric Johann,41734,Photo Dynamics,ActiveOne reinstallaton,Incident,In Progress,0,2025-12-05 10:12:16,1899-12-30,12,0.0,Davao
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,In Progress,0,2025-12-09 11:07:46,1899-12-30,10,30.0,Gensan
-Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,In Progress,0,2025-12-10 16:33:51,1899-12-30,8,70.0,Gensan
+Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,In Progress,0,2025-12-10 16:33:51,1899-12-30,9,70.0,Gensan
 Jeric Johann,41885,Tropiland Enterprises,Re install of Active system application ,Service Request,In Progress,0,2025-12-11 16:06:06,1899-12-30,8,0.0,Gensan
 Jeric Johann,41886,Tropiland Enterprises,Mali po Ang solve ng system sa quantity ng stocks na ipapasok,Service Request,Assigned,0,2025-12-11 16:07:07,1899-12-30,8,0.0,Gensan
 Jeric Johann,41917,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Goodmorning extreme blu Po... Pa check Po sana Ako syncing ng gensan kidapawan vice versa Po merun Po data na na edit sa kidapawan na Wala na update sa gensan,Service Request,For Close,0,2025-12-12 09:14:32,1899-12-30,7,120.0,Gensan
-Jeric Johann,41966,Green Leaves Enterprise Corporation, Missing Transactions (invoices)  from Dec 9 to 12. Nag hang ang server tong Dec 13 ,Service Request,In Progress,0,2025-12-15 13:24:34,1899-12-30,6,213.0,Davao
+Jeric Johann,41966,Green Leaves Enterprise Corporation, Missing Transactions (invoices)  from Dec 9 to 12. Nag hang ang server tong Dec 13 ,Service Request,In Progress,0,2025-12-15 13:24:34,1899-12-30,6,273.0,Davao
 
 
 User: Joshua
@@ -103,7 +102,7 @@ Jude,41757,Central Innovations Technologies Corp,cant open the system and if eve
 Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,In Progress,0,2025-12-10 16:35:31,1899-12-30,8,0.0,Gensan
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,8,0.0,Gensan
 Jude,41896,JAELA'S BAKESHOPPE AND FOOD HOUSE,Paid Out Amounts reflected in Cash Short / Over in POS Receipt,Service Request,In Progress,0,2025-12-11 16:29:53,1899-12-30,8,0.0,Gensan
-Jude,41948,NEW ERA METALFORMING CORPORATION,error 1032,Service Request,In Progress,0,2025-12-12 16:30:56,1899-12-30,6,0.0,Gensan
+Jude,41948,NEW ERA METALFORMING CORPORATION,error 1032,Service Request,In Progress,0,2025-12-12 16:30:56,1899-12-30,7,0.0,Gensan
 Jude,41991,GJ and G Marketing - Kidapawan,Change date of bacalnce forwarded,Service Request,In Progress,0,2025-12-15 16:00:48,1899-12-30,6,115.0,Gensan
 Jude,41993,Central Innovations Technologies Corp,Need assitance how to view audit trail in systen,Service Request,For Cancel,0,2025-12-15 16:03:20,1899-12-30,6,0.0,Gensan
 
@@ -117,9 +116,8 @@ Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,80,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,79,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,28,0.0,Ilo-ilo
-Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,In Progress,0,2025-12-02 16:38:36,1899-12-30,14,70.0,Cebu
+Junmar,41636,"Golden Dzenix Marketing Corp,",Diagnose Cost of Goods Sold Concern,Service Request,For Close,0,2025-12-02 16:38:36,1899-12-30,14,70.0,Cebu
 Junmar,41888,MCR Agriventure Corporation, Zero beginning and ending SI no. ,Service Request,In Progress,0,2025-12-11 16:18:58,1899-12-30,8,40.0,Ilo-ilo
-Junmar,41992,Vexoil Phil Corporation, Banate Branch expire user account set up,Service Request,For Close,0,2025-12-15 16:02:13,1899-12-30,6,20.0,Ilo-ilo
 
 
 User: Rico
