@@ -6,10 +6,10 @@ Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service R
 Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,53,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,52,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,51,0.0,Davao
-Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30,50,20.0,Davao
+Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30,51,20.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,49,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,49,0.0,Davao
-Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Internal,In Progress,0,2025-10-15 11:34:36,1899-12-30,49,210.0,Davao
+Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,In Progress,0,2025-10-15 11:34:36,1899-12-30,49,210.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,42,0.0,Davao
 Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,42,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,41,0.0,Davao
@@ -77,7 +77,7 @@ Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shi
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,18,180.0,CDO
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,14,210.0,CDO
 Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-04 08:55:10,1899-12-30,13,180.0,CDO
-Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,12,150.0,CDO
+Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,13,150.0,CDO
 Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,9,60.0,CDO
 Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,In Progress,0,2025-12-09 15:22:27,1899-12-30,9,30.0,CDO
 Joshua,41807,Richstar Variety Store,R5 Hardware Assessment (5POS),Service Request,In Progress,0,2025-12-10 08:34:50,1899-12-30,9,60.0,CDO
