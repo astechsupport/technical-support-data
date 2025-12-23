@@ -71,7 +71,7 @@ Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Prog
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,23,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,21,120.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,20,120.0,CDO
-Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,18,180.0,CDO
+Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,19,180.0,CDO
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,15,210.0,CDO
 Joshua,41677,RL Enterprises,Printer Setup,Service Request,In Progress,0,2025-12-04 08:55:10,1899-12-30,14,180.0,CDO
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,13,150.0,CDO
@@ -150,5 +150,5 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,15,604.0,CDO
 Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,9,20.0,CDO
 Venz Jan,41879,Vexoil Phil Corporation,Hamtic POS branch cant login ,Service Request,In Progress,0,2025-12-11 11:57:27,1899-12-30,8,322.0,Ilo-ilo
-Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30,7,0.0,CDO
+Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30,8,0.0,CDO
 
