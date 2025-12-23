@@ -10,7 +10,7 @@ Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,49,150.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,49,0.0,Davao
 Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,In Progress,0,2025-10-23 16:09:31,1899-12-30,43,0.0,Davao
-Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,42,0.0,Davao
+Ceasar Ian,40485,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2025-10-24 09:04:16,1899-12-30,43,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,41,0.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,39,50.0,Davao
 Ceasar Ian,40720,Meat JAS 4U OPC,sales data not syncing properly,Service Request,Assigned,0,2025-10-30 17:53:33,1899-12-30,38,0.0,Davao
@@ -36,7 +36,7 @@ Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the d
 Ceasar Ian,41709,ASL Durian Marketing OPC,MIN cancelled because the set-up of POS machine has connected to server with server consolidator,Service Request,Assigned,0,2025-12-04 14:49:18,1899-12-30,13,0.0,Davao
 Ceasar Ian,41710,Dexluck Auto Parts Trading,OC 3 error ang license key,Service Request,Assigned,0,2025-12-04 14:50:02,1899-12-30,13,0.0,Davao
 Ceasar Ian,41711,Photo Dynamics,re installation of mysql server,Service Request,Assigned,0,2025-12-04 14:58:42,1899-12-30,13,0.0,Davao
-Ceasar Ian,41722,New A & M Commercial & General Merchandise,Set up VPN connection (server and workstation- warehouse),Service Request,Assigned,0,2025-12-05 09:04:26,1899-12-30,12,0.0,Davao
+Ceasar Ian,41722,New A & M Commercial & General Merchandise,Set up VPN connection (server and workstation- warehouse),Service Request,Assigned,0,2025-12-05 09:04:26,1899-12-30,13,0.0,Davao
 Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,Assigned,0,2025-12-05 09:07:18,1899-12-30,12,0.0,Davao
 Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,12,480.0,Davao
 Ceasar Ian,41750,TSCA Electrical Group of Company Incorporated,Activesystem tailscale,Service Request,Assigned,0,2025-12-09 10:47:07,1899-12-30,10,0.0,Davao
@@ -67,7 +67,6 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,60,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,60,0.0,Davao
-Joshua,39834,Two Jadem Corp,Modification on Voucher,Service Request,For Close,0,2025-10-03 10:52:35,1899-12-30,57,120.0,CDO
 Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,29,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,23,0.0,CDO
 Joshua,41362,Richstar Variety Store,Migration of SRP for R4 Branch,Service Request,In Progress,0,2025-11-24 14:28:37,1899-12-30,21,120.0,CDO
