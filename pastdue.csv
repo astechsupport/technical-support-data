@@ -142,7 +142,7 @@ Rico,42007,ADMS Marketing, Set Static Network,Service Request,Assigned,0,2025-12
 Rico,42010,Wise Kart Grocery/Pharmacy,Can't punch in 2  POS,Service Request,In Progress,0,2025-12-16 09:34:16,1899-12-30,7,0.0,Davao
 Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,Assigned,0,2025-12-16 13:58:58,1899-12-30,7,0.0,Davao
 Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,Assigned,0,2025-12-16 13:59:38,1899-12-30,7,0.0,Davao
-Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,6,0.0,Davao
+Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,7,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,6,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,6,0.0,Davao
 Rico,42058,"Ma-an's Bakeshop, Co.",Setup MySQL Serve,Service Request,Assigned,0,2025-12-17 13:07:02,1899-12-30,6,0.0,Davao
@@ -157,4 +157,6 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,16,604.0,CDO
 Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,10,20.0,CDO
 Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30,9,90.0,CDO
+Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,In Progress,0,2025-12-17 14:03:40,1899-12-30,6,0.0,CDO
+Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-17 14:05:10,1899-12-30,6,0.0,CDO
 
