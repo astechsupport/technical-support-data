@@ -42,7 +42,7 @@ Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(r
 Ceasar Ian,41750,TSCA Electrical Group of Company Incorporated,Activesystem tailscale,Service Request,Assigned,0,2025-12-09 10:47:07,1899-12-30,14,0.0,Davao
 Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,13,0.0,Davao
 Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,9,0.0,Davao
-Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30,8,0.0,Davao
+Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30,9,0.0,Davao
 
 
 User: Jeric Johann
@@ -80,7 +80,7 @@ Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,202
 Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,In Progress,0,2025-12-09 15:22:27,1899-12-30,14,30.0,CDO
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,12,60.0,CDO
 Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service Request,In Progress,0,2025-12-11 09:26:57,1899-12-30,12,240.0,CDO
-Joshua,41973,District Market Mini Grocery,Update POS Receipt,Service Request,In Progress,0,2025-12-15 13:38:40,1899-12-30,10,60.0,CDO
+Joshua,41973,District Market Mini Grocery,Update POS Receipt,Service Request,For Close,0,2025-12-15 13:38:40,1899-12-30,10,60.0,CDO
 Joshua,42020,F.D.J Rosmar Corp.,POS Installation,Service Request,In Progress,0,2025-12-16 13:20:15,1899-12-30,9,0.0,CDO
 Joshua,42052,ILT Food Products,Setup Autobackup,Service Request,In Progress,0,2025-12-17 09:57:04,1899-12-30,8,0.0,CDO
 Joshua,42066,Fiscaro's Hardware & Trading,Data migration- vendor,Service Request,In Progress,0,2025-12-17 13:20:04,1899-12-30,8,30.0,CDO
