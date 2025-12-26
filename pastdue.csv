@@ -41,7 +41,7 @@ Ceasar Ian,41724,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Req
 Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,In Progress,0,2025-12-05 09:08:37,1899-12-30,16,480.0,Davao
 Ceasar Ian,41750,TSCA Electrical Group of Company Incorporated,Activesystem tailscale,Service Request,Assigned,0,2025-12-09 10:47:07,1899-12-30,14,0.0,Davao
 Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,13,0.0,Davao
-Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,8,0.0,Davao
+Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,9,0.0,Davao
 Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30,8,0.0,Davao
 
 
@@ -141,8 +141,8 @@ Rico,42004,ADMS Marketing, MySQL Setup,Service Request,Assigned,0,2025-12-16 08:
 Rico,42006,ADMS Marketing,Setup Auto Backup,Service Request,Assigned,0,2025-12-16 08:45:32,1899-12-30,9,0.0,Davao
 Rico,42007,ADMS Marketing, Set Static Network,Service Request,Assigned,0,2025-12-16 08:46:09,1899-12-30,9,0.0,Davao
 Rico,42010,Wise Kart Grocery/Pharmacy,Can't punch in 2  POS,Service Request,In Progress,0,2025-12-16 09:34:16,1899-12-30,9,0.0,Davao
-Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,Assigned,0,2025-12-16 13:58:58,1899-12-30,8,0.0,Davao
-Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,Assigned,0,2025-12-16 13:59:38,1899-12-30,8,0.0,Davao
+Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,Assigned,0,2025-12-16 13:58:58,1899-12-30,9,0.0,Davao
+Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,Assigned,0,2025-12-16 13:59:38,1899-12-30,9,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,8,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,8,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,8,0.0,Davao
