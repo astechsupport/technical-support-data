@@ -128,7 +128,7 @@ Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,18,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,18,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,18,0.0,Davao
-Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,17,0.0,Davao
+Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,18,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,17,0.0,Davao
 Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,Assigned,0,2025-12-09 11:09:57,1899-12-30,15,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30,15,0.0,Davao
@@ -163,6 +163,6 @@ Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Ser
 Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,13,20.0,CDO
 Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30,12,200.0,CDO
 Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,In Progress,0,2025-12-17 14:03:40,1899-12-30,8,0.0,CDO
-Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-17 14:05:10,1899-12-30,8,0.0,CDO
+Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,For Cancel,0,2025-12-17 14:05:10,1899-12-30,8,0.0,CDO
 Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,6,15.0,Davao
 
