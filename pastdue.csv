@@ -66,7 +66,7 @@ Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MA
 Jeric Johann,41885,Tropiland Enterprises,Re install of Active system application ,Service Request,In Progress,0,2025-12-11 16:06:06,1899-12-30,12,0.0,Gensan
 Jeric Johann,41886,Tropiland Enterprises,Mali po Ang solve ng system sa quantity ng stocks na ipapasok,Service Request,Assigned,0,2025-12-11 16:07:07,1899-12-30,12,0.0,Gensan
 Jeric Johann,41917,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Goodmorning extreme blu Po... Pa check Po sana Ako syncing ng gensan kidapawan vice versa Po merun Po data na na edit sa kidapawan na Wala na update sa gensan,Service Request,For Close,0,2025-12-12 09:14:32,1899-12-30,12,120.0,Gensan
-Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,Assigned,0,2025-12-18 13:27:59,1899-12-30,8,0.0,Gensan
+Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,In Progress,0,2025-12-18 13:27:59,1899-12-30,8,0.0,Gensan
 Jeric Johann,42093,JAZZCARE PHARMACY,"NO PASSWORD FOR VOID, REPRINTS, CASHCOUNT ETCH. ",Service Request,In Progress,0,2025-12-22 08:49:48,1899-12-30,6,60.0,Gensan
 Jeric Johann,42103,LM Commercial,Set-up Printer for 3rd OC,Service Request,Assigned,0,2025-12-22 10:16:15,1899-12-30,6,0.0,Cebu
 Jeric Johann,42121,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Murag Ang tailscale Ang problema.. d ma sync gensan kidapawan tapos Dili Nako ma ping Ang kid server vice versa..,Service Request,In Progress,0,2025-12-22 11:38:06,1899-12-30,6,0.0,Gensan
@@ -175,7 +175,7 @@ User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,19,604.0,CDO
 Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,13,20.0,CDO
-Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30,12,440.0,CDO
+Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30,12,590.0,CDO
 Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,In Progress,0,2025-12-17 14:03:40,1899-12-30,9,0.0,CDO
 Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,For Cancel,0,2025-12-17 14:05:10,1899-12-30,9,0.0,CDO
 Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,6,15.0,Davao
