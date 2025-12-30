@@ -135,7 +135,7 @@ User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,36,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,35,0.0,Davao
-Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,23,0.0,Davao
+Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,24,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,21,0.0,Davao
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,19,0.0,Davao
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,19,0.0,Davao
