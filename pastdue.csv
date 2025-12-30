@@ -18,7 +18,7 @@ Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,I
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30,37,0.0,Davao
 Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30,37,0.0,Davao
 Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30,37,0.0,Davao
-Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,36,0.0,Davao
+Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30,37,0.0,Davao
 Ceasar Ian,41133,JVNI Auto Supply, Invoice is reflecting in receive payment even already paid,Internal,For Close,0,2025-11-14 14:14:58,1899-12-30,32,0.0,Davao
 Ceasar Ian,41144,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,Assigned,0,2025-11-15 18:23:58,1899-12-30,31,0.0,Davao
 Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Assistance,Service Request,Assigned,0,2025-11-15 18:35:17,1899-12-30,31,0.0,Davao
@@ -182,6 +182,8 @@ Rico,42157,T.S.K. Rice Trading,ActiveOne Installation,Service Request,Assigned,0
 Rico,42158,T.S.K. Rice Trading, Backup and restore,Service Request,Assigned,0,2025-12-23 09:12:50,1899-12-30,6,0.0,Davao
 Rico,42163,St. Francis Shell Station V,ActiveOne Installation,Service Request,Assigned,0,2025-12-23 13:27:08,1899-12-30,6,0.0,Davao
 Rico,42166,St. Francis Shell Station V,Setup VPN PC2,Service Request,Assigned,0,2025-12-23 13:43:08,1899-12-30,6,0.0,Davao
+Rico,42167,St. Francis Shell Station V,Setup VPN PC1,Service Request,Assigned,0,2025-12-23 13:46:08,1899-12-30,6,0.0,Davao
+Rico,42168,St. Francis Shell Station V,Setup VPN PC3,Service Request,Assigned,0,2025-12-23 13:46:58,1899-12-30,6,0.0,Davao
 
 
 User: Venz Jan
