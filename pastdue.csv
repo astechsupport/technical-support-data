@@ -138,8 +138,8 @@ Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,35,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,24,0.0,Davao
 Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,21,0.0,Davao
-Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,19,0.0,Davao
-Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,19,0.0,Davao
+Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,20,0.0,Davao
+Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,20,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,19,0.0,Davao
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,19,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,19,0.0,Davao
@@ -168,10 +168,10 @@ Rico,42059,"Ma-an's Bakeshop, Co.", Activeone Installation,Service Request,Assig
 Rico,42060,"Ma-an's Bakeshop, Co.", Setup Autobackup,Service Request,Assigned,0,2025-12-17 13:09:42,1899-12-30,9,0.0,Davao
 Rico,42068,Philfumes Petroleum Corporation,A1 installation ,Service Request,Assigned,0,2025-12-17 13:32:18,1899-12-30,9,0.0,Davao
 Rico,42069,Philfumes Petroleum Corporation,Update to version 106,Service Request,Assigned,0,2025-12-17 13:33:48,1899-12-30,9,0.0,Davao
-Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,Assigned,0,2025-12-18 11:50:42,1899-12-30,8,0.0,Davao
-Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned,0,2025-12-22 11:52:48,1899-12-30,6,0.0,Davao
-Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30,6,0.0,Davao
-Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,6,0.0,Davao
+Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,Assigned,0,2025-12-18 11:50:42,1899-12-30,9,0.0,Davao
+Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned,0,2025-12-22 11:52:48,1899-12-30,7,0.0,Davao
+Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30,7,0.0,Davao
+Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,7,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,6,0.0,Davao
 Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,Assigned,0,2025-12-22 14:31:59,1899-12-30,6,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,6,0.0,Davao
