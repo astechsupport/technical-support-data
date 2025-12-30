@@ -25,7 +25,7 @@ Ceasar Ian,41146,AGV Seafood/Steak Eatery ,Price Update and New Item Tagging Ass
 Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login error,Service Request,Assigned,0,2025-11-15 18:39:56,1899-12-30,31,0.0,Davao
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,31,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,29,0.0,Davao
-Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,27,0.0,Davao
+Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,28,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.",Windows Server OS installation,Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,25,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,21,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,21,0.0,Davao
@@ -60,8 +60,8 @@ Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail repor
 Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30,26,180.0,Davao
 Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30,25,0.0,Gensan
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,23,104.0,Davao
-Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,21,0.0,Gensan
-Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,21,0.0,Gensan
+Jeric Johann,41532,ACYAP Enterprises Inc.,Withholding Tax Form:,Service Request,For Cancel,0,2025-12-01 08:35:54,1899-12-30,22,0.0,Gensan
+Jeric Johann,41534,Cha-Cha Shopee Trading,Data source name not found and no default driver specified.,Service Request,For Cancel,0,2025-12-01 08:38:27,1899-12-30,22,0.0,Gensan
 Jeric Johann,41624,JAELA'S BAKESHOPPE AND FOOD HOUSE,update sales invoice under new registration,Service Request,For Cancel,0,2025-12-02 15:18:08,1899-12-30,20,0.0,Gensan
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,In Progress,0,2025-12-09 11:07:46,1899-12-30,15,30.0,Gensan
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,In Progress,0,2025-12-10 16:33:51,1899-12-30,14,70.0,Gensan
@@ -100,7 +100,7 @@ User: Jude
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Request,In Progress,0,2025-09-16 09:21:15,1899-12-30,75,0.0,Gensan
 Jude,40772,"Tacurong Fitmart, Inc.",synching of data ,Service Request,In Progress,0,2025-11-03 17:30:15,1899-12-30,41,0.0,Gensan
-Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,For Cancel,0,2025-11-19 08:35:22,1899-12-30,29,0.0,Gensan
+Jude,41229,Fire Ox Trading Corporation,Voided GJ Entry Still Showing in Bank Reconciliation,Service Request,For Cancel,0,2025-11-19 08:35:22,1899-12-30,30,0.0,Gensan
 Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Service Request,In Progress,0,2025-12-02 14:34:26,1899-12-30,20,0.0,Gensan
 Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,In Progress,0,2025-12-10 16:35:31,1899-12-30,14,0.0,Gensan
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,14,0.0,Gensan
@@ -172,6 +172,7 @@ Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Install
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,6,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,6,0.0,Davao
 Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,Assigned,0,2025-12-22 14:31:59,1899-12-30,6,0.0,Davao
+Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,6,0.0,Davao
 
 
 User: Venz Jan
