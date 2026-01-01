@@ -3,7 +3,7 @@ User: Ceasar Ian
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Ceasar Ian,39124,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,In Progress,0,2025-09-15 08:59:45,1899-12-30,79,0.0,Davao
 Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service Request,In Progress,5,2025-09-24 08:53:38,1899-12-30,72,0.0,Davao
-Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,60,0.0,Davao
+Ceasar Ian,39995,EPD Land Development Corporation, Activeone installation latest version - laptop ni Sir Edmar,Service Request,Assigned,0,2025-10-09 09:17:49,1899-12-30,61,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30,59,0.0,Davao
 Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30,58,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30,58,0.0,Davao
@@ -137,7 +137,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,38,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,37,0.0,Davao
 Rico,41492,Golden Lakemore Corporation,Golden Lakemore: Deployment of revision fixes in their Bank Reconciliation concern,Service Request,Assigned,0,2025-11-27 11:18:44,1899-12-30,25,0.0,Davao
-Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,22,0.0,Davao
+Rico,41580,"ANA'S BREEDERS FARMS, INC.",Diagnose not reflecting cost,Service Request,In Progress,0,2025-12-02 09:17:16,1899-12-30,23,0.0,Davao
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30,21,0.0,Davao
 Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30,21,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,20,0.0,Davao
