@@ -26,7 +26,7 @@ Ceasar Ian,41148,Meat JAS 4U OPC, POS system at our MAA outlet displays a login 
 Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Service Request,In Progress,0,2025-11-17 09:25:20,1899-12-30,33,0.0,Davao
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,31,0.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,30,0.0,Davao
-Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.",Windows Server OS installation,Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,27,0.0,Davao
+Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.",Windows Server OS installation,Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,28,0.0,Davao
 Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,23,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,23,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,23,0.0,Davao
@@ -68,7 +68,7 @@ Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,In Progress,0,2025-12-10 16:33:51,1899-12-30,16,0.0,Gensan
 Jeric Johann,41885,Tropiland Enterprises,Re install of Active system application ,Service Request,In Progress,0,2025-12-11 16:06:06,1899-12-30,15,0.0,Gensan
 Jeric Johann,41886,Tropiland Enterprises,Mali po Ang solve ng system sa quantity ng stocks na ipapasok,Service Request,Assigned,0,2025-12-11 16:07:07,1899-12-30,15,0.0,Gensan
-Jeric Johann,41917,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Goodmorning extreme blu Po... Pa check Po sana Ako syncing ng gensan kidapawan vice versa Po merun Po data na na edit sa kidapawan na Wala na update sa gensan,Service Request,For Close,0,2025-12-12 09:14:32,1899-12-30,14,0.0,Gensan
+Jeric Johann,41917,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Goodmorning extreme blu Po... Pa check Po sana Ako syncing ng gensan kidapawan vice versa Po merun Po data na na edit sa kidapawan na Wala na update sa gensan,Service Request,For Close,0,2025-12-12 09:14:32,1899-12-30,15,0.0,Gensan
 Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,In Progress,0,2025-12-18 13:27:59,1899-12-30,10,0.0,Gensan
 Jeric Johann,42093,JAZZCARE PHARMACY,"NO PASSWORD FOR VOID, REPRINTS, CASHCOUNT ETCH. ",Service Request,In Progress,0,2025-12-22 08:49:48,1899-12-30,9,0.0,Gensan
 Jeric Johann,42103,LM Commercial,Set-up Printer for 3rd OC,Service Request,Assigned,0,2025-12-22 10:16:15,1899-12-30,8,0.0,Cebu
@@ -120,7 +120,7 @@ Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2
 Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,108,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,In Progress,0,2025-08-12 16:14:10,1899-12-30,102,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,88,0.0,Cebu
-Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,87,0.0,Cebu
+Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,88,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,86,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,35,0.0,Ilo-ilo
 Junmar,41888,MCR Agriventure Corporation, Zero beginning and ending SI no. ,Service Request,In Progress,0,2025-12-11 16:18:58,1899-12-30,15,0.0,Ilo-ilo
@@ -175,9 +175,9 @@ Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-1
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,8,0.0,Davao
 Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,Assigned,0,2025-12-22 14:31:59,1899-12-30,8,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,8,0.0,Davao
-Rico,42156,T.S.K. Rice Trading,MySQL Setup,Service Request,Assigned,0,2025-12-23 09:11:41,1899-12-30,7,0.0,Davao
-Rico,42157,T.S.K. Rice Trading,ActiveOne Installation,Service Request,Assigned,0,2025-12-23 09:12:19,1899-12-30,7,0.0,Davao
-Rico,42158,T.S.K. Rice Trading, Backup and restore,Service Request,Assigned,0,2025-12-23 09:12:50,1899-12-30,7,0.0,Davao
+Rico,42156,T.S.K. Rice Trading,MySQL Setup,Service Request,Assigned,0,2025-12-23 09:11:41,1899-12-30,8,0.0,Davao
+Rico,42157,T.S.K. Rice Trading,ActiveOne Installation,Service Request,Assigned,0,2025-12-23 09:12:19,1899-12-30,8,0.0,Davao
+Rico,42158,T.S.K. Rice Trading, Backup and restore,Service Request,Assigned,0,2025-12-23 09:12:50,1899-12-30,8,0.0,Davao
 Rico,42163,St. Francis Shell Station V,ActiveOne Installation,Service Request,Assigned,0,2025-12-23 13:27:08,1899-12-30,7,0.0,Davao
 Rico,42166,St. Francis Shell Station V,Setup VPN PC2,Service Request,Assigned,0,2025-12-23 13:43:08,1899-12-30,7,0.0,Davao
 Rico,42167,St. Francis Shell Station V,Setup VPN PC1,Service Request,Assigned,0,2025-12-23 13:46:08,1899-12-30,7,0.0,Davao
