@@ -80,7 +80,7 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,68,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,68,0.0,Davao
-Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,37,0.0,CDO
+Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30,38,0.0,CDO
 Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30,31,0.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,27,0.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,26,0.0,CDO
@@ -94,6 +94,7 @@ Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service R
 Joshua,42052,ILT Food Products,Setup Autobackup,Service Request,In Progress,0,2025-12-17 09:57:04,1899-12-30,12,0.0,CDO
 Joshua,42066,Fiscaro's Hardware & Trading,Data migration- vendor,Service Request,In Progress,0,2025-12-17 13:20:04,1899-12-30,12,0.0,CDO
 Joshua,42154,ILT Food Products,Printer Setup,Service Request,In Progress,0,2025-12-23 09:06:07,1899-12-30,9,0.0,CDO
+Joshua,42185,"Southern Agro, Inc.",Workstation cannot  connect to the server,Service Request,In Progress,0,2025-12-26 09:41:08,1899-12-30,6,0.0,Gensan
 
 
 User: Jude
@@ -149,7 +150,7 @@ Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localh
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,18,0.0,Davao
 Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,18,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,18,0.0,Davao
-Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,16,0.0,Davao
+Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,17,0.0,Davao
 Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,Assigned,0,2025-12-11 13:17:15,1899-12-30,16,0.0,Davao
 Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,Assigned,0,2025-12-14 22:01:57,1899-12-30,14,0.0,Davao
 Rico,42002,Seawind Damosa Condominium Corporation,Template Modification Acknowledgement Receipt,Service Request,In Progress,0,2025-12-16 08:23:00,1899-12-30,14,0.0,Davao
