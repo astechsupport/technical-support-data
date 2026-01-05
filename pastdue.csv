@@ -1003,7 +1003,7 @@ Ceasar Ian,40735,Dirty Sanchez Food & Beverage, Restaurant installation,Service 
 Ceasar Ian,40736,Dirty Sanchez Food & Beverage,Main Vpn installation,Service Request,Closed,5,2025-11-02 21:57:32,2025-11-10 09:11:58,5,0.0,Davao
 Ceasar Ian,40737,Dirty Sanchez Food & Beverage,Workstation VPN installation,Service Request,Closed,5,2025-11-02 21:58:06,2025-11-10 09:11:33,5,0.0,Davao
 Ceasar Ian,40739,KRCK BudgetWise Trading OPC,PTU Set up,Service Request,Closed,5,2025-11-02 22:02:44,2025-11-20 17:05:31,13,0.0,Davao
-Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30 00:00:00,44,0.0,Davao
+Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30 00:00:00,45,0.0,Davao
 Ceasar Ian,40812,Sports Town Incorporated,Can't connect A1,Service Request,Closed,5,2025-11-04 14:08:24,2025-11-14 14:39:06,9,0.0,Davao
 Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not working,Service Request,Closed,5,2025-11-05 09:18:25,2025-12-10 08:38:17,25,0.0,Davao
 Ceasar Ian,40868,RJ Construction and Supply,Cant Connect to Server,Service Request,Closed,4,2025-11-05 14:51:31,2025-11-10 14:39:52,3,0.0,Davao
@@ -5662,7 +5662,7 @@ Rico,41701,St. Francis Shell Station V,Check Network Connectivity all Units,Serv
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30 00:00:00,22,0.0,Davao
 Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,Closed,0,2025-12-04 11:43:53,2025-12-16 14:30:17,9,0.0,Davao
 Rico,41714,The Generics Pharmacy - Matina,Can't See encode in stockin main POS workstation),Service Request,Closed,5,2025-12-04 15:33:30,2025-12-05 18:05:07,2,0.0,Gensan
-Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30 00:00:00,21,0.0,Davao
+Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30 00:00:00,22,0.0,Davao
 Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,Assigned,0,2025-12-09 11:09:57,1899-12-30 00:00:00,19,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30 00:00:00,19,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30 00:00:00,19,0.0,Davao
@@ -5822,5 +5822,5 @@ Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC
 Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,Service Request,In Progress,0,2025-12-29 15:47:20,1899-12-30 00:00:00,5,0.0,Davao
 Venz Jan,42248,Suri Fresh Meatshop & Minimart,Can't Search Items,Service Request,In Progress,0,2025-12-31 10:33:34,1899-12-30 00:00:00,3,0.0,CDO
 Venz Jan,42249,HBO Marketing,Can't Search Item in POS (Cleech Supermart),Service Request,In Progress,0,2025-12-31 10:35:19,1899-12-30 00:00:00,3,0.0,CDO
-Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration,Service Request,Assigned,0,2026-01-05 09:21:10,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration,Service Request,In Progress,0,2026-01-05 09:21:10,1899-12-30 00:00:00,1,0.0,Davao
 
