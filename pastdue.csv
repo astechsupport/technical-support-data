@@ -121,7 +121,7 @@ Jude,41621,Timber Motor Parts,Run Import Utility for inventory adjustment,Servic
 Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,In Progress,0,2025-12-10 16:35:31,1899-12-30,15,0.0,Gensan
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,15,0.0,Gensan
 Jude,41896,JAELA'S BAKESHOPPE AND FOOD HOUSE,Paid Out Amounts reflected in Cash Short / Over in POS Receipt,Service Request,In Progress,0,2025-12-11 16:29:53,1899-12-30,15,0.0,Gensan
-Jude,41948,NEW ERA METALFORMING CORPORATION,error 1032,Service Request,In Progress,0,2025-12-12 16:30:56,1899-12-30,15,0.0,Gensan
+Jude,41948,NEW ERA METALFORMING CORPORATION,error 1032,Service Request,For Cancel,0,2025-12-12 16:30:56,1899-12-30,15,0.0,Gensan
 Jude,41993,Central Innovations Technologies Corp,Need assitance how to view audit trail in systen,Service Request,For Cancel,0,2025-12-15 16:03:20,1899-12-30,15,0.0,Gensan
 Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 08:28:18,1899-12-30,10,0.0,Gensan
 Jude,42139,NEW ERA METALFORMING CORPORATION,replication error on p3 main branch to main syncing concern,Service Request,In Progress,0,2025-12-22 14:31:19,1899-12-30,10,0.0,Gensan
@@ -144,7 +144,7 @@ Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jo
 Junmar,41888,MCR Agriventure Corporation, Zero beginning and ending SI no. ,Service Request,In Progress,0,2025-12-11 16:18:58,1899-12-30,15,0.0,Ilo-ilo
 Junmar,42031,Forth Construction materials Trading,DR Shooting Modification,Service Request,In Progress,0,2025-12-16 15:21:53,1899-12-30,10,0.0,Cebu
 Junmar,42032,Forth Construction materials Trading,Clear Docs,Service Request,For Close,0,2025-12-16 15:22:20,1899-12-30,10,0.0,Cebu
-Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,Assigned,0,2025-12-22 10:18:31,1899-12-30,10,0.0,Cebu
+Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,10,0.0,Cebu
 Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales by Item Summary (Shipping Fee as Other Type did not reflect in the report),Service Request,Assigned,0,2025-12-22 10:41:23,1899-12-30,10,0.0,Cebu
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,Assigned,0,2025-12-22 17:19:09,1899-12-30,10,0.0,Cebu
 Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,In Progress,0,2025-12-23 11:40:23,1899-12-30,5,150.0,Ilo-ilo
