@@ -2022,7 +2022,7 @@ Joshua,40988,Power Heavy Parts,MySQL Setup,Service Request,Closed,5,2025-11-10 1
 Joshua,40989,Power Heavy Parts,AutoBackup Setup,Service Request,Closed,5,2025-11-10 16:32:32,2025-11-14 13:32:02,4,0.0,CDO
 Joshua,40990,Power Heavy Parts,ActiveOne Installation,Service Request,Closed,5,2025-11-10 16:33:01,2025-11-14 13:32:13,4,0.0,CDO
 Joshua,40991,Power Heavy Parts,Inventory Migration,Service Request,Closed,5,2025-11-10 16:33:35,2025-11-14 13:32:23,4,0.0,CDO
-Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30 00:00:00,38,0.0,CDO
+Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,In Progress,0,2025-11-12 09:42:45,1899-12-30 00:00:00,39,0.0,CDO
 Joshua,41091,J&J Aklan Trading ,Cant connect to Server,Incident,Closed,5,2025-11-13 09:11:11,2025-11-13 17:20:37,1,0.0,CDO
 Joshua,41092,Mio Enterprises ,Zero out all Inventory (Claveria),Service Request,Closed,0,2025-11-13 09:11:42,2025-12-11 16:29:11,21,0.0,CDO
 Joshua,41139,F.D.J Rosmar Corp.,Invoice List Migration (1 Location),Service Request,Closed,5,2025-11-14 15:07:40,2025-11-19 15:21:46,4,0.0,CDO
@@ -2121,7 +2121,7 @@ Joshua,42138,Richstar Variety Store,Replication Maintenanace (R4),Service Reques
 Joshua,42154,ILT Food Products,Printer Setup,Service Request,In Progress,0,2025-12-23 09:06:07,1899-12-30 00:00:00,10,0.0,CDO
 Joshua,42183,Caltech IT Solution,Item List Migration,Service Request,Closed,0,2025-12-26 08:16:16,2025-12-31 10:57:40,4,0.0,CDO
 Joshua,42184,Caltech IT Solution,Contact List Migration (Customers),Service Request,Closed,0,2025-12-26 08:19:26,2025-12-31 10:57:27,4,0.0,CDO
-Joshua,42185,"Southern Agro, Inc.",Workstation cannot  connect to the server,Service Request,For Close,0,2025-12-26 09:41:08,1899-12-30 00:00:00,6,0.0,Gensan
+Joshua,42185,"Southern Agro, Inc.",Workstation cannot  connect to the server,Service Request,For Close,0,2025-12-26 09:41:08,1899-12-30 00:00:00,7,0.0,Gensan
 Joshua,42205,Farmer's Choice Minimart,MySQL Resetup,Service Request,Closed,0,2025-12-29 08:51:36,2025-12-31 10:45:35,3,0.0,CDO
 Joshua,42206,Farmer's Choice Minimart,Auto Backup Setup,Service Request,Closed,0,2025-12-29 08:52:19,2025-12-31 10:45:56,3,0.0,CDO
 Joshua,42207,Farmer's Choice Minimart,POS Installation,Service Request,Closed,0,2025-12-29 08:53:09,2025-12-31 10:45:48,3,0.0,CDO
@@ -4492,6 +4492,12 @@ Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS
 Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,Assigned,0,2025-12-23 11:40:23,1899-12-30 00:00:00,9,0.0,Ilo-ilo
 Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,Assigned,0,2026-01-02 11:07:32,1899-12-30 00:00:00,1,0.0,Cebu
 Junmar,42263,MIKE RUECO FOOD PRODUCTS MARKETING,Hardware assessment,Service Request,Assigned,0,2026-01-05 09:39:00,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42264,MIKE RUECO FOOD PRODUCTS MARKETING,NetWork Assessment,Service Request,Assigned,0,2026-01-05 09:40:42,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42265,MIKE RUECO FOOD PRODUCTS MARKETING,mysql Installation,Service Request,Assigned,0,2026-01-05 09:41:18,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42266,MIKE RUECO FOOD PRODUCTS MARKETING,Activeone Installation,Service Request,Assigned,0,2026-01-05 09:42:03,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42267,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation MainServer,Service Request,Assigned,0,2026-01-05 09:42:49,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42268,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Laptop,Service Request,Assigned,0,2026-01-05 09:43:24,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42269,MIKE RUECO FOOD PRODUCTS MARKETING,Set up autobackup,Service Request,Assigned,0,2026-01-05 09:43:55,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 
 
 User: Rico
@@ -5673,7 +5679,7 @@ Rico,41816,BS Safety Trade Corp.,ActiveONE Installation 4-6units,Service Request
 Rico,41817,BS Safety Trade Corp.,Setup Barcode Printer,Service Request,Closed,5,2025-12-10 08:45:47,2025-12-16 13:55:00,5,0.0,Davao
 Rico,41818,BS Safety Trade Corp.,Network Setup,Service Request,Closed,5,2025-12-10 08:46:30,2025-12-16 13:55:26,5,0.0,Davao
 Rico,41843,BS Safety Trade Corp.,Backup Recovery for Old Database,Service Request,Closed,5,2025-12-10 12:15:27,2025-12-16 13:53:43,5,0.0,Davao
-Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30 00:00:00,17,0.0,Davao
+Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30 00:00:00,18,0.0,Davao
 Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,Assigned,0,2025-12-11 13:17:15,1899-12-30 00:00:00,17,0.0,Davao
 Rico,41882,BS Safety Trade Corp.,Modify Template,Service Request,Closed,5,2025-12-11 13:46:25,2025-12-16 13:55:41,4,0.0,Davao
 Rico,41919,GEJ Shopping Center,MySQL Setup Server,Service Request,Closed,0,2025-12-12 09:31:54,2025-12-17 12:33:48,4,0.0,Davao
