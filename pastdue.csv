@@ -916,7 +916,7 @@ Ceasar Ian,39997,Sports Town Incorporated,VPN setup,Service Request,Closed,5,202
 Ceasar Ian,40009,JohnGold Cargo Forwarder Corporation,Activeone Connection Concern,Internal,Closed,0,2025-10-09 13:41:47,2025-12-05 18:01:09,42,0.0,Davao
 Ceasar Ian,40039,Suntrek Enterprises,Arrange sequencing in contact list,Service Request,In Progress,0,2025-10-10 09:28:06,1899-12-30 00:00:00,62,0.0,Davao
 Ceasar Ian,40058,Sure-Spot Distribution Corporation,Activeone Users Cant Connect to Server,Incident,Closed,5,2025-10-13 09:04:07,2025-10-13 13:24:13,1,0.0,Davao
-Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30 00:00:00,60,0.0,Davao
+Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dexter laptop),Service Request,Assigned,0,2025-10-13 11:39:36,1899-12-30 00:00:00,61,0.0,Davao
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30 00:00:00,60,0.0,Davao
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,Closed,5,2025-10-14 09:10:08,2025-11-18 11:23:49,26,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Closed,5,2025-10-15 11:16:49,2025-11-14 14:37:16,23,0.0,Davao
@@ -1719,7 +1719,7 @@ Jeric Johann,42076,Paramond Inc,Create RDP Thinstuff for user 2,Service Request,
 Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,For Cancel,0,2025-12-18 13:27:59,1899-12-30 00:00:00,12,0.0,Gensan
 Jeric Johann,42093,JAZZCARE PHARMACY,"NO PASSWORD FOR VOID, REPRINTS, CASHCOUNT ETCH. ",Service Request,For Close,0,2025-12-22 08:49:48,1899-12-30 00:00:00,11,0.0,Gensan
 Jeric Johann,42103,LM Commercial,Set-up Printer for 3rd OC,Service Request,In Progress,0,2025-12-22 10:16:15,1899-12-30 00:00:00,11,0.0,Cebu
-Jeric Johann,42121,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Murag Ang tailscale Ang problema.. d ma sync gensan kidapawan tapos Dili Nako ma ping Ang kid server vice versa..,Service Request,In Progress,0,2025-12-22 11:38:06,1899-12-30 00:00:00,10,0.0,Gensan
+Jeric Johann,42121,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Murag Ang tailscale Ang problema.. d ma sync gensan kidapawan tapos Dili Nako ma ping Ang kid server vice versa..,Service Request,In Progress,0,2025-12-22 11:38:06,1899-12-30 00:00:00,11,0.0,Gensan
 Jeric Johann,42165,JAZZCARE PHARMACY,Assistance in Check format,Service Request,For Close,0,2025-12-23 13:39:11,1899-12-30 00:00:00,9,0.0,Gensan
 Jeric Johann,42169,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,MYSQL INSTALLATION,Service Request,Closed,0,2025-12-23 14:07:43,2025-12-29 16:31:37,5,0.0,Gensan
 Jeric Johann,42170,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,AUTOBACKUP INSTALLATION,Service Request,Closed,0,2025-12-23 14:08:25,2025-12-29 16:31:48,5,0.0,Gensan
@@ -5657,7 +5657,7 @@ Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,Closed,0,2
 Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,Closed,0,2025-12-04 10:00:05,2025-12-15 17:01:25,8,0.0,Davao
 Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,Closed,0,2025-12-04 10:00:46,2025-12-15 17:01:35,8,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30 00:00:00,23,0.0,Davao
-Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30 00:00:00,22,0.0,Davao
+Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30 00:00:00,23,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,Closed,0,2025-12-04 11:38:37,2025-12-15 16:42:07,8,0.0,Davao
 Rico,41701,St. Francis Shell Station V,Check Network Connectivity all Units,Service Request,Closed,0,2025-12-04 11:40:18,2025-12-15 16:42:23,8,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30 00:00:00,22,0.0,Davao
