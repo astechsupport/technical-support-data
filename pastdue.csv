@@ -921,7 +921,7 @@ Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction i
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,Closed,5,2025-10-14 09:10:08,2025-11-18 11:23:49,26,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Closed,5,2025-10-15 11:16:49,2025-11-14 14:37:16,23,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30 00:00:00,59,0.0,Davao
-Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30 00:00:00,58,0.0,Davao
+Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30 00:00:00,59,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Closed,0,2025-10-15 11:34:36,2025-12-22 16:32:07,49,0.0,Davao
 Ceasar Ian,40181,Shop and Save More Grocers Corporation,POS 1 Replication reset up 1,Service Request,Closed,5,2025-10-15 15:51:45,2025-10-23 14:25:41,6,0.0,Davao
 Ceasar Ian,40182,Shop and Save More Grocers Corporation,POS 1 Replication reset up 2,Service Request,Closed,5,2025-10-15 15:52:31,2025-10-23 14:32:44,6,0.0,Davao
@@ -1009,8 +1009,8 @@ Ceasar Ian,40848,"Denchel Enterprises, Inc.",Find function in ActiveOne is not w
 Ceasar Ian,40868,RJ Construction and Supply,Cant Connect to Server,Service Request,Closed,4,2025-11-05 14:51:31,2025-11-10 14:39:52,3,0.0,Davao
 Ceasar Ian,40930,EPD Land Development Corporation,CPU won’t turn on,Service Request,Closed,5,2025-11-07 10:13:53,2025-11-26 09:42:26,13,0.0,Davao
 Ceasar Ian,40939,PMGL Refrigeration and Aircondition Service Center,"unable to synchronize build assembly costing, line id 164 does not exist. ",Service Request,In Progress,0,2025-11-07 14:56:23,1899-12-30 00:00:00,41,0.0,Davao
-Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30 00:00:00,40,0.0,Davao
-Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30 00:00:00,40,0.0,Davao
+Ceasar Ian,40965,Meat JAS 4U OPC,Syncing of POS buhangin Outle,Service Request,Assigned,0,2025-11-10 11:34:14,1899-12-30 00:00:00,41,0.0,Davao
+Ceasar Ian,40966,Meat JAS 4U OPC,Opening POS in maa outlet. ,Service Request,Assigned,0,2025-11-10 11:35:02,1899-12-30 00:00:00,41,0.0,Davao
 Ceasar Ian,40975,Suntrek Enterprises,Can't open POS,Internal,Closed,0,2025-11-10 13:45:42,2025-12-02 11:59:22,16,0.0,Davao
 Ceasar Ian,40976,Suntrek Enterprises,"SubClass data must be on Preferred Vendor, for script running",Service Request,In Progress,0,2025-11-10 13:46:32,1899-12-30 00:00:00,40,0.0,Davao
 Ceasar Ian,40977,PC GATE TECHNOLOGIES INC. (temporary),Can't open POS,Incident,Closed,4,2025-11-10 14:05:05,2025-11-11 13:25:20,1,0.0,Davao
