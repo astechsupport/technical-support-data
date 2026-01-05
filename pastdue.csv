@@ -1115,7 +1115,7 @@ Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since
 Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30 00:00:00,14,0.0,Davao
 Ceasar Ian,42113,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,Assigned,0,2025-12-22 11:27:27,1899-12-30 00:00:00,11,0.0,Davao
 Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,Assigned,0,2025-12-22 11:28:52,1899-12-30 00:00:00,11,0.0,Davao
-Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-12-22 11:59:53,1899-12-30 00:00:00,10,0.0,Davao
+Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-12-22 11:59:53,1899-12-30 00:00:00,11,0.0,Davao
 Ceasar Ian,42128,JCCQ Trading,Printer Driver installation,Service Request,Closed,0,2025-12-22 12:01:08,2025-12-26 09:12:03,4,0.0,Davao
 Ceasar Ian,42129,JCCQ Trading, Set up PTU details,Service Request,Closed,0,2025-12-22 12:01:50,2025-12-26 09:12:13,4,0.0,Davao
 Ceasar Ian,42130,JCCQ Trading, Create computer user,Service Request,Closed,0,2025-12-22 12:02:20,2025-12-26 09:12:22,4,0.0,Davao
@@ -5710,7 +5710,7 @@ Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,Assigne
 Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned,0,2025-12-22 11:52:48,1899-12-30 00:00:00,11,0.0,Davao
 Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30 00:00:00,11,0.0,Davao
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30 00:00:00,11,0.0,Davao
-Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30 00:00:00,10,0.0,Davao
+Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30 00:00:00,11,0.0,Davao
 Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,Assigned,0,2025-12-22 14:31:59,1899-12-30 00:00:00,10,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30 00:00:00,10,0.0,Davao
 Rico,42156,T.S.K. Rice Trading,MySQL Setup,Service Request,Assigned,0,2025-12-23 09:11:41,1899-12-30 00:00:00,10,0.0,Davao
@@ -5824,4 +5824,7 @@ Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,
 Venz Jan,42248,Suri Fresh Meatshop & Minimart,Can't Search Items,Service Request,In Progress,0,2025-12-31 10:33:34,1899-12-30 00:00:00,4,0.0,CDO
 Venz Jan,42249,HBO Marketing,Can't Search Item in POS (Cleech Supermart),Service Request,In Progress,0,2025-12-31 10:35:19,1899-12-30 00:00:00,4,0.0,CDO
 Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration,Service Request,In Progress,0,2026-01-05 09:21:10,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42274,Two-G Motorista Motor Parts and Accessories,Can't Connect to Server,Service Request,Assigned,0,2026-01-05 11:57:27,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42275,Thunder Park Inc.,Create Multiple Connection for Order Capture 1,Service Request,Assigned,0,2026-01-05 11:59:22,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42276,Thunder Park Inc.,Create Multiple Connection for Order Capture 2,Service Request,Assigned,0,2026-01-05 11:59:53,1899-12-30 00:00:00,1,0.0,Davao
 
