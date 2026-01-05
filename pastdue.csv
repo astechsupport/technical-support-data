@@ -1695,7 +1695,7 @@ Jeric Johann,41641,Green Rise Marketing and Co.,re-installation of A1 POS,Servic
 Jeric Johann,41678,Limco Pharma And Medical Supplies Distribution,Workstation can't connect to server,Service Request,Closed,0,2025-12-04 08:57:18,2025-12-11 14:46:05,6,0.0,Gensan
 Jeric Johann,41715,Limco Pharma And Medical Supplies Distribution,Add unit of measure details fo Purchase Order,Service Request,Closed,0,2025-12-04 15:35:21,2025-12-11 14:46:41,5,0.0,Gensan
 Jeric Johann,41737,BW Outdoor Shoppe,Re-installation of POS due to corrupted computer. ,Service Request,Closed,0,2025-12-05 13:56:55,2025-12-11 14:47:53,5,0.0,Gensan
-Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30 00:00:00,19,0.0,Gensan
+Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30 00:00:00,20,0.0,Gensan
 Jeric Johann,41799,Kristan Educational Supply,Update Z-read template for new PTU for POS 1,Service Request,Closed,0,2025-12-09 17:02:26,2025-12-11 14:48:47,2,0.0,Gensan
 Jeric Johann,41800,Kristan Educational Supply,Update Z-read template for new PTU for POS 2,Service Request,Closed,0,2025-12-09 17:03:11,2025-12-11 14:49:08,2,0.0,Gensan
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,For Cancel,0,2025-12-10 16:33:51,1899-12-30 00:00:00,18,0.0,Gensan
@@ -2038,7 +2038,7 @@ Joshua,41257,Marbel Computer Center,Reset Password (Valencia),Service Request,Cl
 Joshua,41259,IVAN Drugstore,POS cant connect to Server,Incident,Closed,4,2025-11-19 16:56:46,2025-11-20 15:25:54,1,0.0,CDO
 Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,Closed,0,2025-11-20 08:43:22,2025-12-11 16:23:28,16,0.0,CDO
 Joshua,41269,Marbel Computer Center,Sales Receipt Form Enhancement,Service Request,Closed,0,2025-11-20 11:55:43,2025-12-16 13:22:55,19,0.0,CDO
-Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,Assigned,0,2025-11-20 14:13:50,1899-12-30 00:00:00,32,0.0,CDO
+Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,For Cancel,0,2025-11-20 14:13:50,1899-12-30 00:00:00,32,0.0,CDO
 Joshua,41291,RL Enterprises,Server Diagnoses,Service Request,Closed,5,2025-11-20 17:24:38,2025-11-27 15:45:50,5,0.0,CDO
 Joshua,41301,RL Enterprises,Replication Resetup,Service Request,Closed,5,2025-11-21 09:05:29,2025-11-27 15:45:39,5,0.0,CDO
 Joshua,41302,RL Enterprises,MySQL Resetup,Service Request,Closed,5,2025-11-21 09:06:05,2025-11-27 15:45:28,5,0.0,CDO
@@ -4490,7 +4490,7 @@ Junmar,42110,Felcontech Trading and Services Inc.,Mysql reset-up,Service Request
 Junmar,42111,Felcontech Trading and Services Inc.,Backup and Restore last backup Dec. 19 2025 @5.55 pm,Service Request,Closed,0,2025-12-22 11:22:39,2025-12-23 09:13:10,1,0.0,Cebu
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,Assigned,0,2025-12-22 17:19:09,1899-12-30 00:00:00,10,0.0,Cebu
 Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,Assigned,0,2025-12-23 11:40:23,1899-12-30 00:00:00,9,0.0,Ilo-ilo
-Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,Assigned,0,2026-01-02 11:07:32,1899-12-30 00:00:00,1,0.0,Cebu
+Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,Assigned,0,2026-01-02 11:07:32,1899-12-30 00:00:00,2,0.0,Cebu
 Junmar,42263,MIKE RUECO FOOD PRODUCTS MARKETING,Hardware assessment,Service Request,Assigned,0,2026-01-05 09:39:00,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 Junmar,42264,MIKE RUECO FOOD PRODUCTS MARKETING,NetWork Assessment,Service Request,Assigned,0,2026-01-05 09:40:42,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 Junmar,42265,MIKE RUECO FOOD PRODUCTS MARKETING,mysql Installation,Service Request,Assigned,0,2026-01-05 09:41:18,1899-12-30 00:00:00,1,0.0,Ilo-ilo
@@ -5664,7 +5664,7 @@ Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,
 Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,Closed,0,2025-12-04 11:43:53,2025-12-16 14:30:17,9,0.0,Davao
 Rico,41714,The Generics Pharmacy - Matina,Can't See encode in stockin main POS workstation),Service Request,Closed,5,2025-12-04 15:33:30,2025-12-05 18:05:07,2,0.0,Gensan
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30 00:00:00,22,0.0,Davao
-Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,Assigned,0,2025-12-09 11:09:57,1899-12-30 00:00:00,19,0.0,Davao
+Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,Assigned,0,2025-12-09 11:09:57,1899-12-30 00:00:00,20,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30 00:00:00,19,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30 00:00:00,19,0.0,Davao
 Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30 00:00:00,19,0.0,Davao
