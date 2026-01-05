@@ -2131,11 +2131,11 @@ Joshua,42214,King Motors,Replication Maintenance (Igpit),Service Request,Closed,
 Joshua,42215,King Motors,Replication Maintenance (Malaybalay),Service Request,Closed,0,2025-12-29 08:58:08,2025-12-31 10:43:40,3,0.0,CDO
 Joshua,42216,King Motors,Repication Maintenance (Carmen),Service Request,Closed,0,2025-12-29 08:58:44,2025-12-31 10:43:49,3,0.0,CDO
 Joshua,42217,King Motors,Replication Maintenance (Agusan),Service Request,Closed,0,2025-12-29 08:59:22,2025-12-31 10:43:59,3,0.0,CDO
-Joshua,42228,Fiscaro's Hardware & Trading,Transfer of Server,Service Request,For Close,0,2025-12-29 11:47:20,1899-12-30 00:00:00,6,0.0,CDO
-Joshua,42229,Fiscaro's Hardware & Trading,VPN Installation,Service Request,For Close,0,2025-12-29 11:47:46,1899-12-30 00:00:00,6,0.0,CDO
-Joshua,42230,Fiscaro's Hardware & Trading,Auto Backup Resetup,Service Request,For Close,0,2025-12-29 11:48:26,1899-12-30 00:00:00,6,0.0,CDO
-Joshua,42231,Fiscaro's Hardware & Trading,ActiveOne Installation,Service Request,For Close,0,2025-12-29 11:48:54,1899-12-30 00:00:00,6,0.0,CDO
-Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,Assigned,0,2025-12-29 11:53:31,1899-12-30 00:00:00,5,0.0,CDO
+Joshua,42228,Fiscaro's Hardware & Trading,Transfer of Server,Service Request,Closed,0,2025-12-29 11:47:20,2026-01-05 11:53:35,6,0.0,CDO
+Joshua,42229,Fiscaro's Hardware & Trading,VPN Installation,Service Request,Closed,0,2025-12-29 11:47:46,2026-01-05 11:53:26,6,0.0,CDO
+Joshua,42230,Fiscaro's Hardware & Trading,Auto Backup Resetup,Service Request,Closed,0,2025-12-29 11:48:26,2026-01-05 11:52:31,6,0.0,CDO
+Joshua,42231,Fiscaro's Hardware & Trading,ActiveOne Installation,Service Request,Closed,0,2025-12-29 11:48:54,2026-01-05 11:52:24,6,0.0,CDO
+Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,Assigned,0,2025-12-29 11:53:31,1899-12-30 00:00:00,6,0.0,CDO
 Joshua,42246,Richstar Variety Store,Replication Maintenance (R5),Service Request,In Progress,0,2025-12-29 16:09:15,1899-12-30 00:00:00,5,0.0,CDO
 Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,In Progress,0,2026-01-02 11:24:50,1899-12-30 00:00:00,2,120.0,CDO
 Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Incident,Assigned,0,2026-01-05 08:35:04,1899-12-30 00:00:00,1,0.0,Gensan
@@ -5651,8 +5651,8 @@ Rico,41642,Karen and Jay Marketing,ActiveONE Installation 2 Units,Service Reques
 Rico,41643,Philfumes Petroleum Corporation,MOdify Cheque Templat,Service Request,Closed,0,2025-12-03 10:10:08,2025-12-15 16:38:16,9,0.0,Davao
 Rico,41644,Villa Amparo Garden Beach Resort,Can't Z-read 1 POS,Incident,Closed,5,2025-12-03 10:11:04,2025-12-03 16:48:20,1,0.0,Davao
 Rico,41645,The Generics Pharmacy - Matina,Fix A1 Cant see branches stocks encode ,Service Request,Closed,5,2025-12-03 10:14:44,2025-12-05 18:02:33,3,0.0,Davao
-Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30 00:00:00,23,0.0,Davao
-Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30 00:00:00,23,0.0,Davao
+Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:50:37,1899-12-30 00:00:00,24,0.0,Davao
+Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,Assigned,0,2025-12-03 11:51:49,1899-12-30 00:00:00,24,0.0,Davao
 Rico,41683,Grenn Agri-Solution,ActiveONE Installation,Service Request,Closed,0,2025-12-04 09:59:27,2025-12-15 17:01:14,8,0.0,Davao
 Rico,41684,Grenn Agri-Solution,MySQL Server Setup,Service Request,Closed,0,2025-12-04 10:00:05,2025-12-15 17:01:25,8,0.0,Davao
 Rico,41685,Grenn Agri-Solution,Auto Backup Setup,Service Request,Closed,0,2025-12-04 10:00:46,2025-12-15 17:01:35,8,0.0,Davao
@@ -5706,10 +5706,10 @@ Rico,42059,"Ma-an's Bakeshop, Co.", Activeone Installation,Service Request,Assig
 Rico,42060,"Ma-an's Bakeshop, Co.", Setup Autobackup,Service Request,Assigned,0,2025-12-17 13:09:42,1899-12-30 00:00:00,13,0.0,Davao
 Rico,42068,Philfumes Petroleum Corporation,A1 installation ,Service Request,Assigned,0,2025-12-17 13:32:18,1899-12-30 00:00:00,13,0.0,Davao
 Rico,42069,Philfumes Petroleum Corporation,Update to version 106,Service Request,Assigned,0,2025-12-17 13:33:48,1899-12-30 00:00:00,13,0.0,Davao
-Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,Assigned,0,2025-12-18 11:50:42,1899-12-30 00:00:00,12,0.0,Davao
-Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned,0,2025-12-22 11:52:48,1899-12-30 00:00:00,10,0.0,Davao
-Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30 00:00:00,10,0.0,Davao
-Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30 00:00:00,10,0.0,Davao
+Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,Assigned,0,2025-12-18 11:50:42,1899-12-30 00:00:00,13,0.0,Davao
+Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned,0,2025-12-22 11:52:48,1899-12-30 00:00:00,11,0.0,Davao
+Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30 00:00:00,11,0.0,Davao
+Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30 00:00:00,11,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30 00:00:00,10,0.0,Davao
 Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,Assigned,0,2025-12-22 14:31:59,1899-12-30 00:00:00,10,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30 00:00:00,10,0.0,Davao
