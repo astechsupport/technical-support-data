@@ -1119,7 +1119,7 @@ Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-
 Ceasar Ian,42128,JCCQ Trading,Printer Driver installation,Service Request,Closed,0,2025-12-22 12:01:08,2025-12-26 09:12:03,4,0.0,Davao
 Ceasar Ian,42129,JCCQ Trading, Set up PTU details,Service Request,Closed,0,2025-12-22 12:01:50,2025-12-26 09:12:13,4,0.0,Davao
 Ceasar Ian,42130,JCCQ Trading, Create computer user,Service Request,Closed,0,2025-12-22 12:02:20,2025-12-26 09:12:22,4,0.0,Davao
-Ceasar Ian,42131,GDY Airtech Enterprises,template customization,Service Request,Assigned,0,2025-12-22 12:06:15,1899-12-30 00:00:00,10,0.0,Davao
+Ceasar Ian,42131,GDY Airtech Enterprises,template customization,Service Request,Assigned,0,2025-12-22 12:06:15,1899-12-30 00:00:00,11,0.0,Davao
 Ceasar Ian,42132,Supersun Consumer Goods Trading / Platinum Food Products,Can't connect to Server,Service Request,In Progress,0,2025-12-22 13:19:07,1899-12-30 00:00:00,10,0.0,Davao
 Ceasar Ian,42144,"DMI Medical Supply Company, Inc.",DMI : VOIDED TRANSACTION IN GJ REFLECTED IN BALANCE SHEET DETAIL AFTER USING FS utility 5.0.20.21 (64x) (NORMAL RUN),Internal,Assigned,0,2025-12-22 16:21:16,1899-12-30 00:00:00,10,0.0,Davao
 Ceasar Ian,42151,"SOLI DEO GLORIA CHRISTIAN MINISTRIES, INC",Installation A1,Service Request,Assigned,0,2025-12-23 08:35:14,1899-12-30 00:00:00,10,0.0,Davao
@@ -5823,10 +5823,10 @@ Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC
 Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,Service Request,In Progress,0,2025-12-29 15:47:20,1899-12-30 00:00:00,5,0.0,Davao
 Venz Jan,42248,Suri Fresh Meatshop & Minimart,Can't Search Items,Service Request,In Progress,0,2025-12-31 10:33:34,1899-12-30 00:00:00,4,0.0,CDO
 Venz Jan,42249,HBO Marketing,Can't Search Item in POS (Cleech Supermart),Service Request,In Progress,0,2025-12-31 10:35:19,1899-12-30 00:00:00,4,0.0,CDO
-Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration,Service Request,In Progress,0,2026-01-05 09:21:10,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration 1,Service Request,In Progress,0,2026-01-05 09:21:10,1899-12-30 00:00:00,1,0.0,Davao
 Venz Jan,42274,Two-G Motorista Motor Parts and Accessories,Can't Connect to Server,Service Request,Assigned,0,2026-01-05 11:57:27,1899-12-30 00:00:00,1,0.0,Davao
-Venz Jan,42275,Thunder Park Inc.,Create Multiple Connection for Order Capture 1,Service Request,Assigned,0,2026-01-05 11:59:22,1899-12-30 00:00:00,1,0.0,Davao
-Venz Jan,42276,Thunder Park Inc.,Create Multiple Connection for Order Capture 2,Service Request,Assigned,0,2026-01-05 11:59:53,1899-12-30 00:00:00,1,0.0,Davao
-Venz Jan,42277,Thunder Park Inc.,Create Multiple Connection for Order Capture 3,Service Request,Assigned,0,2026-01-05 12:00:29,1899-12-30 00:00:00,1,0.0,Davao
-Venz Jan,42278,Thunder Park Inc.,Create Multiple Connection for POS,Service Request,Assigned,0,2026-01-05 12:01:09,1899-12-30 00:00:00,1,0.0,CDO
+Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,Assigned,0,2026-01-05 11:59:22,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,Assigned,0,2026-01-05 11:59:53,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42277,Thunder Park Inc.,For update,Service Request,Assigned,0,2026-01-05 12:00:29,1899-12-30 00:00:00,1,0.0,Davao
+Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,Assigned,0,2026-01-05 12:01:09,1899-12-30 00:00:00,1,0.0,CDO
 
