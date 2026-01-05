@@ -4489,7 +4489,7 @@ Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales 
 Junmar,42110,Felcontech Trading and Services Inc.,Mysql reset-up,Service Request,Closed,0,2025-12-22 11:21:39,2025-12-23 09:12:50,1,0.0,Cebu
 Junmar,42111,Felcontech Trading and Services Inc.,Backup and Restore last backup Dec. 19 2025 @5.55 pm,Service Request,Closed,0,2025-12-22 11:22:39,2025-12-23 09:13:10,1,0.0,Cebu
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,Assigned,0,2025-12-22 17:19:09,1899-12-30 00:00:00,10,0.0,Cebu
-Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,In Progress,0,2025-12-23 11:40:23,1899-12-30 00:00:00,9,150.0,Ilo-ilo
+Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,In Progress,0,2025-12-23 11:40:23,1899-12-30 00:00:00,10,150.0,Ilo-ilo
 Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,Assigned,0,2026-01-02 11:07:32,1899-12-30 00:00:00,2,0.0,Cebu
 Junmar,42263,MIKE RUECO FOOD PRODUCTS MARKETING,Hardware assessment,Service Request,Assigned,0,2026-01-05 09:39:00,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 Junmar,42264,MIKE RUECO FOOD PRODUCTS MARKETING,NetWork Assessment,Service Request,Assigned,0,2026-01-05 09:40:42,1899-12-30 00:00:00,1,0.0,Ilo-ilo
@@ -5660,7 +5660,7 @@ Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Servic
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30 00:00:00,23,0.0,Davao
 Rico,41700,St. Francis Shell Station V,Check Hardware Performance all Units,Service Request,Closed,0,2025-12-04 11:38:37,2025-12-15 16:42:07,8,0.0,Davao
 Rico,41701,St. Francis Shell Station V,Check Network Connectivity all Units,Service Request,Closed,0,2025-12-04 11:40:18,2025-12-15 16:42:23,8,0.0,Davao
-Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30 00:00:00,22,0.0,Davao
+Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30 00:00:00,23,0.0,Davao
 Rico,41703,Karen and Jay Marketing, Setup VPN Branch,Service Request,Closed,0,2025-12-04 11:43:53,2025-12-16 14:30:17,9,0.0,Davao
 Rico,41714,The Generics Pharmacy - Matina,Can't See encode in stockin main POS workstation),Service Request,Closed,5,2025-12-04 15:33:30,2025-12-05 18:05:07,2,0.0,Gensan
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30 00:00:00,22,0.0,Davao
@@ -5819,7 +5819,7 @@ Venz Jan,42189,Qualicare Pharmacy,POS Installation,Service Request,Closed,0,2025
 Venz Jan,42190,Qualicare Pharmacy,VPN Installation,Service Request,Closed,0,2025-12-26 11:39:31,2025-12-31 10:36:14,3,0.0,CDO
 Venz Jan,42204,R V SUPERMART,Workstation Can't Connect to Server,Incident,Closed,0,2025-12-29 08:50:48,2025-12-29 14:29:55,1,0.0,CDO
 Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30 00:00:00,6,0.0,Davao
-Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-29 11:42:36,1899-12-30 00:00:00,5,0.0,CDO
+Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-29 11:42:36,1899-12-30 00:00:00,6,0.0,CDO
 Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,Service Request,In Progress,0,2025-12-29 15:47:20,1899-12-30 00:00:00,5,0.0,Davao
 Venz Jan,42248,Suri Fresh Meatshop & Minimart,Can't Search Items,Service Request,In Progress,0,2025-12-31 10:33:34,1899-12-30 00:00:00,4,0.0,CDO
 Venz Jan,42249,HBO Marketing,Can't Search Item in POS (Cleech Supermart),Service Request,In Progress,0,2025-12-31 10:35:19,1899-12-30 00:00:00,4,0.0,CDO
