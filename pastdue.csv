@@ -920,7 +920,7 @@ Ceasar Ian,40076,Dexluck Auto Parts Trading,A1 installation / VPN set up(S' Dext
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30 00:00:00,60,0.0,Davao
 Ceasar Ian,40113,Ecotrans Car Rentals Transport,Template Modification in Enter Bill,Service Request,Closed,5,2025-10-14 09:10:08,2025-11-18 11:23:49,26,0.0,Davao
 Ceasar Ian,40156,IDG Enterprises,Set up autobackup for new External Drive,Service Request,Closed,5,2025-10-15 11:16:49,2025-11-14 14:37:16,23,0.0,Davao
-Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30 00:00:00,58,0.0,Davao
+Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30 00:00:00,59,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30 00:00:00,58,0.0,Davao
 Ceasar Ian,40166,"ANA'S BREEDERS FARMS, INC.",Diagnose Sales Discount and Tax don’t reflect to the Invoices,Service Request,Closed,0,2025-10-15 11:34:36,2025-12-22 16:32:07,49,0.0,Davao
 Ceasar Ian,40181,Shop and Save More Grocers Corporation,POS 1 Replication reset up 1,Service Request,Closed,5,2025-10-15 15:51:45,2025-10-23 14:25:41,6,0.0,Davao
@@ -1113,8 +1113,8 @@ Ceasar Ian,41950,"Royal Dragon Southern Distributors, Inc.",Replication set up (
 Ceasar Ian,41951,"Royal Dragon Southern Distributors, Inc.", OS Installation w10 Stonino,Service Request,Closed,0,2025-12-13 22:06:12,2025-12-18 16:12:09,3,0.0,Davao
 Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30 00:00:00,14,0.0,Davao
 Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30 00:00:00,14,0.0,Davao
-Ceasar Ian,42113,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,Assigned,0,2025-12-22 11:27:27,1899-12-30 00:00:00,10,0.0,Davao
-Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,Assigned,0,2025-12-22 11:28:52,1899-12-30 00:00:00,10,0.0,Davao
+Ceasar Ian,42113,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,Assigned,0,2025-12-22 11:27:27,1899-12-30 00:00:00,11,0.0,Davao
+Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,Assigned,0,2025-12-22 11:28:52,1899-12-30 00:00:00,11,0.0,Davao
 Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-12-22 11:59:53,1899-12-30 00:00:00,10,0.0,Davao
 Ceasar Ian,42128,JCCQ Trading,Printer Driver installation,Service Request,Closed,0,2025-12-22 12:01:08,2025-12-26 09:12:03,4,0.0,Davao
 Ceasar Ian,42129,JCCQ Trading, Set up PTU details,Service Request,Closed,0,2025-12-22 12:01:50,2025-12-26 09:12:13,4,0.0,Davao
@@ -2038,7 +2038,6 @@ Joshua,41257,Marbel Computer Center,Reset Password (Valencia),Service Request,Cl
 Joshua,41259,IVAN Drugstore,POS cant connect to Server,Incident,Closed,4,2025-11-19 16:56:46,2025-11-20 15:25:54,1,0.0,CDO
 Joshua,41263,Richstar Variety Store,Zero Out Inventory(R5),Service Request,Closed,0,2025-11-20 08:43:22,2025-12-11 16:23:28,16,0.0,CDO
 Joshua,41269,Marbel Computer Center,Sales Receipt Form Enhancement,Service Request,Closed,0,2025-11-20 11:55:43,2025-12-16 13:22:55,19,0.0,CDO
-Joshua,41272,C7 Store,check syncing of item(Tanduay Select Blended Rum 700mL) main to corrales t1 ,Internal,For Cancel,0,2025-11-20 14:13:50,1899-12-30 00:00:00,32,0.0,CDO
 Joshua,41291,RL Enterprises,Server Diagnoses,Service Request,Closed,5,2025-11-20 17:24:38,2025-11-27 15:45:50,5,0.0,CDO
 Joshua,41301,RL Enterprises,Replication Resetup,Service Request,Closed,5,2025-11-21 09:05:29,2025-11-27 15:45:39,5,0.0,CDO
 Joshua,41302,RL Enterprises,MySQL Resetup,Service Request,Closed,5,2025-11-21 09:06:05,2025-11-27 15:45:28,5,0.0,CDO
@@ -4490,7 +4489,7 @@ Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales 
 Junmar,42110,Felcontech Trading and Services Inc.,Mysql reset-up,Service Request,Closed,0,2025-12-22 11:21:39,2025-12-23 09:12:50,1,0.0,Cebu
 Junmar,42111,Felcontech Trading and Services Inc.,Backup and Restore last backup Dec. 19 2025 @5.55 pm,Service Request,Closed,0,2025-12-22 11:22:39,2025-12-23 09:13:10,1,0.0,Cebu
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,Assigned,0,2025-12-22 17:19:09,1899-12-30 00:00:00,10,0.0,Cebu
-Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,Assigned,0,2025-12-23 11:40:23,1899-12-30 00:00:00,9,0.0,Ilo-ilo
+Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,In Progress,0,2025-12-23 11:40:23,1899-12-30 00:00:00,9,150.0,Ilo-ilo
 Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,Assigned,0,2026-01-02 11:07:32,1899-12-30 00:00:00,2,0.0,Cebu
 Junmar,42263,MIKE RUECO FOOD PRODUCTS MARKETING,Hardware assessment,Service Request,Assigned,0,2026-01-05 09:39:00,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 Junmar,42264,MIKE RUECO FOOD PRODUCTS MARKETING,NetWork Assessment,Service Request,Assigned,0,2026-01-05 09:40:42,1899-12-30 00:00:00,1,0.0,Ilo-ilo
@@ -5667,9 +5666,9 @@ Rico,41714,The Generics Pharmacy - Matina,Can't See encode in stockin main POS w
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30 00:00:00,22,0.0,Davao
 Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,Assigned,0,2025-12-09 11:09:57,1899-12-30 00:00:00,20,0.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30 00:00:00,20,0.0,Davao
-Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30 00:00:00,19,0.0,Davao
-Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30 00:00:00,19,0.0,Davao
-Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30 00:00:00,19,0.0,Davao
+Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30 00:00:00,20,0.0,Davao
+Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30 00:00:00,20,0.0,Davao
+Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30 00:00:00,20,0.0,Davao
 Rico,41762,Davao Great Wall Trading Inc., ActiveONE Installation,Service Request,Closed,0,2025-12-09 11:36:37,2025-12-17 15:47:38,7,0.0,Davao
 Rico,41763,Davao Great Wall Trading Inc.,ActiveONE POS Installation,Service Request,Closed,0,2025-12-09 11:37:48,2025-12-17 15:47:49,7,0.0,Davao
 Rico,41811,BS Safety Trade Corp.,Upgrade Database,Service Request,Closed,5,2025-12-10 08:41:58,2025-12-16 13:53:53,5,0.0,Davao
@@ -5804,7 +5803,7 @@ Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC
 Venz Jan,42077,Premium Paint Center & Electrical Supply,Inventory Adjustment Modification (Premium Paint),Service Request,Closed,0,2025-12-18 09:18:16,2025-12-18 14:02:38,1,0.0,CDO
 Venz Jan,42101,Mindanao Agriplus Corporation,Re-installation of A1,Service Request,Closed,0,2025-12-22 10:01:26,2025-12-26 10:14:24,5,0.0,Davao
 Venz Jan,42112,ILT Food Products,Can't Connect to MySQL Server,Service Request,Closed,0,2025-12-22 11:23:03,2025-12-22 16:42:20,1,0.0,CDO
-Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30 00:00:00,10,0.0,Davao
+Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30 00:00:00,11,0.0,Davao
 Venz Jan,42133,Caltech IT Solution,MySQL Server Setup,Service Request,Closed,0,2025-12-22 13:49:27,2025-12-23 16:53:02,2,0.0,CDO
 Venz Jan,42134,Caltech IT Solution, Setup Auto Backup,Service Request,Closed,0,2025-12-22 13:49:56,2025-12-23 16:52:43,2,0.0,CDO
 Venz Jan,42135,Caltech IT Solution,ActiveOne Installation,Service Request,Closed,0,2025-12-22 13:50:28,2025-12-23 16:52:32,2,0.0,CDO
@@ -5819,7 +5818,7 @@ Venz Jan,42188,Qualicare Pharmacy,Replication Maintenance,Service Request,Closed
 Venz Jan,42189,Qualicare Pharmacy,POS Installation,Service Request,Closed,0,2025-12-26 11:38:53,2025-12-31 10:40:42,3,0.0,CDO
 Venz Jan,42190,Qualicare Pharmacy,VPN Installation,Service Request,Closed,0,2025-12-26 11:39:31,2025-12-31 10:36:14,3,0.0,CDO
 Venz Jan,42204,R V SUPERMART,Workstation Can't Connect to Server,Incident,Closed,0,2025-12-29 08:50:48,2025-12-29 14:29:55,1,0.0,CDO
-Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30 00:00:00,5,0.0,Davao
+Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30 00:00:00,6,0.0,Davao
 Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-29 11:42:36,1899-12-30 00:00:00,5,0.0,CDO
 Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,Service Request,In Progress,0,2025-12-29 15:47:20,1899-12-30 00:00:00,5,0.0,Davao
 Venz Jan,42248,Suri Fresh Meatshop & Minimart,Can't Search Items,Service Request,In Progress,0,2025-12-31 10:33:34,1899-12-30 00:00:00,4,0.0,CDO
