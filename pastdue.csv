@@ -2057,7 +2057,7 @@ Joshua,41396,RL Enterprises,Replication Setup(New Server),Service Request,Closed
 Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,Closed,0,2025-11-25 13:23:44,2025-12-16 13:25:00,16,0.0,CDO
 Joshua,41424,Reyrose Construction and Supply Development Corp.,AutoBackup Setup (Main Server),Service Request,Closed,5,2025-11-25 15:10:28,2025-11-26 13:19:43,1,0.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30 00:00:00,29,0.0,CDO
-Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30 00:00:00,27,0.0,CDO
+Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30 00:00:00,28,0.0,CDO
 Joshua,41499,Tee Enterprises,Price not reflecting on POS,Service Request,Closed,5,2025-11-27 15:06:27,2025-11-30 08:38:58,2,0.0,CDO
 Joshua,41553,AMR Healthcare Medical Supplies,Cant connect to Server,Incident,Closed,5,2025-12-01 15:33:41,2025-12-02 07:57:36,1,0.0,CDO
 Joshua,41575,IVAN Drugstore,Diagnoses of journal not balance in POS,Service Request,Closed,4,2025-12-02 08:54:14,2025-12-09 16:09:22,6,0.0,CDO
@@ -5691,7 +5691,7 @@ Rico,41923,GEJ Shopping Center, Setup Network Server,Service Request,Closed,0,20
 Rico,41924,GEJ Shopping Center,Get Hardware Details,Service Request,Closed,0,2025-12-12 09:38:42,2025-12-17 12:34:37,4,0.0,Davao
 Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,Assigned,0,2025-12-14 22:01:57,1899-12-30 00:00:00,15,0.0,Davao
 Rico,42002,Seawind Damosa Condominium Corporation,Template Modification Acknowledgement Receipt,Service Request,In Progress,0,2025-12-16 08:23:00,1899-12-30 00:00:00,15,0.0,Davao
-Rico,42003,ADMS Marketing,Activeone Installation,Service Request,Assigned,0,2025-12-16 08:43:36,1899-12-30 00:00:00,15,0.0,Davao
+Rico,42003,ADMS Marketing,Activeone Installation,Service Request,In Progress,0,2025-12-16 08:43:36,1899-12-30 00:00:00,15,0.0,Davao
 Rico,42004,ADMS Marketing, MySQL Setup,Service Request,Assigned,0,2025-12-16 08:44:20,1899-12-30 00:00:00,15,0.0,Davao
 Rico,42006,ADMS Marketing,Setup Auto Backup,Service Request,Assigned,0,2025-12-16 08:45:32,1899-12-30 00:00:00,15,0.0,Davao
 Rico,42007,ADMS Marketing, Set Static Network,Service Request,Assigned,0,2025-12-16 08:46:09,1899-12-30 00:00:00,15,0.0,Davao
@@ -5784,7 +5784,7 @@ Venz Jan,41900,J&J Aklan Trading ,POS Can't Connect to Server,Incident,Closed,0,
 Venz Jan,41901,Polcas Agri Trade Corp,MySQL Installation,Service Request,Closed,0,2025-12-12 08:57:55,2025-12-18 14:10:10,5,0.0,CDO
 Venz Jan,41902,Polcas Agri Trade Corp,ActiveOne Installation (1-3 units),Service Request,Closed,0,2025-12-12 08:58:39,2025-12-18 14:10:39,5,0.0,CDO
 Venz Jan,41925,Super Motor Parts,VPN Reinstallation,Service Request,Closed,0,2025-12-12 10:49:57,2025-12-17 13:26:29,4,0.0,CDO
-Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30 00:00:00,16,0.0,CDO
+Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,In Progress,0,2025-12-12 10:51:04,1899-12-30 00:00:00,17,0.0,CDO
 Venz Jan,41930,Elequin Pharmacy,Can't Search Items,Service Request,Closed,0,2025-12-12 13:46:02,2025-12-17 10:02:02,3,0.0,CDO
 Venz Jan,41931,VMED Marketing,ActiveOne Installation,Service Request,Closed,0,2025-12-12 13:47:21,2025-12-18 16:58:10,5,0.0,CDO
 Venz Jan,41968,Polcas Agri Trade Corp,ActiveOne Installation (4-6 units),Service Request,Closed,0,2025-12-15 13:29:09,2025-12-18 14:10:59,4,0.0,CDO
