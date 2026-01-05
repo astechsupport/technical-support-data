@@ -1072,8 +1072,8 @@ Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Req
 Ceasar Ian,41654,"Royal Dragon Southern Distributors, Inc.",Replication reset up Indangan 1,Service Request,Closed,5,2025-12-03 10:41:04,2025-12-10 14:55:18,6,0.0,Davao
 Ceasar Ian,41655,"Royal Dragon Southern Distributors, Inc.",Replication reset up Indangan 2,Service Request,Closed,5,2025-12-03 10:41:51,2025-12-10 14:55:30,6,0.0,Davao
 Ceasar Ian,41656,"Royal Dragon Southern Distributors, Inc.",Replication reset up Indangan 3,Service Request,Closed,5,2025-12-03 10:42:28,2025-12-10 14:55:40,6,0.0,Davao
-Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30 00:00:00,23,0.0,Davao
-Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30 00:00:00,23,0.0,Davao
+Ceasar Ian,41657,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2025-12-03 10:43:31,1899-12-30 00:00:00,24,0.0,Davao
+Ceasar Ian,41658,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,Assigned,0,2025-12-03 10:44:52,1899-12-30 00:00:00,24,0.0,Davao
 Ceasar Ian,41691,"Royal Dragon Southern Distributors, Inc.", Replication reset up (Back & Restore to MAGALLANES),Service Request,Closed,5,2025-12-04 11:00:04,2025-12-11 14:32:25,6,0.0,Davao
 Ceasar Ian,41692,"Royal Dragon Southern Distributors, Inc.", Replication reset up (Back & Restore to SANDAWA),Service Request,Closed,5,2025-12-04 11:00:58,2025-12-11 14:32:44,6,0.0,Davao
 Ceasar Ian,41709,ASL Durian Marketing OPC,MIN cancelled because the set-up of POS machine has connected to server with server consolidator,Service Request,Assigned,0,2025-12-04 14:49:18,1899-12-30 00:00:00,22,0.0,Davao
@@ -1104,7 +1104,7 @@ Ceasar Ian,41835,JTGO Gasoline Station,Replication Set Up Main Branch 3,Service 
 Ceasar Ian,41836,JTGO Gasoline Station, Replication Set Up Shell 1,Service Request,Closed,0,2025-12-10 10:38:14,2025-12-15 08:54:01,3,0.0,Davao
 Ceasar Ian,41837,JTGO Gasoline Station,Replication Set Up Shell 2,Service Request,Closed,0,2025-12-10 10:39:14,2025-12-15 08:54:26,3,0.0,Davao
 Ceasar Ian,41838,JTGO Gasoline Station, Replication Set Up Shell 3,Service Request,Closed,0,2025-12-10 10:39:49,2025-12-15 08:55:27,3,0.0,Davao
-Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30 00:00:00,18,0.0,Davao
+Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30 00:00:00,19,0.0,Davao
 Ceasar Ian,41871,Sure-Spot Distribution Corporation, Create trigger for SO approval,Service Request,Closed,0,2025-12-11 09:15:14,2025-12-17 15:48:00,5,0.0,Davao
 Ceasar Ian,41872,Sure-Spot Distribution Corporation,create trigger for CM approval,Service Request,Closed,0,2025-12-11 09:22:39,2025-12-17 15:48:09,5,0.0,Davao
 Ceasar Ian,41874,"Royal Dragon Southern Distributors, Inc.", Replication set up (backupandrestore to Sto nino,Service Request,Closed,0,2025-12-11 09:39:02,2025-12-18 16:11:30,6,0.0,Davao
@@ -1667,7 +1667,7 @@ Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification
 Jeric Johann,41377,DAC PORTA HOMES CORPORATION,Make depo report add payment ref#,Service Request,Closed,5,2025-11-25 08:37:52,2025-11-27 16:15:08,3,0.0,Gensan
 Jeric Johann,41379,Marbel General Merchandise Corporation,POS can't connect to server due to full storage,Service Request,Closed,5,2025-11-25 08:45:13,2025-11-28 08:53:10,4,0.0,Gensan
 Jeric Johann,41392,Limco Pharma And Medical Supplies Distribution,Adjustment of Spacing in First page of Purchase Order,Service Request,Closed,5,2025-11-25 09:26:36,2025-12-05 09:47:44,9,0.0,Gensan
-Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30 00:00:00,29,0.0,Gensan
+Jeric Johann,41403,Limco Pharma And Medical Supplies Distribution,update sales invoice under new registration,Service Request,For Cancel,0,2025-11-25 10:43:13,1899-12-30 00:00:00,30,0.0,Gensan
 Jeric Johann,41407,Philfumes Petroleum Corporation,ActiveOne Installation,Service Request,Closed,5,2025-11-25 11:26:51,2025-11-29 14:25:45,4,0.0,Davao
 Jeric Johann,41428,MACHLINE GENERAL TRADE CENTER,Gensan branch can't log in on system since yesterday.,Service Request,Closed,5,2025-11-26 08:33:51,2025-11-26 11:41:42,1,0.0,Gensan
 Jeric Johann,41443,Green Rise Marketing and Co.,RE-INSTALLATION A1 POS,Service Request,Closed,5,2025-11-26 10:02:24,2025-11-27 14:39:03,2,0.0,Davao
@@ -2056,7 +2056,7 @@ Joshua,41395,RL Enterprises,VPN Installation (New Server),Service Request,Closed
 Joshua,41396,RL Enterprises,Replication Setup(New Server),Service Request,Closed,5,2025-11-25 09:51:53,2025-11-27 15:47:35,3,0.0,CDO
 Joshua,41420,C7 Store,Replication Syncing (Uptown T2),Service Request,Closed,0,2025-11-25 13:23:44,2025-12-16 13:25:00,16,0.0,CDO
 Joshua,41424,Reyrose Construction and Supply Development Corp.,AutoBackup Setup (Main Server),Service Request,Closed,5,2025-11-25 15:10:28,2025-11-26 13:19:43,1,0.0,CDO
-Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30 00:00:00,28,0.0,CDO
+Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30 00:00:00,29,0.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30 00:00:00,27,0.0,CDO
 Joshua,41499,Tee Enterprises,Price not reflecting on POS,Service Request,Closed,5,2025-11-27 15:06:27,2025-11-30 08:38:58,2,0.0,CDO
 Joshua,41553,AMR Healthcare Medical Supplies,Cant connect to Server,Incident,Closed,5,2025-12-01 15:33:41,2025-12-02 07:57:36,1,0.0,CDO
@@ -4485,7 +4485,7 @@ Junmar,42033,ACQUA ENGINEERING AND TECHNICAL SERVICES ,DR Shooting Modification,
 Junmar,42037,FJM Beverage Distribution Services,Data Migration,Service Request,Closed,0,2025-12-16 17:19:14,2025-12-22 15:13:16,4,0.0,Cebu
 Junmar,42044,315 Auto Parts Sales,Run fixing In Inventory Double Entry Item code 52-869 (Maintenance Replication),Service Request,Closed,0,2025-12-17 09:05:28,2025-12-17 17:30:39,1,0.0,Cebu
 Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,Assigned,0,2025-12-22 10:18:31,1899-12-30 00:00:00,11,0.0,Cebu
-Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales by Item Summary (Shipping Fee as Other Type did not reflect in the report),Service Request,Assigned,0,2025-12-22 10:41:23,1899-12-30 00:00:00,10,0.0,Cebu
+Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales by Item Summary (Shipping Fee as Other Type did not reflect in the report),Service Request,Assigned,0,2025-12-22 10:41:23,1899-12-30 00:00:00,11,0.0,Cebu
 Junmar,42110,Felcontech Trading and Services Inc.,Mysql reset-up,Service Request,Closed,0,2025-12-22 11:21:39,2025-12-23 09:12:50,1,0.0,Cebu
 Junmar,42111,Felcontech Trading and Services Inc.,Backup and Restore last backup Dec. 19 2025 @5.55 pm,Service Request,Closed,0,2025-12-22 11:22:39,2025-12-23 09:13:10,1,0.0,Cebu
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,Assigned,0,2025-12-22 17:19:09,1899-12-30 00:00:00,10,0.0,Cebu
@@ -4498,6 +4498,7 @@ Junmar,42266,MIKE RUECO FOOD PRODUCTS MARKETING,Activeone Installation,Service R
 Junmar,42267,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation MainServer,Service Request,Assigned,0,2026-01-05 09:42:49,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 Junmar,42268,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Laptop,Service Request,Assigned,0,2026-01-05 09:43:24,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 Junmar,42269,MIKE RUECO FOOD PRODUCTS MARKETING,Set up autobackup,Service Request,Assigned,0,2026-01-05 09:43:55,1899-12-30 00:00:00,1,0.0,Ilo-ilo
+Junmar,42270,Vexoil Phil Corporation,Activeone installation to maam Jasmin unit,Service Request,Assigned,0,2026-01-05 10:44:04,1899-12-30 00:00:00,1,0.0,Ilo-ilo
 
 
 User: Rico
@@ -5777,7 +5778,7 @@ Venz Jan,41822,"Bethel Baptist Church, Inc.",ActiveOne Installation,Service Requ
 Venz Jan,41823,Bethel Baptist Christian Academy Inc.,MySQL Setup,Service Request,Closed,0,2025-12-10 08:51:22,2025-12-17 09:59:09,6,0.0,CDO
 Venz Jan,41824,Bethel Baptist Christian Academy Inc.,Set-Up Auto Backup,Service Request,Closed,0,2025-12-10 08:52:00,2025-12-17 09:59:24,6,0.0,CDO
 Venz Jan,41825,Bethel Baptist Christian Academy Inc.,ActiveOne Installation,Service Request,Closed,0,2025-12-10 08:52:39,2025-12-17 09:59:40,6,0.0,CDO
-Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30 00:00:00,17,0.0,CDO
+Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30 00:00:00,18,0.0,CDO
 Venz Jan,41879,Vexoil Phil Corporation,Hamtic POS branch cant login ,Service Request,Closed,0,2025-12-11 11:57:27,2025-12-23 16:44:40,9,0.0,Ilo-ilo
 Venz Jan,41900,J&J Aklan Trading ,POS Can't Connect to Server,Incident,Closed,0,2025-12-12 08:56:26,2025-12-12 10:58:38,1,0.0,CDO
 Venz Jan,41901,Polcas Agri Trade Corp,MySQL Installation,Service Request,Closed,0,2025-12-12 08:57:55,2025-12-18 14:10:10,5,0.0,CDO
