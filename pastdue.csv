@@ -54,6 +54,7 @@ Ceasar Ian,42162,Sure-Spot Distribution Corporation,Sure-spot: Deployment of fix
 Ceasar Ian,42243,GGM Pharmacy,Update Sales Invoice,Service Request,Assigned,0,2025-12-29 15:45:25,1899-12-30,6,0.0,Davao
 Ceasar Ian,42258,GDY Airtech Enterprises,Concern regarding the unreadable TIN on the invoice (Innoland and Hop Inn),Service Request,Assigned,0,2026-01-02 14:41:28,1899-12-30,0,0.0,Davao
 Ceasar Ian,42305,Dirty Sanchez Food & Beverage,Unable to open Restautant Solution on workstation,Service Request,Assigned,0,2026-01-06 10:33:11,1899-12-30,0,0.0,Davao
+Ceasar Ian,42310,Mindanao Agriplus Corporation,re-installation A1,Service Request,Assigned,0,2026-01-06 11:01:23,1899-12-30,0,0.0,Davao
 
 
 User: Jeric Johann
@@ -199,9 +200,9 @@ Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,15,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,15,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,10,0.0,Davao
-Rico,42058,"Ma-an's Bakeshop, Co.",Setup MySQL Serve,Service Request,In Progress,0,2025-12-17 13:07:02,1899-12-30,10,0.0,Davao
-Rico,42059,"Ma-an's Bakeshop, Co.", Activeone Installation,Service Request,In Progress,0,2025-12-17 13:07:48,1899-12-30,10,0.0,Davao
-Rico,42060,"Ma-an's Bakeshop, Co.", Setup Autobackup,Service Request,In Progress,0,2025-12-17 13:09:42,1899-12-30,10,0.0,Davao
+Rico,42058,"Ma-an's Bakeshop, Co.",Setup MySQL Serve,Service Request,For Close,0,2025-12-17 13:07:02,1899-12-30,10,0.0,Davao
+Rico,42059,"Ma-an's Bakeshop, Co.", Activeone Installation,Service Request,For Close,0,2025-12-17 13:07:48,1899-12-30,10,0.0,Davao
+Rico,42060,"Ma-an's Bakeshop, Co.", Setup Autobackup,Service Request,For Close,0,2025-12-17 13:09:42,1899-12-30,10,0.0,Davao
 Rico,42068,Philfumes Petroleum Corporation,A1 installation ,Service Request,Assigned,0,2025-12-17 13:32:18,1899-12-30,10,0.0,Davao
 Rico,42069,Philfumes Petroleum Corporation,Update to version 106,Service Request,Assigned,0,2025-12-17 13:33:48,1899-12-30,10,0.0,Davao
 Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,Assigned,0,2025-12-18 11:50:42,1899-12-30,10,0.0,Davao
@@ -209,10 +210,10 @@ Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned
 Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30,11,0.0,Davao
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,11,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,11,0.0,Davao
-Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,In Progress,0,2025-12-22 14:31:59,1899-12-30,11,0.0,Davao
+Rico,42140,"Ma-an's Bakeshop, Co.",Network Assesment ,Service Request,For Close,0,2025-12-22 14:31:59,1899-12-30,11,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,10,0.0,Davao
-Rico,42156,T.S.K. Rice Trading,MySQL Setup,Service Request,Assigned,0,2025-12-23 09:11:41,1899-12-30,10,0.0,Davao
-Rico,42157,T.S.K. Rice Trading,ActiveOne Installation,Service Request,Assigned,0,2025-12-23 09:12:19,1899-12-30,10,0.0,Davao
+Rico,42156,T.S.K. Rice Trading,MySQL Setup,Service Request,In Progress,0,2025-12-23 09:11:41,1899-12-30,10,0.0,Davao
+Rico,42157,T.S.K. Rice Trading,ActiveOne Installation,Service Request,In Progress,0,2025-12-23 09:12:19,1899-12-30,10,0.0,Davao
 Rico,42158,T.S.K. Rice Trading, Backup and restore,Service Request,Assigned,0,2025-12-23 09:12:50,1899-12-30,10,0.0,Davao
 Rico,42163,St. Francis Shell Station V,ActiveOne Installation,Service Request,Assigned,0,2025-12-23 13:27:08,1899-12-30,10,0.0,Davao
 Rico,42166,St. Francis Shell Station V,Setup VPN PC2,Service Request,Assigned,0,2025-12-23 13:43:08,1899-12-30,10,0.0,Davao
