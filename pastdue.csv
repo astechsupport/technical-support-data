@@ -82,7 +82,7 @@ Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,Assigned,0,2025-12
 Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,Assigned,0,2026-01-02 08:30:59,1899-12-30,0,0.0,Gensan
 Jeric Johann,42252,Cycle Hub Marketing ,Data base concern,Incident,In Progress,0,2026-01-02 10:09:17,1899-12-30,0,289.0,Davao
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Incident,In Progress,0,2026-01-02 13:06:59,1899-12-30,0,30.0,Davao
-Jeric Johann,42309,ALMICO DRUG CO*,remote desktop can't connect to server,Service Request,In Progress,0,2026-01-06 10:58:36,1899-12-30,0,0.0,Davao
+Jeric Johann,42309,ALMICO DRUG CO*,remote desktop can't connect to server,Service Request,In Progress,0,2026-01-06 10:58:36,1899-12-30,0,21.0,Davao
 
 
 User: Joshua
@@ -195,8 +195,8 @@ Rico,42004,ADMS Marketing, MySQL Setup,Service Request,For Close,0,2025-12-16 08
 Rico,42006,ADMS Marketing,Setup Auto Backup,Service Request,For Close,0,2025-12-16 08:45:32,1899-12-30,15,0.0,Davao
 Rico,42007,ADMS Marketing, Set Static Network,Service Request,For Close,0,2025-12-16 08:46:09,1899-12-30,15,0.0,Davao
 Rico,42010,Wise Kart Grocery/Pharmacy,Can't punch in 2  POS,Service Request,In Progress,0,2025-12-16 09:34:16,1899-12-30,15,0.0,Davao
-Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,Assigned,0,2025-12-16 13:58:58,1899-12-30,15,0.0,Davao
-Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,Assigned,0,2025-12-16 13:59:38,1899-12-30,15,0.0,Davao
+Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,In Progress,0,2025-12-16 13:58:58,1899-12-30,15,0.0,Davao
+Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,In Progress,0,2025-12-16 13:59:38,1899-12-30,15,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,15,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,15,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,10,0.0,Davao
