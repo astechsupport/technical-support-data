@@ -156,7 +156,7 @@ Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Se
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,85,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,35,0.0,Ilo-ilo
 Junmar,41888,MCR Agriventure Corporation, Zero beginning and ending SI no. ,Service Request,In Progress,0,2025-12-11 16:18:58,1899-12-30,15,0.0,Ilo-ilo
-Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,11,0.0,Cebu
+Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,11,120.0,Cebu
 Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales by Item Summary (Shipping Fee as Other Type did not reflect in the report),Service Request,Assigned,0,2025-12-22 10:41:23,1899-12-30,11,0.0,Cebu
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,For Cancel,0,2025-12-22 17:19:09,1899-12-30,11,0.0,Cebu
 Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,In Progress,0,2025-12-23 11:40:23,1899-12-30,10,150.0,Ilo-ilo
@@ -169,7 +169,7 @@ Junmar,42267,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation MainServer,Serv
 Junmar,42268,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Laptop,Service Request,For Close,0,2026-01-05 09:43:24,1899-12-30,1,5.0,Ilo-ilo
 Junmar,42269,MIKE RUECO FOOD PRODUCTS MARKETING,Set up autobackup,Service Request,For Close,0,2026-01-05 09:43:55,1899-12-30,1,20.0,Ilo-ilo
 Junmar,42270,Vexoil Phil Corporation,Activeone installation to maam Jasmin unit,Service Request,Assigned,0,2026-01-05 10:44:04,1899-12-30,1,0.0,Ilo-ilo
-Junmar,42308,LM Commercial,Fix OC Template,Service Request,Assigned,0,2026-01-06 10:49:23,1899-12-30,0,0.0,Cebu
+Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,0,100.0,Cebu
 Junmar,42311,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Mac Book,Service Request,For Close,0,2026-01-06 14:06:19,1899-12-30,0,50.0,Ilo-ilo
 
 
@@ -249,7 +249,6 @@ Rico,42296,Modern Cooling Refrigerator and Air-conditioning Services ,MySQL Setu
 Rico,42297,Modern Cooling Refrigerator and Air-conditioning Services ,Setup Auto Backup,Service Request,Assigned,0,2026-01-06 10:23:50,1899-12-30,0,0.0,Davao
 Rico,42298,VICO BUILDING OPC,Installation SEv21 ,Service Request,Assigned,0,2026-01-06 10:25:48,1899-12-30,0,0.0,Davao
 Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of Customer Name & TIN on POS Tape,Service Request,Assigned,0,2026-01-06 10:35:44,1899-12-30,0,0.0,Davao
-Rico,42307,Metro Cycle Mart,upgrade and loyalty software,Service Request,Assigned,0,2026-01-06 10:40:07,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
