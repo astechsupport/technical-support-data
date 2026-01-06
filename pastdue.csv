@@ -55,6 +55,7 @@ Ceasar Ian,42243,GGM Pharmacy,Update Sales Invoice,Service Request,Assigned,0,20
 Ceasar Ian,42258,GDY Airtech Enterprises,Concern regarding the unreadable TIN on the invoice (Innoland and Hop Inn),Service Request,Assigned,0,2026-01-02 14:41:28,1899-12-30,0,0.0,Davao
 Ceasar Ian,42305,Dirty Sanchez Food & Beverage,Unable to open Restautant Solution on workstation,Service Request,Assigned,0,2026-01-06 10:33:11,1899-12-30,0,0.0,Davao
 Ceasar Ian,42310,Mindanao Agriplus Corporation,re-installation A1,Service Request,Assigned,0,2026-01-06 11:01:23,1899-12-30,0,0.0,Davao
+Ceasar Ian,42317,"99 Commercial, Inc.",Transfer server to another unit,Service Request,Assigned,0,2026-01-06 15:31:47,1899-12-30,0,0.0,Davao
 
 
 User: Jeric Johann
@@ -256,7 +257,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,25,0.0,CDO
 Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,15,0.0,CDO
 Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,For Close,0,2025-12-12 10:51:04,1899-12-30,15,195.0,CDO
-Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,In Progress,0,2025-12-17 14:03:40,1899-12-30,10,390.0,CDO
+Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,For Close,0,2025-12-17 14:03:40,1899-12-30,10,390.0,CDO
 Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,For Cancel,0,2025-12-17 14:05:10,1899-12-30,10,0.0,CDO
 Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,11,0.0,Davao
 Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30,6,30.0,Davao
