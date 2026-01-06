@@ -169,6 +169,21 @@ Junmar,42270,Vexoil Phil Corporation,Activeone installation to maam Jasmin unit,
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,Assigned,0,2026-01-06 10:49:23,1899-12-30,0,0.0,Cebu
 
 
+User: Kenneth
+Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
+Kenneth,38776,King Motors,Deployment of Fixes in Overstated COGS account,Service Request,In Progress,0,2025-09-04 08:44:53,1899-12-30,85,0.0,CDO
+Kenneth,38779,Pryce Corporation,Write Check Single check modification reflect Notes,Service Request,Assigned,0,2025-09-04 08:47:51,1899-12-30,85,0.0,CDO
+Kenneth,38788,Caraga Multilines Distribution Inc.,Add Item Cost on Price List Report,Service Request,Assigned,0,2025-09-04 09:02:09,1899-12-30,85,0.0,CDO
+Kenneth,38790,Super Motor Parts,Replication Syncing concern,Service Request,Assigned,0,2025-09-04 09:03:58,1899-12-30,85,0.0,CDO
+Kenneth,38851,J&J Aklan Trading ,Update Sales Invoice ,Service Request,Assigned,0,2025-09-05 08:37:48,1899-12-30,85,0.0,CDO
+Kenneth,38880,Qualicare Pharmacy,Update Sales Invoice,Internal,In Progress,5,2025-09-05 14:55:55,1899-12-30,85,0.0,CDO
+Kenneth,38987,Savelink Pharma and Trading Co,Receiving Report to Show notes on pipeline,Service Request,Assigned,0,2025-09-10 09:24:31,1899-12-30,80,0.0,CDO
+Kenneth,39262,Vexoil Phil Corporation,Not Reflecting Points gain in LPI Report,Service Request,Assigned,0,2025-09-18 16:30:31,1899-12-30,75,0.0,CDO
+Kenneth,39789,Pryce Corporation,Set-up Audit Trail ,Service Request,In Progress,0,2025-10-02 09:40:37,1899-12-30,65,0.0,CDO
+Kenneth,39869,Unisafe Marketing Inc.,ActiveOne Installation in Accounting Unit,Service Request,Assigned,0,2025-10-03 16:54:36,1899-12-30,65,0.0,CDO
+Kenneth,39973,Richstar Variety Store,Hardware details for 3 POS and Server,Service Request,Assigned,0,2025-10-08 13:54:42,1899-12-30,60,0.0,CDO
+
+
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,41,0.0,Davao
@@ -195,8 +210,8 @@ Rico,42004,ADMS Marketing, MySQL Setup,Service Request,For Close,0,2025-12-16 08
 Rico,42006,ADMS Marketing,Setup Auto Backup,Service Request,For Close,0,2025-12-16 08:45:32,1899-12-30,15,0.0,Davao
 Rico,42007,ADMS Marketing, Set Static Network,Service Request,For Close,0,2025-12-16 08:46:09,1899-12-30,15,0.0,Davao
 Rico,42010,Wise Kart Grocery/Pharmacy,Can't punch in 2  POS,Service Request,In Progress,0,2025-12-16 09:34:16,1899-12-30,15,0.0,Davao
-Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,In Progress,0,2025-12-16 13:58:58,1899-12-30,15,0.0,Davao
-Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,In Progress,0,2025-12-16 13:59:38,1899-12-30,15,0.0,Davao
+Rico,42022,South Davao Gasul Trade Corporation,Setup MySQL,Service Request,For Close,0,2025-12-16 13:58:58,1899-12-30,15,0.0,Davao
+Rico,42023,South Davao Gasul Trade Corporation,Setup Auto Backup,Service Request,For Close,0,2025-12-16 13:59:38,1899-12-30,15,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,15,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,15,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,10,0.0,Davao
