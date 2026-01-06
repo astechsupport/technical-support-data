@@ -93,7 +93,6 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,39692,IDG Enterprises,Error in generating SOA,Service Request,In Progress,0,2025-09-30 14:17:35,1899-12-30,70,0.0,Davao
 Joshua,39694,IDG Enterprises,Template modification - Vendor Balance Details,Service Request,In Progress,0,2025-09-30 14:19:18,1899-12-30,70,0.0,Davao
-Joshua,41047,IZON FARM SUPPLY INC.,Simulation of Invoice Prices,Internal,For Close,0,2025-11-12 09:42:45,1899-12-30,35,0.0,CDO
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,25,0.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,25,0.0,CDO
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,25,0.0,CDO
@@ -134,7 +133,6 @@ Jude,41896,JAELA'S BAKESHOPPE AND FOOD HOUSE,Paid Out Amounts reflected in Cash 
 Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 08:28:18,1899-12-30,10,0.0,Gensan
 Jude,42139,NEW ERA METALFORMING CORPORATION,replication error on p3 main branch to main syncing concern,Service Request,In Progress,0,2025-12-22 14:31:19,1899-12-30,11,0.0,Gensan
 Jude,42141,NEW ERA METALFORMING CORPORATION,replication error on main to  p3 main branch,Service Request,In Progress,0,2025-12-22 14:32:39,1899-12-30,11,0.0,Gensan
-Jude,42142,NEW ERA METALFORMING CORPORATION,replication error on bukdinon branch to main syncing concern,Service Request,For Close,0,2025-12-22 14:34:17,1899-12-30,11,0.0,Gensan
 Jude,42182,Sentrohealth Medical and Diagnostic Center,Hardware Details for server Registration,Service Request,Assigned,0,2025-12-23 17:36:32,1899-12-30,10,0.0,Cebu
 Jude,42245,Activesystems Software Inc,set up of CAS activeone to Joans unit,Internal,Assigned,0,2025-12-29 16:05:57,1899-12-30,6,0.0,Gensan
 Jude,42280,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing gensan server and kidapawan server vice versa,Service Request,In Progress,0,2026-01-05 14:09:23,1899-12-30,1,0.0,Gensan
@@ -161,11 +159,8 @@ Junmar,42109,GMY Ventures Corporation/Biboy Foods,Diagnose Concern on the Sales 
 Junmar,42149,Sentrohealth Medical and Diagnostic Center,Hardware Details for POS Registration,Service Request,For Cancel,0,2025-12-22 17:19:09,1899-12-30,11,0.0,Cebu
 Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service Request,In Progress,0,2025-12-23 11:40:23,1899-12-30,10,150.0,Ilo-ilo
 Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,In Progress,0,2026-01-02 11:07:32,1899-12-30,0,0.0,Cebu
-Junmar,42268,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Laptop,Service Request,For Close,0,2026-01-05 09:43:24,1899-12-30,1,5.0,Ilo-ilo
-Junmar,42269,MIKE RUECO FOOD PRODUCTS MARKETING,Set up autobackup,Service Request,For Close,0,2026-01-05 09:43:55,1899-12-30,1,20.0,Ilo-ilo
 Junmar,42270,Vexoil Phil Corporation,Activeone installation to maam Jasmin unit,Service Request,Assigned,0,2026-01-05 10:44:04,1899-12-30,1,0.0,Ilo-ilo
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,0,100.0,Cebu
-Junmar,42311,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Mac Book,Service Request,For Close,0,2026-01-06 14:06:19,1899-12-30,0,50.0,Ilo-ilo
 
 
 User: Kenneth
