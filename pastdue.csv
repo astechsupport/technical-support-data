@@ -83,6 +83,8 @@ Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to lates
 Jeric Johann,42252,Cycle Hub Marketing ,Data base concern,Service Request,In Progress,0,2026-01-02 10:09:17,1899-12-30,0,289.0,Davao
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30,0,30.0,Davao
 Jeric Johann,42309,ALMICO DRUG CO*,remote desktop can't connect to server,Service Request,In Progress,0,2026-01-06 10:58:36,1899-12-30,0,21.0,Davao
+Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,Assigned,0,2026-01-06 14:18:17,1899-12-30,0,0.0,Gensan
+Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,Assigned,0,2026-01-06 14:18:58,1899-12-30,0,0.0,Gensan
 
 
 User: Joshua
@@ -101,9 +103,9 @@ Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service R
 Joshua,42066,Fiscaro's Hardware & Trading,Data migration- vendor,Service Request,In Progress,0,2025-12-17 13:20:04,1899-12-30,10,60.0,CDO
 Joshua,42154,ILT Food Products,Printer Setup,Service Request,In Progress,0,2025-12-23 09:06:07,1899-12-30,10,0.0,CDO
 Joshua,42185,"Southern Agro, Inc.",Workstation cannot  connect to the server,Service Request,For Close,0,2025-12-26 09:41:08,1899-12-30,5,0.0,Gensan
-Joshua,42208,C7 Store,MySQL Resetup(Velez T1),Service Request,In Progress,0,2025-12-29 08:53:53,1899-12-30,6,0.0,CDO
-Joshua,42209,C7 Store,Replication Resetup (Velez T1),Service Request,In Progress,0,2025-12-29 08:55:02,1899-12-30,6,0.0,CDO
-Joshua,42210,C7 Store,Backup and Restore (Velez T1),Service Request,In Progress,0,2025-12-29 08:55:33,1899-12-30,6,0.0,CDO
+Joshua,42208,C7 Store,MySQL Resetup(Velez T1),Service Request,For Close,0,2025-12-29 08:53:53,1899-12-30,6,0.0,CDO
+Joshua,42209,C7 Store,Replication Resetup (Velez T1),Service Request,For Close,0,2025-12-29 08:55:02,1899-12-30,6,0.0,CDO
+Joshua,42210,C7 Store,Backup and Restore (Velez T1),Service Request,For Close,0,2025-12-29 08:55:33,1899-12-30,6,0.0,CDO
 Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,Assigned,0,2025-12-29 11:53:31,1899-12-30,6,0.0,CDO
 Joshua,42246,Richstar Variety Store,Replication Maintenance (R5),Service Request,In Progress,0,2025-12-29 16:09:15,1899-12-30,6,0.0,CDO
 Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,In Progress,0,2026-01-02 11:24:50,1899-12-30,0,120.0,CDO
@@ -141,6 +143,7 @@ Jude,42301,SRED Inc.,Activeone Installation,Service Request,Assigned,0,2026-01-0
 Jude,42302,SRED Inc.,Setup Auto Backup,Service Request,Assigned,0,2026-01-06 10:30:08,1899-12-30,0,0.0,Davao
 Jude,42303,Staze Inc., Activeone Installation,Service Request,Assigned,0,2026-01-06 10:30:56,1899-12-30,0,0.0,Davao
 Jude,42304,Staze Inc.,Setup Auto Backup,Service Request,Assigned,0,2026-01-06 10:31:28,1899-12-30,0,0.0,Davao
+Jude,42312,Limco Pharma And Medical Supplies Distribution,Data re-migration item listings ,Service Request,Assigned,0,2026-01-06 14:17:17,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
@@ -254,7 +257,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,25,0.0,CDO
 Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,15,0.0,CDO
 Venz Jan,41926,Buffalo Industrial Supply,Payment Received Report Concern,Service Request,For Close,0,2025-12-12 10:51:04,1899-12-30,15,195.0,CDO
-Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,In Progress,0,2025-12-17 14:03:40,1899-12-30,10,330.0,CDO
+Venz Jan,42072,Buffalo Industrial Supply,Trust Receipt Modification for Area 2,Service Request,In Progress,0,2025-12-17 14:03:40,1899-12-30,10,390.0,CDO
 Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,For Cancel,0,2025-12-17 14:05:10,1899-12-30,10,0.0,CDO
 Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,11,0.0,Davao
 Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30,6,0.0,Davao
