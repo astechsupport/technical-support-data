@@ -85,6 +85,7 @@ Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Ser
 Jeric Johann,42309,ALMICO DRUG CO*,remote desktop can't connect to server,Service Request,In Progress,0,2026-01-06 10:58:36,1899-12-30,0,21.0,Davao
 Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,Assigned,0,2026-01-06 14:18:17,1899-12-30,0,0.0,Gensan
 Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,Assigned,0,2026-01-06 14:18:58,1899-12-30,0,0.0,Gensan
+Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,Assigned,0,2026-01-06 14:20:46,1899-12-30,0,0.0,Gensan
 
 
 User: Joshua
@@ -97,12 +98,11 @@ Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),S
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,25,0.0,CDO
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,20,0.0,CDO
 Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,20,0.0,CDO
-Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,In Progress,0,2025-12-09 15:22:27,1899-12-30,20,30.0,CDO
+Joshua,41795,Bahaya Balut Center,Printer Setup,Service Request,For Close,0,2025-12-09 15:22:27,1899-12-30,20,30.0,CDO
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,15,0.0,CDO
 Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service Request,In Progress,0,2025-12-11 09:26:57,1899-12-30,15,0.0,CDO
 Joshua,42066,Fiscaro's Hardware & Trading,Data migration- vendor,Service Request,In Progress,0,2025-12-17 13:20:04,1899-12-30,10,60.0,CDO
 Joshua,42154,ILT Food Products,Printer Setup,Service Request,In Progress,0,2025-12-23 09:06:07,1899-12-30,10,0.0,CDO
-Joshua,42185,"Southern Agro, Inc.",Workstation cannot  connect to the server,Service Request,For Close,0,2025-12-26 09:41:08,1899-12-30,5,0.0,Gensan
 Joshua,42208,C7 Store,MySQL Resetup(Velez T1),Service Request,For Close,0,2025-12-29 08:53:53,1899-12-30,6,0.0,CDO
 Joshua,42209,C7 Store,Replication Resetup (Velez T1),Service Request,For Close,0,2025-12-29 08:55:02,1899-12-30,6,0.0,CDO
 Joshua,42210,C7 Store,Backup and Restore (Velez T1),Service Request,For Close,0,2025-12-29 08:55:33,1899-12-30,6,0.0,CDO
@@ -114,7 +114,7 @@ Joshua,42271,Madlink Corporation,Database Update to Latest,Service Request,In Pr
 Joshua,42272,Madlink Corporation,ActiveOne Update to Latest 1-3 Units,Service Request,In Progress,0,2026-01-05 11:23:59,1899-12-30,1,60.0,CDO
 Joshua,42273,Madlink Corporation,ActiveOne Update to Latest 4-5 Units,Service Request,In Progress,0,2026-01-05 11:24:25,1899-12-30,1,30.0,CDO
 Joshua,42277,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP1 (Branch 1),Service Request,For Close,0,2026-01-05 12:00:29,1899-12-30,1,30.0,Davao
-Joshua,42286,Bahaya Balut Center,Unable to Access System (2 Units),Service Request,In Progress,0,2026-01-05 17:23:30,1899-12-30,1,30.0,Davao
+Joshua,42286,Bahaya Balut Center,Unable to Access System (2 Units),Service Request,For Close,0,2026-01-05 17:23:30,1899-12-30,1,30.0,Davao
 Joshua,42288,LLEM HARDWARE,Can't Connect to MySql Server,Incident,For Close,0,2026-01-06 08:43:27,1899-12-30,0,20.0,CDO
 Joshua,42289,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP2 (Branch 2),Service Request,For Close,0,2026-01-06 08:52:07,1899-12-30,0,30.0,CDO
 Joshua,42290,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Setup (Main),Service Request,For Close,0,2026-01-06 08:52:35,1899-12-30,0,30.0,CDO
