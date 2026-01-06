@@ -108,8 +108,13 @@ Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Service Request,
 Joshua,42271,Madlink Corporation,Database Update to Latest,Service Request,In Progress,0,2026-01-05 11:22:09,1899-12-30,1,30.0,CDO
 Joshua,42272,Madlink Corporation,ActiveOne Update to Latest 1-3 Units,Service Request,In Progress,0,2026-01-05 11:23:59,1899-12-30,1,60.0,CDO
 Joshua,42273,Madlink Corporation,ActiveOne Update to Latest 4-5 Units,Service Request,In Progress,0,2026-01-05 11:24:25,1899-12-30,1,30.0,CDO
+Joshua,42277,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP1 (Branch 1),Service Request,Assigned,0,2026-01-05 12:00:29,1899-12-30,1,0.0,Davao
 Joshua,42286,Bahaya Balut Center,Unable to Access System (2 Units),Service Request,Assigned,0,2026-01-05 17:23:30,1899-12-30,1,0.0,Davao
-Joshua,42288,LLEM HARDWARE,Can't Connect to MySql Server,Incident,Assigned,0,2026-01-06 08:43:27,1899-12-30,0,0.0,CDO
+Joshua,42288,LLEM HARDWARE,Can't Connect to MySql Server,Incident,In Progress,0,2026-01-06 08:43:27,1899-12-30,0,20.0,CDO
+Joshua,42289,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP2 (Branch 2),Service Request,Assigned,0,2026-01-06 08:52:07,1899-12-30,0,0.0,CDO
+Joshua,42290,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Setup (Main),Service Request,Assigned,0,2026-01-06 08:52:35,1899-12-30,0,0.0,CDO
+Joshua,42291,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP3 (Branch 3),Service Request,Assigned,0,2026-01-06 08:53:15,1899-12-30,0,0.0,CDO
+Joshua,42292,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP4 (MAC),Service Request,Assigned,0,2026-01-06 08:53:46,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -149,9 +154,9 @@ Junmar,42263,MIKE RUECO FOOD PRODUCTS MARKETING,Hardware assessment,Service Requ
 Junmar,42264,MIKE RUECO FOOD PRODUCTS MARKETING,NetWork Assessment,Service Request,For Close,0,2026-01-05 09:40:42,1899-12-30,1,5.0,Ilo-ilo
 Junmar,42265,MIKE RUECO FOOD PRODUCTS MARKETING,mysql Installation,Service Request,For Close,0,2026-01-05 09:41:18,1899-12-30,1,20.0,Ilo-ilo
 Junmar,42266,MIKE RUECO FOOD PRODUCTS MARKETING,Activeone Installation,Service Request,Assigned,0,2026-01-05 09:42:03,1899-12-30,1,0.0,Ilo-ilo
-Junmar,42267,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation MainServer,Service Request,In Progress,0,2026-01-05 09:42:49,1899-12-30,1,0.0,Ilo-ilo
-Junmar,42268,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Laptop,Service Request,Assigned,0,2026-01-05 09:43:24,1899-12-30,1,0.0,Ilo-ilo
-Junmar,42269,MIKE RUECO FOOD PRODUCTS MARKETING,Set up autobackup,Service Request,Assigned,0,2026-01-05 09:43:55,1899-12-30,1,0.0,Ilo-ilo
+Junmar,42267,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation MainServer,Service Request,For Close,0,2026-01-05 09:42:49,1899-12-30,1,45.0,Ilo-ilo
+Junmar,42268,MIKE RUECO FOOD PRODUCTS MARKETING,Vpn Installation Owner's Laptop,Service Request,For Close,0,2026-01-05 09:43:24,1899-12-30,1,5.0,Ilo-ilo
+Junmar,42269,MIKE RUECO FOOD PRODUCTS MARKETING,Set up autobackup,Service Request,In Progress,0,2026-01-05 09:43:55,1899-12-30,1,0.0,Ilo-ilo
 Junmar,42270,Vexoil Phil Corporation,Activeone installation to maam Jasmin unit,Service Request,Assigned,0,2026-01-05 10:44:04,1899-12-30,1,0.0,Ilo-ilo
 
 
@@ -231,6 +236,5 @@ Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration 1,Service Request,I
 Venz Jan,42274,Two-G Motorista Motor Parts and Accessories,Can't Connect to Server,Service Request,In Progress,0,2026-01-05 11:57:27,1899-12-30,1,17.0,Davao
 Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,In Progress,0,2026-01-05 11:59:22,1899-12-30,1,25.0,Davao
 Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,In Progress,0,2026-01-05 11:59:53,1899-12-30,1,25.0,Davao
-Venz Jan,42277,Thunder Park Inc.,For update,Service Request,Assigned,0,2026-01-05 12:00:29,1899-12-30,1,0.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,In Progress,0,2026-01-05 12:01:09,1899-12-30,1,25.0,CDO
 
