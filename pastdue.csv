@@ -87,7 +87,7 @@ Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to lates
 Jeric Johann,42252,Cycle Hub Marketing ,Data base concern,Service Request,In Progress,0,2026-01-02 10:09:17,1899-12-30 00:00:00,0,310.0,Davao
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30 00:00:00,0,30.0,Davao
 Jeric Johann,42309,ALMICO DRUG CO*,remote desktop can't connect to server,Service Request,In Progress,0,2026-01-06 10:58:36,1899-12-30 00:00:00,1,21.0,Davao
-Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,In Progress,0,2026-01-06 14:18:17,1899-12-30 00:00:00,1,0.0,Gensan
+Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,In Progress,0,2026-01-06 14:18:17,1899-12-30 00:00:00,1,60.0,Gensan
 Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,Assigned,0,2026-01-06 14:18:58,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,Assigned,0,2026-01-06 14:20:46,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,Assigned,0,2026-01-06 15:03:57,1899-12-30 00:00:00,1,0.0,Davao
@@ -190,7 +190,7 @@ Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Servic
 Rico,41699,St. Francis Shell Station V,ActiveOne Installation 3 units,Service Request,Assigned,0,2025-12-04 11:37:41,1899-12-30,20,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,Assigned,0,2025-12-04 11:42:45,1899-12-30,20,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,20,0.0,Davao
-Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,In Progress,0,2025-12-09 11:09:57,1899-12-30,21,0.0,Davao
+Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,In Progress,0,2025-12-09 11:09:57,1899-12-30,21,40.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30,21,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,21,0.0,Davao
 Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,21,0.0,Davao
