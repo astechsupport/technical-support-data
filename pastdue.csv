@@ -225,7 +225,7 @@ Rico,42325,Davao Great Wall Trading Inc.,Backup and Restore latest Database,Serv
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,26,50.0,CDO
-Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,15,210.0,CDO
+Venz Jan,41876,Unisafe Marketing Inc., Sales Invoice Enhancement,Service Request,In Progress,0,2025-12-11 10:40:59,1899-12-30,15,310.0,CDO
 Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,For Cancel,0,2025-12-17 14:05:10,1899-12-30,15,0.0,CDO
 Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,12,0.0,Davao
 Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30,7,30.0,Davao
@@ -238,7 +238,7 @@ Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,I
 Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,In Progress,0,2026-01-05 11:59:53,1899-12-30,2,25.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,In Progress,0,2026-01-05 12:01:09,1899-12-30,2,25.0,CDO
 Venz Jan,42342,Tekpone Communications Enterprises,Deployment of Custom Inventory Count App,Service Request,For Close,0,2026-01-07 13:23:35,1899-12-30,0,30.0,Davao
-Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of A1,Service Request,In Progress,0,2026-01-07 14:09:44,1899-12-30,0,5.0,Davao
+Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of A1,Service Request,In Progress,0,2026-01-07 14:09:44,1899-12-30,0,15.0,Davao
 Venz Jan,42355,317 Supplies Central,MySql Setup Configuration,Service Request,Assigned,0,2026-01-07 15:33:50,1899-12-30,0,0.0,CDO
 Venz Jan,42356,317 Supplies Central,Auto Back-up Setup,Service Request,Assigned,0,2026-01-07 15:35:16,1899-12-30,0,0.0,CDO
 Venz Jan,42357,317 Supplies Central,POS Installation,Service Request,Assigned,0,2026-01-07 15:35:43,1899-12-30,0,0.0,CDO
