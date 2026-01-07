@@ -138,7 +138,7 @@ Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 
 Jude,42139,NEW ERA METALFORMING CORPORATION,replication error on p3 main branch to main syncing concern,Service Request,In Progress,0,2025-12-22 14:31:19,1899-12-30,12,0.0,Gensan
 Jude,42141,NEW ERA METALFORMING CORPORATION,replication error on main to  p3 main branch,Service Request,In Progress,0,2025-12-22 14:32:39,1899-12-30,12,0.0,Gensan
 Jude,42182,Sentrohealth Medical and Diagnostic Center,Hardware Details for server Registration,Service Request,For Cancel,0,2025-12-23 17:36:32,1899-12-30,11,0.0,Cebu
-Jude,42245,Activesystems Software Inc,set up of CAS activeone to Joans unit,Internal,Assigned,0,2025-12-29 16:05:57,1899-12-30,7,0.0,Gensan
+Jude,42245,Activesystems Software Inc,set up of CAS activeone to Joans unit,Internal,For Cancel,0,2025-12-29 16:05:57,1899-12-30,7,0.0,Gensan
 Jude,42280,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing gensan server and kidapawan server vice versa,Service Request,In Progress,0,2026-01-05 14:09:23,1899-12-30,2,175.0,Gensan
 Jude,42300,SRED Inc.,MySQL Setup,Service Request,In Progress,0,2026-01-06 10:28:09,1899-12-30,1,0.0,Davao
 Jude,42301,SRED Inc.,Activeone Installation,Service Request,In Progress,0,2026-01-06 10:28:58,1899-12-30,1,0.0,Davao
@@ -163,7 +163,7 @@ Junmar,42161,Vexoil Phil Corporation,Price changes RMS ( all branches) ,Service 
 Junmar,42253,El Franco Commercial,Need technical support to update the system,Service Request,In Progress,0,2026-01-02 11:07:32,1899-12-30,0,0.0,Cebu
 Junmar,42270,Vexoil Phil Corporation,Activeone installation to maam Jasmin unit,Service Request,In Progress,0,2026-01-05 10:44:04,1899-12-30,2,0.0,Ilo-ilo
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,1,100.0,Cebu
-Junmar,42334,Spark Electric,Set Prefix in PO (226-0001),Service Request,Reviewed,5,2026-01-07 09:43:03,1899-12-30,0,5.0,Cebu
+Junmar,42334,Spark Electric,Set Prefix in PO (SPK-000001),Service Request,Reviewed,5,2026-01-07 09:43:03,1899-12-30,0,5.0,Cebu
 Junmar,42335,Jjysrinn Trading Incorporated,Fix cant print in mobile Negros,Service Request,For Close,0,2026-01-07 09:44:32,1899-12-30,0,130.0,Cebu
 Junmar,42344,MCR Agriventure Corporation,POS installation in Bago City Branch,Service Request,Assigned,0,2026-01-07 13:50:34,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42345,MCR Agriventure Corporation,POS installation in Binalbagan Branch,Service Request,Assigned,0,2026-01-07 13:51:56,1899-12-30,0,0.0,Ilo-ilo
