@@ -204,7 +204,7 @@ Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Req
 Rico,41754,Philfumes Petroleum Corporation,Modify check voucher from ,Service Request,For Close,0,2025-12-09 11:09:57,1899-12-30,21,40.0,Davao
 Rico,41755,Aqua verde Sports & Leisure,Can’t connect to MySQL server on localhost:3306,Service Request,In Progress,0,2025-12-09 11:13:20,1899-12-30,21,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,21,0.0,Davao
-Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,In Progress,0,2025-12-09 11:27:12,1899-12-30,21,0.0,Davao
+Rico,41759,Davao Mega Builders Co. Inc,Printer Sharing Concern,Service Request,For Close,0,2025-12-09 11:27:12,1899-12-30,21,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,21,0.0,Davao
 Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,15,0.0,Davao
 Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,In Progress,0,2025-12-11 13:17:15,1899-12-30,15,0.0,Davao
@@ -253,4 +253,5 @@ Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,I
 Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,In Progress,0,2026-01-05 11:59:53,1899-12-30,2,25.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,In Progress,0,2026-01-05 12:01:09,1899-12-30,2,25.0,CDO
 Venz Jan,42342,Tekpone Communications Enterprises,Deployment of Custom Inventory Count App,Service Request,In Progress,0,2026-01-07 13:23:35,1899-12-30,0,30.0,Davao
+Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of A1,Service Request,Assigned,0,2026-01-07 14:09:44,1899-12-30,0,0.0,Davao
 
