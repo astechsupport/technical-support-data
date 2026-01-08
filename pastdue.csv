@@ -27,7 +27,7 @@ Ceasar Ian,41153,C.P.C. Incorporated ,Z - reading and sales invoice template,Ser
 Ceasar Ian,41258,LGM Global Industries Inc.,Update System ,Service Request,In Progress,0,2025-11-19 16:18:58,1899-12-30,36,0.0,Davao
 Ceasar Ian,41299,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2025-11-21 08:36:34,1899-12-30,30,0.0,Davao
 Ceasar Ian,41391,"Royal Dragon Southern Distributors, Inc.",Windows Server OS installation,Service Request,Assigned,0,2025-11-25 09:13:08,1899-12-30,32,0.0,Davao
-Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,In Progress,0,2025-12-02 07:37:17,1899-12-30,27,0.0,Davao
+Ceasar Ian,41563,LGM Global Industries Inc., Rdp set up,Service Request,For Close,0,2025-12-02 07:37:17,1899-12-30,27,30.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,27,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,27,0.0,Davao
 Ceasar Ian,41592,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,Assigned,0,2025-12-02 09:52:16,1899-12-30,27,0.0,Davao
@@ -118,6 +118,7 @@ Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Service Request,
 Joshua,42271,Madlink Corporation,Database Update to Latest,Service Request,In Progress,0,2026-01-05 11:22:09,1899-12-30,3,30.0,CDO
 Joshua,42272,Madlink Corporation,ActiveOne Update to Latest 1-3 Units,Service Request,In Progress,0,2026-01-05 11:23:59,1899-12-30,3,60.0,CDO
 Joshua,42273,Madlink Corporation,ActiveOne Update to Latest 4-5 Units,Service Request,In Progress,0,2026-01-05 11:24:25,1899-12-30,3,30.0,CDO
+Joshua,42287,PAYLING'S RESTAURANT,Payling;s Restaurant: Deployment of Fixes in Sales Report Bug,Service Request,Assigned,0,2026-01-06 08:21:01,1899-12-30,2,0.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,1,0.0,CDO
 Joshua,42338,J-Mart Supermarket ,Item list migration ,Service Request,In Progress,0,2026-01-07 11:25:22,1899-12-30,1,180.0,CDO
 Joshua,42364,OFC Construction,Check Template Modification,Service Request,Assigned,0,2026-01-08 09:01:04,1899-12-30,0,0.0,Davao
@@ -133,7 +134,7 @@ Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 
 Jude,42139,NEW ERA METALFORMING CORPORATION,replication error on p3 main branch to main syncing concern,Service Request,In Progress,0,2025-12-22 14:31:19,1899-12-30,13,0.0,Gensan
 Jude,42141,NEW ERA METALFORMING CORPORATION,replication error on main to  p3 main branch,Service Request,In Progress,0,2025-12-22 14:32:39,1899-12-30,13,0.0,Gensan
 Jude,42182,Sentrohealth Medical and Diagnostic Center,Hardware Details for server Registration,Service Request,For Cancel,0,2025-12-23 17:36:32,1899-12-30,12,0.0,Cebu
-Jude,42280,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing gensan server and kidapawan server vice versa,Service Request,In Progress,0,2026-01-05 14:09:23,1899-12-30,3,175.0,Gensan
+Jude,42280,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing gensan server and kidapawan server vice versa,Service Request,For Close,0,2026-01-05 14:09:23,1899-12-30,3,175.0,Gensan
 Jude,42300,SRED Inc.,MySQL Setup,Service Request,In Progress,0,2026-01-06 10:28:09,1899-12-30,2,0.0,Davao
 Jude,42301,SRED Inc.,Activeone Installation,Service Request,In Progress,0,2026-01-06 10:28:58,1899-12-30,2,0.0,Davao
 Jude,42302,SRED Inc.,Setup Auto Backup,Service Request,In Progress,0,2026-01-06 10:30:08,1899-12-30,2,0.0,Davao
