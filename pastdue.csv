@@ -118,13 +118,9 @@ Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Service Request,
 Joshua,42271,Madlink Corporation,Database Update to Latest,Service Request,In Progress,0,2026-01-05 11:22:09,1899-12-30,3,30.0,CDO
 Joshua,42272,Madlink Corporation,ActiveOne Update to Latest 1-3 Units,Service Request,In Progress,0,2026-01-05 11:23:59,1899-12-30,3,60.0,CDO
 Joshua,42273,Madlink Corporation,ActiveOne Update to Latest 4-5 Units,Service Request,In Progress,0,2026-01-05 11:24:25,1899-12-30,3,30.0,CDO
-Joshua,42277,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP1 (Branch 1),Service Request,For Close,0,2026-01-05 12:00:29,1899-12-30,3,30.0,CDO
-Joshua,42289,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP2 (Branch 2),Service Request,For Close,0,2026-01-06 08:52:07,1899-12-30,2,30.0,CDO
-Joshua,42290,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Setup (Main),Service Request,For Close,0,2026-01-06 08:52:35,1899-12-30,2,30.0,CDO
-Joshua,42291,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP3 (Branch 3),Service Request,For Close,0,2026-01-06 08:53:15,1899-12-30,2,30.0,CDO
-Joshua,42292,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,ThinStuff Add Connection RDP4 (MAC),Service Request,For Close,0,2026-01-06 08:53:46,1899-12-30,2,30.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,1,0.0,CDO
 Joshua,42338,J-Mart Supermarket ,Item list migration ,Service Request,In Progress,0,2026-01-07 11:25:22,1899-12-30,1,180.0,CDO
+Joshua,42364,OFC Construction,Check Template Modification,Service Request,Assigned,0,2026-01-08 09:01:04,1899-12-30,0,0.0,Davao
 
 
 User: Jude
@@ -210,6 +206,7 @@ Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of 
 Rico,42318,GEJ Shopping Center,Update Sales Invoice,Service Request,Assigned,0,2026-01-06 15:43:10,1899-12-30,2,0.0,Davao
 Rico,42324,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit,Service Request,Assigned,0,2026-01-07 08:48:05,1899-12-30,1,0.0,Davao
 Rico,42325,Davao Great Wall Trading Inc.,Backup and Restore latest Database,Service Request,Assigned,0,2026-01-07 08:49:19,1899-12-30,1,0.0,Davao
+Rico,42365,EPO LEGACY CORP,Materlist Migration,Service Request,Assigned,0,2026-01-08 09:02:32,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -233,4 +230,5 @@ Venz Jan,42355,317 Supplies Central,MySql Setup Configuration,Service Request,As
 Venz Jan,42356,317 Supplies Central,Auto Back-up Setup,Service Request,Assigned,0,2026-01-07 15:35:16,1899-12-30,1,0.0,CDO
 Venz Jan,42357,317 Supplies Central,POS Installation,Service Request,Assigned,0,2026-01-07 15:35:43,1899-12-30,1,0.0,CDO
 Venz Jan,42358,317 Supplies Central,Activeone Installation,Service Request,Assigned,0,2026-01-07 15:36:12,1899-12-30,1,0.0,CDO
+Venz Jan,42363,St. Francis Shell Station V,Check Modification,Service Request,Assigned,0,2026-01-08 09:00:07,1899-12-30,0,0.0,Davao
 
