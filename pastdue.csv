@@ -174,7 +174,7 @@ Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,25,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,23,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,23,0.0,Davao
-Rico,41875,Paramond Inc,System uploading ,Service Request,Assigned,0,2025-12-11 09:43:00,1899-12-30,21,0.0,Davao
+Rico,41875,Paramond Inc,System uploading ,Service Request,In Progress,0,2025-12-11 09:43:00,1899-12-30,21,0.0,Davao
 Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,In Progress,0,2025-12-11 13:17:15,1899-12-30,21,0.0,Davao
 Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,Assigned,0,2025-12-14 22:01:57,1899-12-30,15,0.0,Davao
 Rico,42002,Seawind Damosa Condominium Corporation,Template Modification Acknowledgement Receipt,Service Request,For Close,0,2025-12-16 08:23:00,1899-12-30,18,0.0,Davao
@@ -182,7 +182,7 @@ Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,18,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,17,0.0,Davao
 Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,In Progress,0,2025-12-18 11:50:42,1899-12-30,16,120.0,Davao
-Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,Assigned,0,2025-12-22 11:52:48,1899-12-30,14,0.0,Davao
+Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,In Progress,0,2025-12-22 11:52:48,1899-12-30,14,0.0,Davao
 Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30,14,0.0,Davao
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,14,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,14,0.0,Davao
