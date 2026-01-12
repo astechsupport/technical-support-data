@@ -140,7 +140,7 @@ Jude,42433,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR  ASSISTAN
 Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:39:52,1899-12-30,0,0.0,Gensan
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:40:24,1899-12-30,0,0.0,Gensan
 Jude,42437,ACJDM Consumer Goods Trading,Gusto lang po namin na mag pa lagay ng ActiveOne sa Isang unit po namin (laptop).,Service Request,In Progress,0,2026-01-12 09:22:28,1899-12-30,0,0.0,Gensan
-Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,Assigned,0,2026-01-12 10:18:42,1899-12-30,0,0.0,Ilo-ilo
+Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,In Progress,0,2026-01-12 10:18:42,1899-12-30,0,0.0,Ilo-ilo
 
 
 User: Junmar
@@ -157,8 +157,8 @@ Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01
 Junmar,42349,Vexoil Phil Corporation,RMS Price Reflection and Database Error Concern,Service Request,For Cancel,0,2026-01-07 14:17:40,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42353,Forever Two Shawarma Shack,Transfer RS to New Laptop,Service Request,For Close,0,2026-01-07 14:56:19,1899-12-30,0,26.0,Cebu
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,0,0.0,Cebu
-Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,In Progress,0,2026-01-08 14:24:07,1899-12-30,0,30.0,Cebu
-Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,In Progress,0,2026-01-09 11:54:00,1899-12-30,0,120.0,Cebu
+Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,For Close,0,2026-01-08 14:24:07,1899-12-30,0,30.0,Cebu
+Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,For Close,0,2026-01-09 11:54:00,1899-12-30,0,120.0,Cebu
 Junmar,42411,Kergen Marketing,"Customize template for  Cash Sales, Invoice and Delivery Receipt",Service Request,Assigned,0,2026-01-09 13:26:52,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,Assigned,0,2026-01-09 13:27:36,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,For Close,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
@@ -169,6 +169,7 @@ Junmar,42444,Fortune Agrivet Distribution Group Inc.,Activeone Installation (Lat
 Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,Assigned,0,2026-01-12 13:25:54,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42449,Kergen Marketing,Set up Print to shoot 2307,Service Request,Assigned,0,2026-01-12 13:26:49,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service Request,Assigned,0,2026-01-12 13:27:29,1899-12-30,0,0.0,Ilo-ilo
+Junmar,42451,MARNICA PHARMACEUTICAL PRODUCTS,Restore Company name,Service Request,Assigned,0,2026-01-12 13:36:02,1899-12-30,0,0.0,Ilo-ilo
 
 
 User: Rico
@@ -239,6 +240,6 @@ Venz Jan,42363,St. Francis Shell Station V,Check Modification,Service Request,In
 Venz Jan,42370,Cycle Hub Marketing ,MySQL Re-setup,Service Request,In Progress,0,2026-01-08 13:05:50,1899-12-30,0,50.0,Davao
 Venz Jan,42371,Cycle Hub Marketing ,Auto Backup Setup,Service Request,In Progress,0,2026-01-08 13:06:20,1899-12-30,0,20.0,Davao
 Venz Jan,42372,Cycle Hub Marketing ,ActiveOne Installation,Service Request,In Progress,0,2026-01-08 13:06:54,1899-12-30,0,50.0,Davao
-Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,0.0,Davao
-Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,In Progress,0,2026-01-12 13:13:15,1899-12-30,0,0.0,Davao
+Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,10.0,Davao
+Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,In Progress,0,2026-01-12 13:13:15,1899-12-30,0,24.0,Davao
 
