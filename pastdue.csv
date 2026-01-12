@@ -140,7 +140,7 @@ Jude,42433,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR  ASSISTAN
 Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:39:52,1899-12-30,0,0.0,Gensan
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:40:24,1899-12-30,0,0.0,Gensan
 Jude,42437,ACJDM Consumer Goods Trading,Gusto lang po namin na mag pa lagay ng ActiveOne sa Isang unit po namin (laptop).,Service Request,In Progress,0,2026-01-12 09:22:28,1899-12-30,0,0.0,Gensan
-Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,In Progress,0,2026-01-12 10:18:42,1899-12-30,0,0.0,Ilo-ilo
+Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,For Close,0,2026-01-12 10:18:42,1899-12-30,0,60.0,Ilo-ilo
 
 
 User: Junmar
@@ -155,12 +155,12 @@ Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jo
 Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,15,529.0,Cebu
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,0,100.0,Cebu
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,0,0.0,Cebu
-Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,For Close,0,2026-01-08 14:24:07,1899-12-30,0,30.0,Cebu
+Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,In Progress,0,2026-01-08 14:24:07,1899-12-30,0,30.0,Cebu
 Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,For Close,0,2026-01-09 11:54:00,1899-12-30,0,120.0,Cebu
 Junmar,42411,Kergen Marketing,"Customize template for  Cash Sales, Invoice and Delivery Receipt",Service Request,Assigned,0,2026-01-09 13:26:52,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,Assigned,0,2026-01-09 13:27:36,1899-12-30,0,0.0,Ilo-ilo
-Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,For Close,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
-Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,For Close,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
+Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,In Progress,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
+Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,In Progress,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
 Junmar,42419,FJM Beverage Distribution Services,Set up Audit Trial ,Service Request,For Close,0,2026-01-09 17:30:03,1899-12-30,0,50.0,Cebu
 Junmar,42443,Fortune Agrivet Distribution Group Inc.,Deploy Latest Blank Database,Service Request,Assigned,0,2026-01-12 10:20:33,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42444,Fortune Agrivet Distribution Group Inc.,Activeone Installation (Latest Version),Service Request,Assigned,0,2026-01-12 10:21:04,1899-12-30,0,0.0,Cebu
