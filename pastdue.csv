@@ -30,10 +30,10 @@ Ceasar Ian,42317,"99 Commercial, Inc.",Transfer server to another unit,Service R
 Ceasar Ian,42340,Wealthy Unisavers Distributors Inc.,Can't connect to MySQL,Service Request,Assigned,0,2026-01-07 13:06:02,1899-12-30,0,0.0,Davao
 Ceasar Ian,42343,Sure-Spot Distribution Corporation,Sure-spot: Deployment of fixes in Balance Sheet vs Item Valuation disbalance,Service Request,Assigned,0,2026-01-07 13:48:26,1899-12-30,0,0.0,Davao
 Ceasar Ian,42376,"Davao Baker's Choice Enterprises, Inc.",Change name heading in Sales Receipt,Service Request,Assigned,0,2026-01-08 14:32:16,1899-12-30,0,0.0,Davao
-Ceasar Ian,42383,TONYO'S AGRI SUPPLY,Mysql Database Set Up,Incident,In Progress,0,2026-01-09 08:23:01,1899-12-30,0,0.0,Davao
+Ceasar Ian,42383,TONYO'S AGRI SUPPLY,Mysql Database Set Up,Incident,For Close,0,2026-01-09 08:23:01,1899-12-30,0,60.0,Davao
 Ceasar Ian,42395,Meat JAS 4U OPC,Can;t Open ActiveOne,Service Request,Assigned,0,2026-01-09 09:41:15,1899-12-30,0,0.0,Davao
-Ceasar Ian,42398,TONYO'S AGRI SUPPLY,Activeone Installation,Incident,Assigned,0,2026-01-09 10:47:04,1899-12-30,0,0.0,Davao
-Ceasar Ian,42399,TONYO'S AGRI SUPPLY,Set up AutoBackup,Incident,Assigned,0,2026-01-09 10:48:40,1899-12-30,0,0.0,Davao
+Ceasar Ian,42398,TONYO'S AGRI SUPPLY,Activeone Installation,Incident,For Close,0,2026-01-09 10:47:04,1899-12-30,0,15.0,Davao
+Ceasar Ian,42399,TONYO'S AGRI SUPPLY,Set up AutoBackup,Incident,For Close,0,2026-01-09 10:48:40,1899-12-30,0,15.0,Davao
 Ceasar Ian,42405,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-09 11:28:20,1899-12-30,0,0.0,Davao
 Ceasar Ian,42406,MCPIL Pharmaceutical Laboratory, Data Migration - Customer List,Service Request,Assigned,0,2026-01-09 11:29:26,1899-12-30,0,0.0,Davao
 Ceasar Ian,42407,MCPIL Pharmaceutical Laboratory, Data Migration - Vendor List,Service Request,Assigned,0,2026-01-09 11:35:17,1899-12-30,0,0.0,Davao
@@ -45,9 +45,9 @@ Ceasar Ian,42439,GDY Airtech Enterprises,Install of RDP,Service Request,Assigned
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30 00:00:00,40,0.0,Gensan
-Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,In Progress,0,2025-11-21 08:33:36,1899-12-30 00:00:00,35,0.0,Davao
-Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,Assigned,0,2025-11-21 16:50:51,1899-12-30 00:00:00,35,0.0,Davao
-Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,In Progress,0,2025-11-24 16:24:42,1899-12-30 00:00:00,35,0.0,Davao
+Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,For Cancel,0,2025-11-21 08:33:36,1899-12-30 00:00:00,35,0.0,Davao
+Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,In Progress,0,2025-11-21 16:50:51,1899-12-30 00:00:00,35,0.0,Davao
+Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,For Cancel,0,2025-11-24 16:24:42,1899-12-30 00:00:00,35,0.0,Davao
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30 00:00:00,30,0.0,Davao
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30 00:00:00,20,0.0,Gensan
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,For Cancel,0,2025-12-10 16:33:51,1899-12-30 00:00:00,20,0.0,Gensan
@@ -155,7 +155,7 @@ Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jo
 Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,15,439.0,Cebu
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,0,100.0,Cebu
 Junmar,42349,Vexoil Phil Corporation,RMS Price Reflection and Database Error Concern,Service Request,In Progress,0,2026-01-07 14:17:40,1899-12-30,0,0.0,Ilo-ilo
-Junmar,42353,Forever Two Shawarma Shack,Transfer RS to New Laptop,Service Request,In Progress,0,2026-01-07 14:56:19,1899-12-30,0,26.0,Cebu
+Junmar,42353,Forever Two Shawarma Shack,Transfer RS to New Laptop,Service Request,For Close,0,2026-01-07 14:56:19,1899-12-30,0,26.0,Cebu
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,0,0.0,Cebu
 Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,In Progress,0,2026-01-08 14:24:07,1899-12-30,0,30.0,Cebu
 Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,In Progress,0,2026-01-09 11:54:00,1899-12-30,0,120.0,Cebu
