@@ -159,7 +159,7 @@ Junmar,42349,Vexoil Phil Corporation,RMS Price Reflection and Database Error Con
 Junmar,42353,Forever Two Shawarma Shack,Transfer RS to New Laptop,Service Request,Assigned,0,2026-01-07 14:56:19,1899-12-30,0,0.0,Cebu
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,0,0.0,Cebu
 Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,In Progress,0,2026-01-08 14:24:07,1899-12-30,0,120.0,Cebu
-Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,In Progress,0,2026-01-09 11:54:00,1899-12-30,0,0.0,Cebu
+Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,In Progress,0,2026-01-09 11:54:00,1899-12-30,0,120.0,Cebu
 Junmar,42411,Kergen Marketing,"Customize template for  Cash Sales, Invoice and Delivery Receipt",Service Request,Assigned,0,2026-01-09 13:26:52,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,Assigned,0,2026-01-09 13:27:36,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,Assigned,0,2026-01-09 17:28:43,1899-12-30,0,0.0,Cebu
@@ -216,6 +216,7 @@ Rico,42413,VICO BUILDING OPC,MySQL Setup Server,Service Request,Assigned,0,2026-
 Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,Assigned,0,2026-01-09 13:41:02,1899-12-30,0,0.0,Davao
 Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,Assigned,0,2026-01-09 13:41:32,1899-12-30,0,0.0,Davao
 Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,0,0.0,Davao
+Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
