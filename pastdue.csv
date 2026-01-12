@@ -141,6 +141,7 @@ Jude,42433,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR  ASSISTAN
 Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTANCE,Service Request,Assigned,0,2026-01-12 08:39:52,1899-12-30,0,0.0,Gensan
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,Assigned,0,2026-01-12 08:40:24,1899-12-30,0,0.0,Gensan
 Jude,42437,ACJDM Consumer Goods Trading,Gusto lang po namin na mag pa lagay ng ActiveOne sa Isang unit po namin (laptop).,Service Request,Assigned,0,2026-01-12 09:22:28,1899-12-30,0,0.0,Gensan
+Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,Assigned,0,2026-01-12 10:18:42,1899-12-30,0,0.0,Ilo-ilo
 
 
 User: Junmar
@@ -163,7 +164,7 @@ Junmar,42411,Kergen Marketing,"Customize template for  Cash Sales, Invoice and D
 Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,Assigned,0,2026-01-09 13:27:36,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,For Close,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
 Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,For Close,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
-Junmar,42419,FJM Beverage Distribution Services,Set up Audit Trial ,Service Request,In Progress,0,2026-01-09 17:30:03,1899-12-30,0,0.0,Cebu
+Junmar,42419,FJM Beverage Distribution Services,Set up Audit Trial ,Service Request,For Close,0,2026-01-09 17:30:03,1899-12-30,0,50.0,Cebu
 
 
 User: Rico
@@ -232,7 +233,6 @@ Venz Jan,42274,Two-G Motorista Motor Parts and Accessories,Can't Connect to Serv
 Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,In Progress,0,2026-01-05 11:59:22,1899-12-30,5,25.0,Davao
 Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,In Progress,0,2026-01-05 11:59:53,1899-12-30,5,25.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,In Progress,0,2026-01-05 12:01:09,1899-12-30,5,25.0,CDO
-Venz Jan,42342,Tekpone Communications Enterprises,Deployment of Custom Inventory Count App,Service Request,For Close,0,2026-01-07 13:23:35,1899-12-30,0,30.0,Davao
 Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of A1,Service Request,In Progress,0,2026-01-07 14:09:44,1899-12-30,0,15.0,Davao
 Venz Jan,42355,317 Supplies Central,MySql Setup Configuration,Service Request,In Progress,0,2026-01-07 15:33:50,1899-12-30,0,50.0,CDO
 Venz Jan,42356,317 Supplies Central,Auto Back-up Setup,Service Request,In Progress,0,2026-01-07 15:35:16,1899-12-30,0,10.0,CDO
