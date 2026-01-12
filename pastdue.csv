@@ -165,6 +165,8 @@ Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Re
 Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,For Close,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
 Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,For Close,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
 Junmar,42419,FJM Beverage Distribution Services,Set up Audit Trial ,Service Request,For Close,0,2026-01-09 17:30:03,1899-12-30,0,50.0,Cebu
+Junmar,42443,Fortune Agrivet Distribution Group Inc.,Deploy Latest Blank Database,Service Request,Assigned,0,2026-01-12 10:20:33,1899-12-30,0,0.0,Ilo-ilo
+Junmar,42444,Fortune Agrivet Distribution Group Inc.,Activeone Installation (Latest Version),Service Request,Assigned,0,2026-01-12 10:21:04,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
@@ -229,7 +231,6 @@ Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC
 Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,Service Request,In Progress,0,2025-12-29 15:47:20,1899-12-30,10,0.0,Davao
 Venz Jan,42249,HBO Marketing,Can't Search Item in POS (Cleech Supermart),Service Request,In Progress,0,2025-12-31 10:35:19,1899-12-30,5,0.0,CDO
 Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration 1,Service Request,In Progress,0,2026-01-05 09:21:10,1899-12-30,5,25.0,Davao
-Venz Jan,42274,Two-G Motorista Motor Parts and Accessories,Can't Connect to Server,Service Request,For Close,0,2026-01-05 11:57:27,1899-12-30,5,17.0,Davao
 Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,In Progress,0,2026-01-05 11:59:22,1899-12-30,5,25.0,Davao
 Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,In Progress,0,2026-01-05 11:59:53,1899-12-30,5,25.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,In Progress,0,2026-01-05 12:01:09,1899-12-30,5,25.0,CDO
