@@ -127,9 +127,9 @@ Jude,42386,MCR Agriventure Corporation,POS BAGO REPLICATION SETUP PROJ 2,Service
 Jude,42387,MCR Agriventure Corporation,POS BAGO REPLICATION SETUP PROJ 3,Service Request,For Close,0,2026-01-09 08:36:53,1899-12-30,0,26.0,Gensan
 Jude,42388,MCR Agriventure Corporation,POS BAGO AUTOBACKUP SETUP,Service Request,For Close,0,2026-01-09 08:37:30,1899-12-30,0,26.0,Gensan
 Jude,42389,MCR Agriventure Corporation,POS Binalbagan REPLICATION SETUP PROJ 1 ,Service Request,For Close,0,2026-01-09 08:38:10,1899-12-30,0,26.0,Gensan
-Jude,42390,MCR Agriventure Corporation,POS Binalbagan REPLICATION SETUP PROJ 2,Service Request,In Progress,0,2026-01-09 08:38:49,1899-12-30,0,26.0,Gensan
-Jude,42391,MCR Agriventure Corporation,POS Binalbagan REPLICATION SETUP PROJ 3,Service Request,In Progress,0,2026-01-09 08:39:27,1899-12-30,0,0.0,Gensan
-Jude,42392,MCR Agriventure Corporation,POS Binalbagan AUTOBACKUP SETUP,Service Request,In Progress,0,2026-01-09 08:40:02,1899-12-30,0,0.0,Gensan
+Jude,42390,MCR Agriventure Corporation,POS Binalbagan REPLICATION SETUP PROJ 2,Service Request,For Close,0,2026-01-09 08:38:49,1899-12-30,0,26.0,Gensan
+Jude,42391,MCR Agriventure Corporation,POS Binalbagan REPLICATION SETUP PROJ 3,Service Request,For Close,0,2026-01-09 08:39:27,1899-12-30,0,26.0,Gensan
+Jude,42392,MCR Agriventure Corporation,POS Binalbagan AUTOBACKUP SETUP,Service Request,For Close,0,2026-01-09 08:40:02,1899-12-30,0,27.0,Gensan
 Jude,42421,"Tacurong Fitmart, Inc.", ZERO OUT SM SELLING AREA ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:53:55,1899-12-30,0,0.0,Gensan
 Jude,42422,"Tacurong Fitmart, Inc.", ZERO OUT SM WAREHOUSE ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:54:50,1899-12-30,0,0.0,Gensan
 Jude,42423,"Tacurong Fitmart, Inc.", ZERO OUT DS SELLING AREA 1ST FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:55:40,1899-12-30,0,0.0,Gensan
@@ -155,7 +155,7 @@ Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jo
 Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,15,439.0,Cebu
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,0,100.0,Cebu
 Junmar,42349,Vexoil Phil Corporation,RMS Price Reflection and Database Error Concern,Service Request,In Progress,0,2026-01-07 14:17:40,1899-12-30,0,0.0,Ilo-ilo
-Junmar,42353,Forever Two Shawarma Shack,Transfer RS to New Laptop,Service Request,Assigned,0,2026-01-07 14:56:19,1899-12-30,0,0.0,Cebu
+Junmar,42353,Forever Two Shawarma Shack,Transfer RS to New Laptop,Service Request,In Progress,0,2026-01-07 14:56:19,1899-12-30,0,0.0,Cebu
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,0,0.0,Cebu
 Junmar,42375,FJM Beverage Distribution Services,MySQL Server Setup,Service Request,In Progress,0,2026-01-08 14:24:07,1899-12-30,0,30.0,Cebu
 Junmar,42409,Activesystems Software Inc,Set-up laptop for new Junior Account Executive - Jerome Rina,Service Request,In Progress,0,2026-01-09 11:54:00,1899-12-30,0,120.0,Cebu
@@ -226,7 +226,6 @@ Venz Jan,42073,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC
 Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,15,0.0,Davao
 Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30,10,30.0,Davao
 Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-29 11:42:36,1899-12-30,10,0.0,CDO
-Venz Jan,42244,Dirty Sanchez Food & Beverage,Unable to open Restaurant Solution,Service Request,For Cancel,0,2025-12-29 15:47:20,1899-12-30,10,0.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,For Close,0,2026-01-05 12:01:09,1899-12-30,5,25.0,CDO
 Venz Jan,42341,Cycle Hub Marketing ,Back up & Restore Data Base,Service Request,In Progress,0,2026-01-07 13:14:53,1899-12-30,0,0.0,Davao
 Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of A1,Service Request,In Progress,0,2026-01-07 14:09:44,1899-12-30,0,15.0,Davao
