@@ -163,8 +163,8 @@ Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Re
 Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,In Progress,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
 Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,In Progress,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
 Junmar,42419,FJM Beverage Distribution Services,Set up Audit Trial ,Service Request,In Progress,0,2026-01-09 17:30:03,1899-12-30,0,50.0,Cebu
-Junmar,42443,Fortune Agrivet Distribution Group Inc.,Deploy Latest Blank Database,Service Request,Assigned,0,2026-01-12 10:20:33,1899-12-30,0,0.0,Ilo-ilo
-Junmar,42444,Fortune Agrivet Distribution Group Inc.,Activeone Installation (Latest Version),Service Request,Assigned,0,2026-01-12 10:21:04,1899-12-30,0,0.0,Cebu
+Junmar,42443,Fortune Agrivet Distribution Group Inc.,Deploy Latest Blank Database,Service Request,In Progress,0,2026-01-12 10:20:33,1899-12-30,0,15.0,Ilo-ilo
+Junmar,42444,Fortune Agrivet Distribution Group Inc.,Activeone Installation (Latest Version),Service Request,For Close,0,2026-01-12 10:21:04,1899-12-30,0,35.0,Cebu
 Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,Assigned,0,2026-01-12 13:25:54,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42449,Kergen Marketing,Set up Print to shoot 2307,Service Request,Assigned,0,2026-01-12 13:26:49,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service Request,Assigned,0,2026-01-12 13:27:29,1899-12-30,0,0.0,Ilo-ilo
@@ -222,6 +222,7 @@ Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigne
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,0,0.0,Davao
 Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,Assigned,0,2026-01-12 14:14:17,1899-12-30,0,0.0,Davao
 Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,Assigned,0,2026-01-12 14:14:52,1899-12-30,0,0.0,Davao
+Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Request,Assigned,0,2026-01-12 14:37:04,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
