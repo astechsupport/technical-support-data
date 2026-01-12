@@ -77,6 +77,8 @@ Jeric Johann,42341,Cycle Hub Marketing ,Back up & Restore Data Base,Service Requ
 Jeric Johann,42351,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Arranging the Interface of Write Check,Internal,In Progress,0,2026-01-07 14:45:32,1899-12-30 00:00:00,0,60.0,Gensan
 Jeric Johann,42425,PRESENT DISTRIBUTION INC.,  Enter Bill posted but not reflected in Item Valuation Detail,Service Request,Assigned,0,2026-01-09 18:00:14,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42429,DAC PORTA HOMES CORPORATION,"We're planning to add another customize module that intended for certifications,memos etc. ",Service Request,Assigned,0,2026-01-12 08:29:54,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42430,Gravala Enterprises,Laptop cannot connect to the server,Service Request,Assigned,0,2026-01-12 08:31:49,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42431,"CEVCEG Marketing, Inc.",Request po kami na magpa connect sa main server ng active system 2013 and 2021 sa isang computer namin.,Service Request,Assigned,0,2026-01-12 08:33:39,1899-12-30 00:00:00,0,0.0,Gensan
 
 
 User: Joshua
@@ -206,7 +208,7 @@ Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of 
 Rico,42318,GEJ Shopping Center,Update Sales Invoice,Service Request,Assigned,0,2026-01-06 15:43:10,1899-12-30,0,0.0,Davao
 Rico,42324,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit,Service Request,Assigned,0,2026-01-07 08:48:05,1899-12-30,0,0.0,Davao
 Rico,42325,Davao Great Wall Trading Inc.,Backup and Restore latest Database,Service Request,Assigned,0,2026-01-07 08:49:19,1899-12-30,0,0.0,Davao
-Rico,42365,EPO LEGACY CORP,Materlist Migration,Service Request,Assigned,0,2026-01-08 09:02:32,1899-12-30,0,0.0,Davao
+Rico,42365,EPO LEGACY CORP,Materlist Migration,Service Request,In Progress,0,2026-01-08 09:02:32,1899-12-30,0,0.0,Davao
 Rico,42384,"Instatech, Inc.", Delivery Receipt Template Modification ,Service Request,Assigned,0,2026-01-09 08:24:26,1899-12-30,0,0.0,Davao
 Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,Assigned,0,2026-01-09 10:53:33,1899-12-30,0,0.0,Davao
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,Assigned,0,2026-01-09 10:56:28,1899-12-30,0,0.0,Davao
