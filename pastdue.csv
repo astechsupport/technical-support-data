@@ -70,7 +70,6 @@ Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu b
 Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,In Progress,0,2026-01-06 16:35:59,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing for the month of December 2025,Service Request,Assigned,0,2026-01-06 16:39:16,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42332,Divine J Tuna Corp,mali po ang minuz sa quantity dumoy storage THP9-05 CREAMDORY and buhangin storage Sisig printed new,Service Request,In Progress,0,2026-01-07 09:06:59,1899-12-30 00:00:00,0,60.0,Gensan
-Jeric Johann,42341,Cycle Hub Marketing ,Back up & Restore Data Base,Service Request,Assigned,0,2026-01-07 13:14:53,1899-12-30 00:00:00,0,0.0,Davao
 Jeric Johann,42351,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Arranging the Interface of Write Check,Internal,In Progress,0,2026-01-07 14:45:32,1899-12-30 00:00:00,0,60.0,Gensan
 Jeric Johann,42425,PRESENT DISTRIBUTION INC.,  Enter Bill posted but not reflected in Item Valuation Detail,Service Request,Assigned,0,2026-01-09 18:00:14,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42429,DAC PORTA HOMES CORPORATION,"We're planning to add another customize module that intended for certifications,memos etc. ",Service Request,Assigned,0,2026-01-12 08:29:54,1899-12-30 00:00:00,0,0.0,Gensan
@@ -95,9 +94,9 @@ Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,Assigned,0,2
 Joshua,42246,Richstar Variety Store,Replication Maintenance (R5),Service Request,In Progress,0,2025-12-29 16:09:15,1899-12-30,10,0.0,CDO
 Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,In Progress,0,2026-01-02 11:24:50,1899-12-30,5,120.0,CDO
 Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Service Request,In Progress,0,2026-01-05 08:35:04,1899-12-30,5,60.0,Gensan
-Joshua,42271,Madlink Corporation,Database Update to Latest,Service Request,In Progress,0,2026-01-05 11:22:09,1899-12-30,5,30.0,CDO
-Joshua,42272,Madlink Corporation,ActiveOne Update to Latest 1-3 Units,Service Request,In Progress,0,2026-01-05 11:23:59,1899-12-30,5,60.0,CDO
-Joshua,42273,Madlink Corporation,ActiveOne Update to Latest 4-5 Units,Service Request,In Progress,0,2026-01-05 11:24:25,1899-12-30,5,30.0,CDO
+Joshua,42271,Madlink Corporation,Database Update to Latest,Internal,In Progress,0,2026-01-05 11:22:09,1899-12-30,5,30.0,CDO
+Joshua,42272,Madlink Corporation,ActiveOne Update to Latest 1-3 Units,Internal,In Progress,0,2026-01-05 11:23:59,1899-12-30,5,60.0,CDO
+Joshua,42273,Madlink Corporation,ActiveOne Update to Latest 4-5 Units,Internal,In Progress,0,2026-01-05 11:24:25,1899-12-30,5,30.0,CDO
 Joshua,42287,PAYLING'S RESTAURANT,Payling;s Restaurant: Deployment of Fixes in Sales Report Bug,Service Request,Assigned,0,2026-01-06 08:21:01,1899-12-30,0,0.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,0,0.0,CDO
 Joshua,42338,J-Mart Supermarket ,Item list migration ,Service Request,In Progress,0,2026-01-07 11:25:22,1899-12-30,0,180.0,CDO
@@ -232,6 +231,7 @@ Venz Jan,42261,Thunder Park Inc.,OC Connection Configuration 1,Service Request,F
 Venz Jan,42275,Thunder Park Inc.,OC Connection Configuration 2,Service Request,For Close,0,2026-01-05 11:59:22,1899-12-30,5,25.0,Davao
 Venz Jan,42276,Thunder Park Inc.,OC Connection Configuration 3,Service Request,For Close,0,2026-01-05 11:59:53,1899-12-30,5,25.0,Davao
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,For Close,0,2026-01-05 12:01:09,1899-12-30,5,25.0,CDO
+Venz Jan,42341,Cycle Hub Marketing ,Back up & Restore Data Base,Service Request,In Progress,0,2026-01-07 13:14:53,1899-12-30,0,0.0,Davao
 Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of A1,Service Request,In Progress,0,2026-01-07 14:09:44,1899-12-30,0,15.0,Davao
 Venz Jan,42355,317 Supplies Central,MySql Setup Configuration,Service Request,In Progress,0,2026-01-07 15:33:50,1899-12-30,0,50.0,CDO
 Venz Jan,42356,317 Supplies Central,Auto Back-up Setup,Service Request,In Progress,0,2026-01-07 15:35:16,1899-12-30,0,10.0,CDO
