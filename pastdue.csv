@@ -233,7 +233,7 @@ Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Reques
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,25,50.0,CDO
-Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,15,0.0,Davao
+Venz Jan,42119,Meat JAS 4U OPC,Sync Price error,Service Request,In Progress,0,2025-12-22 11:30:20,1899-12-30,15,60.0,Davao
 Venz Jan,42222,Surefresh Meat Shop,A1 Installation,Service Request,In Progress,0,2025-12-29 11:25:31,1899-12-30,10,30.0,Davao
 Venz Jan,42223,DL PrimeGold Food Product Marketing,Add Connection (Maam Chaii PC),Service Request,In Progress,0,2025-12-29 11:42:36,1899-12-30,10,0.0,CDO
 Venz Jan,42278,Thunder Park Inc.,POS Connection Configuration,Service Request,For Close,0,2026-01-05 12:01:09,1899-12-30,5,25.0,CDO
@@ -247,10 +247,10 @@ Venz Jan,42363,St. Francis Shell Station V,Check Modification,Service Request,In
 Venz Jan,42370,Cycle Hub Marketing ,MySQL Re-setup,Service Request,In Progress,0,2026-01-08 13:05:50,1899-12-30,0,50.0,Davao
 Venz Jan,42371,Cycle Hub Marketing ,Auto Backup Setup,Service Request,In Progress,0,2026-01-08 13:06:20,1899-12-30,0,20.0,Davao
 Venz Jan,42372,Cycle Hub Marketing ,ActiveOne Installation,Service Request,In Progress,0,2026-01-08 13:06:54,1899-12-30,0,50.0,Davao
-Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,10.0,Davao
+Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,70.0,Davao
 Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,In Progress,0,2026-01-12 13:13:15,1899-12-30,0,24.0,Davao
 Venz Jan,42456,Life Corps Medcare,Can't Access ActiveOne,Service Request,In Progress,0,2026-01-12 14:25:54,1899-12-30,0,0.0,CDO
-Venz Jan,42457,Life Corps Medcare,ActiveOne Installation,Service Request,In Progress,0,2026-01-12 14:27:11,1899-12-30,0,0.0,CDO
+Venz Jan,42457,Life Corps Medcare,ActiveOne Installation,Service Request,In Progress,0,2026-01-12 14:27:11,1899-12-30,0,60.0,CDO
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,0,0.0,Davao
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,0,0.0,Davao
 
