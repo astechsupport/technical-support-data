@@ -198,7 +198,7 @@ Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Req
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,25,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,25,0.0,Davao
 Rico,41875,Paramond Inc,System uploading ,Service Request,In Progress,0,2025-12-11 09:43:00,1899-12-30,20,0.0,Davao
-Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,In Progress,0,2025-12-11 13:17:15,1899-12-30,20,0.0,Davao
+Rico,41881,Kelly Interior Supplies Trading,Item List Migration,Service Request,For Close,0,2025-12-11 13:17:15,1899-12-30,20,0.0,Davao
 Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,Assigned,0,2025-12-14 22:01:57,1899-12-30,20,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,20,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,Assigned,0,2025-12-16 14:21:14,1899-12-30,20,0.0,Davao
@@ -259,7 +259,7 @@ Venz Jan,42363,St. Francis Shell Station V,Check Modification,Service Request,In
 Venz Jan,42370,Cycle Hub Marketing ,MySQL Re-setup,Service Request,In Progress,0,2026-01-08 13:05:50,1899-12-30,0,50.0,Davao
 Venz Jan,42371,Cycle Hub Marketing ,Auto Backup Setup,Service Request,In Progress,0,2026-01-08 13:06:20,1899-12-30,0,20.0,Davao
 Venz Jan,42372,Cycle Hub Marketing ,ActiveOne Installation,Service Request,In Progress,0,2026-01-08 13:06:54,1899-12-30,0,50.0,Davao
-Venz Jan,42395,Meat JAS 4U OPC,Can;t Open ActiveOne,Service Request,Assigned,0,2026-01-09 09:41:15,1899-12-30,0,0.0,Davao
+Venz Jan,42395,Meat JAS 4U OPC,Can;t Open ActiveOne,Service Request,In Progress,0,2026-01-09 09:41:15,1899-12-30,0,0.0,Davao
 Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,70.0,Davao
 Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,In Progress,0,2026-01-12 13:13:15,1899-12-30,1,24.0,Davao
 Venz Jan,42456,Life Corps Medcare,Can't Access ActiveOne,Service Request,In Progress,0,2026-01-12 14:25:54,1899-12-30,1,60.0,CDO
@@ -269,5 +269,5 @@ Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balanc
 Venz Jan,42470,New A & M Commercial & General Merchandise,Set up VPN connection (server and workstation- warehouse),Service Request,In Progress,0,2026-01-12 18:39:31,1899-12-30,1,0.0,Davao
 Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,1,0.0,Davao
 Venz Jan,42474,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,In Progress,0,2026-01-12 18:54:22,1899-12-30,1,0.0,Davao
-Venz Jan,42484,Companero Commercial,VPN Installation,Service Request,In Progress,0,2026-01-13 08:59:12,1899-12-30,0,0.0,CDO
+Venz Jan,42484,Companero Commercial,VPN Installation,Service Request,In Progress,0,2026-01-13 08:59:12,1899-12-30,0,10.0,CDO
 
