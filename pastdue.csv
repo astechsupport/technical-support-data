@@ -145,13 +145,13 @@ Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Re
 Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,For Close,0,2026-01-12 10:18:42,1899-12-30,1,60.0,Ilo-ilo
 Jude,42466,Niel Pharmacy OPC,POS Installation for Ivisan Branch,Service Request,In Progress,0,2026-01-12 16:56:33,1899-12-30,1,0.0,Ilo-ilo
 Jude,42467,Niel Pharmacy OPC,OC Installation for Ivisan Branch,Service Request,In Progress,0,2026-01-12 16:57:07,1899-12-30,1,0.0,Ilo-ilo
-Jude,42468,Niel Pharmacy OPC,Replication setup (Main),Service Request,Assigned,0,2026-01-12 16:57:38,1899-12-30,1,0.0,Ilo-ilo
-Jude,42469,Niel Pharmacy OPC,Replication setup (Ivisan Branch),Service Request,Assigned,0,2026-01-12 16:58:17,1899-12-30,1,0.0,Ilo-ilo
-Jude,42477,JVNI Auto Supply,Invoice is reflecting in receive payment even already paid,Service Request,Assigned,0,2026-01-12 19:14:08,1899-12-30,1,0.0,Davao
+Jude,42468,Niel Pharmacy OPC,Replication setup (Main),Service Request,In Progress,0,2026-01-12 16:57:38,1899-12-30,1,0.0,Ilo-ilo
+Jude,42469,Niel Pharmacy OPC,Replication setup (Ivisan Branch),Service Request,In Progress,0,2026-01-12 16:58:17,1899-12-30,1,0.0,Ilo-ilo
+Jude,42477,JVNI Auto Supply,Invoice is reflecting in receive payment even already paid,Service Request,In Progress,0,2026-01-12 19:14:08,1899-12-30,1,0.0,Davao
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2026-01-12 19:16:24,1899-12-30,1,0.0,Davao
-Jude,42517,Niel Pharmacy OPC,Replication setup (Main) proj 2 ,Service Request,Assigned,0,2026-01-13 16:01:50,1899-12-30,0,0.0,Gensan
-Jude,42518,Niel Pharmacy OPC,Replication setup (Main) proj 3,Service Request,Assigned,0,2026-01-13 16:02:54,1899-12-30,0,0.0,Gensan
-Jude,42519,Niel Pharmacy OPC,VPN setup (Main),Service Request,Assigned,0,2026-01-13 16:03:28,1899-12-30,0,0.0,Gensan
+Jude,42517,Niel Pharmacy OPC,Replication setup (Main) proj 2 ,Service Request,In Progress,0,2026-01-13 16:01:50,1899-12-30,0,0.0,Gensan
+Jude,42518,Niel Pharmacy OPC,Replication setup (Main) proj 3,Service Request,In Progress,0,2026-01-13 16:02:54,1899-12-30,0,0.0,Gensan
+Jude,42519,Niel Pharmacy OPC,VPN setup (Main),Service Request,In Progress,0,2026-01-13 16:03:28,1899-12-30,0,0.0,Gensan
 Jude,42520,Niel Pharmacy OPC,Replication setup (Ivisan Branch) proj 2,Service Request,Assigned,0,2026-01-13 16:04:04,1899-12-30,0,0.0,Gensan
 Jude,42521,Niel Pharmacy OPC,Replication setup (Ivisan Branch)proj 3,Service Request,Assigned,0,2026-01-13 16:04:38,1899-12-30,0,0.0,Gensan
 Jude,42522,Niel Pharmacy OPC,VPN setup (Ivisan Branch),Service Request,Assigned,0,2026-01-13 16:05:14,1899-12-30,0,0.0,Gensan
