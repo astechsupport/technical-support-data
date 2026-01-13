@@ -45,9 +45,6 @@ Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Prog
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30 00:00:00,41,0.0,Gensan
-Jeric Johann,41298, Chicktek Corporation,Error in Inventory,Service Request,For Cancel,0,2025-11-21 08:33:36,1899-12-30 00:00:00,35,0.0,Davao
-Jeric Johann,41342,Sure-Spot Distribution Corporation,Generate Audit Trail report for specific item editing,Service Request,For Cancel,0,2025-11-21 16:50:51,1899-12-30 00:00:00,35,0.0,Davao
-Jeric Johann,41369,Seawind Damosa Condominium Corporation, Template modification - invoice,Service Request,For Cancel,0,2025-11-24 16:24:42,1899-12-30 00:00:00,36,0.0,Davao
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30 00:00:00,30,0.0,Davao
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30 00:00:00,25,0.0,Gensan
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,For Cancel,0,2025-12-10 16:33:51,1899-12-30 00:00:00,20,0.0,Gensan
@@ -72,7 +69,6 @@ Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing
 Jeric Johann,42332,Divine J Tuna Corp,mali po ang minuz sa quantity dumoy storage THP9-05 CREAMDORY and buhangin storage Sisig printed new,Service Request,In Progress,0,2026-01-07 09:06:59,1899-12-30 00:00:00,0,60.0,Gensan
 Jeric Johann,42351,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Arranging the Interface of Write Check,Internal,For Close,0,2026-01-07 14:45:32,1899-12-30 00:00:00,0,60.0,Gensan
 Jeric Johann,42425,PRESENT DISTRIBUTION INC.,  Enter Bill posted but not reflected in Item Valuation Detail,Service Request,In Progress,0,2026-01-09 18:00:14,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42430,Gravala Enterprises,Laptop cannot connect to the server,Service Request,For Close,0,2026-01-12 08:31:49,1899-12-30 00:00:00,1,15.0,Gensan
 Jeric Johann,42431,"CEVCEG Marketing, Inc.",Request po kami na magpa connect sa main server ng active system 2013 and 2021 sa isang computer namin.,Service Request,Assigned,0,2026-01-12 08:33:39,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30 00:00:00,1,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2026-01-12 18:59:35,1899-12-30 00:00:00,1,0.0,Davao
@@ -80,7 +76,7 @@ Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 4 new unit
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,Assigned,0,2026-01-13 10:12:09,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42494,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,Item Migration,Service Request,In Progress,0,2026-01-13 10:40:51,1899-12-30 00:00:00,0,30.0,Gensan
 Jeric Johann,42495,Limco Pharma And Medical Supplies Distribution,Separate particular and qty description in enter bill,Service Request,Assigned,0,2026-01-13 10:41:41,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,Assigned,0,2026-01-13 10:49:53,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,In Progress,0,2026-01-13 10:49:53,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42500,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR,Service Request,In Progress,0,2026-01-13 11:05:03,1899-12-30 00:00:00,0,540.0,Gensan
 Jeric Johann,42501,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR,Service Request,In Progress,0,2026-01-13 11:06:13,1899-12-30 00:00:00,0,540.0,Gensan
 Jeric Johann,42502,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR,Service Request,In Progress,0,2026-01-13 11:07:01,1899-12-30 00:00:00,0,540.0,Gensan
