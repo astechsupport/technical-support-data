@@ -29,9 +29,6 @@ Ceasar Ian,42317,"99 Commercial, Inc.",Transfer server to another unit,Service R
 Ceasar Ian,42340,Wealthy Unisavers Distributors Inc.,Can't connect to MySQL,Service Request,Assigned,0,2026-01-07 13:06:02,1899-12-30,5,0.0,Davao
 Ceasar Ian,42343,Sure-Spot Distribution Corporation,Sure-spot: Deployment of fixes in Balance Sheet vs Item Valuation disbalance,Service Request,Assigned,0,2026-01-07 13:48:26,1899-12-30,5,0.0,Davao
 Ceasar Ian,42376,"Davao Baker's Choice Enterprises, Inc.",Change name heading in Sales Receipt,Service Request,Assigned,0,2026-01-08 14:32:16,1899-12-30,0,0.0,Davao
-Ceasar Ian,42383,TONYO'S AGRI SUPPLY,Mysql Database Set Up,Service Request,For Close,0,2026-01-09 08:23:01,1899-12-30,0,60.0,Davao
-Ceasar Ian,42398,TONYO'S AGRI SUPPLY,Activeone Installation,Service Request,For Close,0,2026-01-09 10:47:04,1899-12-30,0,15.0,Davao
-Ceasar Ian,42399,TONYO'S AGRI SUPPLY,Set up AutoBackup,Service Request,For Close,0,2026-01-09 10:48:40,1899-12-30,0,15.0,Davao
 Ceasar Ian,42405,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-09 11:28:20,1899-12-30,0,0.0,Davao
 Ceasar Ian,42406,MCPIL Pharmaceutical Laboratory, Data Migration - Customer List,Service Request,Assigned,0,2026-01-09 11:29:26,1899-12-30,0,0.0,Davao
 Ceasar Ian,42407,MCPIL Pharmaceutical Laboratory, Data Migration - Vendor List,Service Request,Assigned,0,2026-01-09 11:35:17,1899-12-30,0,0.0,Davao
@@ -62,7 +59,7 @@ Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to lates
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30 00:00:00,5,30.0,Davao
 Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,For Close,0,2026-01-06 14:18:17,1899-12-30 00:00:00,6,60.0,Gensan
 Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,For Close,0,2026-01-06 14:18:58,1899-12-30 00:00:00,6,120.0,Gensan
-Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,Assigned,0,2026-01-06 14:20:46,1899-12-30 00:00:00,6,0.0,Gensan
+Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,In Progress,0,2026-01-06 14:20:46,1899-12-30 00:00:00,6,60.0,Gensan
 Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,In Progress,0,2026-01-06 15:03:57,1899-12-30 00:00:00,6,0.0,Davao
 Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,For Cancel,0,2026-01-06 16:35:59,1899-12-30 00:00:00,6,0.0,Gensan
 Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing for the month of December 2025,Service Request,For Cancel,0,2026-01-06 16:39:16,1899-12-30 00:00:00,6,0.0,Gensan
