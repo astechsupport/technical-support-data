@@ -174,7 +174,7 @@ Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jo
 Junmar,42104,San Pharma,Error upon deployment of PO Form,Service Request,In Progress,0,2025-12-22 10:18:31,1899-12-30,17,529.0,Cebu
 Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01-06 10:49:23,1899-12-30,6,100.0,Cebu
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,5,0.0,Cebu
-Junmar,42411,Kergen Marketing,Template Modification Cash Sales Invoice,Service Request,In Progress,0,2026-01-09 13:26:52,1899-12-30,0,180.0,Ilo-ilo
+Junmar,42411,Kergen Marketing,Template Modification Cash Sales Invoice,Service Request,In Progress,0,2026-01-09 13:26:52,1899-12-30,0,60.0,Ilo-ilo
 Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,Assigned,0,2026-01-09 13:27:36,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,For Close,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
 Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,In Progress,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
@@ -187,8 +187,8 @@ Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service 
 Junmar,42463,Meat JAS 4U OPC,POS system at our MAA outlet displays a login error,Service Request,Assigned,0,2026-01-12 15:06:54,1899-12-30,2,0.0,Davao
 Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christopher jhon Ravena),Service Request,Assigned,0,2026-01-13 11:02:19,1899-12-30,1,0.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,Assigned,0,2026-01-13 18:18:34,1899-12-30,1,0.0,Ilo-ilo
-Junmar,42530,Kergen Marketing,Template Modification Charge Invoice Corporation ,Service Request,Assigned,0,2026-01-14 09:31:02,1899-12-30,0,0.0,Ilo-ilo
-Junmar,42531,Kergen Marketing,Template Modification Charge Invoice Marketing,Service Request,Assigned,0,2026-01-14 09:31:36,1899-12-30,0,0.0,Ilo-ilo
+Junmar,42530,Kergen Marketing,Template Modification Charge Invoice Corporation ,Service Request,For Close,0,2026-01-14 09:31:02,1899-12-30,0,30.0,Ilo-ilo
+Junmar,42531,Kergen Marketing,Template Modification Charge Invoice Marketing,Service Request,In Progress,0,2026-01-14 09:31:36,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42532,Kergen Marketing,Template Modification Delivery Receipt,Service Request,Assigned,0,2026-01-14 09:32:12,1899-12-30,0,0.0,Ilo-ilo
 
 
