@@ -160,6 +160,7 @@ Jude,42520,Niel Pharmacy OPC,Replication setup (Ivisan Branch) proj 2,Service Re
 Jude,42521,Niel Pharmacy OPC,Replication setup (Ivisan Branch)proj 3,Service Request,For Close,0,2026-01-13 16:04:38,1899-12-30,1,38.0,Gensan
 Jude,42522,Niel Pharmacy OPC,VPN setup (Ivisan Branch),Service Request,For Close,0,2026-01-13 16:05:14,1899-12-30,1,30.0,Gensan
 Jude,42523,Niel Pharmacy OPC,POS IVISAN AUTOBACKUP SETUP,Service Request,For Close,0,2026-01-13 16:05:55,1899-12-30,1,40.0,Gensan
+Jude,42536,Townmart,can't find item concern on POS 1 ,Service Request,Assigned,0,2026-01-14 11:48:01,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
@@ -278,4 +279,5 @@ Venz Jan,42474,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Reque
 Venz Jan,42498,K-I Solutions General Merchandise,Set up auto-back up,Service Request,In Progress,0,2026-01-13 10:52:04,1899-12-30,1,130.0,Davao
 Venz Jan,42533,Seawind Damosa Condominium Corporation,Can't Connect to Server - Cashier,Service Request,In Progress,0,2026-01-14 10:00:47,1899-12-30,0,0.0,Davao
 Venz Jan,42534,DB Enterprises,Can't Connect to Server,Incident,Assigned,0,2026-01-14 11:44:54,1899-12-30,0,0.0,CDO
+Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,Assigned,0,2026-01-14 11:45:52,1899-12-30,0,0.0,CDO
 
