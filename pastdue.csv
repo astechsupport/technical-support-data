@@ -157,9 +157,9 @@ Jude,42517,Niel Pharmacy OPC,Replication setup (Main) proj 2 ,Service Request,In
 Jude,42518,Niel Pharmacy OPC,Replication setup (Main) proj 3,Service Request,In Progress,0,2026-01-13 16:02:54,1899-12-30,1,0.0,Gensan
 Jude,42519,Niel Pharmacy OPC,VPN setup (Main),Service Request,In Progress,0,2026-01-13 16:03:28,1899-12-30,1,0.0,Gensan
 Jude,42520,Niel Pharmacy OPC,Replication setup (Ivisan Branch) proj 2,Service Request,In Progress,0,2026-01-13 16:04:04,1899-12-30,1,0.0,Gensan
-Jude,42521,Niel Pharmacy OPC,Replication setup (Ivisan Branch)proj 3,Service Request,In Progress,0,2026-01-13 16:04:38,1899-12-30,1,0.0,Gensan
-Jude,42522,Niel Pharmacy OPC,VPN setup (Ivisan Branch),Service Request,In Progress,0,2026-01-13 16:05:14,1899-12-30,1,0.0,Gensan
-Jude,42523,Niel Pharmacy OPC,POS IVISAN AUTOBACKUP SETUP,Service Request,In Progress,0,2026-01-13 16:05:55,1899-12-30,1,0.0,Gensan
+Jude,42521,Niel Pharmacy OPC,Replication setup (Ivisan Branch)proj 3,Service Request,For Close,0,2026-01-13 16:04:38,1899-12-30,1,38.0,Gensan
+Jude,42522,Niel Pharmacy OPC,VPN setup (Ivisan Branch),Service Request,For Close,0,2026-01-13 16:05:14,1899-12-30,1,30.0,Gensan
+Jude,42523,Niel Pharmacy OPC,POS IVISAN AUTOBACKUP SETUP,Service Request,For Close,0,2026-01-13 16:05:55,1899-12-30,1,40.0,Gensan
 
 
 User: Junmar
