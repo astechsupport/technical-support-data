@@ -149,7 +149,7 @@ Jude,42467,Niel Pharmacy OPC,OC Installation for Ivisan Branch,Service Request,F
 Jude,42468,Niel Pharmacy OPC,Replication setup (Main),Service Request,For Close,0,2026-01-12 16:57:38,1899-12-30,2,16.0,Ilo-ilo
 Jude,42469,Niel Pharmacy OPC,Replication setup (Ivisan Branch),Service Request,For Close,0,2026-01-12 16:58:17,1899-12-30,2,35.0,Ilo-ilo
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,2,0.0,Davao
-Jude,42536,Townmart,can't find item concern on POS 1 ,Service Request,In Progress,0,2026-01-14 11:48:01,1899-12-30,0,40.0,Gensan
+Jude,42536,Townmart,can't find item concern on POS 1 ,Service Request,For Close,0,2026-01-14 11:48:01,1899-12-30,0,40.0,Gensan
 Jude,42537,GJ and G Marketing,Good morning pa install po gensan system to kidapawan,Service Request,In Progress,0,2026-01-14 11:51:38,1899-12-30,0,0.0,Gensan
 Jude,42549,Kristan Educational Supply,installation of activeone,Service Request,In Progress,0,2026-01-14 13:07:49,1899-12-30,0,0.0,Gensan
 
@@ -249,6 +249,11 @@ Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay 
 Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,Assigned,0,2026-01-14 12:34:49,1899-12-30,0,0.0,Davao
 Rico,42545,St. Francis Shell Station V,ActiveOne Installation,Service Request,Assigned,0,2026-01-14 12:35:58,1899-12-30,0,0.0,Davao
 Rico,42546,St. Francis Shell Station V,Setup Auto Backup,Service Request,Assigned,0,2026-01-14 12:36:46,1899-12-30,0,0.0,Davao
+Rico,42550,FABLAB BIO SOULTIONS INC,MySQL Setup Server,Service Request,Assigned,0,2026-01-14 14:16:45,1899-12-30,0,0.0,Davao
+Rico,42551,FABLAB BIO SOULTIONS INC,Setup Auto Backup,Service Request,Assigned,0,2026-01-14 14:17:24,1899-12-30,0,0.0,Davao
+Rico,42552,St. Francis Shell Station V,Setup VPN Mati PC,Service Request,Assigned,0,2026-01-14 14:18:37,1899-12-30,0,0.0,Davao
+Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,Assigned,0,2026-01-14 14:19:21,1899-12-30,0,0.0,Davao
+Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,Assigned,0,2026-01-14 14:19:58,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
