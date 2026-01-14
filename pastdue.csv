@@ -57,7 +57,7 @@ Jeric Johann,42171,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,ACTIVEONE INSTA
 Jeric Johann,42172,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,AUDIT TRAIL SETUP,Service Request,Reviewed,5,2025-12-23 14:09:47,2025-12-29 16:32:11,0,0.0,Gensan
 Jeric Johann,42218,Light Diamond Enterprises,Cannot Sync POS to Main,Service Request,For Close,0,2025-12-29 08:59:37,1899-12-30 00:00:00,12,104.0,Cebu
 Jeric Johann,42219,Light Diamond Enterprises, Unable to Open A1,Service Request,For Close,0,2025-12-29 09:00:23,1899-12-30 00:00:00,12,0.0,Cebu
-Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,Assigned,0,2025-12-29 13:23:24,1899-12-30 00:00:00,12,0.0,Gensan
+Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30 00:00:00,12,0.0,Gensan
 Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,In Progress,0,2026-01-02 08:30:59,1899-12-30 00:00:00,5,30.0,Gensan
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30 00:00:00,5,30.0,Davao
 Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,For Close,0,2026-01-06 14:18:17,1899-12-30 00:00:00,6,60.0,Gensan
@@ -149,7 +149,7 @@ Jude,42467,Niel Pharmacy OPC,OC Installation for Ivisan Branch,Service Request,F
 Jude,42468,Niel Pharmacy OPC,Replication setup (Main),Service Request,For Close,0,2026-01-12 16:57:38,1899-12-30,2,16.0,Ilo-ilo
 Jude,42469,Niel Pharmacy OPC,Replication setup (Ivisan Branch),Service Request,For Close,0,2026-01-12 16:58:17,1899-12-30,2,35.0,Ilo-ilo
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,2,0.0,Davao
-Jude,42536,Townmart,can't find item concern on POS 1 ,Service Request,In Progress,0,2026-01-14 11:48:01,1899-12-30,0,0.0,Gensan
+Jude,42536,Townmart,can't find item concern on POS 1 ,Service Request,In Progress,0,2026-01-14 11:48:01,1899-12-30,0,40.0,Gensan
 Jude,42537,GJ and G Marketing,Good morning pa install po gensan system to kidapawan,Service Request,In Progress,0,2026-01-14 11:51:38,1899-12-30,0,0.0,Gensan
 Jude,42549,Kristan Educational Supply,installation of activeone,Service Request,In Progress,0,2026-01-14 13:07:49,1899-12-30,0,0.0,Gensan
 
@@ -271,7 +271,7 @@ Venz Jan,42372,Cycle Hub Marketing ,ActiveOne Installation,Service Request,In Pr
 Venz Jan,42395,Meat JAS 4U OPC,Can;t Open ActiveOne,Service Request,In Progress,0,2026-01-09 09:41:15,1899-12-30,0,80.0,Davao
 Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,70.0,Davao
 Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,For Cancel,0,2026-01-12 13:13:15,1899-12-30,2,24.0,Davao
-Venz Jan,42456,Life Corps Medcare,Can't Access ActiveOne,Service Request,In Progress,0,2026-01-12 14:25:54,1899-12-30,2,60.0,CDO
+Venz Jan,42456,Life Corps Medcare,Can't Access ActiveOne,Service Request,For Close,0,2026-01-12 14:25:54,1899-12-30,2,60.0,CDO
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,2,0.0,Davao
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,2,0.0,Davao
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,2,70.0,Davao
