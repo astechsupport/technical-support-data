@@ -69,7 +69,7 @@ Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing
 Jeric Johann,42332,Divine J Tuna Corp,mali po ang minuz sa quantity dumoy storage THP9-05 CREAMDORY and buhangin storage Sisig printed new,Service Request,In Progress,0,2026-01-07 09:06:59,1899-12-30 00:00:00,5,60.0,Gensan
 Jeric Johann,42351,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Arranging the Interface of Write Check,Internal,For Close,0,2026-01-07 14:45:32,1899-12-30 00:00:00,5,60.0,Gensan
 Jeric Johann,42425,PRESENT DISTRIBUTION INC.,  Enter Bill posted but not reflected in Item Valuation Detail,Service Request,In Progress,0,2026-01-09 18:00:14,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42431,"CEVCEG Marketing, Inc.",Request po kami na magpa connect sa main server ng active system 2013 and 2021 sa isang computer namin.,Service Request,In Progress,0,2026-01-12 08:33:39,1899-12-30 00:00:00,2,40.0,Gensan
+Jeric Johann,42431,"CEVCEG Marketing, Inc.",Request po kami na magpa connect sa main server ng active system 2013 and 2021 sa isang computer namin.,Service Request,For Close,0,2026-01-12 08:33:39,1899-12-30 00:00:00,2,40.0,Gensan
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30 00:00:00,2,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,Assigned,0,2026-01-12 18:59:35,1899-12-30 00:00:00,2,0.0,Davao
 Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 4 new units.,Service Request,Assigned,0,2026-01-13 10:09:58,1899-12-30 00:00:00,1,0.0,Gensan
@@ -149,11 +149,11 @@ Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Re
 Jude,42442,Activesystems Software Inc,Setup Database in POS ,Internal,For Close,0,2026-01-12 10:18:42,1899-12-30,2,60.0,Ilo-ilo
 Jude,42466,Niel Pharmacy OPC,POS Installation for Ivisan Branch,Service Request,In Progress,0,2026-01-12 16:56:33,1899-12-30,2,0.0,Ilo-ilo
 Jude,42467,Niel Pharmacy OPC,OC Installation for Ivisan Branch,Service Request,In Progress,0,2026-01-12 16:57:07,1899-12-30,2,0.0,Ilo-ilo
-Jude,42468,Niel Pharmacy OPC,Replication setup (Main),Service Request,In Progress,0,2026-01-12 16:57:38,1899-12-30,2,0.0,Ilo-ilo
-Jude,42469,Niel Pharmacy OPC,Replication setup (Ivisan Branch),Service Request,In Progress,0,2026-01-12 16:58:17,1899-12-30,2,0.0,Ilo-ilo
+Jude,42468,Niel Pharmacy OPC,Replication setup (Main),Service Request,In Progress,0,2026-01-12 16:57:38,1899-12-30,2,16.0,Ilo-ilo
+Jude,42469,Niel Pharmacy OPC,Replication setup (Ivisan Branch),Service Request,For Close,0,2026-01-12 16:58:17,1899-12-30,2,26.0,Ilo-ilo
 Jude,42477,JVNI Auto Supply,Invoice is reflecting in receive payment even already paid,Service Request,In Progress,0,2026-01-12 19:14:08,1899-12-30,2,0.0,Davao
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2026-01-12 19:16:24,1899-12-30,2,0.0,Davao
-Jude,42517,Niel Pharmacy OPC,Replication setup (Main) proj 2 ,Service Request,In Progress,0,2026-01-13 16:01:50,1899-12-30,1,0.0,Gensan
+Jude,42517,Niel Pharmacy OPC,Replication setup (Main) proj 2 ,Service Request,For Close,0,2026-01-13 16:01:50,1899-12-30,1,39.0,Gensan
 Jude,42518,Niel Pharmacy OPC,Replication setup (Main) proj 3,Service Request,For Close,0,2026-01-13 16:02:54,1899-12-30,1,29.0,Gensan
 Jude,42519,Niel Pharmacy OPC,VPN setup (Main),Service Request,For Close,0,2026-01-13 16:03:28,1899-12-30,1,39.0,Gensan
 Jude,42520,Niel Pharmacy OPC,Replication setup (Ivisan Branch) proj 2,Service Request,For Close,0,2026-01-13 16:04:04,1899-12-30,1,31.0,Gensan
