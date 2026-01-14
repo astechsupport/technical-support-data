@@ -176,10 +176,7 @@ Junmar,42308,LM Commercial,Fix OC Template,Service Request,In Progress,0,2026-01
 Junmar,42354,LM Commercial,Audit Trail Set-up,Service Request,Assigned,0,2026-01-07 14:57:22,1899-12-30,5,0.0,Cebu
 Junmar,42411,Kergen Marketing,Template Modification Cash Sales Invoice,Service Request,In Progress,0,2026-01-09 13:26:52,1899-12-30,0,60.0,Ilo-ilo
 Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,Assigned,0,2026-01-09 13:27:36,1899-12-30,0,0.0,Ilo-ilo
-Junmar,42417,FJM Beverage Distribution Services,Reconfigure activeone 2 units,Service Request,For Close,0,2026-01-09 17:28:43,1899-12-30,0,20.0,Cebu
 Junmar,42418,FJM Beverage Distribution Services,Set up Autobackup,Service Request,In Progress,0,2026-01-09 17:29:25,1899-12-30,0,20.0,Cebu
-Junmar,42419,FJM Beverage Distribution Services,Set up Audit Trial ,Service Request,For Close,0,2026-01-09 17:30:03,1899-12-30,0,50.0,Cebu
-Junmar,42444,Fortune Agrivet Distribution Group Inc.,Activeone Installation (Latest Version),Service Request,For Close,0,2026-01-12 10:21:04,1899-12-30,2,35.0,Cebu
 Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,Assigned,0,2026-01-12 13:25:54,1899-12-30,2,0.0,Ilo-ilo
 Junmar,42449,Kergen Marketing,Set up Print to shoot 2307,Service Request,Assigned,0,2026-01-12 13:26:49,1899-12-30,2,0.0,Ilo-ilo
 Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service Request,Assigned,0,2026-01-12 13:27:29,1899-12-30,2,0.0,Ilo-ilo
@@ -250,7 +247,6 @@ Rico,42487,Llamar Inc.,ActiveOne Installation,Service Request,Assigned,0,2026-01
 Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,Assigned,0,2026-01-13 09:49:04,1899-12-30,1,0.0,Davao
 Rico,42489,VICO BUILDING OPC,VPN Setup Workstation,Service Request,Assigned,0,2026-01-13 09:49:39,1899-12-30,1,0.0,Davao
 Rico,42490,VICO BUILDING OPC,ActiveONE Installation Branch,Service Request,Assigned,0,2026-01-13 09:50:12,1899-12-30,1,0.0,Davao
-Rico,42533,Seawind Damosa Condominium Corporation,Can't Connect to Server - Cashier,Service Request,Assigned,0,2026-01-14 10:00:47,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -272,7 +268,7 @@ Venz Jan,42371,Cycle Hub Marketing ,Auto Backup Setup,Service Request,In Progres
 Venz Jan,42372,Cycle Hub Marketing ,ActiveOne Installation,Service Request,In Progress,0,2026-01-08 13:06:54,1899-12-30,0,50.0,Davao
 Venz Jan,42395,Meat JAS 4U OPC,Can;t Open ActiveOne,Service Request,In Progress,0,2026-01-09 09:41:15,1899-12-30,0,80.0,Davao
 Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,0,70.0,Davao
-Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,In Progress,0,2026-01-12 13:13:15,1899-12-30,2,24.0,Davao
+Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,For Cancel,0,2026-01-12 13:13:15,1899-12-30,2,24.0,Davao
 Venz Jan,42456,Life Corps Medcare,Can't Access ActiveOne,Service Request,In Progress,0,2026-01-12 14:25:54,1899-12-30,2,60.0,CDO
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,2,0.0,Davao
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,2,0.0,Davao
@@ -281,4 +277,5 @@ Venz Jan,42470,New A & M Commercial & General Merchandise,Set up VPN connection 
 Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,2,0.0,Davao
 Venz Jan,42474,D'PRIME OFFICE DEPOT OPC,Connection to server Error,Service Request,In Progress,0,2026-01-12 18:54:22,1899-12-30,2,0.0,Davao
 Venz Jan,42498,K-I Solutions General Merchandise,Set up auto-back up,Service Request,In Progress,0,2026-01-13 10:52:04,1899-12-30,1,130.0,Davao
+Venz Jan,42533,Seawind Damosa Condominium Corporation,Can't Connect to Server - Cashier,Service Request,Assigned,0,2026-01-14 10:00:47,1899-12-30,0,0.0,Davao
 
