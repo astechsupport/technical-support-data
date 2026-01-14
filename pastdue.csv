@@ -75,7 +75,7 @@ Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,S
 Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 4 new units.,Service Request,Assigned,0,2026-01-13 10:09:58,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42494,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,Item Migration,Service Request,In Progress,0,2026-01-13 10:40:51,1899-12-30 00:00:00,1,30.0,Gensan
-Jeric Johann,42495,Limco Pharma And Medical Supplies Distribution,Separate particular and qty description in enter bill,Service Request,In Progress,0,2026-01-13 10:41:41,1899-12-30 00:00:00,1,21.0,Gensan
+Jeric Johann,42495,Limco Pharma And Medical Supplies Distribution,Separate particular and qty description in enter bill,Service Request,In Progress,0,2026-01-13 10:41:41,1899-12-30 00:00:00,1,30.0,Gensan
 Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,In Progress,0,2026-01-13 10:49:53,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42500,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR,Service Request,In Progress,0,2026-01-13 11:05:03,1899-12-30 00:00:00,1,540.0,Gensan
 Jeric Johann,42501,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR,Service Request,In Progress,0,2026-01-13 11:06:13,1899-12-30 00:00:00,1,540.0,Gensan
@@ -120,6 +120,8 @@ Joshua,42483,Chefbuddy FoodServices Inc.,VPN Installation Unit 3,Service Request
 Joshua,42516,Soda Enterprise,Clear Documents,Service Request,Assigned,0,2026-01-13 11:41:46,1899-12-30,1,0.0,CDO
 Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,Assigned,0,2026-01-13 16:59:03,1899-12-30,1,0.0,CDO
 Joshua,42526,The Purple Tree Corp.,ActiveOne Installation (1-2units),Service Request,Assigned,0,2026-01-14 08:37:00,1899-12-30,0,0.0,CDO
+Joshua,42527,Soda Enterprise,ActiveOne Installation,Service Request,Assigned,0,2026-01-14 09:13:15,1899-12-30,0,0.0,CDO
+Joshua,42528,Soda Enterprise,VPN Installation,Service Request,Assigned,0,2026-01-14 09:13:51,1899-12-30,0,0.0,CDO
 
 
 User: Jude
