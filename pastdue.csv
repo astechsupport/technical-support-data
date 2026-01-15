@@ -123,6 +123,8 @@ Joshua,42565,Quinn Essentials,ActiveOne Installation,Service Request,Assigned,0,
 Joshua,42573,Quinn Essentials,POS Installation (1-2 Units),Service Request,Assigned,0,2026-01-15 09:13:25,1899-12-30,0,0.0,CDO
 Joshua,42579,The Purple Tree Corp.,VPN Installation Unit 1,Service Request,In Progress,0,2026-01-15 10:40:49,1899-12-30,0,15.0,CDO
 Joshua,42580,The Purple Tree Corp.,VPN Installation Unit 2,Service Request,In Progress,0,2026-01-15 10:41:35,1899-12-30,0,15.0,CDO
+Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,Assigned,0,2026-01-15 13:10:59,1899-12-30,0,0.0,CDO
+Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,Assigned,0,2026-01-15 13:11:50,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -291,4 +293,5 @@ Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Serv
 Venz Jan,42584,Mindanao Agriplus Corporation,Re-installation A1,Service Request,In Progress,0,2026-01-15 11:34:41,1899-12-30,0,0.0,Davao
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,Assigned,0,2026-01-15 13:06:50,1899-12-30,0,0.0,Davao
 Venz Jan,42587,Quinn Essentials,Item List Migration,Service Request,Assigned,0,2026-01-15 13:09:37,1899-12-30,0,0.0,CDO
+Venz Jan,42588,Quinn Essentials,Employee List Migration,Service Request,Assigned,0,2026-01-15 13:10:12,1899-12-30,0,0.0,CDO
 
