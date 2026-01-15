@@ -183,6 +183,8 @@ Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request
 Junmar,42596,JBC Technology and Trading Corporation,ActiveOne Installation (2 units),Service Request,Assigned,0,2026-01-15 16:18:03,1899-12-30,0,0.0,Cebu
 Junmar,42597,JBC Technology and Trading Corporation,MySQL Server Setup,Service Request,Assigned,0,2026-01-15 16:18:39,1899-12-30,0,0.0,Cebu
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,Assigned,0,2026-01-15 16:19:17,1899-12-30,0,0.0,Cebu
+Junmar,42600,JBC Technology and Trading Corporation,VPN Installation (Workstation),Service Request,Assigned,0,2026-01-15 16:22:57,1899-12-30,0,0.0,Cebu
+Junmar,42601,JBC Technology and Trading Corporation,VPN Installation (Server),Service Request,Assigned,0,2026-01-15 16:23:35,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
@@ -288,5 +290,5 @@ Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set 
 Venz Jan,42587,Quinn Essentials,Item List Migration,Service Request,Assigned,0,2026-01-15 13:09:37,1899-12-30,0,0.0,CDO
 Venz Jan,42588,Quinn Essentials,Employee List Migration,Service Request,Assigned,0,2026-01-15 13:10:12,1899-12-30,0,0.0,CDO
 Venz Jan,42594,Loy's Pharmacy Incorporated,Order Capture Installation,Service Request,In Progress,0,2026-01-15 14:35:34,1899-12-30,0,50.0,CDO
-Venz Jan,42595,Loy's Pharmacy Incorporated,Printer Setup,Service Request,Assigned,0,2026-01-15 15:46:02,1899-12-30,0,0.0,CDO
+Venz Jan,42595,Loy's Pharmacy Incorporated,Printer Setup,Service Request,In Progress,0,2026-01-15 15:46:02,1899-12-30,0,0.0,CDO
 
