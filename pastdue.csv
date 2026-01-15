@@ -113,7 +113,7 @@ Joshua,42482,Chefbuddy FoodServices Inc.,VPN Installation Unit 2,Service Request
 Joshua,42483,Chefbuddy FoodServices Inc.,VPN Installation Unit 3,Service Request,Assigned,0,2026-01-13 08:56:45,1899-12-30,2,0.0,CDO
 Joshua,42516,Soda Enterprise,Clear Documents,Service Request,In Progress,0,2026-01-13 11:41:46,1899-12-30,2,60.0,CDO
 Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,In Progress,0,2026-01-13 16:59:03,1899-12-30,2,120.0,CDO
-Joshua,42526,The Purple Tree Corp.,ActiveOne Installation (1-2units),Service Request,Assigned,0,2026-01-14 08:37:00,1899-12-30,1,0.0,CDO
+Joshua,42526,The Purple Tree Corp.,ActiveOne Installation (1-2units),Service Request,In Progress,0,2026-01-14 08:37:00,1899-12-30,1,0.0,CDO
 Joshua,42527,Prime Fiesta Summit OPC,ActiveOne Installation,Service Request,In Progress,0,2026-01-14 09:13:15,1899-12-30,1,30.0,CDO
 Joshua,42528,Prime Fiesta Summit OPC,VPN Installation,Service Request,In Progress,0,2026-01-14 09:13:51,1899-12-30,1,30.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,Assigned,0,2026-01-14 09:21:10,1899-12-30,1,0.0,Gensan
@@ -181,7 +181,6 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,48,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,47,0.0,Davao
 Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,In Progress,0,2025-12-03 11:50:37,1899-12-30,31,0.0,Davao
-Rico,41667,Mabuhay-LCL Commercial - MC1,ActiveOne Installation,Service Request,For Close,0,2025-12-03 11:51:49,1899-12-30,31,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,Assigned,0,2025-12-04 11:02:03,1899-12-30,30,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,In Progress,0,2025-12-04 11:42:45,1899-12-30,30,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,25,0.0,Davao
@@ -192,7 +191,6 @@ Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,Assi
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,22,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,In Progress,0,2025-12-16 14:21:14,1899-12-30,22,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,Assigned,0,2025-12-17 12:57:16,1899-12-30,21,0.0,Davao
-Rico,42080,Kelly Interior Supplies Trading,Printer Setup,Service Request,For Close,0,2025-12-18 11:50:42,1899-12-30,20,120.0,Davao
 Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,In Progress,0,2025-12-22 11:52:48,1899-12-30,18,0.0,Davao
 Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,Assigned,0,2025-12-22 11:53:53,1899-12-30,18,0.0,Davao
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,18,0.0,Davao
