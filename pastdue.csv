@@ -175,6 +175,10 @@ Junmar,42532,Kergen Marketing,Template Modification Delivery Receipt,Service Req
 Junmar,42538,Activesystems Software Inc,Set Up Serve POS in Ipad (Sir Paul),Internal,For Close,0,2026-01-14 12:00:45,1899-12-30,1,90.0,Ilo-ilo
 Junmar,42547,JBC Technology and Trading Corporation,Hardware Assessment,Service Request,Assigned,0,2026-01-14 12:38:48,1899-12-30,1,0.0,Cebu
 Junmar,42548,JBC Technology and Trading Corporation,Network Assessment,Service Request,Assigned,0,2026-01-14 12:39:47,1899-12-30,1,0.0,Cebu
+Junmar,42574,Vexoil Phil Corporation,Mysql reset up Dao POS,Service Request,Assigned,0,2026-01-15 09:42:09,1899-12-30,0,0.0,Cebu
+Junmar,42575,Vexoil Phil Corporation,Back up and Restore Dao POS,Service Request,Assigned,0,2026-01-15 09:43:12,1899-12-30,0,0.0,Cebu
+Junmar,42576,Vexoil Phil Corporation,Fix Replication Concern In Dumaguit,Service Request,Assigned,0,2026-01-15 09:44:21,1899-12-30,0,0.0,Cebu
+Junmar,42577,Vexoil Phil Corporation,Fix Replication Concern In Anini-y,Service Request,Assigned,0,2026-01-15 09:44:59,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
@@ -280,5 +284,5 @@ Venz Jan,42533,Seawind Damosa Condominium Corporation,Can't Connect to Server - 
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,1,60.0,CDO
 Venz Jan,42555,LaserPro Inc.,A1 installation,Service Request,In Progress,0,2026-01-14 14:21:04,1899-12-30,1,0.0,Davao
 Venz Jan,42556,Sharp Electrical Supply Inc.,Charge Invoice Modification,Service Request,In Progress,0,2026-01-14 14:49:54,1899-12-30,1,45.0,CDO
-Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Service Request,Assigned,0,2026-01-15 08:29:18,1899-12-30,0,0.0,Davao
+Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Service Request,In Progress,0,2026-01-15 08:29:18,1899-12-30,0,0.0,Davao
 
