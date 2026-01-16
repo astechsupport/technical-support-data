@@ -243,7 +243,7 @@ Junmar,42538,Activesystems Software Inc,Set Up Serve POS in Ipad (Sir Paul),Inte
 Junmar,42574,Vexoil Phil Corporation,Mysql reset up Dao POS,Service Request,For Close,0,2026-01-15 09:42:09,1899-12-30,1,20.0,Cebu
 Junmar,42575,Vexoil Phil Corporation,Reset up replication in Dao POS.,Service Request,For Close,0,2026-01-15 09:43:12,1899-12-30,1,20.0,Cebu
 Junmar,42576,Vexoil Phil Corporation,Fix Replication Concern In Dumaguit,Service Request,For Close,0,2026-01-15 09:44:21,1899-12-30,1,50.0,Cebu
-Junmar,42577,Vexoil Phil Corporation,Fix Replication Concern In Anini-y,Service Request,In Progress,0,2026-01-15 09:44:59,1899-12-30,1,30.0,Cebu
+Junmar,42577,Vexoil Phil Corporation,Fix Replication Concern In Anini-y,Service Request,For Close,0,2026-01-15 09:44:59,1899-12-30,1,30.0,Cebu
 Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request,In Progress,0,2026-01-15 11:12:48,1899-12-30,1,30.0,Cebu
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,For Close,0,2026-01-15 16:19:17,1899-12-30,1,20.0,Cebu
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
@@ -279,8 +279,8 @@ Rico,42221,Thunder Park Inc.,Update Connection ,Service Request,In Progress,0,20
 Rico,42241,Thunder Park Inc.,Diagnose Inventory Concern,Service Request,Assigned,0,2025-12-29 14:09:57,1899-12-30,14,0.0,Davao
 Rico,42254,Philfumes Petroleum Corporation,Modify Bill Receipt Form,Service Request,Assigned,0,2026-01-02 11:11:22,1899-12-30,10,0.0,Davao
 Rico,42282,JLCJ Manukang Bayan,MySql Setup For JCGT,Service Request,For Close,0,2026-01-05 15:55:46,1899-12-30,9,120.0,Davao
-Rico,42283,JLCJ Manukang Bayan,Pos Installation,Service Request,In Progress,0,2026-01-05 15:56:38,1899-12-30,9,60.0,Davao
-Rico,42284,JLCJ Manukang Bayan,Printer Setup for POS,Service Request,In Progress,0,2026-01-05 15:57:15,1899-12-30,9,60.0,Davao
+Rico,42283,JLCJ Manukang Bayan,Pos Installation,Service Request,For Close,0,2026-01-05 15:56:38,1899-12-30,9,60.0,Davao
+Rico,42284,JLCJ Manukang Bayan,Printer Setup for POS,Service Request,For Close,0,2026-01-05 15:57:15,1899-12-30,9,60.0,Davao
 Rico,42298,VICO BUILDING OPC,Installation SEv21 ,Service Request,In Progress,0,2026-01-06 10:25:48,1899-12-30,8,0.0,Davao
 Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of Customer Name & TIN on POS Tape,Service Request,Assigned,0,2026-01-06 10:35:44,1899-12-30,8,0.0,Davao
 Rico,42318,GEJ Shopping Center,Update Sales Invoice,Service Request,Assigned,0,2026-01-06 15:43:10,1899-12-30,8,0.0,Davao
