@@ -328,6 +328,8 @@ Rico,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Re
 Rico,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,Assigned,0,2026-01-16 11:20:26,1899-12-30,0,0.0,Davao
 Rico,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,Assigned,0,2026-01-16 11:21:31,1899-12-30,0,0.0,Davao
 Rico,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,Assigned,0,2026-01-16 11:22:51,1899-12-30,0,0.0,Davao
+Rico,42638,Davao Great Wall Trading Inc.,Replication Error Server1,Service Request,Assigned,0,2026-01-16 15:59:03,1899-12-30,0,0.0,Davao
+Rico,42639,Davao Great Wall Trading Inc.,Replication Error Server2,Service Request,Assigned,0,2026-01-16 16:00:00,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -353,7 +355,7 @@ Venz Jan,42533,Seawind Damosa Condominium Corporation,Can't Connect to Server - 
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,2,195.0,CDO
 Venz Jan,42555,LaserPro Inc.,A1 installation,Service Request,For Close,0,2026-01-14 14:21:04,1899-12-30,2,90.0,Davao
 Venz Jan,42556,Sharp Electrical Supply Inc.,Charge Invoice Modification,Service Request,For Close,0,2026-01-14 14:49:54,1899-12-30,2,45.0,CDO
-Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Service Request,In Progress,0,2026-01-15 08:29:18,1899-12-30,1,25.0,Davao
+Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Service Request,In Progress,0,2026-01-15 08:29:18,1899-12-30,1,50.0,Davao
 Venz Jan,42584,Mindanao Agriplus Corporation,Re-installation A1,Service Request,In Progress,0,2026-01-15 11:34:41,1899-12-30,1,0.0,Davao
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,1,0.0,Davao
 Venz Jan,42587,Quinn Essentials,Item List Migration,Service Request,In Progress,0,2026-01-15 13:09:37,1899-12-30,1,0.0,CDO
