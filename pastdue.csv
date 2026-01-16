@@ -126,6 +126,7 @@ Joshua,42580,The Purple Tree Corp.,VPN Installation Unit 2,Service Request,In Pr
 Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progress,0,2026-01-15 13:10:59,1899-12-30,1,30.0,CDO
 Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,In Progress,0,2026-01-15 13:11:50,1899-12-30,1,60.0,CDO
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
+Joshua,42617,Quinn Essentials,Get Hardware Details ,Service Request,Assigned,0,2026-01-16 09:51:07,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -149,6 +150,7 @@ Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Re
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,4,0.0,Davao
 Jude,42549,Kristan Educational Supply,installation of activeone,Service Request,For Close,0,2026-01-14 13:07:49,1899-12-30,2,75.0,Gensan
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,Assigned,0,2026-01-15 08:26:51,1899-12-30,1,0.0,Davao
+Jude,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,Assigned,0,2026-01-16 09:53:45,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
@@ -295,9 +297,9 @@ Venz Jan,42555,LaserPro Inc.,A1 installation,Service Request,For Close,0,2026-01
 Venz Jan,42556,Sharp Electrical Supply Inc.,Charge Invoice Modification,Service Request,For Close,0,2026-01-14 14:49:54,1899-12-30,2,45.0,CDO
 Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Service Request,In Progress,0,2026-01-15 08:29:18,1899-12-30,1,0.0,Davao
 Venz Jan,42584,Mindanao Agriplus Corporation,Re-installation A1,Service Request,In Progress,0,2026-01-15 11:34:41,1899-12-30,1,0.0,Davao
-Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,Assigned,0,2026-01-15 13:06:50,1899-12-30,1,0.0,Davao
-Venz Jan,42587,Quinn Essentials,Item List Migration,Service Request,Assigned,0,2026-01-15 13:09:37,1899-12-30,1,0.0,CDO
-Venz Jan,42588,Quinn Essentials,Employee List Migration,Service Request,Assigned,0,2026-01-15 13:10:12,1899-12-30,1,0.0,CDO
+Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,1,0.0,Davao
+Venz Jan,42587,Quinn Essentials,Item List Migration,Service Request,In Progress,0,2026-01-15 13:09:37,1899-12-30,1,0.0,CDO
+Venz Jan,42588,Quinn Essentials,Employee List Migration,Service Request,In Progress,0,2026-01-15 13:10:12,1899-12-30,1,0.0,CDO
 Venz Jan,42594,Loy's Pharmacy Incorporated,Order Capture Installation,Service Request,For Close,0,2026-01-15 14:35:34,1899-12-30,1,50.0,CDO
 Venz Jan,42595,Loy's Pharmacy Incorporated,Printer Setup,Service Request,For Close,0,2026-01-15 15:46:02,1899-12-30,1,10.0,CDO
 
