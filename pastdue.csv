@@ -131,7 +131,7 @@ Jeric Johann,42332,Divine J Tuna Corp,mali po ang minuz sa quantity dumoy storag
 Jeric Johann,42425,PRESENT DISTRIBUTION INC.,  Enter Bill posted but not reflected in Item Valuation Detail,Service Request,In Progress,0,2026-01-09 18:00:14,1899-12-30 00:00:00,5,0.0,Gensan
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30 00:00:00,4,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30 00:00:00,4,47.0,Davao
-Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 3 new units,Service Request,Assigned,0,2026-01-13 10:09:58,1899-12-30 00:00:00,3,0.0,Gensan
+Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 3 new units,Service Request,In Progress,0,2026-01-13 10:09:58,1899-12-30 00:00:00,3,30.0,Gensan
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30 00:00:00,3,0.0,Gensan
 Jeric Johann,42495,Limco Pharma And Medical Supplies Distribution,Separate particular and qty description in enter bill,Service Request,In Progress,0,2026-01-13 10:41:41,1899-12-30 00:00:00,3,30.0,Gensan
 Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,In Progress,0,2026-01-13 10:49:53,1899-12-30 00:00:00,3,840.0,Gensan
@@ -145,7 +145,7 @@ Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Req
 Jeric Johann,42635,Migg Enterprises,MySQL installation 8.0,Service Request,In Progress,0,2026-01-16 13:22:38,1899-12-30 00:00:00,0,30.0,Gensan
 Jeric Johann,42636,Migg Enterprises,Autobackup Installation,Service Request,In Progress,0,2026-01-16 13:23:18,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,15.0,Gensan
-Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,Assigned,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,In Progress,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,15.0,Gensan
 
 
 User: Joshua
@@ -183,14 +183,14 @@ Joshua,42526,The Purple Tree Corp.,ActiveOne Installation (1-2units),Service Req
 Joshua,42527,Prime Fiesta Summit OPC,ActiveOne Installation,Service Request,In Progress,0,2026-01-14 09:13:15,1899-12-30,2,30.0,CDO
 Joshua,42528,Prime Fiesta Summit OPC,VPN Installation,Service Request,In Progress,0,2026-01-14 09:13:51,1899-12-30,2,30.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,2,0.0,Gensan
-Joshua,42563,Quinn Essentials,MySQL Setup,Service Request,In Progress,0,2026-01-14 16:40:01,1899-12-30,2,60.0,CDO
-Joshua,42564,Quinn Essentials,Set-Up Auto Backup,Service Request,In Progress,0,2026-01-14 16:40:28,1899-12-30,2,20.0,CDO
-Joshua,42565,Quinn Essentials,ActiveOne Installation,Service Request,In Progress,0,2026-01-14 16:40:54,1899-12-30,2,20.0,CDO
-Joshua,42573,Quinn Essentials,POS Installation (1-2 Units),Service Request,In Progress,0,2026-01-15 09:13:25,1899-12-30,1,20.0,CDO
+Joshua,42563,Quinn Essentials,MySQL Setup,Service Request,For Close,0,2026-01-14 16:40:01,1899-12-30,2,60.0,CDO
+Joshua,42564,Quinn Essentials,Set-Up Auto Backup,Service Request,For Close,0,2026-01-14 16:40:28,1899-12-30,2,20.0,CDO
+Joshua,42565,Quinn Essentials,ActiveOne Installation,Service Request,For Close,0,2026-01-14 16:40:54,1899-12-30,2,20.0,CDO
+Joshua,42573,Quinn Essentials,POS Installation (1-2 Units),Service Request,For Close,0,2026-01-15 09:13:25,1899-12-30,1,20.0,CDO
 Joshua,42579,The Purple Tree Corp.,VPN Installation Unit 1,Service Request,In Progress,0,2026-01-15 10:40:49,1899-12-30,1,15.0,CDO
 Joshua,42580,The Purple Tree Corp.,VPN Installation Unit 2,Service Request,In Progress,0,2026-01-15 10:41:35,1899-12-30,1,15.0,CDO
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
-Joshua,42617,Quinn Essentials,Get Hardware Details ,Service Request,In Progress,0,2026-01-16 09:51:07,1899-12-30,0,30.0,CDO
+Joshua,42617,Quinn Essentials,Get Hardware Details ,Service Request,For Close,0,2026-01-16 09:51:07,1899-12-30,0,30.0,CDO
 
 
 User: Jude
@@ -277,7 +277,7 @@ Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Ba
 Rico,42221,Thunder Park Inc.,Update Connection ,Service Request,In Progress,0,2025-12-29 11:23:38,1899-12-30,14,0.0,Davao
 Rico,42241,Thunder Park Inc.,Diagnose Inventory Concern,Service Request,Assigned,0,2025-12-29 14:09:57,1899-12-30,14,0.0,Davao
 Rico,42254,Philfumes Petroleum Corporation,Modify Bill Receipt Form,Service Request,Assigned,0,2026-01-02 11:11:22,1899-12-30,10,0.0,Davao
-Rico,42298,VICO BUILDING OPC,Installation SEv21 ,Service Request,In Progress,0,2026-01-06 10:25:48,1899-12-30,8,30.0,Davao
+Rico,42298,VICO BUILDING OPC,Installation SEv21 ,Service Request,For Close,0,2026-01-06 10:25:48,1899-12-30,8,30.0,Davao
 Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of Customer Name & TIN on POS Tape,Service Request,Assigned,0,2026-01-06 10:35:44,1899-12-30,8,0.0,Davao
 Rico,42318,GEJ Shopping Center,Update Sales Invoice,Service Request,Assigned,0,2026-01-06 15:43:10,1899-12-30,8,0.0,Davao
 Rico,42324,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit,Service Request,Assigned,0,2026-01-07 08:48:05,1899-12-30,7,0.0,Davao
@@ -288,16 +288,16 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42413,VICO BUILDING OPC,MySQL Setup Server,Service Request,In Progress,0,2026-01-09 13:40:30,1899-12-30,5,90.0,Davao
-Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,In Progress,0,2026-01-09 13:41:02,1899-12-30,5,60.0,Davao
-Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,In Progress,0,2026-01-09 13:41:32,1899-12-30,5,60.0,Davao
+Rico,42413,VICO BUILDING OPC,MySQL Setup Server,Service Request,For Close,0,2026-01-09 13:40:30,1899-12-30,5,90.0,Davao
+Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,For Close,0,2026-01-09 13:41:02,1899-12-30,5,60.0,Davao
+Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,For Close,0,2026-01-09 13:41:32,1899-12-30,5,60.0,Davao
 Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,4,0.0,Davao
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,4,0.0,Davao
 Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,For Close,0,2026-01-12 14:14:17,1899-12-30,4,60.0,Davao
 Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,For Close,0,2026-01-12 14:14:52,1899-12-30,4,40.0,Davao
 Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Request,For Close,0,2026-01-12 14:37:04,1899-12-30,4,40.0,Davao
 Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,Assigned,0,2026-01-13 08:54:21,1899-12-30,3,0.0,Davao
-Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,In Progress,0,2026-01-13 09:49:04,1899-12-30,3,90.0,Davao
+Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,For Close,0,2026-01-13 09:49:04,1899-12-30,3,90.0,Davao
 Rico,42489,VICO BUILDING OPC,VPN Setup Workstation,Service Request,In Progress,0,2026-01-13 09:49:39,1899-12-30,3,60.0,Davao
 Rico,42490,VICO BUILDING OPC,ActiveONE Installation Branch,Service Request,In Progress,0,2026-01-13 09:50:12,1899-12-30,3,60.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,Assigned,0,2026-01-14 12:31:25,1899-12-30,2,0.0,Davao
