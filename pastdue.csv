@@ -303,9 +303,9 @@ Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,Assigned,0
 Rico,42485,Llamar Inc.,MySQL Setup Server,Service Request,For Close,0,2026-01-13 09:07:27,1899-12-30,3,90.0,Davao
 Rico,42486,Llamar Inc.,Backup and Restore Database,Service Request,For Close,0,2026-01-13 09:08:02,1899-12-30,3,90.0,Davao
 Rico,42487,Llamar Inc.,ActiveOne Installation,Service Request,For Close,0,2026-01-13 09:08:37,1899-12-30,3,60.0,Davao
-Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,Assigned,0,2026-01-13 09:49:04,1899-12-30,3,0.0,Davao
-Rico,42489,VICO BUILDING OPC,VPN Setup Workstation,Service Request,Assigned,0,2026-01-13 09:49:39,1899-12-30,3,0.0,Davao
-Rico,42490,VICO BUILDING OPC,ActiveONE Installation Branch,Service Request,Assigned,0,2026-01-13 09:50:12,1899-12-30,3,0.0,Davao
+Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,In Progress,0,2026-01-13 09:49:04,1899-12-30,3,0.0,Davao
+Rico,42489,VICO BUILDING OPC,VPN Setup Workstation,Service Request,In Progress,0,2026-01-13 09:49:39,1899-12-30,3,0.0,Davao
+Rico,42490,VICO BUILDING OPC,ActiveONE Installation Branch,Service Request,In Progress,0,2026-01-13 09:50:12,1899-12-30,3,0.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,Assigned,0,2026-01-14 12:31:25,1899-12-30,2,0.0,Davao
 Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,Assigned,0,2026-01-14 12:32:01,1899-12-30,2,0.0,Davao
 Rico,42541,St. Francis Shell Station V,Setup Replication Temporary Server p3,Service Request,Assigned,0,2026-01-14 12:32:55,1899-12-30,2,0.0,Davao
