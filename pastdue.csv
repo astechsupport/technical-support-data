@@ -238,9 +238,9 @@ Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,Assigned,0,2026-0
 Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,Assigned,0,2026-01-09 13:41:32,1899-12-30,5,0.0,Davao
 Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,4,0.0,Davao
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,4,0.0,Davao
-Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,In Progress,0,2026-01-12 14:14:17,1899-12-30,4,60.0,Davao
-Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,In Progress,0,2026-01-12 14:14:52,1899-12-30,4,40.0,Davao
-Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Request,In Progress,0,2026-01-12 14:37:04,1899-12-30,4,40.0,Davao
+Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,For Close,0,2026-01-12 14:14:17,1899-12-30,4,60.0,Davao
+Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,For Close,0,2026-01-12 14:14:52,1899-12-30,4,40.0,Davao
+Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Request,For Close,0,2026-01-12 14:37:04,1899-12-30,4,40.0,Davao
 Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,Assigned,0,2026-01-13 08:54:21,1899-12-30,3,0.0,Davao
 Rico,42485,Llamar Inc.,MySQL Setup Server,Service Request,For Close,0,2026-01-13 09:07:27,1899-12-30,3,90.0,Davao
 Rico,42486,Llamar Inc.,Backup and Restore Database,Service Request,For Close,0,2026-01-13 09:08:02,1899-12-30,3,90.0,Davao
