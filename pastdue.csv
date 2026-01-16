@@ -57,8 +57,8 @@ Jeric Johann,42219,Light Diamond Enterprises, Unable to Open A1,Service Request,
 Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30 00:00:00,14,0.0,Gensan
 Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,In Progress,0,2026-01-02 08:30:59,1899-12-30 00:00:00,10,30.0,Gensan
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30 00:00:00,10,30.0,Davao
-Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,For Close,0,2026-01-06 14:18:17,1899-12-30 00:00:00,8,60.0,Gensan
-Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,For Close,0,2026-01-06 14:18:58,1899-12-30 00:00:00,8,120.0,Gensan
+Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,In Progress,0,2026-01-06 14:18:17,1899-12-30 00:00:00,8,60.0,Gensan
+Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,In Progress,0,2026-01-06 14:18:58,1899-12-30 00:00:00,8,120.0,Gensan
 Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,In Progress,0,2026-01-06 14:20:46,1899-12-30 00:00:00,8,60.0,Gensan
 Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,In Progress,0,2026-01-06 15:03:57,1899-12-30 00:00:00,8,0.0,Davao
 Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,For Cancel,0,2026-01-06 16:35:59,1899-12-30 00:00:00,8,0.0,Gensan
@@ -69,7 +69,7 @@ Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Pr
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30 00:00:00,4,47.0,Davao
 Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 4 new units.,Service Request,Assigned,0,2026-01-13 10:09:58,1899-12-30 00:00:00,3,0.0,Gensan
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30 00:00:00,3,0.0,Gensan
-Jeric Johann,42495,Limco Pharma And Medical Supplies Distribution,Separate particular and qty description in enter bill,Service Request,For Close,0,2026-01-13 10:41:41,1899-12-30 00:00:00,3,30.0,Gensan
+Jeric Johann,42495,Limco Pharma And Medical Supplies Distribution,Separate particular and qty description in enter bill,Service Request,In Progress,0,2026-01-13 10:41:41,1899-12-30 00:00:00,3,30.0,Gensan
 Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,In Progress,0,2026-01-13 10:49:53,1899-12-30 00:00:00,3,540.0,Gensan
 Jeric Johann,42500,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR,Service Request,In Progress,0,2026-01-13 11:05:03,1899-12-30 00:00:00,3,540.0,Gensan
 Jeric Johann,42501,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR,Service Request,In Progress,0,2026-01-13 11:06:13,1899-12-30 00:00:00,3,540.0,Gensan
@@ -185,7 +185,7 @@ Junmar,42597,JBC Technology and Trading Corporation,MySQL Server Setup,Service R
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,For Close,0,2026-01-15 16:19:17,1899-12-30,1,20.0,Cebu
 Junmar,42600,JBC Technology and Trading Corporation,VPN Installation (Workstation),Service Request,For Close,0,2026-01-15 16:22:57,1899-12-30,1,20.0,Cebu
 Junmar,42601,JBC Technology and Trading Corporation,VPN Installation (Server),Service Request,For Close,0,2026-01-15 16:23:35,1899-12-30,1,50.0,Cebu
-Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,Assigned,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
+Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,In Progress,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,Assigned,0,2026-01-15 17:29:48,1899-12-30,1,0.0,Cebu
 Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,Assigned,0,2026-01-15 17:31:03,1899-12-30,1,0.0,Cebu
 Junmar,42605,Ao Biomed and Industrial Marketing,Network Assessment,Service Request,Assigned,0,2026-01-15 17:31:35,1899-12-30,1,0.0,Cebu
