@@ -249,7 +249,7 @@ Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,For Close,0,2026-01-15 16:19:17,1899-12-30,1,20.0,Cebu
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,1,0.0,Cebu
-Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,In Progress,0,2026-01-15 17:31:03,1899-12-30,1,90.0,Cebu
+Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,For Close,0,2026-01-15 17:31:03,1899-12-30,1,90.0,Cebu
 Junmar,42605,Ao Biomed and Industrial Marketing,Network Assessment,Service Request,For Cancel,5,2026-01-15 17:31:35,1899-12-30,1,0.0,Cebu
 Junmar,42606,Ao Biomed and Industrial Marketing,MySQL Set-up,Service Request,In Progress,0,2026-01-15 17:32:12,1899-12-30,1,0.0,Cebu
 Junmar,42607,Ao Biomed and Industrial Marketing,ActiveOne Installation,Service Request,In Progress,0,2026-01-15 17:32:46,1899-12-30,1,0.0,Cebu
@@ -297,9 +297,6 @@ Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,For Close,
 Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,For Close,0,2026-01-12 14:14:52,1899-12-30,4,40.0,Davao
 Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Request,For Close,0,2026-01-12 14:37:04,1899-12-30,4,40.0,Davao
 Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,Assigned,0,2026-01-13 08:54:21,1899-12-30,3,0.0,Davao
-Rico,42485,Llamar Inc.,MySQL Setup Server,Service Request,For Close,0,2026-01-13 09:07:27,1899-12-30,3,90.0,Davao
-Rico,42486,Llamar Inc.,Backup and Restore Database,Service Request,For Close,0,2026-01-13 09:08:02,1899-12-30,3,90.0,Davao
-Rico,42487,Llamar Inc.,ActiveOne Installation,Service Request,For Close,0,2026-01-13 09:08:37,1899-12-30,3,60.0,Davao
 Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,In Progress,0,2026-01-13 09:49:04,1899-12-30,3,90.0,Davao
 Rico,42489,VICO BUILDING OPC,VPN Setup Workstation,Service Request,In Progress,0,2026-01-13 09:49:39,1899-12-30,3,60.0,Davao
 Rico,42490,VICO BUILDING OPC,ActiveONE Installation Branch,Service Request,In Progress,0,2026-01-13 09:50:12,1899-12-30,3,60.0,Davao
