@@ -118,10 +118,10 @@ Joshua,42526,The Purple Tree Corp.,ActiveOne Installation (1-2units),Service Req
 Joshua,42527,Prime Fiesta Summit OPC,ActiveOne Installation,Service Request,In Progress,0,2026-01-14 09:13:15,1899-12-30,2,30.0,CDO
 Joshua,42528,Prime Fiesta Summit OPC,VPN Installation,Service Request,In Progress,0,2026-01-14 09:13:51,1899-12-30,2,30.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,2,0.0,Gensan
-Joshua,42563,Quinn Essentials,MySQL Setup,Service Request,Assigned,0,2026-01-14 16:40:01,1899-12-30,2,0.0,CDO
-Joshua,42564,Quinn Essentials,Set-Up Auto Backup,Service Request,Assigned,0,2026-01-14 16:40:28,1899-12-30,2,0.0,CDO
-Joshua,42565,Quinn Essentials,ActiveOne Installation,Service Request,Assigned,0,2026-01-14 16:40:54,1899-12-30,2,0.0,CDO
-Joshua,42573,Quinn Essentials,POS Installation (1-2 Units),Service Request,Assigned,0,2026-01-15 09:13:25,1899-12-30,1,0.0,CDO
+Joshua,42563,Quinn Essentials,MySQL Setup,Service Request,In Progress,0,2026-01-14 16:40:01,1899-12-30,2,60.0,CDO
+Joshua,42564,Quinn Essentials,Set-Up Auto Backup,Service Request,In Progress,0,2026-01-14 16:40:28,1899-12-30,2,20.0,CDO
+Joshua,42565,Quinn Essentials,ActiveOne Installation,Service Request,In Progress,0,2026-01-14 16:40:54,1899-12-30,2,20.0,CDO
+Joshua,42573,Quinn Essentials,POS Installation (1-2 Units),Service Request,In Progress,0,2026-01-15 09:13:25,1899-12-30,1,0.0,CDO
 Joshua,42579,The Purple Tree Corp.,VPN Installation Unit 1,Service Request,In Progress,0,2026-01-15 10:40:49,1899-12-30,1,15.0,CDO
 Joshua,42580,The Purple Tree Corp.,VPN Installation Unit 2,Service Request,In Progress,0,2026-01-15 10:41:35,1899-12-30,1,15.0,CDO
 Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progress,0,2026-01-15 13:10:59,1899-12-30,1,30.0,CDO
@@ -208,7 +208,6 @@ Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,In Progress,0,2025-12-16 14:21:14,1899-12-30,23,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,In Progress,0,2025-12-17 12:57:16,1899-12-30,22,0.0,Davao
 Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,In Progress,0,2025-12-22 11:52:48,1899-12-30,19,0.0,Davao
-Rico,42123,Modern Cooling Refrigerator and Air-conditioning Services ,A1 Installtion,Service Request,For Close,0,2025-12-22 11:53:53,1899-12-30,19,90.0,Davao
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,19,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,19,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,18,0.0,Davao
