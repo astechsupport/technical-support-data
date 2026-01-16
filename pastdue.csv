@@ -38,6 +38,7 @@ Ceasar Ian,42472,Sure-Spot Distribution Corporation,Payment/Credit Memo transact
 Ceasar Ian,42473,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2026-01-12 18:50:37,1899-12-30,4,0.0,Davao
 Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Progress,0,2026-01-13 08:51:42,1899-12-30,3,10.0,Davao
 Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Incident,In Progress,0,2026-01-16 10:31:17,1899-12-30,0,0.0,Davao
+Ceasar Ian,42634,LGM Global Industries Inc.,"Credentials did not work, need to enter a new Credentials. ",Service Request,Assigned,0,2026-01-16 13:20:49,1899-12-30,0,0.0,Davao
 
 
 User: Jeric Johann
@@ -79,6 +80,9 @@ Jeric Johann,42503,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE,Service Reques
 Jeric Johann,42504,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 1ST FLOOR,Service Request,In Progress,0,2026-01-13 11:10:35,1899-12-30 00:00:00,3,540.0,Gensan
 Jeric Johann,42505,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE,Service Request,In Progress,0,2026-01-13 11:11:12,1899-12-30 00:00:00,3,180.0,Gensan
 Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Request,In Progress,0,2026-01-13 11:11:56,1899-12-30 00:00:00,3,180.0,Gensan
+Jeric Johann,42635,Migg Enterprises,MySQL installation 8.0,Service Request,Assigned,0,2026-01-16 13:22:38,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42636,Migg Enterprises,Autobackup Installation,Service Request,Assigned,0,2026-01-16 13:23:18,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,Assigned,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,0.0,Gensan
 
 
 User: Joshua
@@ -179,6 +183,7 @@ Junmar,42538,Activesystems Software Inc,Set Up Serve POS in Ipad (Sir Paul),Inte
 Junmar,42574,Vexoil Phil Corporation,Mysql reset up Dao POS,Service Request,For Close,0,2026-01-15 09:42:09,1899-12-30,1,20.0,Cebu
 Junmar,42575,Vexoil Phil Corporation,Reset up replication in Dao POS.,Service Request,For Close,0,2026-01-15 09:43:12,1899-12-30,1,20.0,Cebu
 Junmar,42576,Vexoil Phil Corporation,Fix Replication Concern In Dumaguit,Service Request,For Close,0,2026-01-15 09:44:21,1899-12-30,1,50.0,Cebu
+Junmar,42577,Vexoil Phil Corporation,Fix Replication Concern In Anini-y,Service Request,In Progress,0,2026-01-15 09:44:59,1899-12-30,1,30.0,Cebu
 Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request,In Progress,0,2026-01-15 11:12:48,1899-12-30,1,30.0,Cebu
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,For Close,0,2026-01-15 16:19:17,1899-12-30,1,20.0,Cebu
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
@@ -223,9 +228,9 @@ Rico,42324,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit,S
 Rico,42325,Davao Great Wall Trading Inc.,Backup and Restore latest Database,Service Request,Assigned,0,2026-01-07 08:49:19,1899-12-30,7,0.0,Davao
 Rico,42365,EPO LEGACY CORP,Materlist Migration,Service Request,In Progress,0,2026-01-08 09:02:32,1899-12-30,6,0.0,Davao
 Rico,42384,"Instatech, Inc.", Delivery Receipt Template Modification ,Service Request,In Progress,0,2026-01-09 08:24:26,1899-12-30,5,0.0,Davao
-Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,Assigned,0,2026-01-09 10:53:33,1899-12-30,5,0.0,Davao
-Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,Assigned,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
-Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,Assigned,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
+Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,In Progress,0,2026-01-09 10:53:33,1899-12-30,5,0.0,Davao
+Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
+Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
 Rico,42410,M1 Laceramica Enterprise OPC,Installation SEv21 ,Service Request,Assigned,0,2026-01-09 11:55:09,1899-12-30,5,0.0,Davao
 Rico,42413,VICO BUILDING OPC,MySQL Setup Server,Service Request,Assigned,0,2026-01-09 13:40:30,1899-12-30,5,0.0,Davao
