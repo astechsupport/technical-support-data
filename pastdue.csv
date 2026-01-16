@@ -37,7 +37,7 @@ Ceasar Ian,42439,GDY Airtech Enterprises,Install of RDP,Service Request,Assigned
 Ceasar Ian,42472,Sure-Spot Distribution Corporation,Payment/Credit Memo transaction not reflected in Invoice HIstory,Service Request,Assigned,0,2026-01-12 18:47:05,1899-12-30,4,0.0,Davao
 Ceasar Ian,42473,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2026-01-12 18:50:37,1899-12-30,4,0.0,Davao
 Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Progress,0,2026-01-13 08:51:42,1899-12-30,3,10.0,Davao
-Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Incident,In Progress,0,2026-01-16 10:31:17,1899-12-30,0,0.0,Davao
+Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Service Request,In Progress,0,2026-01-16 10:31:17,1899-12-30,0,0.0,Davao
 Ceasar Ian,42634,LGM Global Industries Inc.,"Credentials did not work, need to enter a new Credentials. ",Service Request,Assigned,0,2026-01-16 13:20:49,1899-12-30,0,0.0,Davao
 
 
@@ -61,7 +61,7 @@ Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to lates
 Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30 00:00:00,10,30.0,Davao
 Jeric Johann,42313,Migg Enterprises,Zero out the inventory,Service Request,In Progress,0,2026-01-06 14:18:17,1899-12-30 00:00:00,8,60.0,Gensan
 Jeric Johann,42314,Migg Enterprises,Migration of inventory ,Service Request,In Progress,0,2026-01-06 14:18:58,1899-12-30 00:00:00,8,120.0,Gensan
-Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,In Progress,0,2026-01-06 14:20:46,1899-12-30 00:00:00,8,60.0,Gensan
+Jeric Johann,42315,Migg Enterprises,Upgrading of database from 2013 to 2021,Service Request,In Progress,0,2026-01-06 14:20:46,1899-12-30 00:00:00,8,120.0,Gensan
 Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,In Progress,0,2026-01-06 15:03:57,1899-12-30 00:00:00,8,0.0,Davao
 Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,For Cancel,0,2026-01-06 16:35:59,1899-12-30 00:00:00,8,0.0,Gensan
 Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing for the month of December 2025,Service Request,For Cancel,0,2026-01-06 16:39:16,1899-12-30 00:00:00,8,0.0,Gensan
@@ -82,7 +82,7 @@ Jeric Johann,42505,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE,Service Reques
 Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Request,In Progress,0,2026-01-13 11:11:56,1899-12-30 00:00:00,3,180.0,Gensan
 Jeric Johann,42635,Migg Enterprises,MySQL installation 8.0,Service Request,In Progress,0,2026-01-16 13:22:38,1899-12-30 00:00:00,0,30.0,Gensan
 Jeric Johann,42636,Migg Enterprises,Autobackup Installation,Service Request,In Progress,0,2026-01-16 13:23:18,1899-12-30 00:00:00,0,15.0,Gensan
-Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,15.0,Gensan
 
 
 User: Joshua
@@ -207,11 +207,11 @@ Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Req
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,28,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,28,0.0,Davao
 Rico,41875,Paramond Inc, Create RDP Thinstuff for user 1,Service Request,For Cancel,0,2025-12-11 09:43:00,1899-12-30,26,0.0,Davao
-Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,In Progress,0,2025-12-14 22:01:57,1899-12-30,20,90.0,Davao
+Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,For Close,0,2025-12-14 22:01:57,1899-12-30,20,90.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,23,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,In Progress,0,2025-12-16 14:21:14,1899-12-30,23,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,In Progress,0,2025-12-17 12:57:16,1899-12-30,22,0.0,Davao
-Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,In Progress,0,2025-12-22 11:52:48,1899-12-30,19,40.0,Davao
+Rico,42122,M1 Laceramica Enterprise OPC,A1 Installation,Service Request,For Close,0,2025-12-22 11:52:48,1899-12-30,19,40.0,Davao
 Rico,42124,GEJ Shopping Center,POS installtion,Service Request,Assigned,0,2025-12-22 11:54:29,1899-12-30,19,0.0,Davao
 Rico,42125,HME Distributors Inc.,: Installation SEv21 ,Service Request,Assigned,0,2025-12-22 11:57:29,1899-12-30,19,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,18,0.0,Davao
@@ -232,7 +232,7 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42410,M1 Laceramica Enterprise OPC,Installation SEv21 ,Service Request,In Progress,0,2026-01-09 11:55:09,1899-12-30,5,50.0,Davao
+Rico,42410,M1 Laceramica Enterprise OPC,Installation SEv21 ,Service Request,For Close,0,2026-01-09 11:55:09,1899-12-30,5,50.0,Davao
 Rico,42413,VICO BUILDING OPC,MySQL Setup Server,Service Request,Assigned,0,2026-01-09 13:40:30,1899-12-30,5,0.0,Davao
 Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,Assigned,0,2026-01-09 13:41:02,1899-12-30,5,0.0,Davao
 Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,Assigned,0,2026-01-09 13:41:32,1899-12-30,5,0.0,Davao
@@ -263,7 +263,7 @@ Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,Assi
 Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,Assigned,0,2026-01-14 14:19:58,1899-12-30,2,0.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,1,0.0,Davao
 Rico,42585,3A Dressed Chicken Trading,A1 Installation,Service Request,Assigned,0,2026-01-15 13:05:33,1899-12-30,1,0.0,Davao
-Rico,42616,M1 Laceramica Enterprise OPC,Setup Auto Backup,Service Request,In Progress,0,2026-01-16 09:28:38,1899-12-30,0,50.0,Davao
+Rico,42616,M1 Laceramica Enterprise OPC,Setup Auto Backup,Service Request,For Close,0,2026-01-16 09:28:38,1899-12-30,0,50.0,Davao
 Rico,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:19:30,1899-12-30,0,0.0,Davao
 Rico,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,Assigned,0,2026-01-16 11:20:26,1899-12-30,0,0.0,Davao
 Rico,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,Assigned,0,2026-01-16 11:21:31,1899-12-30,0,0.0,Davao
