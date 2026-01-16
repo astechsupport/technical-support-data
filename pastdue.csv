@@ -38,7 +38,7 @@ Ceasar Ian,42472,Sure-Spot Distribution Corporation,Payment/Credit Memo transact
 Ceasar Ian,42473,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2026-01-12 18:50:37,1899-12-30,4,0.0,Davao
 Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Progress,0,2026-01-13 08:51:42,1899-12-30,3,10.0,Davao
 Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Service Request,In Progress,0,2026-01-16 10:31:17,1899-12-30,0,0.0,Davao
-Ceasar Ian,42634,LGM Global Industries Inc.,"Credentials did not work, need to enter a new Credentials. ",Service Request,Assigned,0,2026-01-16 13:20:49,1899-12-30,0,0.0,Davao
+Ceasar Ian,42634,LGM Global Industries Inc.,"Credentials did not work, need to enter a new Credentials. ",Service Request,In Progress,0,2026-01-16 13:20:49,1899-12-30,0,0.0,Davao
 
 
 User: Jeric Johann
@@ -238,13 +238,13 @@ Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,Assigned,0,2026-0
 Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,Assigned,0,2026-01-09 13:41:32,1899-12-30,5,0.0,Davao
 Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,4,0.0,Davao
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,4,0.0,Davao
-Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,Assigned,0,2026-01-12 14:14:17,1899-12-30,4,0.0,Davao
-Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,Assigned,0,2026-01-12 14:14:52,1899-12-30,4,0.0,Davao
+Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,In Progress,0,2026-01-12 14:14:17,1899-12-30,4,0.0,Davao
+Rico,42455,"Ma-an's Bakeshop, Co.",Backup and restore database,Service Request,In Progress,0,2026-01-12 14:14:52,1899-12-30,4,0.0,Davao
 Rico,42459,"Ma-an's Bakeshop, Co.",Setup Auto Backup Final Server,Service Request,Assigned,0,2026-01-12 14:37:04,1899-12-30,4,0.0,Davao
 Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,Assigned,0,2026-01-13 08:54:21,1899-12-30,3,0.0,Davao
 Rico,42485,Llamar Inc.,MySQL Setup Server,Service Request,For Close,0,2026-01-13 09:07:27,1899-12-30,3,90.0,Davao
-Rico,42486,Llamar Inc.,Backup and Restore Database,Service Request,In Progress,0,2026-01-13 09:08:02,1899-12-30,3,90.0,Davao
-Rico,42487,Llamar Inc.,ActiveOne Installation,Service Request,In Progress,0,2026-01-13 09:08:37,1899-12-30,3,60.0,Davao
+Rico,42486,Llamar Inc.,Backup and Restore Database,Service Request,For Close,0,2026-01-13 09:08:02,1899-12-30,3,90.0,Davao
+Rico,42487,Llamar Inc.,ActiveOne Installation,Service Request,For Close,0,2026-01-13 09:08:37,1899-12-30,3,60.0,Davao
 Rico,42488,VICO BUILDING OPC,VPN Setup Main Server,Service Request,Assigned,0,2026-01-13 09:49:04,1899-12-30,3,0.0,Davao
 Rico,42489,VICO BUILDING OPC,VPN Setup Workstation,Service Request,Assigned,0,2026-01-13 09:49:39,1899-12-30,3,0.0,Davao
 Rico,42490,VICO BUILDING OPC,ActiveONE Installation Branch,Service Request,Assigned,0,2026-01-13 09:50:12,1899-12-30,3,0.0,Davao
