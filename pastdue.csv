@@ -180,14 +180,14 @@ Junmar,42574,Vexoil Phil Corporation,Mysql reset up Dao POS,Service Request,For 
 Junmar,42575,Vexoil Phil Corporation,Reset up replication in Dao POS.,Service Request,For Close,0,2026-01-15 09:43:12,1899-12-30,1,20.0,Cebu
 Junmar,42576,Vexoil Phil Corporation,Fix Replication Concern In Dumaguit,Service Request,For Close,0,2026-01-15 09:44:21,1899-12-30,1,50.0,Cebu
 Junmar,42577,Vexoil Phil Corporation,Fix Replication Concern In Anini-y,Service Request,For Close,0,2026-01-15 09:44:59,1899-12-30,1,30.0,Cebu
-Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request,Assigned,0,2026-01-15 11:12:48,1899-12-30,1,0.0,Cebu
+Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request,In Progress,0,2026-01-15 11:12:48,1899-12-30,1,0.0,Cebu
 Junmar,42596,JBC Technology and Trading Corporation,ActiveOne Installation (2 units),Service Request,For Close,0,2026-01-15 16:18:03,1899-12-30,1,30.0,Cebu
 Junmar,42597,JBC Technology and Trading Corporation,MySQL Server Setup,Service Request,For Close,0,2026-01-15 16:18:39,1899-12-30,1,10.0,Cebu
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,For Close,0,2026-01-15 16:19:17,1899-12-30,1,20.0,Cebu
 Junmar,42600,JBC Technology and Trading Corporation,VPN Installation (Workstation),Service Request,For Close,0,2026-01-15 16:22:57,1899-12-30,1,20.0,Cebu
 Junmar,42601,JBC Technology and Trading Corporation,VPN Installation (Server),Service Request,For Close,0,2026-01-15 16:23:35,1899-12-30,1,50.0,Cebu
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
-Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,Assigned,0,2026-01-15 17:29:48,1899-12-30,1,0.0,Cebu
+Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,1,0.0,Cebu
 Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,Assigned,0,2026-01-15 17:31:03,1899-12-30,1,0.0,Cebu
 Junmar,42605,Ao Biomed and Industrial Marketing,Network Assessment,Service Request,Assigned,0,2026-01-15 17:31:35,1899-12-30,1,0.0,Cebu
 Junmar,42606,Ao Biomed and Industrial Marketing,MySQL Set-up,Service Request,Assigned,0,2026-01-15 17:32:12,1899-12-30,1,0.0,Cebu
@@ -279,7 +279,7 @@ Venz Jan,42347,"Sprinter Lumber, Hardware & Auto Parts, Inc.",re-installation of
 Venz Jan,42357,317 Supplies Central,POS Installation,Service Request,In Progress,0,2026-01-07 15:35:43,1899-12-30,7,0.0,CDO
 Venz Jan,42363,St. Francis Shell Station V,Check Modification,Service Request,In Progress,0,2026-01-08 09:00:07,1899-12-30,6,60.0,Davao
 Venz Jan,42395,Meat JAS 4U OPC,Can;t Open ActiveOne,Service Request,For Close,0,2026-01-09 09:41:15,1899-12-30,5,80.0,Davao
-Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,In Progress,0,2026-01-09 18:20:18,1899-12-30,5,70.0,Davao
+Venz Jan,42426,Hydro Phil Asia Inc.,Re-installation A1,Service Request,For Close,0,2026-01-09 18:20:18,1899-12-30,5,70.0,Davao
 Venz Jan,42447,RAFSKI Food Solution Inc.,Can't connect to A1,Service Request,For Cancel,0,2026-01-12 13:13:15,1899-12-30,4,24.0,Davao
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,4,0.0,Davao
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,4,0.0,Davao
