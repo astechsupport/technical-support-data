@@ -188,8 +188,8 @@ Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request
 Junmar,42598,JBC Technology and Trading Corporation,Auto Backup Setup,Service Request,For Close,0,2026-01-15 16:19:17,1899-12-30,1,20.0,Cebu
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,1,0.0,Cebu
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,1,0.0,Cebu
-Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,In Progress,0,2026-01-15 17:31:03,1899-12-30,1,0.0,Cebu
-Junmar,42605,Ao Biomed and Industrial Marketing,Network Assessment,Service Request,Assigned,0,2026-01-15 17:31:35,1899-12-30,1,0.0,Cebu
+Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,In Progress,0,2026-01-15 17:31:03,1899-12-30,1,70.0,Cebu
+Junmar,42605,Ao Biomed and Industrial Marketing,Network Assessment,Service Request,For Close,0,2026-01-15 17:31:35,1899-12-30,1,20.0,Cebu
 Junmar,42606,Ao Biomed and Industrial Marketing,MySQL Set-up,Service Request,Assigned,0,2026-01-15 17:32:12,1899-12-30,1,0.0,Cebu
 Junmar,42607,Ao Biomed and Industrial Marketing,ActiveOne Installation,Service Request,Assigned,0,2026-01-15 17:32:46,1899-12-30,1,0.0,Cebu
 Junmar,42608,Ao Biomed and Industrial Marketing,Auto Back-up Set-up,Service Request,Assigned,0,2026-01-15 17:33:20,1899-12-30,1,0.0,Cebu
@@ -218,8 +218,8 @@ Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Ba
 Rico,42221,Thunder Park Inc.,Update Connection ,Service Request,In Progress,0,2025-12-29 11:23:38,1899-12-30,14,0.0,Davao
 Rico,42241,Thunder Park Inc.,Diagnose Inventory Concern,Service Request,Assigned,0,2025-12-29 14:09:57,1899-12-30,14,0.0,Davao
 Rico,42254,Philfumes Petroleum Corporation,Modify Bill Receipt Form,Service Request,Assigned,0,2026-01-02 11:11:22,1899-12-30,10,0.0,Davao
-Rico,42282,JLCJ Manukang Bayan,MySql Setup For JCGT,Service Request,In Progress,0,2026-01-05 15:55:46,1899-12-30,9,0.0,Davao
-Rico,42283,JLCJ Manukang Bayan,Pos Installation,Service Request,In Progress,0,2026-01-05 15:56:38,1899-12-30,9,0.0,Davao
+Rico,42282,JLCJ Manukang Bayan,MySql Setup For JCGT,Service Request,In Progress,0,2026-01-05 15:55:46,1899-12-30,9,120.0,Davao
+Rico,42283,JLCJ Manukang Bayan,Pos Installation,Service Request,In Progress,0,2026-01-05 15:56:38,1899-12-30,9,60.0,Davao
 Rico,42284,JLCJ Manukang Bayan,Printer Setup for POS,Service Request,In Progress,0,2026-01-05 15:57:15,1899-12-30,9,0.0,Davao
 Rico,42298,VICO BUILDING OPC,Installation SEv21 ,Service Request,In Progress,0,2026-01-06 10:25:48,1899-12-30,8,0.0,Davao
 Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of Customer Name & TIN on POS Tape,Service Request,Assigned,0,2026-01-06 10:35:44,1899-12-30,8,0.0,Davao
