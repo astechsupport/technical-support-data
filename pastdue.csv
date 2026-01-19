@@ -178,6 +178,8 @@ Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,In Progress
 Joshua,42527,Prime Fiesta Summit OPC,ActiveOne Installation,Service Request,For Close,0,2026-01-14 09:13:15,1899-12-30,0,30.0,CDO
 Joshua,42528,Prime Fiesta Summit OPC,VPN Installation,Service Request,For Close,0,2026-01-14 09:13:51,1899-12-30,0,30.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,0,0.0,Gensan
+Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progress,0,2026-01-15 13:10:59,1899-12-30,0,30.0,CDO
+Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,In Progress,0,2026-01-15 13:11:50,1899-12-30,0,60.0,CDO
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,Assigned,0,2026-01-19 09:36:30,1899-12-30,0,0.0,Davao
 
@@ -202,8 +204,6 @@ Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTAN
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:40:24,1899-12-30,5,0.0,Gensan
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,5,0.0,Davao
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,Assigned,0,2026-01-15 08:26:51,1899-12-30,0,0.0,Davao
-Jude,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progress,0,2026-01-15 13:10:59,1899-12-30,0,30.0,CDO
-Jude,42590,3A Agrivet Supply,Migration Item List,Service Request,In Progress,0,2026-01-15 13:11:50,1899-12-30,0,60.0,CDO
 Jude,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,Assigned,0,2026-01-16 09:53:45,1899-12-30,0,0.0,Gensan
 Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:19:30,1899-12-30,0,0.0,Davao
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,Assigned,0,2026-01-16 11:20:26,1899-12-30,0,0.0,Davao
