@@ -176,7 +176,6 @@ Joshua,42483,Chefbuddy FoodServices Inc.,VPN Installation Unit 3,Service Request
 Joshua,42516,Soda Enterprise,Clear Documents,Service Request,In Progress,0,2026-01-13 11:41:46,1899-12-30,0,60.0,CDO
 Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,In Progress,0,2026-01-13 16:59:03,1899-12-30,0,120.0,CDO
 Joshua,42527,Prime Fiesta Summit OPC,ActiveOne Installation,Service Request,For Close,0,2026-01-14 09:13:15,1899-12-30,0,30.0,CDO
-Joshua,42528,Prime Fiesta Summit OPC,VPN Installation,Service Request,For Close,0,2026-01-14 09:13:51,1899-12-30,0,30.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,0,0.0,Gensan
 Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progress,0,2026-01-15 13:10:59,1899-12-30,0,30.0,CDO
 Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,In Progress,0,2026-01-15 13:11:50,1899-12-30,0,60.0,CDO
@@ -309,6 +308,7 @@ Rico,42662,FTC Group of Companies Corp.,Setup Auto Backup,Service Request,Assign
 Rico,42663,FTC Group of Companies Corp.,ActiveOne Installation 1-3 Units,Service Request,Assigned,0,2026-01-19 11:58:42,1899-12-30,0,0.0,Davao
 Rico,42664,FTC Group of Companies Corp.,ActiveOne Installation 4-6 Units,Service Request,Assigned,0,2026-01-19 11:59:26,1899-12-30,0,0.0,Davao
 Rico,42665,FTC Group of Companies Corp.,MySQL Setup Server,Service Request,Assigned,0,2026-01-19 12:00:10,1899-12-30,0,0.0,Davao
+Rico,42668,Remach Kitchen Equipment,Re-install ActiveOne on server,Service Request,Assigned,0,2026-01-19 14:02:45,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -321,7 +321,6 @@ Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balanc
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,5,70.0,Davao
 Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,5,0.0,Davao
 Venz Jan,42498,K-I Solutions General Merchandise,Set up auto-back up,Service Request,In Progress,0,2026-01-13 10:52:04,1899-12-30,0,130.0,Davao
-Venz Jan,42533,Seawind Damosa Condominium Corporation,Can't Connect to Server - Cashier,Service Request,For Cancel,0,2026-01-14 10:00:47,1899-12-30,0,93.0,Davao
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,0,315.0,CDO
 Venz Jan,42555,LaserPro Inc.,A1 installation,Service Request,For Close,0,2026-01-14 14:21:04,1899-12-30,0,90.0,Davao
 Venz Jan,42570,18 Degrees Air Cooling Solutions Inc.,ActiveONE Installation,Service Request,For Close,0,2026-01-15 08:29:18,1899-12-30,0,50.0,Davao
