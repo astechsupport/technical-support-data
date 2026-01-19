@@ -128,14 +128,14 @@ Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Pr
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30 00:00:00,5,47.0,Davao
 Jeric Johann,42491,Raysmart Maitum Corporation,Reinstallation for the 3 new units,Service Request,In Progress,0,2026-01-13 10:09:58,1899-12-30 00:00:00,0,30.0,Gensan
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,In Progress,0,2026-01-13 10:49:53,1899-12-30 00:00:00,0,840.0,Gensan
-Jeric Johann,42500,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR,Service Request,In Progress,0,2026-01-13 11:05:03,1899-12-30 00:00:00,0,540.0,Gensan
-Jeric Johann,42501,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR,Service Request,In Progress,0,2026-01-13 11:06:13,1899-12-30 00:00:00,0,540.0,Gensan
-Jeric Johann,42502,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR,Service Request,In Progress,0,2026-01-13 11:07:01,1899-12-30 00:00:00,0,540.0,Gensan
-Jeric Johann,42503,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE,Service Request,In Progress,0,2026-01-13 11:09:34,1899-12-30 00:00:00,0,180.0,Gensan
-Jeric Johann,42504,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 1ST FLOOR,Service Request,In Progress,0,2026-01-13 11:10:35,1899-12-30 00:00:00,0,540.0,Gensan
-Jeric Johann,42505,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE,Service Request,In Progress,0,2026-01-13 11:11:12,1899-12-30 00:00:00,0,180.0,Gensan
-Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Request,In Progress,0,2026-01-13 11:11:56,1899-12-30 00:00:00,0,180.0,Gensan
+Jeric Johann,42497,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT,Service Request,For Close,0,2026-01-13 10:49:53,1899-12-30 00:00:00,0,840.0,Gensan
+Jeric Johann,42500,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR,Service Request,For Close,0,2026-01-13 11:05:03,1899-12-30 00:00:00,0,540.0,Gensan
+Jeric Johann,42501,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR,Service Request,For Close,0,2026-01-13 11:06:13,1899-12-30 00:00:00,0,540.0,Gensan
+Jeric Johann,42502,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR,Service Request,For Close,0,2026-01-13 11:07:01,1899-12-30 00:00:00,0,540.0,Gensan
+Jeric Johann,42503,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE,Service Request,For Close,0,2026-01-13 11:09:34,1899-12-30 00:00:00,0,180.0,Gensan
+Jeric Johann,42504,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 1ST FLOOR,Service Request,For Close,0,2026-01-13 11:10:35,1899-12-30 00:00:00,0,540.0,Gensan
+Jeric Johann,42505,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE,Service Request,For Close,0,2026-01-13 11:11:12,1899-12-30 00:00:00,0,180.0,Gensan
+Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Request,For Close,0,2026-01-13 11:11:56,1899-12-30 00:00:00,0,180.0,Gensan
 Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,In Progress,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42641,Ronovi Farms Inc.,"I CANT OPEN THE MY SQL ADMINISTRATOR FOR BACK UP.  ITS SAYS THAT "" IT STOPPED WORKING""",Service Request,Assigned,0,2026-01-16 16:58:31,1899-12-30 00:00:00,0,0.0,Gensan
