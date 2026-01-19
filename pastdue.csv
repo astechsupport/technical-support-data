@@ -253,7 +253,7 @@ User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,50,0.0,Davao
 Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,Assigned,0,2025-11-11 16:24:06,1899-12-30,45,0.0,Davao
-Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,In Progress,0,2025-12-03 11:50:37,1899-12-30,30,60.0,Davao
+Rico,41666,PDP Warehouse,ActiveOne Installation,Service Request,For Close,0,2025-12-03 11:50:37,1899-12-30,30,0.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,In Progress,0,2025-12-04 11:02:03,1899-12-30,30,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,For Cancel,0,2025-12-04 11:42:45,1899-12-30,30,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,30,0.0,Davao
