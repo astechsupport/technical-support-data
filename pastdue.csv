@@ -147,7 +147,7 @@ Jeric Johann,42636,Migg Enterprises,Autobackup Installation,Service Request,For 
 Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,In Progress,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42641,Ronovi Farms Inc.,"I CANT OPEN THE MY SQL ADMINISTRATOR FOR BACK UP.  ITS SAYS THAT "" IT STOPPED WORKING""",Service Request,Assigned,0,2026-01-16 16:58:31,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42644,CM SEGUMALIAN CONSTRUCTION SUPPLY,Dili maka print sa POS printer,Service Request,Assigned,0,2026-01-19 08:39:48,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42644,CM SEGUMALIAN CONSTRUCTION SUPPLY,Dili maka print sa POS printer,Service Request,In Progress,0,2026-01-19 08:39:48,1899-12-30 00:00:00,0,0.0,Gensan
 
 
 User: Joshua
@@ -266,7 +266,6 @@ Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Ba
 Rico,42221,Thunder Park Inc.,Update Connection ,Service Request,In Progress,0,2025-12-29 11:23:38,1899-12-30,15,0.0,Davao
 Rico,42241,Thunder Park Inc.,Diagnose Inventory Concern,Service Request,Assigned,0,2025-12-29 14:09:57,1899-12-30,15,0.0,Davao
 Rico,42254,Philfumes Petroleum Corporation,Modify Bill Receipt Form,Service Request,Assigned,0,2026-01-02 11:11:22,1899-12-30,10,0.0,Davao
-Rico,42298,VICO BUILDING OPC,Installation SEv21 ,Service Request,For Close,0,2026-01-06 10:25:48,1899-12-30,5,30.0,Davao
 Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of Customer Name & TIN on POS Tape,Service Request,Assigned,0,2026-01-06 10:35:44,1899-12-30,5,0.0,Davao
 Rico,42318,GEJ Shopping Center,Update Sales Invoice,Service Request,Assigned,0,2026-01-06 15:43:10,1899-12-30,5,0.0,Davao
 Rico,42324,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit,Service Request,Assigned,0,2026-01-07 08:48:05,1899-12-30,5,0.0,Davao
@@ -277,9 +276,6 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42413,VICO BUILDING OPC,MySQL Setup Server,Service Request,For Close,0,2026-01-09 13:40:30,1899-12-30,5,90.0,Davao
-Rico,42414,VICO BUILDING OPC,Setup Auto Backup,Service Request,For Close,0,2026-01-09 13:41:02,1899-12-30,5,60.0,Davao
-Rico,42415,VICO BUILDING OPC,Audit Trail Setup,Service Request,For Close,0,2026-01-09 13:41:32,1899-12-30,5,60.0,Davao
 Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,5,0.0,Davao
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,5,0.0,Davao
 Rico,42454,"Ma-an's Bakeshop, Co.",Setup Final Server,Service Request,For Close,0,2026-01-12 14:14:17,1899-12-30,5,60.0,Davao
