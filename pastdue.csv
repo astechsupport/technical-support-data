@@ -135,6 +135,7 @@ Jeric Johann,42503,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE,Service Reques
 Jeric Johann,42504,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 1ST FLOOR,Service Request,For Close,0,2026-01-13 11:10:35,1899-12-30 00:00:00,5,540.0,Gensan
 Jeric Johann,42505,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE,Service Request,For Close,0,2026-01-13 11:11:12,1899-12-30 00:00:00,5,180.0,Gensan
 Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Request,For Close,0,2026-01-13 11:11:56,1899-12-30 00:00:00,5,180.0,Gensan
+Jeric Johann,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,Assigned,0,2026-01-16 09:53:45,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,For Close,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42641,Ronovi Farms Inc.,"I CANT OPEN THE MY SQL ADMINISTRATOR FOR BACK UP.  ITS SAYS THAT "" IT STOPPED WORKING""",Service Request,In Progress,0,2026-01-16 16:58:31,1899-12-30 00:00:00,0,0.0,Gensan
@@ -171,6 +172,7 @@ Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progre
 Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,In Progress,0,2026-01-15 13:11:50,1899-12-30,0,120.0,CDO
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,1,60.0,Davao
+Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,Assigned,0,2026-01-20 08:28:50,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -193,7 +195,6 @@ Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTAN
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:40:24,1899-12-30,6,0.0,Gensan
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,6,0.0,Davao
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,Assigned,0,2026-01-15 08:26:51,1899-12-30,0,0.0,Davao
-Jude,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,Assigned,0,2026-01-16 09:53:45,1899-12-30,0,0.0,Gensan
 Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:19:30,1899-12-30,0,0.0,Davao
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,Assigned,0,2026-01-16 11:20:26,1899-12-30,0,0.0,Davao
 Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,Assigned,0,2026-01-16 11:21:31,1899-12-30,0,0.0,Davao
@@ -247,7 +248,7 @@ Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,Assigne
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,Assigned,0,2025-11-10 16:51:29,1899-12-30,51,0.0,Davao
-Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,In Progress,0,2025-11-11 16:24:06,1899-12-30,50,0.0,Davao
+Rico,41032,Golden Lakemore Corporation,Diagnose -1 in reference no. ,Service Request,For Close,0,2025-11-11 16:24:06,1899-12-30,50,90.0,Davao
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,In Progress,0,2025-12-04 11:02:03,1899-12-30,30,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,For Cancel,0,2025-12-04 11:42:45,1899-12-30,30,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,30,0.0,Davao
