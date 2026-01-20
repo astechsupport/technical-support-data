@@ -140,6 +140,7 @@ Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Reques
 Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,For Close,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42641,Ronovi Farms Inc.,"I CANT OPEN THE MY SQL ADMINISTRATOR FOR BACK UP.  ITS SAYS THAT "" IT STOPPED WORKING""",Service Request,In Progress,0,2026-01-16 16:58:31,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42644,CM SEGUMALIAN CONSTRUCTION SUPPLY,Printer Installation,Service Request,In Progress,0,2026-01-19 08:39:48,1899-12-30 00:00:00,1,120.0,Gensan
+Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30 00:00:00,1,0.0,Davao
 Jeric Johann,42650,TONYO'S AGRI SUPPLY,Installation of 1 new unit,Service Request,Assigned,0,2026-01-19 09:40:03,1899-12-30 00:00:00,1,0.0,Davao
 
@@ -207,7 +208,6 @@ Jude,42629,Staze Inc.,Activeone installation,Service Request,Assigned,0,2026-01-
 Jude,42630,Staze Inc.,Auto Backup installation,Service Request,Assigned,0,2026-01-16 11:33:44,1899-12-30,0,0.0,Davao
 Jude,42631,Staze Inc.,MySQL setup,Service Request,Assigned,0,2026-01-16 11:35:13,1899-12-30,0,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:36:08,1899-12-30,0,0.0,Davao
-Jude,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30,1,0.0,Gensan
 
 
 User: Junmar
@@ -224,7 +224,7 @@ Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,Assign
 Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service Request,For Cancel,0,2026-01-12 13:27:29,1899-12-30,6,0.0,Ilo-ilo
 Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christopher jhon Ravena),Service Request,In Progress,0,2026-01-13 11:02:19,1899-12-30,5,240.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,5,0.0,Ilo-ilo
-Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request,In Progress,0,2026-01-15 11:12:48,1899-12-30,0,30.0,Cebu
+Junmar,42583,Pharmacy Street,No portal appear in our back office,Service Request,For Close,0,2026-01-15 11:12:48,1899-12-30,0,30.0,Cebu
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,0,0.0,Cebu
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,0,0.0,Cebu
 Junmar,42604,Ao Biomed and Industrial Marketing,Hardware Assessment,Service Request,For Close,5,2026-01-15 17:31:03,1899-12-30,0,90.0,Cebu
