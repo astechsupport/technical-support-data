@@ -49,6 +49,9 @@ Ceasar Ian,42700,"Royal Dragon Southern Distributors, Inc.",Update Pos from 3.2.
 Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,Assigned,0,2026-01-20 16:12:57,1899-12-30,0,0.0,Davao
 Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,Assigned,0,2026-01-20 16:13:50,1899-12-30,0,0.0,Davao
 Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,Assigned,0,2026-01-20 16:14:37,1899-12-30,0,0.0,Davao
+Ceasar Ian,42704,"Royal Dragon Southern Distributors, Inc.",Replication set up for RAID SERVER 1,Service Request,Assigned,0,2026-01-20 16:16:08,1899-12-30,0,0.0,Davao
+Ceasar Ian,42705,"Royal Dragon Southern Distributors, Inc.",Replication set up for RAID SERVER 2,Service Request,Assigned,0,2026-01-20 16:16:45,1899-12-30,0,0.0,Davao
+Ceasar Ian,42706,"Royal Dragon Southern Distributors, Inc.",Replication set up for RAID SERVER 3,Service Request,Assigned,0,2026-01-20 16:17:22,1899-12-30,0,0.0,Davao
 
 
 User: Daryl
@@ -179,8 +182,8 @@ Joshua,42476,Farmers Edge Agriventures Inc.,The price list still shows the disco
 Joshua,42516,Soda Enterprise,Clear Documents,Service Request,In Progress,0,2026-01-13 11:41:46,1899-12-30,5,60.0,CDO
 Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,In Progress,0,2026-01-13 16:59:03,1899-12-30,5,180.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,0,90.0,Gensan
-Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,In Progress,0,2026-01-15 13:10:59,1899-12-30,0,60.0,CDO
-Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,In Progress,0,2026-01-15 13:11:50,1899-12-30,0,120.0,CDO
+Joshua,42589,3A Agrivet Supply,Migration Customer List,Service Request,For Close,0,2026-01-15 13:10:59,1899-12-30,0,60.0,CDO
+Joshua,42590,3A Agrivet Supply,Migration Item List,Service Request,For Close,0,2026-01-15 13:11:50,1899-12-30,0,120.0,CDO
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,Assigned,0,2026-01-19 09:36:07,1899-12-30,1,0.0,Davao
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,1,60.0,Davao
@@ -218,6 +221,7 @@ Jude,42631,Staze Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:35
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,0,0.0,Davao
 Jude,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,0,0.0,Gensan
 Jude,42680,Niel Pharmacy OPC,Hardware details for registration in POS (Ivisan branch),Service Request,For Close,0,2026-01-20 11:42:42,1899-12-30,0,60.0,Ilo-ilo
+Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,Assigned,0,2026-01-20 16:19:10,1899-12-30,0,0.0,Davao
 
 
 User: Junmar
