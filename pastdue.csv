@@ -145,6 +145,7 @@ Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing er
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30 00:00:00,1,0.0,Davao
 Jeric Johann,42650,TONYO'S AGRI SUPPLY,Installation of 1 new unit,Service Request,Assigned,0,2026-01-19 09:40:03,1899-12-30 00:00:00,1,0.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,Assigned,0,2026-01-20 10:37:58,1899-12-30 00:00:00,0,0.0,Davao
+Jeric Johann,42683,RGJ Hardware and Construction Supplies,POS printer not working not printing from computer,Service Request,Assigned,0,2026-01-20 13:08:54,1899-12-30 00:00:00,0,0.0,Gensan
 
 
 User: Joshua
@@ -210,7 +211,6 @@ Jude,42631,Staze Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:35
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,0,0.0,Davao
 Jude,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,0,0.0,Gensan
 Jude,42680,Niel Pharmacy OPC,Hardware details for registration in POS (Ivisan branch),Service Request,In Progress,0,2026-01-20 11:42:42,1899-12-30,0,60.0,Ilo-ilo
-Jude,42683,RGJ Hardware and Construction Supplies,POS printer not working not printing from computer,Service Request,Assigned,0,2026-01-20 13:08:54,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
@@ -277,7 +277,7 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,6,0.0,Davao
+Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,In Progress,0,2026-01-12 10:00:03,1899-12-30,6,0.0,Davao
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,6,0.0,Davao
 Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,For Close,0,2026-01-13 08:54:21,1899-12-30,5,60.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,Assigned,0,2026-01-14 12:31:25,1899-12-30,0,0.0,Davao
