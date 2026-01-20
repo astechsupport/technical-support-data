@@ -138,7 +138,7 @@ Jeric Johann,42506,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA,Service Req
 Jeric Johann,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,Assigned,0,2026-01-16 09:53:45,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,15.0,Gensan
 Jeric Johann,42640,Raysmart Maitum Corporation,activeone installation +1 unit,Service Request,For Close,0,2026-01-16 16:22:18,1899-12-30 00:00:00,0,15.0,Gensan
-Jeric Johann,42641,Ronovi Farms Inc.,"I CANT OPEN THE MY SQL ADMINISTRATOR FOR BACK UP.  ITS SAYS THAT "" IT STOPPED WORKING""",Service Request,In Progress,0,2026-01-16 16:58:31,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42641,Ronovi Farms Inc.,"I CANT OPEN THE MY SQL ADMINISTRATOR FOR BACK UP.  ITS SAYS THAT "" IT STOPPED WORKING""",Service Request,In Progress,0,2026-01-16 16:58:31,1899-12-30 00:00:00,0,54.0,Gensan
 Jeric Johann,42644,CM SEGUMALIAN CONSTRUCTION SUPPLY,Printer Installation,Service Request,In Progress,0,2026-01-19 08:39:48,1899-12-30 00:00:00,1,120.0,Gensan
 Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30 00:00:00,1,0.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30 00:00:00,1,0.0,Davao
@@ -252,7 +252,6 @@ Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Req
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,30,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,30,0.0,Davao
 Rico,41875,Paramond Inc, Create RDP Thinstuff for user 1,Service Request,For Cancel,0,2025-12-11 09:43:00,1899-12-30,25,0.0,Davao
-Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,For Close,0,2025-12-14 22:01:57,1899-12-30,25,90.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,25,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,For Cancel,0,2025-12-16 14:21:14,1899-12-30,25,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,In Progress,0,2025-12-17 12:57:16,1899-12-30,20,0.0,Davao
@@ -290,7 +289,6 @@ Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,Assi
 Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,Assigned,0,2026-01-14 14:19:58,1899-12-30,0,0.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,0,0.0,Davao
 Rico,42585,3A Dressed Chicken Trading,A1 Installation,Service Request,In Progress,0,2026-01-15 13:05:33,1899-12-30,0,0.0,Davao
-Rico,42616,M1 Laceramica Enterprise OPC,Setup Auto Backup,Service Request,For Close,0,2026-01-16 09:28:38,1899-12-30,0,50.0,Davao
 Rico,42638,Davao Great Wall Trading Inc.,Replication Error Server1,Service Request,In Progress,0,2026-01-16 15:59:03,1899-12-30,0,0.0,Davao
 Rico,42639,Davao Great Wall Trading Inc.,Replication Error Server2,Service Request,In Progress,0,2026-01-16 16:00:00,1899-12-30,0,0.0,Davao
 Rico,42661,FTC Group of Companies Corp.,Update Activeone to Latest,Service Request,Assigned,0,2026-01-19 11:56:36,1899-12-30,1,0.0,Davao
