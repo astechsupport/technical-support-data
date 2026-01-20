@@ -274,7 +274,7 @@ Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,I
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
 Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,Assigned,0,2026-01-12 10:00:03,1899-12-30,6,0.0,Davao
 Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,Assigned,0,2026-01-12 10:01:40,1899-12-30,6,0.0,Davao
-Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,In Progress,0,2026-01-13 08:54:21,1899-12-30,5,60.0,Davao
+Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,For Close,0,2026-01-13 08:54:21,1899-12-30,5,60.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,Assigned,0,2026-01-14 12:31:25,1899-12-30,0,0.0,Davao
 Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,Assigned,0,2026-01-14 12:32:01,1899-12-30,0,0.0,Davao
 Rico,42541,St. Francis Shell Station V,Setup Replication Temporary Server p3,Service Request,Assigned,0,2026-01-14 12:32:55,1899-12-30,0,0.0,Davao
@@ -283,8 +283,8 @@ Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay 
 Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,Assigned,0,2026-01-14 12:34:49,1899-12-30,0,0.0,Davao
 Rico,42545,St. Francis Shell Station V,ActiveOne Installation,Service Request,Assigned,0,2026-01-14 12:35:58,1899-12-30,0,0.0,Davao
 Rico,42546,St. Francis Shell Station V,Setup Auto Backup,Service Request,Assigned,0,2026-01-14 12:36:46,1899-12-30,0,0.0,Davao
-Rico,42550,FABLAB BIO SOULTIONS INC,MySQL Setup Server,Service Request,In Progress,0,2026-01-14 14:16:45,1899-12-30,0,90.0,Davao
-Rico,42551,FABLAB BIO SOULTIONS INC,Setup Auto Backup,Service Request,In Progress,0,2026-01-14 14:17:24,1899-12-30,0,60.0,Davao
+Rico,42550,FABLAB BIO SOULTIONS INC,MySQL Setup Server,Service Request,For Close,0,2026-01-14 14:16:45,1899-12-30,0,90.0,Davao
+Rico,42551,FABLAB BIO SOULTIONS INC,Setup Auto Backup,Service Request,For Close,0,2026-01-14 14:17:24,1899-12-30,0,60.0,Davao
 Rico,42552,St. Francis Shell Station V,Setup VPN Mati PC,Service Request,Assigned,0,2026-01-14 14:18:37,1899-12-30,0,0.0,Davao
 Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,Assigned,0,2026-01-14 14:19:21,1899-12-30,0,0.0,Davao
 Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,Assigned,0,2026-01-14 14:19:58,1899-12-30,0,0.0,Davao
