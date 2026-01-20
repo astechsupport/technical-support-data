@@ -235,7 +235,7 @@ Junmar,42605,Ao Biomed and Industrial Marketing,Network Assessment,Service Reque
 Junmar,42606,Ao Biomed and Industrial Marketing,MySQL Set-up,Service Request,In Progress,0,2026-01-15 17:32:12,1899-12-30,0,0.0,Cebu
 Junmar,42607,Ao Biomed and Industrial Marketing,ActiveOne Installation,Service Request,In Progress,0,2026-01-15 17:32:46,1899-12-30,0,0.0,Cebu
 Junmar,42608,Ao Biomed and Industrial Marketing,Auto Back-up Set-up,Service Request,In Progress,0,2026-01-15 17:33:20,1899-12-30,0,0.0,Cebu
-Junmar,42633,GMY Ventures Corporation/Biboy Foods,Transfer of Auto Backup to new hard drive,Service Request,In Progress,0,2026-01-16 11:57:47,1899-12-30,0,0.0,Cebu
+Junmar,42633,GMY Ventures Corporation/Biboy Foods,Transfer of Auto Backup to new hard drive,Service Request,In Progress,0,2026-01-16 11:57:47,1899-12-30,0,30.0,Cebu
 Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service Request,In Progress,0,2026-01-19 09:43:29,1899-12-30,1,270.0,Ilo-ilo
 Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Balance due in Invoice,Service Request,Assigned,0,2026-01-19 09:44:20,1899-12-30,1,0.0,Ilo-ilo
 Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,Assigned,0,2026-01-19 09:44:49,1899-12-30,1,0.0,Ilo-ilo
@@ -277,8 +277,8 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,In Progress,0,2026-01-12 10:00:03,1899-12-30,6,60.0,Davao
-Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,In Progress,0,2026-01-12 10:01:40,1899-12-30,6,0.0,Davao
+Rico,42440,Kaisyd Ventures Inc.,POS Installation 3 units,Service Request,In Progress,0,2026-01-12 10:00:03,1899-12-30,6,90.0,Davao
+Rico,42441,Kaisyd Ventures Inc.,Get Hardware Details (BIR PURPOSE),Service Request,In Progress,0,2026-01-12 10:01:40,1899-12-30,6,30.0,Davao
 Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,For Close,0,2026-01-13 08:54:21,1899-12-30,5,60.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,Assigned,0,2026-01-14 12:31:25,1899-12-30,0,0.0,Davao
 Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,Assigned,0,2026-01-14 12:32:01,1899-12-30,0,0.0,Davao
