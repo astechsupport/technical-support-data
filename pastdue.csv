@@ -183,7 +183,7 @@ Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Req
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,Assigned,0,2026-01-19 09:36:07,1899-12-30,1,0.0,Davao
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,1,60.0,Davao
-Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,0,0.0,CDO
+Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,0,60.0,CDO
 
 
 User: Jude
@@ -251,7 +251,7 @@ Junmar,42667,Vexoil Phil Corporation,MySQL Installation (Passi Branch),Service R
 Junmar,42671,J and J Frozen Food Trading,SO Form Modification,Service Request,In Progress,0,2026-01-19 17:30:30,1899-12-30,1,0.0,Cebu
 Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,Assigned,0,2026-01-19 17:37:49,1899-12-30,1,0.0,Cebu
 Junmar,42681,Activesystems Software Inc,Install and Set up Field sales App in Sir Paul's Unit,Service Request,Assigned,0,2026-01-20 12:02:49,1899-12-30,0,0.0,Cebu
-Junmar,42688,Vexoil Phil Corporation,Fix Replication issue in Tabucan POS,Service Request,Assigned,0,2026-01-20 14:11:28,1899-12-30,0,0.0,Ilo-ilo
+Junmar,42688,Vexoil Phil Corporation,Fix Replication issue in Tabucan POS,Service Request,In Progress,0,2026-01-20 14:11:28,1899-12-30,0,106.0,Ilo-ilo
 Junmar,42695,"Central West Medicale, Inc.",Can't connect to ActiveOne,Service Request,In Progress,0,2026-01-20 15:56:09,1899-12-30,0,60.0,Cebu
 
 
