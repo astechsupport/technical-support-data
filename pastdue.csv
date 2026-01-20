@@ -198,14 +198,14 @@ Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Re
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,Assigned,0,2026-01-16 11:20:26,1899-12-30,0,0.0,Davao
 Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,Assigned,0,2026-01-16 11:21:31,1899-12-30,0,0.0,Davao
 Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,Assigned,0,2026-01-16 11:22:51,1899-12-30,0,0.0,Davao
-Jude,42625,SRED Inc., Activeone installation,Service Request,Assigned,0,2026-01-16 11:24:37,1899-12-30,0,0.0,Davao
-Jude,42626,SRED Inc.,Auto Backup installation,Service Request,Assigned,0,2026-01-16 11:26:06,1899-12-30,0,0.0,Davao
-Jude,42627,SRED Inc.,MySQL setup,Service Request,Assigned,0,2026-01-16 11:27:25,1899-12-30,0,0.0,Davao
-Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:28:31,1899-12-30,0,0.0,Davao
-Jude,42629,Staze Inc.,Activeone installation,Service Request,Assigned,0,2026-01-16 11:32:17,1899-12-30,0,0.0,Davao
-Jude,42630,Staze Inc.,Auto Backup installation,Service Request,Assigned,0,2026-01-16 11:33:44,1899-12-30,0,0.0,Davao
-Jude,42631,Staze Inc.,MySQL setup,Service Request,Assigned,0,2026-01-16 11:35:13,1899-12-30,0,0.0,Davao
-Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:36:08,1899-12-30,0,0.0,Davao
+Jude,42625,SRED Inc., Activeone installation,Service Request,In Progress,0,2026-01-16 11:24:37,1899-12-30,0,0.0,Davao
+Jude,42626,SRED Inc.,Auto Backup installation,Service Request,In Progress,0,2026-01-16 11:26:06,1899-12-30,0,0.0,Davao
+Jude,42627,SRED Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:27:25,1899-12-30,0,0.0,Davao
+Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,0,0.0,Davao
+Jude,42629,Staze Inc.,Activeone installation,Service Request,In Progress,0,2026-01-16 11:32:17,1899-12-30,0,0.0,Davao
+Jude,42630,Staze Inc.,Auto Backup installation,Service Request,In Progress,0,2026-01-16 11:33:44,1899-12-30,0,0.0,Davao
+Jude,42631,Staze Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:35:13,1899-12-30,0,0.0,Davao
+Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,0,0.0,Davao
 
 
 User: Junmar
@@ -252,6 +252,7 @@ Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Req
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,Assigned,0,2025-12-09 11:25:33,1899-12-30,30,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,Assigned,0,2025-12-09 11:30:11,1899-12-30,30,0.0,Davao
 Rico,41875,Paramond Inc, Create RDP Thinstuff for user 1,Service Request,For Cancel,0,2025-12-11 09:43:00,1899-12-30,25,0.0,Davao
+Rico,41954,M1 Laceramica Enterprise OPC,Server installation,Service Request,For Close,0,2025-12-14 22:01:57,1899-12-30,25,90.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,25,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,For Cancel,0,2025-12-16 14:21:14,1899-12-30,25,0.0,Davao
 Rico,42056,St. Francis Shell Station V,Error in make deposit,Service Request,In Progress,0,2025-12-17 12:57:16,1899-12-30,20,0.0,Davao
