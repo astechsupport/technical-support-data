@@ -198,8 +198,8 @@ Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Reque
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,Assigned,0,2026-01-15 08:26:51,1899-12-30,0,0.0,Davao
 Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-16 11:19:30,1899-12-30,0,0.0,Davao
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,In Progress,0,2026-01-16 11:20:26,1899-12-30,0,60.0,Davao
-Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,Assigned,0,2026-01-16 11:21:31,1899-12-30,0,0.0,Davao
-Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,Assigned,0,2026-01-16 11:22:51,1899-12-30,0,0.0,Davao
+Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,In Progress,0,2026-01-16 11:21:31,1899-12-30,0,0.0,Davao
+Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,In Progress,0,2026-01-16 11:22:51,1899-12-30,0,0.0,Davao
 Jude,42625,SRED Inc., Activeone installation,Service Request,In Progress,0,2026-01-16 11:24:37,1899-12-30,0,0.0,Davao
 Jude,42626,SRED Inc.,Auto Backup installation,Service Request,In Progress,0,2026-01-16 11:26:06,1899-12-30,0,0.0,Davao
 Jude,42627,SRED Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:27:25,1899-12-30,0,0.0,Davao
@@ -277,7 +277,6 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42480,FABLAB BIO SOULTIONS INC,Installation SE21,Service Request,For Close,0,2026-01-13 08:54:21,1899-12-30,5,60.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,Assigned,0,2026-01-14 12:31:25,1899-12-30,0,0.0,Davao
 Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,Assigned,0,2026-01-14 12:32:01,1899-12-30,0,0.0,Davao
 Rico,42541,St. Francis Shell Station V,Setup Replication Temporary Server p3,Service Request,Assigned,0,2026-01-14 12:32:55,1899-12-30,0,0.0,Davao
@@ -286,8 +285,6 @@ Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay 
 Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,Assigned,0,2026-01-14 12:34:49,1899-12-30,0,0.0,Davao
 Rico,42545,St. Francis Shell Station V,ActiveOne Installation,Service Request,Assigned,0,2026-01-14 12:35:58,1899-12-30,0,0.0,Davao
 Rico,42546,St. Francis Shell Station V,Setup Auto Backup,Service Request,Assigned,0,2026-01-14 12:36:46,1899-12-30,0,0.0,Davao
-Rico,42550,FABLAB BIO SOULTIONS INC,MySQL Setup Server,Service Request,For Close,0,2026-01-14 14:16:45,1899-12-30,0,90.0,Davao
-Rico,42551,FABLAB BIO SOULTIONS INC,Setup Auto Backup,Service Request,For Close,0,2026-01-14 14:17:24,1899-12-30,0,60.0,Davao
 Rico,42552,St. Francis Shell Station V,Setup VPN Mati PC,Service Request,Assigned,0,2026-01-14 14:18:37,1899-12-30,0,0.0,Davao
 Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,Assigned,0,2026-01-14 14:19:21,1899-12-30,0,0.0,Davao
 Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,Assigned,0,2026-01-14 14:19:58,1899-12-30,0,0.0,Davao
@@ -325,4 +322,5 @@ Venz Jan,42684,Suri Fresh Meatshop & Minimart,Get Hardware Details,Service Reque
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,Assigned,0,2026-01-20 13:10:00,1899-12-30,0,0.0,CDO
 Venz Jan,42686,Busy Farmer Agrivet Supply,Transfer of license account to Windows Laptop from Macbook,Service Request,Assigned,0,2026-01-20 13:13:30,1899-12-30,0,0.0,Davao
 Venz Jan,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,Assigned,0,2026-01-20 14:19:29,1899-12-30,0,0.0,Davao
+Venz Jan,42690,D'renland Construction & Development Corporation,cant connect mysql,Service Request,Assigned,0,2026-01-20 14:52:21,1899-12-30,0,0.0,Davao
 
