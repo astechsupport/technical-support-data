@@ -93,7 +93,7 @@ User: Joshua
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shift.,Service Request,In Progress,0,2025-11-26 10:40:44,1899-12-30,40,60.0,CDO
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,35,0.0,CDO
-Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,36,0.0,CDO
+Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,36,120.0,CDO
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,30,60.0,CDO
 Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,31,120.0,CDO
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,25,0.0,CDO
@@ -265,7 +265,7 @@ Venz Jan,42684,Suri Fresh Meatshop & Minimart,Get Hardware Details,Service Reque
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,In Progress,0,2026-01-20 13:10:00,1899-12-30,1,0.0,CDO
 Venz Jan,42686,Busy Farmer Agrivet Supply,Transfer of license account to Windows Laptop from Macbook,Service Request,Assigned,0,2026-01-20 13:13:30,1899-12-30,1,0.0,Davao
 Venz Jan,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,Assigned,0,2026-01-20 14:19:29,1899-12-30,1,0.0,Davao
-Venz Jan,42690,D'renland Construction & Development Corporation,cant connect mysql,Service Request,In Progress,0,2026-01-20 14:52:21,1899-12-30,1,0.0,Davao
+Venz Jan,42690,D'renland Construction & Development Corporation,cant connect mysql,Service Request,In Progress,0,2026-01-20 14:52:21,1899-12-30,1,55.0,Davao
 Venz Jan,42692,LGM Global Industries Inc.,ThinStuff Setup (AUDITORMEL),Service Request,In Progress,0,2026-01-20 15:49:57,1899-12-30,1,60.0,Davao
 Venz Jan,42693,LGM Global Industries Inc.,ThinStuff Setup (JCFelicio),Service Request,In Progress,0,2026-01-20 15:50:33,1899-12-30,1,49.0,Davao
 Venz Jan,42711,DVO Paperhauze and School Supplies,Back up Concern,Service Request,Assigned,0,2026-01-21 08:46:27,1899-12-30,0,0.0,Davao
