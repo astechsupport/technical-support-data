@@ -84,7 +84,7 @@ Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing er
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30 00:00:00,2,0.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,Assigned,0,2026-01-20 10:37:58,1899-12-30 00:00:00,1,0.0,Davao
 Jeric Johann,42683,RGJ Hardware and Construction Supplies,POS printer not working not printing from computer,Service Request,In Progress,0,2026-01-20 13:08:54,1899-12-30 00:00:00,1,0.0,Gensan
-Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,Assigned,0,2026-01-21 09:15:53,1899-12-30 00:00:00,0,0.0,Gensan
+Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,In Progress,0,2026-01-21 09:15:53,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,Assigned,0,2026-01-21 10:09:00,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,Assigned,0,2026-01-21 10:11:06,1899-12-30 00:00:00,0,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,Assigned,0,2026-01-21 10:12:12,1899-12-30 00:00:00,0,0.0,Gensan
@@ -115,15 +115,15 @@ Joshua,42516,Soda Enterprise,Clear Documents,Service Request,In Progress,0,2026-
 Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,In Progress,0,2026-01-13 16:59:03,1899-12-30,6,180.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,5,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
-Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,Assigned,0,2026-01-19 09:36:07,1899-12-30,2,0.0,Davao
+Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,In Progress,0,2026-01-19 09:36:07,1899-12-30,2,0.0,Davao
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,2,60.0,Davao
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,1,60.0,CDO
-Joshua,42709,C7 Store, Replication Maintenance (Carmen),Service Request,Assigned,0,2026-01-21 08:34:18,1899-12-30,0,0.0,CDO
-Joshua,42710,C7 Store,Replication Maintenance (Corrales T1),Service Request,Assigned,0,2026-01-21 08:34:51,1899-12-30,0,0.0,CDO
+Joshua,42709,C7 Store, Replication Maintenance (Carmen),Service Request,In Progress,0,2026-01-21 08:34:18,1899-12-30,0,120.0,CDO
+Joshua,42710,C7 Store,Replication Maintenance (Corrales T1),Service Request,In Progress,0,2026-01-21 08:34:51,1899-12-30,0,60.0,CDO
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,Assigned,0,2026-01-21 10:48:35,1899-12-30,0,0.0,CDO
-Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,Assigned,0,2026-01-21 13:17:16,1899-12-30,0,0.0,CDO
-Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,Assigned,0,2026-01-21 13:55:23,1899-12-30,0,0.0,CDO
-Joshua,42735,C7 Store, Replication Maintenance (Uptown T1),Service Request,Assigned,0,2026-01-21 13:55:55,1899-12-30,0,0.0,CDO
+Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,In Progress,0,2026-01-21 13:17:16,1899-12-30,0,0.0,CDO
+Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,In Progress,0,2026-01-21 13:55:23,1899-12-30,0,0.0,CDO
+Joshua,42735,C7 Store, Replication Maintenance (Uptown T1),Service Request,In Progress,0,2026-01-21 13:55:55,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -278,7 +278,7 @@ Venz Jan,42711,DVO Paperhauze and School Supplies,Back up Concern,Service Reques
 Venz Jan,42712,DVO Paperhauze and School Supplies,Price Update Concern,Service Request,Assigned,0,2026-01-21 08:47:11,1899-12-30,0,0.0,Davao
 Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,Assigned,0,2026-01-21 09:03:11,1899-12-30,0,0.0,Davao
 Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Service Request,Assigned,0,2026-01-21 09:08:47,1899-12-30,0,0.0,Davao
-Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service Request,Assigned,0,2026-01-21 14:24:22,1899-12-30,0,0.0,Davao
-Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,Assigned,0,2026-01-21 14:25:06,1899-12-30,0,0.0,Davao
-Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,Assigned,0,2026-01-21 14:25:55,1899-12-30,0,0.0,Davao
+Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service Request,In Progress,0,2026-01-21 14:24:22,1899-12-30,0,0.0,Davao
+Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,In Progress,0,2026-01-21 14:25:06,1899-12-30,0,0.0,Davao
+Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,In Progress,0,2026-01-21 14:25:55,1899-12-30,0,0.0,Davao
 
