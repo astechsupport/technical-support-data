@@ -95,7 +95,7 @@ Joshua,41446,Richstar Variety Store,Deployment of custom pipeline for end of shi
 Joshua,41487,Bukidnon Government Employees Multi-Purpose Cooperative (BUGEMCO),Simulation of Loyalty Points - Negative amount of Points,Internal,In Progress,0,2025-11-27 10:51:19,1899-12-30,35,0.0,CDO
 Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service Request,In Progress,0,2025-12-02 16:04:15,1899-12-30,36,0.0,CDO
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,30,60.0,CDO
-Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,31,0.0,CDO
+Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,31,120.0,CDO
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,25,0.0,CDO
 Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service Request,In Progress,0,2025-12-11 09:26:57,1899-12-30,25,0.0,CDO
 Joshua,42154,ILT Food Products,Printer Setup,Service Request,In Progress,0,2025-12-23 09:06:07,1899-12-30,21,0.0,CDO
@@ -117,7 +117,7 @@ Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile progra
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,1,60.0,CDO
 Joshua,42709,C7 Store, Replication Maintenance (Carmen),Service Request,In Progress,0,2026-01-21 08:34:18,1899-12-30,0,120.0,CDO
 Joshua,42710,C7 Store,Replication Maintenance (Corrales T1),Service Request,In Progress,0,2026-01-21 08:34:51,1899-12-30,0,60.0,CDO
-Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,Assigned,0,2026-01-21 10:48:35,1899-12-30,0,0.0,CDO
+Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,0,60.0,CDO
 Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,In Progress,0,2026-01-21 13:17:16,1899-12-30,0,60.0,CDO
 Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,In Progress,0,2026-01-21 13:55:23,1899-12-30,0,60.0,CDO
 Joshua,42735,C7 Store, Replication Maintenance (Uptown T1),Service Request,In Progress,0,2026-01-21 13:55:55,1899-12-30,0,30.0,CDO
@@ -254,7 +254,7 @@ Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Reque
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,7,0.0,Davao
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,7,70.0,Davao
 Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,7,0.0,Davao
-Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,5,424.0,CDO
+Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,5,484.0,CDO
 Venz Jan,42584,Mindanao Agriplus Corporation,Re-installation A1,Service Request,For Close,0,2026-01-15 11:34:41,1899-12-30,0,40.0,Davao
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,0,0.0,Davao
 Venz Jan,42643,Metro Cycle Mart,A1 Installation,Service Request,In Progress,0,2026-01-16 17:08:55,1899-12-30,0,0.0,Davao
@@ -272,7 +272,7 @@ Venz Jan,42711,DVO Paperhauze and School Supplies,Back up Concern,Service Reques
 Venz Jan,42712,DVO Paperhauze and School Supplies,Price Update Concern,Service Request,Assigned,0,2026-01-21 08:47:11,1899-12-30,0,0.0,Davao
 Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,Assigned,0,2026-01-21 09:03:11,1899-12-30,0,0.0,Davao
 Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Service Request,Assigned,0,2026-01-21 09:08:47,1899-12-30,0,0.0,Davao
-Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service Request,In Progress,0,2026-01-21 14:24:22,1899-12-30,0,0.0,Davao
-Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,In Progress,0,2026-01-21 14:25:06,1899-12-30,0,0.0,Davao
-Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,In Progress,0,2026-01-21 14:25:55,1899-12-30,0,0.0,Davao
+Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service Request,In Progress,0,2026-01-21 14:24:22,1899-12-30,0,60.0,Davao
+Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,In Progress,0,2026-01-21 14:25:06,1899-12-30,0,50.0,Davao
+Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,In Progress,0,2026-01-21 14:25:55,1899-12-30,0,40.0,Davao
 
