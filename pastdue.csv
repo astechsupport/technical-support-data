@@ -57,38 +57,36 @@ Ceasar Ian,42718,Activesystems Software Inc,Setup Email,Internal,Assigned,0,2026
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30 00:00:00,47,0.0,Gensan
-Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30 00:00:00,35,0.0,Davao
-Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30 00:00:00,31,0.0,Gensan
-Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,For Cancel,0,2025-12-10 16:33:51,1899-12-30 00:00:00,30,0.0,Gensan
-Jeric Johann,41885,Tropiland Enterprises,Re install of Active system application ,Service Request,For Cancel,0,2025-12-11 16:06:06,1899-12-30 00:00:00,25,0.0,Gensan
-Jeric Johann,41886,Tropiland Enterprises,Mali po Ang solve ng system sa quantity ng stocks na ipapasok,Service Request,For Cancel,0,2025-12-11 16:07:07,1899-12-30 00:00:00,25,0.0,Gensan
-Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,For Cancel,0,2025-12-18 13:27:59,1899-12-30 00:00:00,20,0.0,Gensan
-Jeric Johann,42121,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Murag Ang tailscale Ang problema.. d ma sync gensan kidapawan tapos Dili Nako ma ping Ang kid server vice versa..,Service Request,For Cancel,0,2025-12-22 11:38:06,1899-12-30 00:00:00,22,0.0,Gensan
-Jeric Johann,42170,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,AUTOBACKUP INSTALLATION,Service Request,Reviewed,5,2025-12-23 14:08:25,2025-12-29 16:31:48,0,0.0,Gensan
-Jeric Johann,42171,RAZONABLE AGRICULTURAL INPUTS DISTRIBUTOR INC,ACTIVEONE INSTALLATION SE,Service Request,Reviewed,5,2025-12-23 14:09:09,2025-12-29 16:31:59,0,0.0,Gensan
-Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30 00:00:00,17,0.0,Gensan
-Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,In Progress,0,2026-01-02 08:30:59,1899-12-30 00:00:00,10,30.0,Gensan
-Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30 00:00:00,10,30.0,Davao
-Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,In Progress,0,2026-01-06 15:03:57,1899-12-30 00:00:00,11,0.0,Davao
-Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,For Cancel,0,2026-01-06 16:35:59,1899-12-30 00:00:00,11,0.0,Gensan
-Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing for the month of December 2025,Service Request,For Cancel,0,2026-01-06 16:39:16,1899-12-30 00:00:00,11,0.0,Gensan
-Jeric Johann,42332,Divine J Tuna Corp,mali po ang minuz sa quantity dumoy storage THP9-05 CREAMDORY and buhangin storage Sisig printed new,Service Request,In Progress,0,2026-01-07 09:06:59,1899-12-30 00:00:00,10,0.0,Gensan
-Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30 00:00:00,7,0.0,Davao
-Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30 00:00:00,7,47.0,Davao
-Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30 00:00:00,6,0.0,Gensan
-Jeric Johann,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,In Progress,0,2026-01-16 09:53:45,1899-12-30 00:00:00,0,135.0,Gensan
-Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30 00:00:00,0,50.0,Gensan
-Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30 00:00:00,2,0.0,Gensan
-Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30 00:00:00,2,0.0,Davao
-Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,Assigned,0,2026-01-20 10:37:58,1899-12-30 00:00:00,1,0.0,Davao
-Jeric Johann,42683,RGJ Hardware and Construction Supplies,POS printer not working not printing from computer,Service Request,In Progress,0,2026-01-20 13:08:54,1899-12-30 00:00:00,1,0.0,Gensan
-Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,In Progress,0,2026-01-21 09:15:53,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,Assigned,0,2026-01-21 10:09:00,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,Assigned,0,2026-01-21 10:11:06,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,Assigned,0,2026-01-21 10:12:12,1899-12-30 00:00:00,0,0.0,Gensan
-Jeric Johann,42724,Farmers Edge Agriventures Inc.,Can’t proceed to POS Cash Count.,Service Request,In Progress,0,2026-01-21 10:23:15,1899-12-30 00:00:00,0,0.0,Davao
-Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30 00:00:00,0,0.0,Davao
+Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,47,0.0,Gensan
+Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,35,0.0,Davao
+Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30,31,0.0,Gensan
+Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,For Cancel,0,2025-12-10 16:33:51,1899-12-30,30,0.0,Gensan
+Jeric Johann,41885,Tropiland Enterprises,Re install of Active system application ,Service Request,For Cancel,0,2025-12-11 16:06:06,1899-12-30,25,0.0,Gensan
+Jeric Johann,41886,Tropiland Enterprises,Mali po Ang solve ng system sa quantity ng stocks na ipapasok,Service Request,For Cancel,0,2025-12-11 16:07:07,1899-12-30,25,0.0,Gensan
+Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,For Cancel,0,2025-12-18 13:27:59,1899-12-30,20,0.0,Gensan
+Jeric Johann,42121,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Murag Ang tailscale Ang problema.. d ma sync gensan kidapawan tapos Dili Nako ma ping Ang kid server vice versa..,Service Request,For Cancel,0,2025-12-22 11:38:06,1899-12-30,22,0.0,Gensan
+Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30,17,0.0,Gensan
+Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,In Progress,0,2026-01-02 08:30:59,1899-12-30,10,30.0,Gensan
+Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30,10,30.0,Davao
+Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,In Progress,0,2026-01-06 15:03:57,1899-12-30,11,0.0,Davao
+Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,For Cancel,0,2026-01-06 16:35:59,1899-12-30,11,0.0,Gensan
+Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing for the month of December 2025,Service Request,For Cancel,0,2026-01-06 16:39:16,1899-12-30,11,0.0,Gensan
+Jeric Johann,42332,Divine J Tuna Corp,mali po ang minuz sa quantity dumoy storage THP9-05 CREAMDORY and buhangin storage Sisig printed new,Service Request,In Progress,0,2026-01-07 09:06:59,1899-12-30,10,0.0,Gensan
+Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30,7,0.0,Davao
+Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30,7,47.0,Davao
+Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30,6,0.0,Gensan
+Jeric Johann,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,In Progress,0,2026-01-16 09:53:45,1899-12-30,0,135.0,Gensan
+Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30,0,50.0,Gensan
+Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30,2,0.0,Gensan
+Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,2,0.0,Davao
+Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,Assigned,0,2026-01-20 10:37:58,1899-12-30,1,0.0,Davao
+Jeric Johann,42683,RGJ Hardware and Construction Supplies,POS printer not working not printing from computer,Service Request,In Progress,0,2026-01-20 13:08:54,1899-12-30,1,0.0,Gensan
+Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,In Progress,0,2026-01-21 09:15:53,1899-12-30,0,0.0,Gensan
+Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,Assigned,0,2026-01-21 10:09:00,1899-12-30,0,0.0,Gensan
+Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,Assigned,0,2026-01-21 10:11:06,1899-12-30,0,0.0,Gensan
+Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,Assigned,0,2026-01-21 10:12:12,1899-12-30,0,0.0,Gensan
+Jeric Johann,42724,Farmers Edge Agriventures Inc.,Can’t proceed to POS Cash Count.,Service Request,In Progress,0,2026-01-21 10:23:15,1899-12-30,0,0.0,Davao
+Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,0,0.0,Davao
 
 
 User: Joshua
@@ -111,7 +109,7 @@ Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Pro
 Joshua,42436,Farmers Edge Agriventures Inc.,Delayed Printing in POS Bayugan Branch,Service Request,In Progress,0,2026-01-12 08:58:43,1899-12-30,7,0.0,Davao
 Joshua,42476,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,In Progress,0,2026-01-12 19:10:19,1899-12-30,7,150.0,Davao
 Joshua,42516,Soda Enterprise,Clear Documents,Service Request,For Close,0,2026-01-13 11:41:46,1899-12-30,6,60.0,CDO
-Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,In Progress,0,2026-01-13 16:59:03,1899-12-30,6,180.0,CDO
+Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,For Close,0,2026-01-13 16:59:03,1899-12-30,6,180.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,5,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,In Progress,0,2026-01-19 09:36:07,1899-12-30,2,0.0,Davao
@@ -260,8 +258,6 @@ Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,5,424.0,CDO
 Venz Jan,42584,Mindanao Agriplus Corporation,Re-installation A1,Service Request,In Progress,0,2026-01-15 11:34:41,1899-12-30,0,40.0,Davao
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,0,0.0,Davao
-Venz Jan,42587,Quinn Essentials,Item List Migration,Service Request,For Close,0,2026-01-15 13:09:37,1899-12-30,0,190.0,CDO
-Venz Jan,42588,Quinn Essentials,Employee List Migration,Service Request,For Close,0,2026-01-15 13:10:12,1899-12-30,0,70.0,CDO
 Venz Jan,42643,Metro Cycle Mart,A1 Installation,Service Request,In Progress,0,2026-01-16 17:08:55,1899-12-30,0,0.0,Davao
 Venz Jan,42650,TONYO'S AGRI SUPPLY,Installation of 1 new unit,Service Request,In Progress,0,2026-01-19 09:40:03,1899-12-30,2,40.0,Davao
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,2,0.0,Davao
