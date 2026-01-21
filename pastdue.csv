@@ -121,6 +121,7 @@ Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progre
 Joshua,42709,C7 Store, Replication Maintenance (Carmen),Service Request,Assigned,0,2026-01-21 08:34:18,1899-12-30,0,0.0,CDO
 Joshua,42710,C7 Store,Replication Maintenance (Corrales T1),Service Request,Assigned,0,2026-01-21 08:34:51,1899-12-30,0,0.0,CDO
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,Assigned,0,2026-01-21 10:48:35,1899-12-30,0,0.0,CDO
+Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,Assigned,0,2026-01-21 13:17:16,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -154,6 +155,9 @@ Jude,42631,Staze Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:35
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,0,0.0,Davao
 Jude,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,1,0.0,Gensan
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,In Progress,0,2026-01-20 16:19:10,1899-12-30,1,0.0,Davao
+Jude,42730,Polcas Agri Trade Corp,Item List Migration,Service Request,Assigned,0,2026-01-21 13:15:24,1899-12-30,0,0.0,CDO
+Jude,42731,Polcas Agri Trade Corp,Customer List Migration,Service Request,Assigned,0,2026-01-21 13:16:07,1899-12-30,0,0.0,CDO
+Jude,42732,Polcas Agri Trade Corp,Vendor List Migration,Service Request,Assigned,0,2026-01-21 13:16:39,1899-12-30,0,0.0,CDO
 
 
 User: Junmar
