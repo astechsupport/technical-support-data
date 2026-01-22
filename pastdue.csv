@@ -118,7 +118,6 @@ Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Pro
 Joshua,42436,Farmers Edge Agriventures Inc.,Delayed Printing in POS Bayugan Branch,Service Request,In Progress,0,2026-01-12 08:58:43,1899-12-30,8,0.0,Davao
 Joshua,42476,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,In Progress,0,2026-01-12 19:10:19,1899-12-30,8,150.0,Davao
 Joshua,42516,Soda Enterprise,Clear Documents,Service Request,For Close,0,2026-01-13 11:41:46,1899-12-30,7,60.0,CDO
-Joshua,42524,IZON FARM SUPPLY INC.,Inventory Concern,Service Request,For Close,0,2026-01-13 16:59:03,1899-12-30,7,180.0,CDO
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,6,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,0,0.0,CDO
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,In Progress,0,2026-01-19 09:36:07,1899-12-30,3,0.0,Davao
@@ -277,7 +276,7 @@ Venz Jan,42684,Suri Fresh Meatshop & Minimart,Get Hardware Details,Service Reque
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,In Progress,0,2026-01-20 13:10:00,1899-12-30,2,0.0,CDO
 Venz Jan,42686,Busy Farmer Agrivet Supply,Transfer of license account to Windows Laptop from Macbook,Service Request,Assigned,0,2026-01-20 13:13:30,1899-12-30,2,0.0,Davao
 Venz Jan,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,Assigned,0,2026-01-20 14:19:29,1899-12-30,2,0.0,Davao
-Venz Jan,42690,D'renland Construction & Development Corporation,cant connect mysql,Service Request,In Progress,0,2026-01-20 14:52:21,1899-12-30,2,55.0,Davao
+Venz Jan,42690,D'renland Construction & Development Corporation,cant connect mysql,Service Request,For Close,0,2026-01-20 14:52:21,1899-12-30,2,55.0,Davao
 Venz Jan,42692,LGM Global Industries Inc.,ThinStuff Setup (AUDITORMEL),Service Request,In Progress,0,2026-01-20 15:49:57,1899-12-30,2,60.0,Davao
 Venz Jan,42693,LGM Global Industries Inc.,ThinStuff Setup (JCFelicio),Service Request,In Progress,0,2026-01-20 15:50:33,1899-12-30,2,49.0,Davao
 Venz Jan,42711,DVO Paperhauze and School Supplies,Back up Concern,Service Request,Assigned,0,2026-01-21 08:46:27,1899-12-30,1,0.0,Davao
@@ -287,4 +286,5 @@ Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Se
 Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service Request,In Progress,0,2026-01-21 14:24:22,1899-12-30,1,60.0,Davao
 Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,In Progress,0,2026-01-21 14:25:06,1899-12-30,1,50.0,Davao
 Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,In Progress,0,2026-01-21 14:25:55,1899-12-30,1,40.0,Davao
+Venz Jan,42769,FLUIDZ Minimart,Price in POS is not updated,Service Request,Assigned,0,2026-01-22 09:44:42,1899-12-30,0,0.0,Cebu
 
