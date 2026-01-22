@@ -210,7 +210,7 @@ Junmar,42667,Vexoil Phil Corporation,MySQL Installation (Passi Branch),Service R
 Junmar,42670,Delta Steel Hardware,Assist Can't Connect to MySQL Error and POS Error,Service Request,Assigned,0,2026-01-19 16:41:49,1899-12-30,3,0.0,Cebu
 Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,Assigned,0,2026-01-19 17:37:49,1899-12-30,3,0.0,Cebu
 Junmar,42681,Activesystems Software Inc,Install and Set up Field sales App in Sir Paul's Unit,Service Request,For Close,0,2026-01-20 12:02:49,1899-12-30,2,60.0,Cebu
-Junmar,42720,Pharmatechnica Laboratory Inc.,Connect Server to another User,Service Request,In Progress,0,2026-01-21 10:05:57,1899-12-30,1,59.0,Cebu
+Junmar,42720,Pharmatechnica Laboratory Inc.,Connect Server to another User,Service Request,For Close,0,2026-01-21 10:05:57,1899-12-30,1,59.0,Cebu
 Junmar,42765,Tecsonic Auto Center Inc.,MySQL Database Recovery,Incident,For Close,0,2026-01-22 09:31:45,1899-12-30,0,30.0,Cebu
 Junmar,42766,Tecsonic Auto Center Inc.,ActiveOne Setup & Installation,Service Request,For Close,0,2026-01-22 09:34:02,1899-12-30,0,10.0,Cebu
 Junmar,42767,Tecsonic Auto Center Inc.,Set up Auto backup,Service Request,For Close,0,2026-01-22 09:34:28,1899-12-30,0,30.0,Cebu
@@ -301,4 +301,5 @@ Venz Jan,42769,FLUIDZ Minimart,Price in POS is not updated,Service Request,In Pr
 Venz Jan,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,0,0.0,Davao
 Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,Assigned,0,2026-01-22 11:04:58,1899-12-30,0,0.0,Davao
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,Assigned,0,2026-01-22 11:25:31,1899-12-30,0,0.0,CDO
+Venz Jan,42789,Metro Cycle Mart,VPN set up laptop,Service Request,Assigned,0,2026-01-22 13:07:10,1899-12-30,0,0.0,Davao
 
