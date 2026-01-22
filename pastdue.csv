@@ -95,8 +95,8 @@ Jeric Johann,42753,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR U
 Jeric Johann,42756,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR UTILITY EXECUTION,Service Request,In Progress,0,2026-01-22 08:54:00,1899-12-30,0,10.0,Gensan
 Jeric Johann,42760,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE UTILITY EXECUTION,Service Request,In Progress,0,2026-01-22 08:55:16,1899-12-30,0,10.0,Gensan
 Jeric Johann,42762,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 1ST FLOOR UTILITY EXECUTION,Service Request,In Progress,0,2026-01-22 08:56:57,1899-12-30,0,10.0,Gensan
-Jeric Johann,42763,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE UTILITY EXECUTION,Service Request,In Progress,0,2026-01-22 08:58:29,1899-12-30,0,10.0,Gensan
-Jeric Johann,42764,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA UTILITY EXECUTION,Service Request,In Progress,0,2026-01-22 09:04:53,1899-12-30,0,10.0,Gensan
+Jeric Johann,42763,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE UTILITY EXECUTION,Service Request,For Close,0,2026-01-22 08:58:29,1899-12-30,0,10.0,Gensan
+Jeric Johann,42764,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA UTILITY EXECUTION,Service Request,For Close,0,2026-01-22 09:04:53,1899-12-30,0,10.0,Gensan
 Jeric Johann,42772,TSCA Electrical Group of Company Incorporated,"Relocate Server/January 23,2026 ",Service Request,Assigned,0,2026-01-22 10:06:15,1899-12-30,0,0.0,Davao
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,0,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,0,0.0,Gensan
@@ -280,8 +280,8 @@ Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service 
 Venz Jan,42769,FLUIDZ Minimart,Price in POS is not updated,Service Request,In Progress,0,2026-01-22 09:44:42,1899-12-30,0,95.0,Cebu
 Venz Jan,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,0,0.0,Davao
 Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,Assigned,0,2026-01-22 11:04:58,1899-12-30,0,0.0,Davao
-Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,0,0.0,CDO
-Venz Jan,42789,Metro Cycle Mart,VPN set up laptop,Service Request,Assigned,0,2026-01-22 13:07:10,1899-12-30,0,0.0,Davao
+Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,0,50.0,CDO
+Venz Jan,42789,Metro Cycle Mart,VPN set up laptop,Service Request,In Progress,0,2026-01-22 13:07:10,1899-12-30,0,0.0,Davao
 Venz Jan,42791,Tekpone Communications Enterprises,Inventory Transfer concern,Service Request,Assigned,0,2026-01-22 13:19:15,1899-12-30,0,0.0,Davao
 Venz Jan,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,0,0.0,Davao
 
