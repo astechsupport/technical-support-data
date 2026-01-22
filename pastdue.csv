@@ -129,11 +129,11 @@ Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Lapto
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,In Progress,0,2026-01-19 09:36:07,1899-12-30,3,0.0,Davao
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,3,60.0,Davao
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,2,60.0,CDO
-Joshua,42709,C7 Store, Replication Maintenance (Carmen),Service Request,In Progress,0,2026-01-21 08:34:18,1899-12-30,1,120.0,CDO
-Joshua,42710,C7 Store,Replication Maintenance (Corrales T1),Service Request,In Progress,0,2026-01-21 08:34:51,1899-12-30,1,60.0,CDO
+Joshua,42709,C7 Store, Replication Maintenance (Carmen),Service Request,For Close,0,2026-01-21 08:34:18,1899-12-30,1,120.0,CDO
+Joshua,42710,C7 Store,Replication Maintenance (Corrales T1),Service Request,For Close,0,2026-01-21 08:34:51,1899-12-30,1,60.0,CDO
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,1,60.0,CDO
-Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,In Progress,0,2026-01-21 13:17:16,1899-12-30,1,60.0,CDO
-Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,In Progress,0,2026-01-21 13:55:23,1899-12-30,1,60.0,CDO
+Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,For Close,0,2026-01-21 13:17:16,1899-12-30,1,60.0,CDO
+Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,For Close,0,2026-01-21 13:55:23,1899-12-30,1,60.0,CDO
 Joshua,42735,C7 Store, Replication Maintenance (Uptown T1),Service Request,In Progress,0,2026-01-21 13:55:55,1899-12-30,1,30.0,CDO
 Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect to Server,Incident,In Progress,0,2026-01-22 08:39:09,1899-12-30,0,40.0,CDO
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,0,0.0,Davao
@@ -210,10 +210,6 @@ Junmar,42667,Vexoil Phil Corporation,MySQL Installation (Passi Branch),Service R
 Junmar,42670,Delta Steel Hardware,Assist Can't Connect to MySQL Error and POS Error,Service Request,Assigned,0,2026-01-19 16:41:49,1899-12-30,3,0.0,Cebu
 Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,Assigned,0,2026-01-19 17:37:49,1899-12-30,3,0.0,Cebu
 Junmar,42681,Activesystems Software Inc,Install and Set up Field sales App in Sir Paul's Unit,Service Request,For Close,0,2026-01-20 12:02:49,1899-12-30,2,60.0,Cebu
-Junmar,42765,Tecsonic Auto Center Inc.,MySQL Database Recovery,Incident,For Close,0,2026-01-22 09:31:45,1899-12-30,0,30.0,Cebu
-Junmar,42766,Tecsonic Auto Center Inc.,ActiveOne Setup & Installation,Service Request,For Close,0,2026-01-22 09:34:02,1899-12-30,0,10.0,Cebu
-Junmar,42767,Tecsonic Auto Center Inc.,Set up Auto backup,Service Request,For Close,0,2026-01-22 09:34:28,1899-12-30,0,30.0,Cebu
-Junmar,42768,Tecsonic Auto Center Inc.,Mysql Set up,Service Request,For Close,0,2026-01-22 09:34:54,1899-12-30,0,30.0,Cebu
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,Assigned,0,2026-01-22 10:53:39,1899-12-30,0,0.0,Davao
 
 
