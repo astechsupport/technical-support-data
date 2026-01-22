@@ -130,7 +130,7 @@ Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Prog
 Joshua,42733,C7 Store,Replication Maintenance(Tomas Saco),Service Request,In Progress,0,2026-01-21 13:17:16,1899-12-30,1,60.0,CDO
 Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,In Progress,0,2026-01-21 13:55:23,1899-12-30,1,60.0,CDO
 Joshua,42735,C7 Store, Replication Maintenance (Uptown T1),Service Request,In Progress,0,2026-01-21 13:55:55,1899-12-30,1,30.0,CDO
-Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect to Server,Incident,In Progress,0,2026-01-22 08:39:09,1899-12-30,0,0.0,CDO
+Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect to Server,Incident,In Progress,0,2026-01-22 08:39:09,1899-12-30,0,40.0,CDO
 
 
 User: Jude
@@ -201,6 +201,10 @@ Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,Assigne
 Junmar,42681,Activesystems Software Inc,Install and Set up Field sales App in Sir Paul's Unit,Service Request,For Close,0,2026-01-20 12:02:49,1899-12-30,2,60.0,Cebu
 Junmar,42688,Vexoil Phil Corporation,Fix Replication issue in Tabucan POS,Service Request,For Close,0,2026-01-20 14:11:28,1899-12-30,2,131.0,Ilo-ilo
 Junmar,42720,Pharmatechnica Laboratory Inc.,Connect Server to another User,Service Request,Assigned,0,2026-01-21 10:05:57,1899-12-30,1,0.0,Cebu
+Junmar,42765,Tecsonic Auto Center Inc.,MySQL Database Recovery,Service Request,Assigned,0,2026-01-22 09:31:45,1899-12-30,0,0.0,Cebu
+Junmar,42766,Tecsonic Auto Center Inc.,ActiveOne Setup & Installation,Service Request,Assigned,0,2026-01-22 09:34:02,1899-12-30,0,0.0,Cebu
+Junmar,42767,Tecsonic Auto Center Inc.,Set up Auto backup,Service Request,Assigned,0,2026-01-22 09:34:28,1899-12-30,0,0.0,Cebu
+Junmar,42768,Tecsonic Auto Center Inc.,Mysql Set up,Service Request,Assigned,0,2026-01-22 09:34:54,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
