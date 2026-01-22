@@ -173,6 +173,10 @@ Jude,42730,Polcas Agri Trade Corp,Item List Migration,Service Request,For Close,
 Jude,42731,Polcas Agri Trade Corp,Customer List Migration,Service Request,For Close,0,2026-01-21 13:16:07,1899-12-30,1,29.0,CDO
 Jude,42732,Polcas Agri Trade Corp,Vendor List Migration,Service Request,For Close,0,2026-01-21 13:16:39,1899-12-30,1,30.0,CDO
 Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,Assigned,0,2026-01-22 10:14:48,1899-12-30,0,0.0,Cebu
+Jude,42782,Beljen Variety Store,Network Assessment,Service Request,Assigned,0,2026-01-22 11:13:01,1899-12-30,0,0.0,Cebu
+Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,Assigned,0,2026-01-22 11:13:42,1899-12-30,0,0.0,Cebu
+Jude,42784,Beljen Variety Store,ActiveOne Installation,Service Request,Assigned,0,2026-01-22 11:14:26,1899-12-30,0,0.0,Cebu
+Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,Assigned,0,2026-01-22 11:14:51,1899-12-30,0,0.0,Cebu
 
 
 User: Junmar
@@ -241,9 +245,9 @@ Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Reque
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,5,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,5,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,Assigned,0,2026-01-09 11:00:20,1899-12-30,5,0.0,Davao
-Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,In Progress,0,2026-01-14 12:31:25,1899-12-30,6,20.0,Davao
-Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,In Progress,0,2026-01-14 12:32:01,1899-12-30,6,0.0,Davao
-Rico,42541,St. Francis Shell Station V,Setup Replication Temporary Server p3,Service Request,In Progress,0,2026-01-14 12:32:55,1899-12-30,6,20.0,Davao
+Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,In Progress,0,2026-01-14 12:31:25,1899-12-30,6,30.0,Davao
+Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,In Progress,0,2026-01-14 12:32:01,1899-12-30,6,30.0,Davao
+Rico,42541,St. Francis Shell Station V,Setup Replication Temporary Server p3,Service Request,In Progress,0,2026-01-14 12:32:55,1899-12-30,6,30.0,Davao
 Rico,42542,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p1,Service Request,In Progress,0,2026-01-14 12:33:32,1899-12-30,6,0.0,Davao
 Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p2,Service Request,In Progress,0,2026-01-14 12:34:15,1899-12-30,6,0.0,Davao
 Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,In Progress,0,2026-01-14 12:34:49,1899-12-30,6,0.0,Davao
