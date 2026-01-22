@@ -136,6 +136,7 @@ Joshua,42734,C7 Store,Replication Maintenance (Velez T1),Service Request,In Prog
 Joshua,42735,C7 Store, Replication Maintenance (Uptown T1),Service Request,In Progress,0,2026-01-21 13:55:55,1899-12-30,1,30.0,CDO
 Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect to Server,Incident,In Progress,0,2026-01-22 08:39:09,1899-12-30,0,40.0,CDO
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,0,0.0,Davao
+Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,Assigned,0,2026-01-22 11:26:04,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -188,7 +189,6 @@ Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,102,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,101,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,50,0.0,Ilo-ilo
-Junmar,42412,Kergen Marketing,Include withholding tax in Bill Payment,Service Request,For Close,0,2026-01-09 13:27:36,1899-12-30,5,90.0,Ilo-ilo
 Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,In Progress,0,2026-01-12 13:25:54,1899-12-30,8,0.0,Ilo-ilo
 Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service Request,For Cancel,0,2026-01-12 13:27:29,1899-12-30,8,0.0,Ilo-ilo
 Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christopher jhon Ravena),Service Request,In Progress,0,2026-01-13 11:02:19,1899-12-30,7,240.0,Ilo-ilo
@@ -251,10 +251,10 @@ Rico,42542,St. Francis Shell Station V,Setup Replication Temporary Server Mamay 
 Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p2,Service Request,In Progress,0,2026-01-14 12:34:15,1899-12-30,6,30.0,Davao
 Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,In Progress,0,2026-01-14 12:34:49,1899-12-30,6,30.0,Davao
 Rico,42545,St. Francis Shell Station V,ActiveOne Installation,Service Request,In Progress,0,2026-01-14 12:35:58,1899-12-30,6,0.0,Davao
-Rico,42546,St. Francis Shell Station V,Setup Auto Backup,Service Request,In Progress,0,2026-01-14 12:36:46,1899-12-30,6,0.0,Davao
-Rico,42552,St. Francis Shell Station V,Setup VPN Mati PC,Service Request,In Progress,0,2026-01-14 14:18:37,1899-12-30,6,0.0,Davao
-Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,In Progress,0,2026-01-14 14:19:21,1899-12-30,6,0.0,Davao
-Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,In Progress,0,2026-01-14 14:19:58,1899-12-30,6,0.0,Davao
+Rico,42546,St. Francis Shell Station V,Setup Auto Backup,Service Request,In Progress,0,2026-01-14 12:36:46,1899-12-30,6,30.0,Davao
+Rico,42552,St. Francis Shell Station V,Setup VPN Mati PC,Service Request,In Progress,0,2026-01-14 14:18:37,1899-12-30,6,60.0,Davao
+Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,In Progress,0,2026-01-14 14:19:21,1899-12-30,6,60.0,Davao
+Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,In Progress,0,2026-01-14 14:19:58,1899-12-30,6,120.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
 Rico,42585,3A Dressed Chicken Trading,A1 Installation,Service Request,In Progress,0,2026-01-15 13:05:33,1899-12-30,5,0.0,Davao
 Rico,42638,Davao Great Wall Trading Inc.,Replication Error Server1,Service Request,For Close,0,2026-01-16 15:59:03,1899-12-30,0,60.0,Davao
@@ -296,7 +296,8 @@ Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Se
 Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service Request,In Progress,0,2026-01-21 14:24:22,1899-12-30,1,60.0,Davao
 Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,In Progress,0,2026-01-21 14:25:06,1899-12-30,1,50.0,Davao
 Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,In Progress,0,2026-01-21 14:25:55,1899-12-30,1,40.0,Davao
-Venz Jan,42769,FLUIDZ Minimart,Price in POS is not updated,Service Request,In Progress,0,2026-01-22 09:44:42,1899-12-30,0,75.0,Cebu
+Venz Jan,42769,FLUIDZ Minimart,Price in POS is not updated,Service Request,In Progress,0,2026-01-22 09:44:42,1899-12-30,0,95.0,Cebu
 Venz Jan,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,0,0.0,Davao
 Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,Assigned,0,2026-01-22 11:04:58,1899-12-30,0,0.0,Davao
+Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,Assigned,0,2026-01-22 11:25:31,1899-12-30,0,0.0,CDO
 
