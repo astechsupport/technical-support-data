@@ -187,7 +187,6 @@ Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Se
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,101,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,50,0.0,Ilo-ilo
 Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,In Progress,0,2026-01-12 13:25:54,1899-12-30,8,0.0,Ilo-ilo
-Junmar,42450,Kergen Marketing,Customize Template for Collection Receipt,Service Request,For Cancel,0,2026-01-12 13:27:29,1899-12-30,8,0.0,Ilo-ilo
 Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christopher jhon Ravena),Service Request,In Progress,0,2026-01-13 11:02:19,1899-12-30,7,240.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,7,0.0,Ilo-ilo
 Junmar,42602,Improvate Distributions,Deploy Latest Blank Database,Service Request,For Cancel,0,2026-01-15 17:28:52,1899-12-30,5,0.0,Cebu
@@ -257,6 +256,7 @@ Rico,42726, Chicktek Corporation,Setup VPN Cagayan Sr,Service Request,Assigned,0
 Rico,42737,"DMI Medical Supply Company, Inc.",POS Concerns: Sales Invoice like POS Validity Expired. ,Service Request,In Progress,0,2026-01-21 14:18:30,1899-12-30,1,0.0,Davao
 Rico,42793,T.S.K. Rice Trading,Add user Account,Service Request,Assigned,0,2026-01-22 14:28:09,1899-12-30,0,0.0,Davao
 Rico,42794,VICO BUILDING OPC,Vico Building opc,Service Request,Assigned,0,2026-01-22 15:34:51,1899-12-30,0,0.0,Davao
+Rico,42795,VICO BUILDING OPC,Setup VPN to Laptop,Service Request,Assigned,0,2026-01-22 15:35:30,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -265,7 +265,7 @@ Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Ser
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,8,0.0,Davao
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,8,0.0,Davao
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,8,70.0,Davao
-Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,8,0.0,Davao
+Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,8,35.0,Davao
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,6,533.0,CDO
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,5,0.0,Davao
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,3,0.0,Davao
