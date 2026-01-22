@@ -215,7 +215,7 @@ Rico,42254,Philfumes Petroleum Corporation,Modify Bill Receipt Form,Service Requ
 Rico,42306,Davao Great Wall Trading Inc.,Request to Enable On-the-Spot Entry of Customer Name & TIN on POS Tape,Service Request,Assigned,0,2026-01-06 10:35:44,1899-12-30,12,0.0,Davao
 Rico,42318,GEJ Shopping Center,Update Sales Invoice,Service Request,Assigned,0,2026-01-06 15:43:10,1899-12-30,12,0.0,Davao
 Rico,42324,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit,Service Request,In Progress,0,2026-01-07 08:48:05,1899-12-30,11,90.0,Davao
-Rico,42325,Davao Great Wall Trading Inc.,Backup and Restore latest Database,Service Request,In Progress,0,2026-01-07 08:49:19,1899-12-30,11,0.0,Davao
+Rico,42325,Davao Great Wall Trading Inc.,Backup and Restore latest Database,Service Request,In Progress,0,2026-01-07 08:49:19,1899-12-30,11,90.0,Davao
 Rico,42365,EPO LEGACY CORP,Materlist Migration,Service Request,In Progress,0,2026-01-08 09:02:32,1899-12-30,10,0.0,Davao
 Rico,42384,"Instatech, Inc.", Delivery Receipt Template Modification ,Service Request,In Progress,0,2026-01-09 08:24:26,1899-12-30,5,0.0,Davao
 Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,In Progress,0,2026-01-09 10:53:33,1899-12-30,5,0.0,Davao
@@ -235,7 +235,7 @@ Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,In P
 Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,In Progress,0,2026-01-14 14:19:58,1899-12-30,6,0.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
 Rico,42585,3A Dressed Chicken Trading,A1 Installation,Service Request,In Progress,0,2026-01-15 13:05:33,1899-12-30,5,0.0,Davao
-Rico,42638,Davao Great Wall Trading Inc.,Replication Error Server1,Service Request,In Progress,0,2026-01-16 15:59:03,1899-12-30,0,0.0,Davao
+Rico,42638,Davao Great Wall Trading Inc.,Replication Error Server1,Service Request,In Progress,0,2026-01-16 15:59:03,1899-12-30,0,60.0,Davao
 Rico,42639,Davao Great Wall Trading Inc.,Replication Error Server2,Service Request,In Progress,0,2026-01-16 16:00:00,1899-12-30,0,0.0,Davao
 Rico,42661,FTC Group of Companies Corp.,Update Activeone to Latest,Service Request,Assigned,0,2026-01-19 11:56:36,1899-12-30,3,0.0,Davao
 Rico,42662,FTC Group of Companies Corp.,Setup Auto Backup,Service Request,Assigned,0,2026-01-19 11:57:30,1899-12-30,3,0.0,Davao
@@ -259,7 +259,7 @@ Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,6,484.0,CDO
 Venz Jan,42584,Mindanao Agriplus Corporation,Re-installation A1,Service Request,For Close,0,2026-01-15 11:34:41,1899-12-30,5,40.0,Davao
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,5,0.0,Davao
-Venz Jan,42643,Metro Cycle Mart,A1 Installation,Service Request,In Progress,0,2026-01-16 17:08:55,1899-12-30,0,0.0,Davao
+Venz Jan,42643,Metro Cycle Mart,A1 Installation,Service Request,For Cancel,0,2026-01-16 17:08:55,1899-12-30,0,0.0,Davao
 Venz Jan,42650,TONYO'S AGRI SUPPLY,Installation of 1 new unit,Service Request,In Progress,0,2026-01-19 09:40:03,1899-12-30,3,40.0,Davao
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,3,0.0,Davao
 Venz Jan,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,Assigned,0,2026-01-20 11:42:01,1899-12-30,2,0.0,Davao
