@@ -43,8 +43,8 @@ Ceasar Ian,42676,Wealthy Unisavers Distributors Inc.,Transfer A1 to New System U
 Ceasar Ian,42682,Metal Flow,ActiveOne Installation,Service Request,In Progress,0,2026-01-20 12:16:07,1899-12-30,3,30.0,Davao
 Ceasar Ian,42696,"Royal Dragon Southern Distributors, Inc.",OS installation in CenterpointPOS,Service Request,For Close,0,2026-01-20 15:58:11,1899-12-30,3,60.0,Davao
 Ceasar Ian,42697,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 1,Service Request,For Close,0,2026-01-20 15:59:45,1899-12-30,3,60.0,Davao
-Ceasar Ian,42698,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 2,Service Request,In Progress,0,2026-01-20 16:00:38,1899-12-30,3,0.0,Davao
-Ceasar Ian,42699,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 3,Service Request,In Progress,0,2026-01-20 16:01:27,1899-12-30,3,0.0,Davao
+Ceasar Ian,42698,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 2,Service Request,For Close,0,2026-01-20 16:00:38,1899-12-30,3,60.0,Davao
+Ceasar Ian,42699,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 3,Service Request,For Close,0,2026-01-20 16:01:27,1899-12-30,3,30.0,Davao
 Ceasar Ian,42700,"Royal Dragon Southern Distributors, Inc.",Update Pos from 3.2.44 to 3.2.49,Service Request,In Progress,0,2026-01-20 16:02:59,1899-12-30,3,0.0,Davao
 Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,Assigned,0,2026-01-20 16:12:57,1899-12-30,3,0.0,Davao
 Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,Assigned,0,2026-01-20 16:13:50,1899-12-30,3,0.0,Davao
@@ -111,6 +111,7 @@ Jeric Johann,42810,Gravala Enterprises,Purchase Request Report in Inventory Requ
 Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module,Service Request,Assigned,0,2026-01-23 08:57:42,1899-12-30,0,0.0,Gensan
 Jeric Johann,42812,Gravala Enterprises,Withdrawal Slip in Sales Receipt Module,Service Request,Assigned,0,2026-01-23 08:58:12,1899-12-30,0,0.0,Gensan
 Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,Assigned,0,2026-01-23 09:19:47,1899-12-30,0,0.0,Davao
+Jeric Johann,42842,"Tacurong Fitmart, Inc.",Updating of unit ,Service Request,Assigned,0,2026-01-23 14:53:08,1899-12-30,0,0.0,Gensan
 
 
 User: Joshua
