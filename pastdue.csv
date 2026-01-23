@@ -67,8 +67,8 @@ Jeric Johann,41886,Tropiland Enterprises,Mali po Ang solve ng system sa quantity
 Jeric Johann,42086,Divine J Tuna Corp,Installation of active one,Service Request,For Cancel,0,2025-12-18 13:27:59,1899-12-30,26,0.0,Gensan
 Jeric Johann,42121,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Murag Ang tailscale Ang problema.. d ma sync gensan kidapawan tapos Dili Nako ma ping Ang kid server vice versa..,Service Request,For Cancel,0,2025-12-22 11:38:06,1899-12-30,24,0.0,Gensan
 Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30,19,0.0,Gensan
-Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,In Progress,0,2026-01-02 08:30:59,1899-12-30,15,30.0,Gensan
-Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,In Progress,0,2026-01-02 13:06:59,1899-12-30,15,30.0,Davao
+Jeric Johann,42251,Migg Enterprises,Get Database for upgrading purposes to latest version,Service Request,For Cancel,0,2026-01-02 08:30:59,1899-12-30,15,30.0,Gensan
+Jeric Johann,42257,ALMICO DRUG CO*,All branches cannot connect to the server,Service Request,For Cancel,0,2026-01-02 13:06:59,1899-12-30,15,30.0,Davao
 Jeric Johann,42316,Optical World Corporation,Can't Connect to A1 (davao & cebu branch) ,Service Request,For Cancel,0,2026-01-06 15:03:57,1899-12-30,13,0.0,Davao
 Jeric Johann,42321,Kristan Educational Supply,Need to fix inventory adjustment.. Asap,Service Request,For Cancel,0,2026-01-06 16:35:59,1899-12-30,13,0.0,Gensan
 Jeric Johann,42322,"Tacurong Fitmart, Inc.",Follow up the status of data syncing for the month of December 2025,Service Request,For Cancel,0,2026-01-06 16:39:16,1899-12-30,13,0.0,Gensan
@@ -154,7 +154,7 @@ Joshua,42834,C7 Store,PTU Setup,Service Request,In Progress,0,2026-01-23 11:01:4
 Joshua,42835,C7 Store,POS Installation,Service Request,In Progress,0,2026-01-23 11:02:12,1899-12-30,0,20.0,CDO
 Joshua,42836,C7 Store, Printer and Cash Drawer Setup,Service Request,In Progress,0,2026-01-23 11:02:49,1899-12-30,0,20.0,CDO
 Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,In Progress,0,2026-01-23 11:03:20,1899-12-30,0,0.0,CDO
-Joshua,42838,R V SUPERMART, Cant connect to MySQL Server,Service Request,In Progress,0,2026-01-23 11:03:50,1899-12-30,0,30.0,CDO
+Joshua,42838,R V SUPERMART, Cant connect to MySQL Server,Incident,In Progress,0,2026-01-23 11:03:50,1899-12-30,0,30.0,CDO
 
 
 User: Jude
@@ -295,7 +295,7 @@ User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,38,50.0,CDO
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,9,70.0,Davao
-Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,7,533.0,CDO
+Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,For Close,0,2026-01-14 11:45:52,1899-12-30,7,533.0,CDO
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,6,35.0,Davao
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,4,0.0,Davao
 Venz Jan,42684,Suri Fresh Meatshop & Minimart,Get Hardware Details,Service Request,For Close,0,2026-01-20 13:09:07,1899-12-30,3,20.0,Davao
