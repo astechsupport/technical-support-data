@@ -144,6 +144,8 @@ Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect 
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,1,0.0,Davao
 Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,1,0.0,CDO
 Joshua,42792,J-Mart Supermarket ,Printer Setup,Service Request,In Progress,0,2026-01-22 14:07:12,1899-12-30,1,30.0,CDO
+Joshua,42831,C7 Store,Replication Setup (Macabalan),Service Request,Assigned,0,2026-01-23 10:59:24,1899-12-30,0,0.0,CDO
+Joshua,42832,C7 Store,VPN Installation (Macabalan),Service Request,Assigned,0,2026-01-23 11:00:01,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -217,6 +219,7 @@ Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amo
 Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,Assigned,0,2026-01-23 09:45:35,1899-12-30,0,0.0,Davao
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,Assigned,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
 Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,Assigned,0,2026-01-23 10:44:46,1899-12-30,0,0.0,Cebu
+Junmar,42828,KRCK BudgetWise Trading OPC,Unbalance X and Z Reading,Service Request,Assigned,0,2026-01-23 10:57:18,1899-12-30,0,0.0,Davao
 
 
 User: Rico
@@ -305,4 +308,6 @@ Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation 
 Venz Jan,42817,Buffalo Industrial Supply,Good day! regarding aning gi reflect sa price mam/sir sa Trust receipt ba dili lagi selling price ang nakabutang sa By area mam/,Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
 Venz Jan,42819,Bagsak Presyo,Need help for POS error MysQL syntax,Service Request,Assigned,0,2026-01-23 09:22:27,1899-12-30,0,0.0,Davao
 Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
+Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
+Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,Assigned,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
 
