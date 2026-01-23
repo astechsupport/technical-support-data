@@ -108,6 +108,7 @@ Jeric Johann,42809,Gravala Enterprises,Petty Cash Voucher in Bill Payment ,Servi
 Jeric Johann,42810,Gravala Enterprises,Purchase Request Report in Inventory Request,Service Request,Assigned,0,2026-01-23 08:57:05,1899-12-30,0,0.0,Gensan
 Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module,Service Request,Assigned,0,2026-01-23 08:57:42,1899-12-30,0,0.0,Gensan
 Jeric Johann,42812,Gravala Enterprises,Withdrawal Slip in Sales Receipt Module,Service Request,Assigned,0,2026-01-23 08:58:12,1899-12-30,0,0.0,Gensan
+Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,Assigned,0,2026-01-23 09:19:47,1899-12-30,0,0.0,Davao
 
 
 User: Joshua
@@ -181,11 +182,14 @@ Jude,42782,Beljen Variety Store,Network Assessment,Service Request,For Close,0,2
 Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,For Close,0,2026-01-22 11:13:42,1899-12-30,1,14.0,Cebu
 Jude,42784,Beljen Variety Store,ActiveOne Installation,Service Request,For Close,0,2026-01-22 11:14:26,1899-12-30,1,14.0,Cebu
 Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,For Close,0,2026-01-22 11:14:51,1899-12-30,1,30.0,Cebu
-Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,In Progress,0,2026-01-22 17:50:09,1899-12-30,1,0.0,Ilo-ilo
+Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,For Close,0,2026-01-22 17:50:09,1899-12-30,1,30.0,Ilo-ilo
 Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,In Progress,0,2026-01-22 17:51:18,1899-12-30,1,0.0,Ilo-ilo
 Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,In Progress,0,2026-01-22 17:51:56,1899-12-30,1,0.0,Ilo-ilo
 Jude,42806,Quinn Essentials,Inventory Adjustment Migration,Service Request,In Progress,0,2026-01-23 08:05:10,1899-12-30,0,0.0,CDO
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,Assigned,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
+Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,Assigned,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
+Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,Assigned,0,2026-01-23 09:16:33,1899-12-30,0,0.0,CDO
+Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,Assigned,0,2026-01-23 09:17:13,1899-12-30,0,0.0,CDO
 
 
 User: Junmar
@@ -298,4 +302,5 @@ Venz Jan,42791,Tekpone Communications Enterprises,Inventory Transfer concern,Ser
 Venz Jan,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,1,0.0,Davao
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,1,35.0,CDO
 Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation Detail),Service Request,Assigned,0,2026-01-22 17:27:40,1899-12-30,1,0.0,Gensan
+Venz Jan,42817,Buffalo Industrial Supply,Good day! regarding aning gi reflect sa price mam/sir sa Trust receipt ba dili lagi selling price ang nakabutang sa By area mam/,Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
 
