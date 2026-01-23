@@ -43,9 +43,9 @@ Ceasar Ian,42676,Wealthy Unisavers Distributors Inc.,Transfer A1 to New System U
 Ceasar Ian,42682,Metal Flow,ActiveOne Installation,Service Request,In Progress,0,2026-01-20 12:16:07,1899-12-30,3,30.0,Davao
 Ceasar Ian,42696,"Royal Dragon Southern Distributors, Inc.",OS installation in CenterpointPOS,Service Request,Assigned,0,2026-01-20 15:58:11,1899-12-30,3,0.0,Davao
 Ceasar Ian,42697,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 1,Service Request,In Progress,0,2026-01-20 15:59:45,1899-12-30,3,0.0,Davao
-Ceasar Ian,42698,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 2,Service Request,Assigned,0,2026-01-20 16:00:38,1899-12-30,3,0.0,Davao
-Ceasar Ian,42699,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 3,Service Request,Assigned,0,2026-01-20 16:01:27,1899-12-30,3,0.0,Davao
-Ceasar Ian,42700,"Royal Dragon Southern Distributors, Inc.",Update Pos from 3.2.44 to 3.2.49,Service Request,Assigned,0,2026-01-20 16:02:59,1899-12-30,3,0.0,Davao
+Ceasar Ian,42698,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 2,Service Request,In Progress,0,2026-01-20 16:00:38,1899-12-30,3,0.0,Davao
+Ceasar Ian,42699,"Royal Dragon Southern Distributors, Inc.",Replication set up Centerpoint 3,Service Request,In Progress,0,2026-01-20 16:01:27,1899-12-30,3,0.0,Davao
+Ceasar Ian,42700,"Royal Dragon Southern Distributors, Inc.",Update Pos from 3.2.44 to 3.2.49,Service Request,In Progress,0,2026-01-20 16:02:59,1899-12-30,3,0.0,Davao
 Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,Assigned,0,2026-01-20 16:12:57,1899-12-30,3,0.0,Davao
 Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,Assigned,0,2026-01-20 16:13:50,1899-12-30,3,0.0,Davao
 Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,Assigned,0,2026-01-20 16:14:37,1899-12-30,3,0.0,Davao
@@ -168,7 +168,7 @@ Jude,42423,"Tacurong Fitmart, Inc.", ZERO OUT DS SELLING AREA 1ST FLOOR  ASSISTA
 Jude,42424,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE ASSISTANCE,Service Request,For Close,0,2026-01-09 17:56:47,1899-12-30,10,29.0,Gensan
 Jude,42432,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR  ASSISTANCE,Service Request,For Close,0,2026-01-12 08:38:25,1899-12-30,9,443.0,Gensan
 Jude,42433,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR  ASSISTANCE,Service Request,For Close,0,2026-01-12 08:39:17,1899-12-30,9,480.0,Gensan
-Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:39:52,1899-12-30,9,-873.0,Gensan
+Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTANCE,Service Request,For Close,0,2026-01-12 08:39:52,1899-12-30,9,244.0,Gensan
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:40:24,1899-12-30,9,0.0,Gensan
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,9,0.0,Davao
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,In Progress,0,2026-01-15 08:26:51,1899-12-30,6,0.0,Davao
