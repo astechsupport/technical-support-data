@@ -77,7 +77,7 @@ Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Pr
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30,9,47.0,Davao
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30,8,0.0,Gensan
 Jeric Johann,42618,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Syncing problem gensan server and kidnaerver,Service Request,In Progress,0,2026-01-16 09:53:45,1899-12-30,5,195.0,Gensan
-Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,In Progress,0,2026-01-16 13:24:00,1899-12-30,5,50.0,Gensan
+Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Request,For Close,0,2026-01-16 13:24:00,1899-12-30,5,50.0,Gensan
 Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30,4,0.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,4,0.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,Assigned,0,2026-01-20 10:37:58,1899-12-30,3,0.0,Davao
@@ -319,7 +319,7 @@ Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation 
 Venz Jan,42819,Bagsak Presyo,Need help for POS error MysQL syntax,Service Request,In Progress,0,2026-01-23 09:22:27,1899-12-30,0,15.0,Davao
 Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
-Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,In Progress,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
+Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,For Close,0,2026-01-23 10:58:47,1899-12-30,0,30.0,CDO
 Venz Jan,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,0,0.0,Davao
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,0,4.0,CDO
 Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,Assigned,0,2026-01-23 15:00:20,1899-12-30,0,0.0,Davao
