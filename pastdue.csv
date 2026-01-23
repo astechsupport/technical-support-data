@@ -170,10 +170,10 @@ Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,In Progr
 Jude,42730,Polcas Agri Trade Corp,Item List Migration,Service Request,In Progress,0,2026-01-21 13:15:24,1899-12-30,2,60.0,CDO
 Jude,42731,Polcas Agri Trade Corp,Customer List Migration,Service Request,In Progress,0,2026-01-21 13:16:07,1899-12-30,2,29.0,CDO
 Jude,42732,Polcas Agri Trade Corp,Vendor List Migration,Service Request,In Progress,0,2026-01-21 13:16:39,1899-12-30,2,30.0,CDO
-Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,In Progress,0,2026-01-22 10:14:48,1899-12-30,1,0.0,Cebu
-Jude,42782,Beljen Variety Store,Network Assessment,Service Request,In Progress,0,2026-01-22 11:13:01,1899-12-30,1,0.0,Cebu
-Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,In Progress,0,2026-01-22 11:13:42,1899-12-30,1,0.0,Cebu
-Jude,42784,Beljen Variety Store,ActiveOne Installation,Service Request,In Progress,0,2026-01-22 11:14:26,1899-12-30,1,0.0,Cebu
+Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,For Close,0,2026-01-22 10:14:48,1899-12-30,1,14.0,Cebu
+Jude,42782,Beljen Variety Store,Network Assessment,Service Request,For Close,0,2026-01-22 11:13:01,1899-12-30,1,14.0,Cebu
+Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,For Close,0,2026-01-22 11:13:42,1899-12-30,1,14.0,Cebu
+Jude,42784,Beljen Variety Store,ActiveOne Installation,Service Request,For Close,0,2026-01-22 11:14:26,1899-12-30,1,14.0,Cebu
 Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,In Progress,0,2026-01-22 11:14:51,1899-12-30,1,0.0,Cebu
 Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,In Progress,0,2026-01-22 17:50:09,1899-12-30,1,0.0,Ilo-ilo
 Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,In Progress,0,2026-01-22 17:51:18,1899-12-30,1,0.0,Ilo-ilo
