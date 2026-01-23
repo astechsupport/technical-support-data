@@ -81,6 +81,7 @@ Jeric Johann,42637,Migg Enterprises,Activeone SE installation 107,Service Reques
 Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,Assigned,0,2026-01-19 08:42:03,1899-12-30,4,0.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,4,0.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,Assigned,0,2026-01-20 10:37:58,1899-12-30,3,0.0,Davao
+Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,Assigned,0,2026-01-20 11:42:01,1899-12-30,3,0.0,Davao
 Jeric Johann,42683,RGJ Hardware and Construction Supplies,POS printer not working not printing from computer,Service Request,In Progress,0,2026-01-20 13:08:54,1899-12-30,3,60.0,Gensan
 Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,In Progress,0,2026-01-21 09:15:53,1899-12-30,2,0.0,Gensan
 Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,Assigned,0,2026-01-21 10:09:00,1899-12-30,2,0.0,Gensan
@@ -98,6 +99,7 @@ Jeric Johann,42762,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 1ST FLOOR U
 Jeric Johann,42763,"Tacurong Fitmart, Inc.",ZERO OUT SM WAREHOUSE UTILITY EXECUTION,Service Request,For Close,0,2026-01-22 08:58:29,1899-12-30,1,10.0,Gensan
 Jeric Johann,42764,"Tacurong Fitmart, Inc.",ZERO OUT SM SELLING AREA UTILITY EXECUTION,Service Request,For Close,0,2026-01-22 09:04:53,1899-12-30,1,10.0,Gensan
 Jeric Johann,42772,TSCA Electrical Group of Company Incorporated,"Relocate Server/January 23,2026 ",Service Request,In Progress,0,2026-01-22 10:06:15,1899-12-30,1,0.0,Davao
+Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,1,0.0,Davao
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,1,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,1,0.0,Gensan
 Jeric Johann,42777,Light Diamond Enterprises,Delivery receipt (report customization),Service Request,Assigned,0,2026-01-22 10:14:36,1899-12-30,1,0.0,Gensan
@@ -136,6 +138,7 @@ Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Lapto
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,In Progress,0,2026-01-19 09:36:07,1899-12-30,4,0.0,Davao
 Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,4,60.0,Davao
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,3,60.0,CDO
+Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,Assigned,0,2026-01-20 14:19:29,1899-12-30,3,0.0,Davao
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,2,60.0,CDO
 Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect to Server,Service Request,In Progress,0,2026-01-22 08:39:09,1899-12-30,1,40.0,CDO
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,1,0.0,Davao
@@ -185,7 +188,7 @@ Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,For Close,0,
 Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,For Close,0,2026-01-22 17:50:09,1899-12-30,1,30.0,Ilo-ilo
 Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,For Close,0,2026-01-22 17:51:18,1899-12-30,1,20.0,Ilo-ilo
 Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,For Close,0,2026-01-22 17:51:56,1899-12-30,1,23.0,Ilo-ilo
-Jude,42806,Quinn Essentials,Inventory Adjustment Migration,Service Request,In Progress,0,2026-01-23 08:05:10,1899-12-30,0,0.0,CDO
+Jude,42806,Quinn Essentials,Inventory Adjustment Migration,Service Request,In Progress,0,2026-01-23 08:05:10,1899-12-30,0,75.0,CDO
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,Assigned,0,2026-01-23 09:16:33,1899-12-30,0,0.0,CDO
@@ -215,6 +218,7 @@ Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service R
 Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,In Progress,0,2026-01-23 08:03:49,1899-12-30,0,0.0,CDO
 Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,Assigned,0,2026-01-23 09:45:35,1899-12-30,0,0.0,Davao
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,Assigned,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
+Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,Assigned,0,2026-01-23 10:44:46,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
@@ -279,14 +283,11 @@ Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Ser
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,9,0.0,Davao
 Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,9,0.0,Davao
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,9,70.0,Davao
-Venz Jan,42471,Sports Town Incorporated,A1 concern - stock out item per quantity not accurate base on the date on pull out of product,Service Request,In Progress,0,2026-01-12 18:41:23,1899-12-30,9,35.0,Davao
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,7,533.0,CDO
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,6,35.0,Davao
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,4,0.0,Davao
-Venz Jan,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,Assigned,0,2026-01-20 11:42:01,1899-12-30,3,0.0,Davao
 Venz Jan,42684,Suri Fresh Meatshop & Minimart,Get Hardware Details,Service Request,In Progress,0,2026-01-20 13:09:07,1899-12-30,3,20.0,Davao
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,In Progress,0,2026-01-20 13:10:00,1899-12-30,3,0.0,CDO
-Venz Jan,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,Assigned,0,2026-01-20 14:19:29,1899-12-30,3,0.0,Davao
 Venz Jan,42692,LGM Global Industries Inc.,ThinStuff Setup (AUDITORMEL),Service Request,In Progress,0,2026-01-20 15:49:57,1899-12-30,3,60.0,Davao
 Venz Jan,42693,LGM Global Industries Inc.,ThinStuff Setup (JCFelicio),Service Request,In Progress,0,2026-01-20 15:50:33,1899-12-30,3,49.0,Davao
 Venz Jan,42711,DVO Paperhauze and School Supplies,Back up Concern,Service Request,In Progress,0,2026-01-21 08:46:27,1899-12-30,2,0.0,Davao
@@ -297,7 +298,6 @@ Venz Jan,42738,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-1),Service 
 Venz Jan,42739,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-2),Service Request,In Progress,0,2026-01-21 14:25:06,1899-12-30,2,50.0,Davao
 Venz Jan,42740,LGM Global Industries Inc.,ThinStuff Setup (LGMGlobal-0),Service Request,In Progress,0,2026-01-21 14:25:55,1899-12-30,2,40.0,Davao
 Venz Jan,42769,FLUIDZ Minimart,Price in POS is not updated,Service Request,In Progress,0,2026-01-22 09:44:42,1899-12-30,1,95.0,Cebu
-Venz Jan,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,1,0.0,Davao
 Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,Assigned,0,2026-01-22 11:04:58,1899-12-30,1,0.0,Davao
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,1,50.0,CDO
 Venz Jan,42789,Metro Cycle Mart,VPN set up laptop,Service Request,In Progress,0,2026-01-22 13:07:10,1899-12-30,1,0.0,Davao
