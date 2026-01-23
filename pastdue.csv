@@ -49,9 +49,9 @@ Ceasar Ian,42700,"Royal Dragon Southern Distributors, Inc.",Update Pos from 3.2.
 Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,Assigned,0,2026-01-20 16:12:57,1899-12-30,3,0.0,Davao
 Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,Assigned,0,2026-01-20 16:13:50,1899-12-30,3,0.0,Davao
 Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,Assigned,0,2026-01-20 16:14:37,1899-12-30,3,0.0,Davao
-Ceasar Ian,42704,"Royal Dragon Southern Distributors, Inc.",Replication set up for RAID SERVER 1,Service Request,In Progress,0,2026-01-20 16:16:08,1899-12-30,3,60.0,Davao
-Ceasar Ian,42705,"Royal Dragon Southern Distributors, Inc.",Replication set up for RAID SERVER 2,Service Request,In Progress,0,2026-01-20 16:16:45,1899-12-30,3,60.0,Davao
-Ceasar Ian,42706,"Royal Dragon Southern Distributors, Inc.",Replication set up for RAID SERVER 3,Service Request,In Progress,0,2026-01-20 16:17:22,1899-12-30,3,60.0,Davao
+Ceasar Ian,42704,"Royal Dragon Southern Distributors, Inc.",Replication set up for Magallanes 1,Service Request,For Close,0,2026-01-20 16:16:08,1899-12-30,3,60.0,Davao
+Ceasar Ian,42705,"Royal Dragon Southern Distributors, Inc.",Replication set up for Magallanes 2,Service Request,For Close,0,2026-01-20 16:16:45,1899-12-30,3,60.0,Davao
+Ceasar Ian,42706,"Royal Dragon Southern Distributors, Inc.",Replication set up for Magallanes 3,Service Request,For Close,0,2026-01-20 16:17:22,1899-12-30,3,60.0,Davao
 Ceasar Ian,42718,Activesystems Software Inc,Setup Email,Internal,Assigned,0,2026-01-21 09:13:10,1899-12-30,2,0.0,Davao
 Ceasar Ian,42770,3A Dressed Chicken Trading,Report customization,Service Request,Assigned,0,2026-01-22 09:53:35,1899-12-30,1,0.0,Davao
 
@@ -112,6 +112,7 @@ Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module
 Jeric Johann,42812,Gravala Enterprises,Withdrawal Slip in Sales Receipt Module,Service Request,Assigned,0,2026-01-23 08:58:12,1899-12-30,0,0.0,Gensan
 Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,Assigned,0,2026-01-23 09:19:47,1899-12-30,0,0.0,Davao
 Jeric Johann,42842,"Tacurong Fitmart, Inc.",Updating of unit ,Service Request,Assigned,0,2026-01-23 14:53:08,1899-12-30,0,0.0,Gensan
+Jeric Johann,42847,ASL Durian Marketing OPC,Set up New Generated PTU for POS,Service Request,Assigned,0,2026-01-23 15:01:51,1899-12-30,0,0.0,Davao
 
 
 User: Joshua
@@ -321,4 +322,5 @@ Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service
 Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,In Progress,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
 Venz Jan,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,0,0.0,Davao
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,0,4.0,CDO
+Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,Assigned,0,2026-01-23 15:00:20,1899-12-30,0,0.0,Davao
 
