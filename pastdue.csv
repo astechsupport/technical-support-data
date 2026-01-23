@@ -289,8 +289,6 @@ Rico,42823, Chicktek Corporation,QTY onhand concern,Service Request,Assigned,0,2
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,38,50.0,CDO
-Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,For Cancel,0,2026-01-12 15:01:01,1899-12-30,9,0.0,Davao
-Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,For Cancel,0,2026-01-12 15:04:24,1899-12-30,9,0.0,Davao
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,9,70.0,Davao
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,7,533.0,CDO
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,6,35.0,Davao
@@ -316,5 +314,5 @@ Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation 
 Venz Jan,42819,Bagsak Presyo,Need help for POS error MysQL syntax,Service Request,In Progress,0,2026-01-23 09:22:27,1899-12-30,0,0.0,Davao
 Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
-Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,Assigned,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
+Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,In Progress,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
 
