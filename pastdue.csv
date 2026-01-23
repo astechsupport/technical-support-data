@@ -183,8 +183,8 @@ Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,For Close,0,2026-01
 Jude,42784,Beljen Variety Store,ActiveOne Installation,Service Request,For Close,0,2026-01-22 11:14:26,1899-12-30,1,14.0,Cebu
 Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,For Close,0,2026-01-22 11:14:51,1899-12-30,1,30.0,Cebu
 Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,For Close,0,2026-01-22 17:50:09,1899-12-30,1,30.0,Ilo-ilo
-Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,In Progress,0,2026-01-22 17:51:18,1899-12-30,1,0.0,Ilo-ilo
-Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,In Progress,0,2026-01-22 17:51:56,1899-12-30,1,0.0,Ilo-ilo
+Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,For Close,0,2026-01-22 17:51:18,1899-12-30,1,20.0,Ilo-ilo
+Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,For Close,0,2026-01-22 17:51:56,1899-12-30,1,23.0,Ilo-ilo
 Jude,42806,Quinn Essentials,Inventory Adjustment Migration,Service Request,In Progress,0,2026-01-23 08:05:10,1899-12-30,0,0.0,CDO
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,Assigned,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,Assigned,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
@@ -303,4 +303,5 @@ Venz Jan,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,1,35.0,CDO
 Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation Detail),Service Request,Assigned,0,2026-01-22 17:27:40,1899-12-30,1,0.0,Gensan
 Venz Jan,42817,Buffalo Industrial Supply,Good day! regarding aning gi reflect sa price mam/sir sa Trust receipt ba dili lagi selling price ang nakabutang sa By area mam/,Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
+Venz Jan,42819,Bagsak Presyo,Need help for POS error MysQL syntax,Service Request,Assigned,0,2026-01-23 09:22:27,1899-12-30,0,0.0,Davao
 
