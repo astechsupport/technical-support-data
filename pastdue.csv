@@ -102,7 +102,7 @@ Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon o
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,1,0.0,Gensan
 Jeric Johann,42777,Light Diamond Enterprises,Delivery receipt (report customization),Service Request,Assigned,0,2026-01-22 10:14:36,1899-12-30,1,0.0,Gensan
 Jeric Johann,42788,"DMI Medical Supply Company, Inc.",Trial Balance Report Diagnosis,Service Request,Assigned,0,2026-01-22 12:34:05,1899-12-30,1,0.0,Davao
-Jeric Johann,42807,Light Diamond Enterprises,REPLICATION SYNCING MARBELBO2 ,Service Request,Assigned,0,2026-01-23 08:54:34,1899-12-30,0,0.0,Gensan
+Jeric Johann,42807,Light Diamond Enterprises,REPLICATION SYNCING MARBELBO2 ,Service Request,In Progress,0,2026-01-23 08:54:34,1899-12-30,0,0.0,Gensan
 Jeric Johann,42808,Gravala Enterprises,Disbursement Voucher Report in Bill Payment,Service Request,Assigned,0,2026-01-23 08:55:43,1899-12-30,0,0.0,Gensan
 Jeric Johann,42809,Gravala Enterprises,Petty Cash Voucher in Bill Payment ,Service Request,Assigned,0,2026-01-23 08:56:29,1899-12-30,0,0.0,Gensan
 Jeric Johann,42810,Gravala Enterprises,Purchase Request Report in Inventory Request,Service Request,Assigned,0,2026-01-23 08:57:05,1899-12-30,0,0.0,Gensan
@@ -184,8 +184,8 @@ Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,For Close,0,
 Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,In Progress,0,2026-01-22 17:50:09,1899-12-30,1,0.0,Ilo-ilo
 Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,In Progress,0,2026-01-22 17:51:18,1899-12-30,1,0.0,Ilo-ilo
 Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,In Progress,0,2026-01-22 17:51:56,1899-12-30,1,0.0,Ilo-ilo
-Jude,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,Assigned,0,2026-01-23 08:03:49,1899-12-30,0,0.0,CDO
 Jude,42806,Quinn Essentials,Inventory Adjustment Migration,Service Request,In Progress,0,2026-01-23 08:05:10,1899-12-30,0,0.0,CDO
+Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,Assigned,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
 
 
 User: Junmar
@@ -207,6 +207,7 @@ Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Bala
 Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,Assigned,0,2026-01-19 09:44:49,1899-12-30,4,0.0,Ilo-ilo
 Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,For Close,0,2026-01-19 17:37:49,1899-12-30,4,30.0,Cebu
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,Assigned,0,2026-01-22 10:53:39,1899-12-30,1,0.0,Davao
+Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,Assigned,0,2026-01-23 08:03:49,1899-12-30,0,0.0,CDO
 
 
 User: Rico
