@@ -211,6 +211,7 @@ Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Bala
 Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,Assigned,0,2026-01-19 09:44:49,1899-12-30,4,0.0,Ilo-ilo
 Junmar,42673,JJM Trading and Services,Deploy Audit Trail,Service Request,For Close,0,2026-01-19 17:37:49,1899-12-30,4,30.0,Cebu
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,Assigned,0,2026-01-22 10:53:39,1899-12-30,1,0.0,Davao
+Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,1,0.0,Davao
 Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,Assigned,0,2026-01-23 08:03:49,1899-12-30,0,0.0,CDO
 
 
@@ -268,6 +269,8 @@ Rico,42737,"DMI Medical Supply Company, Inc.",POS Concerns: Sales Invoice like P
 Rico,42793,T.S.K. Rice Trading,Add user Account,Service Request,Assigned,0,2026-01-22 14:28:09,1899-12-30,1,0.0,Davao
 Rico,42794,VICO BUILDING OPC,ActiveOne Installation,Service Request,Assigned,0,2026-01-22 15:34:51,1899-12-30,1,0.0,Davao
 Rico,42795,VICO BUILDING OPC,Setup VPN to Laptop,Service Request,Assigned,0,2026-01-22 15:35:30,1899-12-30,1,0.0,Davao
+Rico,42820, Chicktek Corporation,Inventory Clearance Form item description did not display,Service Request,Assigned,0,2026-01-23 09:32:32,1899-12-30,0,0.0,Davao
+Rico,42821, Chicktek Corporation,Customized PO form w/ image layout adjustment,Service Request,Assigned,0,2026-01-23 09:33:44,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -299,7 +302,6 @@ Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,Assigned,0,2026-0
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,1,50.0,CDO
 Venz Jan,42789,Metro Cycle Mart,VPN set up laptop,Service Request,In Progress,0,2026-01-22 13:07:10,1899-12-30,1,0.0,Davao
 Venz Jan,42791,Tekpone Communications Enterprises,Inventory Transfer concern,Service Request,Assigned,0,2026-01-22 13:19:15,1899-12-30,1,0.0,Davao
-Venz Jan,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,1,0.0,Davao
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,1,35.0,CDO
 Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation Detail),Service Request,Assigned,0,2026-01-22 17:27:40,1899-12-30,1,0.0,Gensan
 Venz Jan,42817,Buffalo Industrial Supply,Good day! regarding aning gi reflect sa price mam/sir sa Trust receipt ba dili lagi selling price ang nakabutang sa By area mam/,Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
