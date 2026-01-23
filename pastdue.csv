@@ -163,7 +163,7 @@ Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches N
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,32,0.0,Gensan
 Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 08:28:18,1899-12-30,27,0.0,Gensan
 Jude,42421,"Tacurong Fitmart, Inc.", ZERO OUT SM SELLING AREA ASSISTANCE,Service Request,For Close,0,2026-01-09 17:53:55,1899-12-30,10,565.0,Gensan
-Jude,42422,"Tacurong Fitmart, Inc.", ZERO OUT SM WAREHOUSE ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:54:50,1899-12-30,10,0.0,Gensan
+Jude,42422,"Tacurong Fitmart, Inc.", ZERO OUT SM WAREHOUSE ASSISTANCE,Service Request,For Close,0,2026-01-09 17:54:50,1899-12-30,10,34.0,Gensan
 Jude,42423,"Tacurong Fitmart, Inc.", ZERO OUT DS SELLING AREA 1ST FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:55:40,1899-12-30,10,0.0,Gensan
 Jude,42424,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:56:47,1899-12-30,10,0.0,Gensan
 Jude,42432,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:38:25,1899-12-30,9,0.0,Gensan
@@ -316,4 +316,5 @@ Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Descr
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
 Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,In Progress,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
 Venz Jan,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,0,0.0,Davao
+Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,Assigned,0,2026-01-23 14:18:10,1899-12-30,0,0.0,CDO
 
