@@ -164,9 +164,9 @@ Jude,41869,J and G Trading Corporation,The prices do not match between the POS a
 Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 08:28:18,1899-12-30,27,0.0,Gensan
 Jude,42421,"Tacurong Fitmart, Inc.", ZERO OUT SM SELLING AREA ASSISTANCE,Service Request,For Close,0,2026-01-09 17:53:55,1899-12-30,10,565.0,Gensan
 Jude,42422,"Tacurong Fitmart, Inc.", ZERO OUT SM WAREHOUSE ASSISTANCE,Service Request,For Close,0,2026-01-09 17:54:50,1899-12-30,10,34.0,Gensan
-Jude,42423,"Tacurong Fitmart, Inc.", ZERO OUT DS SELLING AREA 1ST FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:55:40,1899-12-30,10,0.0,Gensan
-Jude,42424,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE ASSISTANCE,Service Request,In Progress,0,2026-01-09 17:56:47,1899-12-30,10,0.0,Gensan
-Jude,42432,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:38:25,1899-12-30,9,0.0,Gensan
+Jude,42423,"Tacurong Fitmart, Inc.", ZERO OUT DS SELLING AREA 1ST FLOOR  ASSISTANCE,Service Request,For Close,0,2026-01-09 17:55:40,1899-12-30,10,480.0,Gensan
+Jude,42424,"Tacurong Fitmart, Inc.",ZERO OUT DS WAREHOUSE ASSISTANCE,Service Request,For Close,0,2026-01-09 17:56:47,1899-12-30,10,29.0,Gensan
+Jude,42432,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 2ND FLOOR  ASSISTANCE,Service Request,For Close,0,2026-01-12 08:38:25,1899-12-30,9,443.0,Gensan
 Jude,42433,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 3RD FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:39:17,1899-12-30,9,0.0,Gensan
 Jude,42434,"Tacurong Fitmart, Inc.",ZERO OUT DS SELLING AREA 4TH FLOOR  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:39:52,1899-12-30,9,0.0,Gensan
 Jude,42435,"Tacurong Fitmart, Inc.",ZERO OUT NOT IN COUNT  ASSISTANCE,Service Request,In Progress,0,2026-01-12 08:40:24,1899-12-30,9,0.0,Gensan
@@ -220,10 +220,10 @@ Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service
 Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Balance due in Invoice,Service Request,Assigned,0,2026-01-19 09:44:20,1899-12-30,4,0.0,Ilo-ilo
 Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,Assigned,0,2026-01-19 09:44:49,1899-12-30,4,0.0,Ilo-ilo
 Junmar,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,3,0.0,Gensan
-Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,Assigned,0,2026-01-22 10:53:39,1899-12-30,1,0.0,Davao
+Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,In Progress,0,2026-01-22 10:53:39,1899-12-30,1,60.0,Davao
 Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,1,0.0,Davao
 Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,In Progress,0,2026-01-23 08:03:49,1899-12-30,0,0.0,CDO
-Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,Assigned,0,2026-01-23 09:45:35,1899-12-30,0,0.0,Davao
+Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,In Progress,0,2026-01-23 09:45:35,1899-12-30,0,20.0,Davao
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,Assigned,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
 Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,Assigned,0,2026-01-23 10:44:46,1899-12-30,0,0.0,Cebu
 Junmar,42828,KRCK BudgetWise Trading OPC,Unbalance X and Z Reading,Service Request,Assigned,0,2026-01-23 10:57:18,1899-12-30,0,0.0,Davao
@@ -316,5 +316,5 @@ Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Descr
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
 Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,In Progress,0,2026-01-23 10:58:47,1899-12-30,0,0.0,CDO
 Venz Jan,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,0,0.0,Davao
-Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,Assigned,0,2026-01-23 14:18:10,1899-12-30,0,0.0,CDO
+Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,0,0.0,CDO
 
