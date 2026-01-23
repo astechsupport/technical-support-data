@@ -124,14 +124,12 @@ Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress
 Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,2025-12-09 15:21:02,1899-12-30,33,120.0,CDO
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,31,0.0,CDO
 Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service Request,In Progress,0,2025-12-11 09:26:57,1899-12-30,31,0.0,CDO
-Joshua,42154,ILT Food Products,Printer Setup,Service Request,For Close,0,2025-12-23 09:06:07,1899-12-30,23,0.0,CDO
 Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,In Progress,0,2025-12-29 11:53:31,1899-12-30,19,30.0,CDO
 Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,In Progress,0,2026-01-02 11:24:50,1899-12-30,15,120.0,CDO
 Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Service Request,In Progress,0,2026-01-05 08:35:04,1899-12-30,14,60.0,Gensan
 Joshua,42287,PAYLING'S RESTAURANT,Payling;s Restaurant: Deployment of Fixes in Sales Report Bug,Internal,In Progress,0,2026-01-06 08:21:01,1899-12-30,13,30.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,12,0.0,CDO
 Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Progress,0,2026-01-09 11:26:09,1899-12-30,10,30.0,CDO
-Joshua,42436,Farmers Edge Agriventures Inc.,Delayed Printing in POS Bayugan Branch,Service Request,For Cancel,0,2026-01-12 08:58:43,1899-12-30,9,0.0,Davao
 Joshua,42476,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,In Progress,0,2026-01-12 19:10:19,1899-12-30,9,150.0,Davao
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,7,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,5,0.0,CDO
@@ -219,8 +217,8 @@ Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christ
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,8,0.0,Ilo-ilo
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,6,0.0,Cebu
 Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service Request,In Progress,0,2026-01-19 09:43:29,1899-12-30,4,310.0,Ilo-ilo
-Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Balance due in Invoice,Service Request,In Progress,0,2026-01-19 09:44:20,1899-12-30,4,0.0,Ilo-ilo
-Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,Assigned,0,2026-01-19 09:44:49,1899-12-30,4,0.0,Ilo-ilo
+Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Balance due in Invoice,Service Request,In Progress,0,2026-01-19 09:44:20,1899-12-30,4,70.0,Ilo-ilo
+Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,In Progress,0,2026-01-19 09:44:49,1899-12-30,4,5.0,Ilo-ilo
 Junmar,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,3,0.0,Gensan
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,In Progress,0,2026-01-22 10:53:39,1899-12-30,1,100.0,Davao
 Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,1,0.0,Davao
@@ -315,7 +313,6 @@ Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation 
 Venz Jan,42819,Bagsak Presyo,Need help for POS error MysQL syntax,Service Request,In Progress,0,2026-01-23 09:22:27,1899-12-30,0,15.0,Davao
 Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
-Venz Jan,42830,R V SUPERMART,MySQL Resetup,Service Request,For Close,0,2026-01-23 10:58:47,1899-12-30,0,30.0,CDO
 Venz Jan,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,0,0.0,Davao
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,0,4.0,CDO
 Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,Assigned,0,2026-01-23 15:00:20,1899-12-30,0,0.0,Davao
