@@ -144,6 +144,7 @@ Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect 
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,1,0.0,Davao
 Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,1,0.0,CDO
 Joshua,42792,J-Mart Supermarket ,Printer Setup,Service Request,In Progress,0,2026-01-22 14:07:12,1899-12-30,1,30.0,CDO
+Joshua,42817,Almico Drug OPC,VPN Installation(Server),Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
 Joshua,42831,C7 Store,Replication Setup (Macabalan),Service Request,Assigned,0,2026-01-23 10:59:24,1899-12-30,0,0.0,CDO
 Joshua,42832,C7 Store,VPN Installation (Macabalan),Service Request,Assigned,0,2026-01-23 11:00:01,1899-12-30,0,0.0,CDO
 Joshua,42833,C7 Store,MySQL Backup and Restore (Macabalan),Service Request,Assigned,0,2026-01-23 11:01:06,1899-12-30,0,0.0,CDO
@@ -226,6 +227,7 @@ Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,Assigned
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,Assigned,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
 Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,Assigned,0,2026-01-23 10:44:46,1899-12-30,0,0.0,Cebu
 Junmar,42828,KRCK BudgetWise Trading OPC,Unbalance X and Z Reading,Service Request,Assigned,0,2026-01-23 10:57:18,1899-12-30,0,0.0,Davao
+Junmar,42839,Mindanao Agriplus Corporation,Diagnose Trial Balance Concern,Service Request,Assigned,0,2026-01-23 11:11:44,1899-12-30,0,0.0,Davao
 
 
 User: Rico
@@ -288,7 +290,7 @@ User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,38,50.0,CDO
 Venz Jan,42461,KRCK BudgetWise Trading OPC,Unbalance Z & X Reading,Service Request,In Progress,0,2026-01-12 15:01:01,1899-12-30,9,0.0,Davao
-Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,In Progress,0,2026-01-12 15:04:24,1899-12-30,9,0.0,Davao
+Venz Jan,42462,Mindanao Agriplus Corporation,Deployment of Fixes in Trial Balance concern,Service Request,For Cancel,0,2026-01-12 15:04:24,1899-12-30,9,0.0,Davao
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,9,70.0,Davao
 Venz Jan,42535,Unisafe Marketing Inc.,Sales Invoice Enhancement,Service Request,In Progress,0,2026-01-14 11:45:52,1899-12-30,7,533.0,CDO
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,6,35.0,Davao
@@ -311,7 +313,6 @@ Venz Jan,42789,Metro Cycle Mart,VPN set up laptop,Service Request,In Progress,0,
 Venz Jan,42791,Tekpone Communications Enterprises,Inventory Transfer concern,Service Request,Assigned,0,2026-01-22 13:19:15,1899-12-30,1,0.0,Davao
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,1,35.0,CDO
 Venz Jan,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation Detail),Service Request,Assigned,0,2026-01-22 17:27:40,1899-12-30,1,0.0,Gensan
-Venz Jan,42817,Almico Drug OPC,VPN Installation(Server),Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
 Venz Jan,42819,Bagsak Presyo,Need help for POS error MysQL syntax,Service Request,Assigned,0,2026-01-23 09:22:27,1899-12-30,0,0.0,Davao
 Venz Jan,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,Assigned,0,2026-01-23 10:57:40,1899-12-30,0,0.0,CDO
