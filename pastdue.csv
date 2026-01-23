@@ -59,7 +59,7 @@ Ceasar Ian,42770,3A Dressed Chicken Trading,Report customization,Service Request
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41161,Light Diamond Enterprises,Marbel BO2 syncing,Service Request,In Progress,0,2025-11-17 14:16:50,1899-12-30,49,0.0,Gensan
-Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,41,0.0,Davao
+Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,For Cancel,0,2025-11-27 10:30:23,1899-12-30,41,0.0,Davao
 Jeric Johann,41753,FARMERS BREAD,Request for modification of sales order,Service Request,For Cancel,0,2025-12-09 11:07:46,1899-12-30,33,0.0,Gensan
 Jeric Johann,41867,AMAGA SECURITY TRAINING SCHOOL INC. / EBENEZER MARKETING & MACHINERY WORKS CORPORATION,Printing in Cash or Check Voucher in Write Check should be half of the bond paper,Service Request,For Cancel,0,2025-12-10 16:33:51,1899-12-30,32,0.0,Gensan
 Jeric Johann,41885,Tropiland Enterprises,Re install of Active system application ,Service Request,For Cancel,0,2025-12-11 16:06:06,1899-12-30,31,0.0,Gensan
@@ -154,7 +154,7 @@ Joshua,42834,C7 Store,PTU Setup,Service Request,In Progress,0,2026-01-23 11:01:4
 Joshua,42835,C7 Store,POS Installation,Service Request,In Progress,0,2026-01-23 11:02:12,1899-12-30,0,20.0,CDO
 Joshua,42836,C7 Store, Printer and Cash Drawer Setup,Service Request,In Progress,0,2026-01-23 11:02:49,1899-12-30,0,20.0,CDO
 Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,In Progress,0,2026-01-23 11:03:20,1899-12-30,0,0.0,CDO
-Joshua,42838,R V SUPERMART, Cant connect to MySQL Server,Incident,In Progress,0,2026-01-23 11:03:50,1899-12-30,0,30.0,CDO
+Joshua,42838,R V SUPERMART, Cant connect to MySQL Server,Incident,For Close,0,2026-01-23 11:03:50,1899-12-30,0,30.0,CDO
 
 
 User: Jude
