@@ -148,6 +148,7 @@ Joshua,42836,C7 Store, Printer and Cash Drawer Setup,Service Request,In Progress
 Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,In Progress,0,2026-01-23 11:03:20,1899-12-30,0,240.0,CDO
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,Assigned,0,2026-01-26 11:12:05,1899-12-30,0,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,0,0.0,CDO
+Joshua,42870,CT ARTS GROCERY STORE,Incident: Server down,Incident,Assigned,0,2026-01-26 14:33:01,1899-12-30,0,0.0,Gensan
 
 
 User: Jude
@@ -195,6 +196,9 @@ Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,In Progres
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,Assigned,0,2026-01-23 14:55:18,1899-12-30,0,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,0,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,0,0.0,Davao
+Jude,42869,Zigmund Enterprises,ActiveOne Installation (server and 2 workstation),Service Request,In Progress,0,2026-01-26 14:32:42,1899-12-30,0,0.0,CDO
+Jude,42871,Zigmund Enterprises,VPN Installation (server),Service Request,Assigned,0,2026-01-26 14:33:29,1899-12-30,0,0.0,CDO
+Jude,42872,Zigmund Enterprises,VPN Installation (1 workstation),Service Request,Assigned,0,2026-01-26 14:34:31,1899-12-30,0,0.0,CDO
 
 
 User: Junmar
@@ -224,6 +228,8 @@ Junmar,42849,Vexoil Phil Corporation,Installation of POS (Balasan Branch),Servic
 Junmar,42850,Vexoil Phil Corporation,Set up Replication (Balasan Branch),Service Request,Assigned,0,2026-01-23 18:27:34,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42851,Vexoil Phil Corporation,VPN Installation (Balasan Branch),Service Request,For Close,0,2026-01-23 18:28:26,1899-12-30,0,10.0,Ilo-ilo
 Junmar,42852,Vexoil Phil Corporation,MySQL Installation (Balasan Branch),Service Request,For Close,0,2026-01-23 18:29:15,1899-12-30,0,30.0,Ilo-ilo
+Junmar,42867,Y&C Marketing Corporation,Activeone Installation (Carbon Branch),Service Request,Assigned,0,2026-01-26 14:30:25,1899-12-30,0,0.0,Cebu
+Junmar,42868,Y&C Marketing Corporation,VPN Installation & Set-up (Carbon Branch),Service Request,Assigned,0,2026-01-26 14:31:24,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
