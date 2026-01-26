@@ -171,9 +171,9 @@ Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Re
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,In Progress,0,2026-01-16 11:20:26,1899-12-30,5,60.0,Davao
 Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,In Progress,0,2026-01-16 11:21:31,1899-12-30,5,0.0,Davao
 Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,In Progress,0,2026-01-16 11:22:51,1899-12-30,5,0.0,Davao
-Jude,42625,SRED Inc., Activeone installation,Service Request,In Progress,0,2026-01-16 11:24:37,1899-12-30,5,0.0,Davao
-Jude,42626,SRED Inc.,Auto Backup installation,Service Request,In Progress,0,2026-01-16 11:26:06,1899-12-30,5,0.0,Davao
-Jude,42627,SRED Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:27:25,1899-12-30,5,0.0,Davao
+Jude,42625,SRED Inc., Activeone installation,Service Request,For Close,0,2026-01-16 11:24:37,1899-12-30,5,16.0,Davao
+Jude,42626,SRED Inc.,Auto Backup installation,Service Request,For Close,0,2026-01-16 11:26:06,1899-12-30,5,14.0,Davao
+Jude,42627,SRED Inc.,MySQL setup,Service Request,For Close,0,2026-01-16 11:27:25,1899-12-30,5,18.0,Davao
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,5,0.0,Davao
 Jude,42629,Staze Inc.,Activeone installation,Service Request,For Close,0,2026-01-16 11:32:17,1899-12-30,5,10.0,Davao
 Jude,42630,Staze Inc.,Auto Backup installation,Service Request,For Close,0,2026-01-16 11:33:44,1899-12-30,5,15.0,Davao
