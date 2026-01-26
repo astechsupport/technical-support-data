@@ -173,6 +173,7 @@ Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Servic
 Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,In Progress,0,2026-01-16 11:21:31,1899-12-30,5,0.0,Davao
 Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,In Progress,0,2026-01-16 11:22:51,1899-12-30,5,0.0,Davao
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,5,0.0,Davao
+Jude,42629,Staze Inc.,Activeone installation,Service Request,For Close,0,2026-01-16 11:32:17,1899-12-30,5,10.0,Davao
 Jude,42630,Staze Inc.,Auto Backup installation,Service Request,For Close,0,2026-01-16 11:33:44,1899-12-30,5,15.0,Davao
 Jude,42631,Staze Inc.,MySQL setup,Service Request,For Close,0,2026-01-16 11:35:13,1899-12-30,5,12.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,5,0.0,Davao
@@ -215,8 +216,7 @@ Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service
 Junmar,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,0,0.0,Gensan
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,In Progress,0,2026-01-22 10:53:39,1899-12-30,0,100.0,Davao
 Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,0,0.0,Davao
-Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,For Close,0,2026-01-23 08:03:49,1899-12-30,0,102.0,CDO
-Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,For Close,0,2026-01-23 09:45:35,1899-12-30,0,20.0,Davao
+Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,For Close,0,2026-01-23 08:03:49,1899-12-30,0,103.0,CDO
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,Assigned,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
 Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,Assigned,0,2026-01-23 10:44:46,1899-12-30,0,0.0,Cebu
 Junmar,42828,KRCK BudgetWise Trading OPC,Unbalance X and Z Reading,Service Request,Assigned,0,2026-01-23 10:57:18,1899-12-30,0,0.0,Davao
