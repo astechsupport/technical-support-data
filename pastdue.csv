@@ -183,9 +183,6 @@ Jude,42630,Staze Inc.,Auto Backup installation,Service Request,In Progress,0,202
 Jude,42631,Staze Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:35:13,1899-12-30,5,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,5,0.0,Davao
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,In Progress,0,2026-01-20 16:19:10,1899-12-30,0,75.0,Davao
-Jude,42730,Polcas Agri Trade Corp,Item List Migration,Service Request,For Close,0,2026-01-21 13:15:24,1899-12-30,0,60.0,CDO
-Jude,42731,Polcas Agri Trade Corp,Customer List Migration,Service Request,For Close,0,2026-01-21 13:16:07,1899-12-30,0,29.0,CDO
-Jude,42732,Polcas Agri Trade Corp,Vendor List Migration,Service Request,For Close,0,2026-01-21 13:16:39,1899-12-30,0,30.0,CDO
 Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,For Close,0,2026-01-22 10:14:48,1899-12-30,0,14.0,Cebu
 Jude,42782,Beljen Variety Store,Network Assessment,Service Request,For Close,0,2026-01-22 11:13:01,1899-12-30,0,14.0,Cebu
 Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,For Close,0,2026-01-22 11:13:42,1899-12-30,0,14.0,Cebu
@@ -194,7 +191,6 @@ Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,For Close,0,
 Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,For Close,0,2026-01-22 17:50:09,1899-12-30,0,30.0,Ilo-ilo
 Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,For Close,0,2026-01-22 17:51:18,1899-12-30,0,20.0,Ilo-ilo
 Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,For Close,0,2026-01-22 17:51:56,1899-12-30,0,23.0,Ilo-ilo
-Jude,42806,Quinn Essentials,Inventory Adjustment Migration,Service Request,For Close,0,2026-01-23 08:05:10,1899-12-30,0,75.0,CDO
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,In Progress,0,2026-01-23 09:16:33,1899-12-30,0,0.0,CDO
@@ -230,7 +226,7 @@ Junmar,42848,Vexoil Phil Corporation,Installation of LPI (Balasan Branch),Servic
 Junmar,42849,Vexoil Phil Corporation,Installation of POS (Balasan Branch),Service Request,For Close,0,2026-01-23 18:27:03,1899-12-30,0,19.0,Ilo-ilo
 Junmar,42850,Vexoil Phil Corporation,Set up Replication (Balasan Branch),Service Request,Assigned,0,2026-01-23 18:27:34,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42851,Vexoil Phil Corporation,VPN Installation (Balasan Branch),Service Request,For Close,0,2026-01-23 18:28:26,1899-12-30,0,10.0,Ilo-ilo
-Junmar,42852,Vexoil Phil Corporation,MySQL Installation (Balasan Branch),Service Request,In Progress,0,2026-01-23 18:29:15,1899-12-30,0,0.0,Ilo-ilo
+Junmar,42852,Vexoil Phil Corporation,MySQL Installation (Balasan Branch),Service Request,For Close,0,2026-01-23 18:29:15,1899-12-30,0,30.0,Ilo-ilo
 
 
 User: Rico
@@ -287,7 +283,6 @@ Rico,42820, Chicktek Corporation,Inventory Clearance Form item description did n
 Rico,42821, Chicktek Corporation,Customized PO form w/ image layout adjustment,Service Request,Assigned,0,2026-01-23 09:33:44,1899-12-30,0,0.0,Davao
 Rico,42822, Chicktek Corporation,Zero amount reflected in item valuation report,Service Request,Assigned,0,2026-01-23 09:35:18,1899-12-30,0,0.0,Davao
 Rico,42823, Chicktek Corporation,QTY onhand concern,Service Request,Assigned,0,2026-01-23 09:36:46,1899-12-30,0,0.0,Davao
-Rico,42862,St. Francis Shell Station V,SERVER DOWN,Incident,For Close,0,2026-01-26 12:30:18,1899-12-30,0,30.0,Davao
 Rico,42863,ZY HOOPS SHOE STORE,Barcode Printer Setup,Service Request,Assigned,0,2026-01-26 12:33:43,1899-12-30,0,0.0,Davao
 
 
