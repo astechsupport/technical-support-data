@@ -197,8 +197,10 @@ Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,0,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,0,0.0,Davao
 Jude,42869,Zigmund Enterprises,ActiveOne Installation (server and 2 workstation),Service Request,In Progress,0,2026-01-26 14:32:42,1899-12-30,0,0.0,CDO
-Jude,42871,Zigmund Enterprises,VPN Installation (server),Service Request,Assigned,0,2026-01-26 14:33:29,1899-12-30,0,0.0,CDO
-Jude,42872,Zigmund Enterprises,VPN Installation (1 workstation),Service Request,Assigned,0,2026-01-26 14:34:31,1899-12-30,0,0.0,CDO
+Jude,42871,Zigmund Enterprises,VPN Installation (server),Service Request,In Progress,0,2026-01-26 14:33:29,1899-12-30,0,0.0,CDO
+Jude,42872,Zigmund Enterprises,VPN Installation (1 workstation),Service Request,In Progress,0,2026-01-26 14:34:31,1899-12-30,0,0.0,CDO
+Jude,42873,Zigmund Enterprises,MySQL Server Resetup,Service Request,In Progress,0,2026-01-26 14:35:11,1899-12-30,0,0.0,CDO
+Jude,42874,Zigmund Enterprises,Auto Backup Resetup ,Service Request,In Progress,0,2026-01-26 14:35:44,1899-12-30,0,0.0,CDO
 
 
 User: Junmar
