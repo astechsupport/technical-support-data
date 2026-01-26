@@ -183,9 +183,9 @@ Jude,42630,Staze Inc.,Auto Backup installation,Service Request,In Progress,0,202
 Jude,42631,Staze Inc.,MySQL setup,Service Request,In Progress,0,2026-01-16 11:35:13,1899-12-30,5,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,5,0.0,Davao
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,In Progress,0,2026-01-20 16:19:10,1899-12-30,0,75.0,Davao
-Jude,42730,Polcas Agri Trade Corp,Item List Migration,Service Request,In Progress,0,2026-01-21 13:15:24,1899-12-30,0,60.0,CDO
-Jude,42731,Polcas Agri Trade Corp,Customer List Migration,Service Request,In Progress,0,2026-01-21 13:16:07,1899-12-30,0,29.0,CDO
-Jude,42732,Polcas Agri Trade Corp,Vendor List Migration,Service Request,In Progress,0,2026-01-21 13:16:39,1899-12-30,0,30.0,CDO
+Jude,42730,Polcas Agri Trade Corp,Item List Migration,Service Request,For Close,0,2026-01-21 13:15:24,1899-12-30,0,60.0,CDO
+Jude,42731,Polcas Agri Trade Corp,Customer List Migration,Service Request,For Close,0,2026-01-21 13:16:07,1899-12-30,0,29.0,CDO
+Jude,42732,Polcas Agri Trade Corp,Vendor List Migration,Service Request,For Close,0,2026-01-21 13:16:39,1899-12-30,0,30.0,CDO
 Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,For Close,0,2026-01-22 10:14:48,1899-12-30,0,14.0,Cebu
 Jude,42782,Beljen Variety Store,Network Assessment,Service Request,For Close,0,2026-01-22 11:13:01,1899-12-30,0,14.0,Cebu
 Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,For Close,0,2026-01-22 11:13:42,1899-12-30,0,14.0,Cebu
