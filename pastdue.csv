@@ -193,7 +193,7 @@ Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,In Progress,0,2026-01-23 09:16:33,1899-12-30,0,0.0,CDO
 Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,In Progress,0,2026-01-23 09:17:13,1899-12-30,0,0.0,CDO
-Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,Assigned,0,2026-01-23 14:55:18,1899-12-30,0,0.0,Gensan
+Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,0,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,0,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,0,0.0,Davao
 Jude,42869,Zigmund Enterprises,ActiveOne Installation (server and 2 workstation),Service Request,In Progress,0,2026-01-26 14:32:42,1899-12-30,0,0.0,CDO
@@ -219,7 +219,7 @@ Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service
 Junmar,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,0,0.0,Gensan
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,In Progress,0,2026-01-22 10:53:39,1899-12-30,0,100.0,Davao
 Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,0,0.0,Davao
-Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,In Progress,0,2026-01-23 08:03:49,1899-12-30,0,102.0,CDO
+Junmar,42805,RL Enterprises,Amount Not Equal For The Sales and the Deposited Amount,Service Request,For Close,0,2026-01-23 08:03:49,1899-12-30,0,102.0,CDO
 Junmar,42824,Baraclan Sari-Sari Store,Cash Drawer Setup,Service Request,For Close,0,2026-01-23 09:45:35,1899-12-30,0,20.0,Davao
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,Assigned,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
 Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,Assigned,0,2026-01-23 10:44:46,1899-12-30,0,0.0,Cebu
@@ -259,14 +259,6 @@ Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,I
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,10,0.0,Davao
 Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,In Progress,0,2026-01-09 11:00:20,1899-12-30,10,0.0,Davao
 Rico,42539,St. Francis Shell Station V,Setup Replication Temporary Server p1,Service Request,For Close,0,2026-01-14 12:31:25,1899-12-30,5,30.0,Davao
-Rico,42540,St. Francis Shell Station V,Setup Replication Temporary Server p2,Service Request,For Close,0,2026-01-14 12:32:01,1899-12-30,5,30.0,Davao
-Rico,42541,St. Francis Shell Station V,Setup Replication Temporary Server p3,Service Request,For Close,0,2026-01-14 12:32:55,1899-12-30,5,30.0,Davao
-Rico,42542,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p1,Service Request,For Close,0,2026-01-14 12:33:32,1899-12-30,5,30.0,Davao
-Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p2,Service Request,For Close,0,2026-01-14 12:34:15,1899-12-30,5,30.0,Davao
-Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,For Close,0,2026-01-14 12:34:49,1899-12-30,5,30.0,Davao
-Rico,42545,St. Francis Shell Station V,ActiveOne Installation,Service Request,For Close,0,2026-01-14 12:35:58,1899-12-30,5,60.0,Davao
-Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,For Close,0,2026-01-14 14:19:21,1899-12-30,5,60.0,Davao
-Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,For Close,0,2026-01-14 14:19:58,1899-12-30,5,60.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
 Rico,42585,3A Dressed Chicken Trading,A1 Installation,Service Request,In Progress,0,2026-01-15 13:05:33,1899-12-30,5,0.0,Davao
 Rico,42661,FTC Group of Companies Corp.,Update Activeone to Latest,Service Request,In Progress,0,2026-01-19 11:56:36,1899-12-30,5,0.0,Davao
