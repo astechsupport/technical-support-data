@@ -149,6 +149,7 @@ Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,In Progress,0,2026-
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,Assigned,0,2026-01-26 11:12:05,1899-12-30,0,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,0,0.0,CDO
 Joshua,42870,CT ARTS GROCERY STORE,Incident: Server down,Incident,In Progress,0,2026-01-26 14:33:01,1899-12-30,0,0.0,Gensan
+Joshua,42875,ACQUA ENGINEERING AND TECHNICAL SERVICES ,ActiveOne Connection Setup (VPN),Service Request,Assigned,0,2026-01-26 15:39:05,1899-12-30,0,0.0,Cebu
 
 
 User: Jude
@@ -222,7 +223,7 @@ Junmar,42849,Vexoil Phil Corporation,Installation of POS (Balasan Branch),Servic
 Junmar,42850,Vexoil Phil Corporation,Set up Replication (Balasan Branch),Service Request,Assigned,0,2026-01-23 18:27:34,1899-12-30,0,0.0,Ilo-ilo
 Junmar,42851,Vexoil Phil Corporation,VPN Installation (Balasan Branch),Service Request,For Close,0,2026-01-23 18:28:26,1899-12-30,0,10.0,Ilo-ilo
 Junmar,42852,Vexoil Phil Corporation,MySQL Installation (Balasan Branch),Service Request,For Close,0,2026-01-23 18:29:15,1899-12-30,0,30.0,Ilo-ilo
-Junmar,42867,Y&C Marketing Corporation,Activeone Installation (Carbon Branch),Service Request,In Progress,0,2026-01-26 14:30:25,1899-12-30,0,20.0,Cebu
+Junmar,42867,Y&C Marketing Corporation,Activeone Installation (Carbon Branch),Service Request,For Close,0,2026-01-26 14:30:25,1899-12-30,0,20.0,Cebu
 Junmar,42868,Y&C Marketing Corporation,VPN Installation & Set-up (Carbon Branch),Service Request,For Close,0,2026-01-26 14:31:24,1899-12-30,0,5.0,Cebu
 
 
