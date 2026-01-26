@@ -130,11 +130,11 @@ Joshua,42259,VALUE FEEL PHARMACY,CANT CONNECT TO MY SQL SERVER ,Service Request,
 Joshua,42287,PAYLING'S RESTAURANT,Payling;s Restaurant: Deployment of Fixes in Sales Report Bug,Internal,In Progress,0,2026-01-06 08:21:01,1899-12-30,10,30.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,10,0.0,CDO
 Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Progress,0,2026-01-09 11:26:09,1899-12-30,10,30.0,CDO
-Joshua,42476,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,In Progress,0,2026-01-12 19:10:19,1899-12-30,10,150.0,Davao
+Joshua,42476,Farmers Edge Agriventures Inc.,The price list still shows the discounted selling price,Service Request,For Close,0,2026-01-12 19:10:19,1899-12-30,10,150.0,Davao
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,5,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,5,0.0,CDO
 Joshua,42647,Almico Drug OPC,Re- Install ActiveOne Padada Branch,Service Request,In Progress,0,2026-01-19 09:36:07,1899-12-30,5,0.0,Davao
-Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,In Progress,0,2026-01-19 09:36:30,1899-12-30,5,60.0,Davao
+Joshua,42648,AAZ Marketing Inc.,Inventory Request error Could not compile programs FormatReportTittle,Service Request,For Close,0,2026-01-19 09:36:30,1899-12-30,5,60.0,Davao
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,0,60.0,CDO
 Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,Assigned,0,2026-01-20 14:19:29,1899-12-30,0,0.0,Davao
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,0,60.0,CDO
@@ -213,13 +213,10 @@ Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,100,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,100,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,50,0.0,Ilo-ilo
-Junmar,42448,Kergen Marketing,Set up Print to shoot Check,Service Request,For Close,0,2026-01-12 13:25:54,1899-12-30,10,175.0,Ilo-ilo
 Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christopher jhon Ravena),Service Request,In Progress,0,2026-01-13 11:02:19,1899-12-30,5,240.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,5,0.0,Ilo-ilo
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,5,0.0,Cebu
 Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service Request,In Progress,0,2026-01-19 09:43:29,1899-12-30,5,310.0,Ilo-ilo
-Junmar,42652,MIKE RUECO FOOD PRODUCTS MARKETING,Reflect withholding tax and Balance due in Invoice,Service Request,For Close,0,2026-01-19 09:44:20,1899-12-30,5,70.0,Ilo-ilo
-Junmar,42653,MIKE RUECO FOOD PRODUCTS MARKETING,Customize Inventory Transfer to apply Notes,Service Request,For Close,0,2026-01-19 09:44:49,1899-12-30,5,5.0,Ilo-ilo
 Junmar,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,0,0.0,Gensan
 Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,In Progress,0,2026-01-22 10:53:39,1899-12-30,0,100.0,Davao
 Junmar,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,Assigned,0,2026-01-22 15:51:37,1899-12-30,0,0.0,Davao
