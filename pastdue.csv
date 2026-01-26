@@ -148,7 +148,7 @@ Joshua,42836,C7 Store, Printer and Cash Drawer Setup,Service Request,In Progress
 Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,In Progress,0,2026-01-23 11:03:20,1899-12-30,0,240.0,CDO
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,Assigned,0,2026-01-26 11:12:05,1899-12-30,0,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,0,0.0,CDO
-Joshua,42870,CT ARTS GROCERY STORE,Incident: Server down,Incident,Assigned,0,2026-01-26 14:33:01,1899-12-30,0,0.0,Gensan
+Joshua,42870,CT ARTS GROCERY STORE,Incident: Server down,Incident,In Progress,0,2026-01-26 14:33:01,1899-12-30,0,0.0,Gensan
 
 
 User: Jude
@@ -265,8 +265,6 @@ Rico,42542,St. Francis Shell Station V,Setup Replication Temporary Server Mamay 
 Rico,42543,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p2,Service Request,For Close,0,2026-01-14 12:34:15,1899-12-30,5,30.0,Davao
 Rico,42544,St. Francis Shell Station V,Setup Replication Temporary Server Mamay p3,Service Request,For Close,0,2026-01-14 12:34:49,1899-12-30,5,30.0,Davao
 Rico,42545,St. Francis Shell Station V,ActiveOne Installation,Service Request,For Close,0,2026-01-14 12:35:58,1899-12-30,5,60.0,Davao
-Rico,42546,St. Francis Shell Station V,Setup Auto Backup,Service Request,For Close,0,2026-01-14 12:36:46,1899-12-30,5,30.0,Davao
-Rico,42552,St. Francis Shell Station V,Setup VPN Mati PC,Service Request,For Close,0,2026-01-14 14:18:37,1899-12-30,5,60.0,Davao
 Rico,42553,St. Francis Shell Station V,Setup VPN Bacolod PC,Service Request,For Close,0,2026-01-14 14:19:21,1899-12-30,5,60.0,Davao
 Rico,42554,St. Francis Shell Station V,ActiveONe Installation Bacolod,Service Request,For Close,0,2026-01-14 14:19:58,1899-12-30,5,60.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
