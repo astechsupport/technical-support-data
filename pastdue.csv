@@ -273,7 +273,7 @@ Rico,42384,"Instatech, Inc.", Delivery Receipt Template Modification ,Service Re
 Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,In Progress,0,2026-01-09 10:53:33,1899-12-30,10,0.0,Davao
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,10,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,10,0.0,Davao
-Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,In Progress,0,2026-01-09 11:00:20,1899-12-30,10,0.0,Davao
+Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,In Progress,0,2026-01-09 11:00:20,1899-12-30,10,60.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
 Rico,42585,3A Dressed Chicken Trading,A1 Installation,Service Request,For Close,0,2026-01-15 13:05:33,1899-12-30,5,30.0,Davao
 Rico,42661,FTC Group of Companies Corp.,Update Activeone to Latest,Service Request,For Close,0,2026-01-19 11:56:36,1899-12-30,6,60.0,Davao
@@ -302,7 +302,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,41633,KNKS Construction Services, Customize customer balance detail,Service Request,In Progress,0,2025-12-02 16:25:10,1899-12-30,40,50.0,CDO
 Venz Jan,42465,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-12 15:42:44,1899-12-30,11,70.0,Davao
 Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,In Progress,0,2026-01-15 13:06:50,1899-12-30,5,35.0,Davao
-Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,6,100.0,Davao
+Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,6,220.0,Davao
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,In Progress,0,2026-01-20 13:10:00,1899-12-30,5,0.0,CDO
 Venz Jan,42712,DVO Paperhauze and School Supplies,Price Update Concern,Service Request,In Progress,0,2026-01-21 08:47:11,1899-12-30,0,50.0,Davao
 Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,In Progress,0,2026-01-21 09:03:11,1899-12-30,0,0.0,Davao
