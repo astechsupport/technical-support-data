@@ -54,6 +54,7 @@ Ceasar Ian,42705,"Royal Dragon Southern Distributors, Inc.",Replication set up f
 Ceasar Ian,42706,"Royal Dragon Southern Distributors, Inc.",Replication set up for Magallanes 3,Service Request,For Close,0,2026-01-20 16:17:22,1899-12-30,5,60.0,Davao
 Ceasar Ian,42718,Activesystems Software Inc,Setup Email,Internal,Assigned,0,2026-01-21 09:13:10,1899-12-30,0,0.0,Davao
 Ceasar Ian,42770,3A Dressed Chicken Trading,Report customization,Service Request,Assigned,0,2026-01-22 09:53:35,1899-12-30,0,0.0,Davao
+Ceasar Ian,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,In Progress,0,2026-01-22 15:51:37,1899-12-30,0,0.0,Davao
 Ceasar Ian,42881,GDY Airtech Enterprises,Set up new template in printer model L5290,Service Request,In Progress,0,2026-01-26 16:12:07,1899-12-30,1,91.0,Davao
 Ceasar Ian,42903,Padrino General Merchandise,back-up file for unit updating,Service Request,Assigned,0,2026-01-27 09:16:44,1899-12-30,0,0.0,Davao
 
@@ -151,7 +152,6 @@ Joshua,42743,Testlab Engineering and Geotech Services,Workstation can't connect 
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,0,0.0,Davao
 Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,0,0.0,CDO
 Joshua,42792,J-Mart Supermarket ,Printer Setup,Service Request,In Progress,0,2026-01-22 14:07:12,1899-12-30,0,30.0,CDO
-Joshua,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,In Progress,0,2026-01-22 15:51:37,1899-12-30,0,0.0,Davao
 Joshua,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation Detail),Service Request,In Progress,0,2026-01-22 17:27:40,1899-12-30,0,0.0,Gensan
 Joshua,42817,Almico Drug OPC,VPN Installation(Server),Service Request,Assigned,0,2026-01-23 09:17:26,1899-12-30,0,0.0,CDO
 Joshua,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
@@ -164,7 +164,7 @@ Joshua,42836,C7 Store, Printer and Cash Drawer Setup,Service Request,In Progress
 Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,In Progress,0,2026-01-23 11:03:20,1899-12-30,0,240.0,CDO
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,In Progress,0,2026-01-26 11:12:05,1899-12-30,1,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,1,0.0,CDO
-Joshua,42870,CT ARTS GROCERY STORE,Incident: Server down,Incident,In Progress,0,2026-01-26 14:33:01,1899-12-30,1,0.0,Gensan
+Joshua,42870,CT ARTS GROCERY STORE,Incident: Server down,Incident,For Cancel,0,2026-01-26 14:33:01,1899-12-30,1,0.0,Gensan
 Joshua,42875,ACQUA ENGINEERING AND TECHNICAL SERVICES ,ActiveOne Connection Setup (VPN),Service Request,In Progress,0,2026-01-26 15:39:05,1899-12-30,1,0.0,Cebu
 Joshua,42876,J-Mart Supermarket ,Update Sale Invoice 1,Internal,Assigned,0,2026-01-26 15:41:19,1899-12-30,1,0.0,CDO
 Joshua,42877,Casi Marketing Corporation,Template Modification: Daily Collection Report,Service Request,Assigned,0,2026-01-26 16:08:33,1899-12-30,1,0.0,Davao
