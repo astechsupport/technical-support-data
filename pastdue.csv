@@ -11,7 +11,6 @@ Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,60,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,40,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,40,0.0,Davao
-Ceasar Ian,41725,"Royal Dragon Southern Distributors, Inc.",Transfer of Server(replication reset up),Service Request,For Close,0,2025-12-05 09:08:37,1899-12-30,35,0.0,Davao
 Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,30,0.0,Davao
 Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,30,0.0,Davao
 Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30,30,0.0,Davao
@@ -266,14 +265,11 @@ Rico,42725, Chicktek Corporation,ActiveOne Installation,Service Request,For Clos
 Rico,42726, Chicktek Corporation,Setup VPN Cagayan Sr,Service Request,For Close,0,2026-01-21 10:30:49,1899-12-30,0,60.0,Davao
 Rico,42737,"DMI Medical Supply Company, Inc.",POS Concerns: Sales Invoice like POS Validity Expired. ,Service Request,In Progress,0,2026-01-21 14:18:30,1899-12-30,0,0.0,Davao
 Rico,42793,T.S.K. Rice Trading,Add user Account,Service Request,Assigned,0,2026-01-22 14:28:09,1899-12-30,0,0.0,Davao
-Rico,42794,VICO BUILDING OPC,ActiveOne Installation,Service Request,For Close,0,2026-01-22 15:34:51,1899-12-30,0,60.0,Davao
-Rico,42795,VICO BUILDING OPC,Setup VPN to Laptop,Service Request,For Close,0,2026-01-22 15:35:30,1899-12-30,0,90.0,Davao
 Rico,42820, Chicktek Corporation,Inventory Clearance Form item description did not display,Service Request,Assigned,0,2026-01-23 09:32:32,1899-12-30,0,0.0,Davao
 Rico,42821, Chicktek Corporation,Customized PO form w/ image layout adjustment,Service Request,Assigned,0,2026-01-23 09:33:44,1899-12-30,0,0.0,Davao
 Rico,42822, Chicktek Corporation,Zero amount reflected in item valuation report,Service Request,Assigned,0,2026-01-23 09:35:18,1899-12-30,0,0.0,Davao
 Rico,42823, Chicktek Corporation,QTY onhand concern,Service Request,Assigned,0,2026-01-23 09:36:46,1899-12-30,0,0.0,Davao
 Rico,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,0,0.0,Davao
-Rico,42863,ZY HOOPS SHOE STORE,Barcode Printer Setup,Service Request,For Close,0,2026-01-26 12:33:43,1899-12-30,1,120.0,Davao
 Rico,42924,Philfumes Petroleum Corporation,Template Modification in Purchase Order,Service Request,Assigned,0,2026-01-27 15:46:16,1899-12-30,0,0.0,Davao
 Rico,42925,Dexluck Auto Parts Trading,Setup VPN,Service Request,Assigned,0,2026-01-27 16:51:51,1899-12-30,0,0.0,Davao
 Rico,42926,Dexluck Auto Parts Trading,Setup Connection POS/OC,Service Request,Assigned,0,2026-01-27 16:54:33,1899-12-30,0,0.0,Cebu
