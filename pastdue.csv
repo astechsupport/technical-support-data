@@ -255,7 +255,7 @@ Rico,40992,Thunder Park Inc.,Invoice error,Service Request,In Progress,0,2025-11
 Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,In Progress,0,2025-12-04 11:02:03,1899-12-30,35,0.0,Davao
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,For Cancel,0,2025-12-04 11:42:45,1899-12-30,35,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,35,0.0,Davao
-Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,In Progress,0,2025-12-09 11:25:33,1899-12-30,35,0.0,Davao
+Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,For Cancel,0,2025-12-09 11:25:33,1899-12-30,35,0.0,Davao
 Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,For Close,0,2025-12-09 11:30:11,1899-12-30,35,90.0,Davao
 Rico,41875,Paramond Inc, Create RDP Thinstuff for user 1,Service Request,For Cancel,0,2025-12-11 09:43:00,1899-12-30,30,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,30,0.0,Davao
@@ -324,4 +324,5 @@ Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request
 Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,In Progress,0,2026-01-26 17:19:27,1899-12-30,1,30.0,Davao
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,Assigned,0,2026-01-27 10:13:01,1899-12-30,0,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,0,0.0,Davao
+Venz Jan,42914,Thunder Park Inc.,Request for POS to remove the Cash received and change.,Service Request,Assigned,0,2026-01-27 10:33:46,1899-12-30,0,0.0,Davao
 
