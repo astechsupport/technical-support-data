@@ -17,7 +17,6 @@ Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test da
 Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,In Progress,0,2025-12-22 11:28:52,1899-12-30,26,0.0,Davao
 Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-12-22 11:59:53,1899-12-30,26,0.0,Davao
 Ceasar Ian,42131,GDY Airtech Enterprises,template customization,Service Request,For Cancel,0,2025-12-22 12:06:15,1899-12-30,26,0.0,Davao
-Ceasar Ian,42132,Supersun Consumer Goods Trading / Platinum Food Products,Can't connect to Server,Service Request,For Close,0,2025-12-22 13:19:07,1899-12-30,26,0.0,Davao
 Ceasar Ian,42144,"DMI Medical Supply Company, Inc.",DMI : VOIDED TRANSACTION IN GJ REFLECTED IN BALANCE SHEET DETAIL AFTER USING FS utility 5.0.20.21 (64x) (NORMAL RUN),Internal,Assigned,0,2025-12-22 16:21:16,1899-12-30,26,0.0,Davao
 Ceasar Ian,42151,"SOLI DEO GLORIA CHRISTIAN MINISTRIES, INC",Installation A1,Service Request,Assigned,0,2025-12-23 08:35:14,1899-12-30,25,0.0,Davao
 Ceasar Ian,42162,Sure-Spot Distribution Corporation,Sure-spot: Deployment of fixes in their Balance Sheet disbalance,Service Request,Assigned,0,2025-12-23 13:24:47,1899-12-30,25,0.0,Davao
@@ -76,7 +75,6 @@ Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper pa
 Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,Assigned,0,2026-01-21 10:09:00,1899-12-30,0,0.0,Gensan
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,Assigned,0,2026-01-21 10:11:06,1899-12-30,0,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,0,60.0,Gensan
-Jeric Johann,42724,Farmers Edge Agriventures Inc.,Can’t proceed to POS Cash Count.,Service Request,For Close,0,2026-01-21 10:23:15,1899-12-30,0,69.0,Davao
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,0,0.0,Davao
 Jeric Johann,42741,18 Degrees Air Cooling Solutions Inc.,Thinstuff Server Setup,Service Request,In Progress,0,2026-01-21 17:56:38,1899-12-30,0,0.0,Davao
 Jeric Johann,42772,TSCA Electrical Group of Company Incorporated,"Relocate Server/January 23,2026 ",Service Request,In Progress,0,2026-01-22 10:06:15,1899-12-30,0,141.0,Davao
@@ -236,7 +234,6 @@ Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Servic
 Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,For Cancel,0,2025-12-04 11:42:45,1899-12-30,35,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,35,0.0,Davao
 Rico,41758,"DMI Medical Supply Company, Inc.",Bundling of Catch Cover with 2 Capsules Plain (Assembly) Cannot proceed due to error. Screen Display,Service Request,For Cancel,0,2025-12-09 11:25:33,1899-12-30,35,0.0,Davao
-Rico,41761,"DMI Medical Supply Company, Inc.",Bundling (Assembly ) can't proceed due to error  x Non nullable colums connot be updated to Null,Service Request,For Close,0,2025-12-09 11:30:11,1899-12-30,35,90.0,Davao
 Rico,41875,Paramond Inc, Create RDP Thinstuff for user 1,Service Request,For Cancel,0,2025-12-11 09:43:00,1899-12-30,30,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,30,0.0,Davao
 Rico,42029,ZY HOOPS SHOE STORE,bracode printer set-up,Service Request,For Cancel,0,2025-12-16 14:21:14,1899-12-30,30,0.0,Davao
@@ -252,7 +249,6 @@ Rico,42384,"Instatech, Inc.", Delivery Receipt Template Modification ,Service Re
 Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,In Progress,0,2026-01-09 10:53:33,1899-12-30,10,0.0,Davao
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,10,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,10,0.0,Davao
-Rico,42403,BS Safety Trade Corp.,Deploy fixing due to system bug in 5.0.107,Service Request,For Close,0,2026-01-09 11:00:20,1899-12-30,10,60.0,Davao
 Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
 Rico,42668,Remach Kitchen Equipment,Re-install ActiveOne on server,Service Request,In Progress,0,2026-01-19 14:02:45,1899-12-30,6,0.0,Davao
 Rico,42737,"DMI Medical Supply Company, Inc.",POS Concerns: Sales Invoice like POS Validity Expired. ,Service Request,In Progress,0,2026-01-21 14:18:30,1899-12-30,0,0.0,Davao
