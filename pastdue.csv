@@ -183,12 +183,6 @@ Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,In Progress,0,2026-01-20 16:19:10,1899-12-30,6,75.0,Davao
 Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,For Close,0,2026-01-22 10:14:48,1899-12-30,0,14.0,Cebu
 Jude,42782,Beljen Variety Store,Network Assessment,Service Request,For Close,0,2026-01-22 11:13:01,1899-12-30,0,14.0,Cebu
-Jude,42783,Beljen Variety Store,MySQL Set-up,Service Request,For Close,0,2026-01-22 11:13:42,1899-12-30,0,14.0,Cebu
-Jude,42784,Beljen Variety Store,ActiveOne Installation,Service Request,For Close,0,2026-01-22 11:14:26,1899-12-30,0,14.0,Cebu
-Jude,42785,Beljen Variety Store,Auto Back-up Set-up,Service Request,For Close,0,2026-01-22 11:14:51,1899-12-30,0,30.0,Cebu
-Jude,42802,4MS Rueco Marketing OPC,Activeone Installation,Service Request,For Close,0,2026-01-22 17:50:09,1899-12-30,0,30.0,Ilo-ilo
-Jude,42803,4MS Rueco Marketing OPC,Set up MySQL,Service Request,For Close,0,2026-01-22 17:51:18,1899-12-30,0,20.0,Ilo-ilo
-Jude,42804,4MS Rueco Marketing OPC,Set up auto backup,Service Request,For Close,0,2026-01-22 17:51:56,1899-12-30,0,23.0,Ilo-ilo
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,In Progress,0,2026-01-23 09:16:33,1899-12-30,0,0.0,CDO
@@ -203,9 +197,9 @@ Jude,42873,Zigmund Enterprises,MySQL Server Resetup,Service Request,In Progress,
 Jude,42874,Zigmund Enterprises,Auto Backup Resetup ,Service Request,In Progress,0,2026-01-26 14:35:44,1899-12-30,2,0.0,CDO
 Jude,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,Assigned,0,2026-01-27 08:49:40,1899-12-30,1,0.0,Gensan
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,Assigned,0,2026-01-27 08:50:16,1899-12-30,1,0.0,Cebu
-Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,Assigned,0,2026-01-28 10:04:36,1899-12-30,0,0.0,Gensan
+Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,In Progress,0,2026-01-28 10:04:36,1899-12-30,0,0.0,Gensan
 Jude,42962,NEW ERA METALFORMING CORPORATION,No Syncing From All Branches,Service Request,Assigned,0,2026-01-28 10:48:13,1899-12-30,0,0.0,Gensan
-Jude,42965,JBC Technology and Trading Corporation,Masterlist Migration,Service Request,Assigned,0,2026-01-28 11:00:54,1899-12-30,0,0.0,Cebu
+Jude,42965,JBC Technology and Trading Corporation,Masterlist Migration,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,0,0.0,Cebu
 
 
 User: Junmar
