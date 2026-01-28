@@ -163,6 +163,8 @@ Joshua,42941,Philfumes Petroleum Corporation,Lost transactions,Service Request,A
 Joshua,42951,Elequin Pharmacy,Error upon printing in POS,Service Request,In Progress,0,2026-01-28 08:50:27,1899-12-30,0,240.0,CDO
 Joshua,42963, Chicktek Corporation,Request for Additional VPN Connection ,Service Request,Assigned,0,2026-01-28 10:49:38,1899-12-30,0,0.0,Davao
 Joshua,42964, Chicktek Corporation,When P.O. Created. The Item name is incomplete because the item name is long,Service Request,Assigned,0,2026-01-28 10:51:15,1899-12-30,0,0.0,Head Quarter
+Joshua,42975,St. Francis Shell Station V,Replication Bacolod,Service Request,Assigned,0,2026-01-28 14:40:23,1899-12-30,0,0.0,Davao
+Joshua,42976,St. Francis Shell Station V,POS installation,Service Request,Assigned,0,2026-01-28 14:41:51,1899-12-30,0,0.0,Davao
 
 
 User: Jude
@@ -274,7 +276,7 @@ Rico,42930,Dexluck Auto Parts Trading,ActiveOne Installation,Service Request,Ass
 Rico,42942,Activesystems Software Inc,Field sale set up for demo/presentation.,Service Request,Assigned,0,2026-01-27 22:03:30,1899-12-30,1,0.0,Davao
 Rico,42948,Dexluck Auto Parts Trading,Davao to Tagum,Travel Ticket,Assigned,0,2026-01-28 08:33:33,1899-12-30,0,0.0,Davao
 Rico,42949,Dexluck Auto Parts Trading,Tagum to Davao,Travel Ticket,Assigned,0,2026-01-28 08:35:03,1899-12-30,0,0.0,Davao
-Rico,42967,C.P.C. Incorporated ,Server Recovery,Incident,In Progress,0,2026-01-28 11:35:06,1899-12-30,0,170.0,Davao
+Rico,42967,C.P.C. Incorporated ,Server Recovery,Incident,For Close,0,2026-01-28 11:35:06,1899-12-30,0,170.0,Davao
 
 
 User: Venz Jan
@@ -294,7 +296,6 @@ Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In
 Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,In Progress,0,2026-01-23 15:00:20,1899-12-30,0,34.0,Davao
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,2,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,Assigned,0,2026-01-26 11:02:15,1899-12-30,2,0.0,Gensan
-Venz Jan,42864,Philfumes Petroleum Corporation,Check Modification,Service Request,For Close,0,2026-01-26 13:53:54,1899-12-30,2,40.0,Davao
 Venz Jan,42866,Xavi Hardware,Escape sequences in printing,Service Request,Assigned,0,2026-01-26 14:21:35,1899-12-30,2,0.0,Davao
 Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,2,0.0,Davao
 Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,In Progress,0,2026-01-26 17:19:27,1899-12-30,2,30.0,Davao
