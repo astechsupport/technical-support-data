@@ -156,6 +156,7 @@ Joshua,42937,"RBDB & Sons Ventures, Inc.",Change Check Template,Service Request,
 Joshua,42938,"DMI Medical Supply Company, Inc.",Owner’s equity becomes zero after FS generation,Service Request,Assigned,0,2026-01-27 21:51:10,1899-12-30,1,0.0,Davao
 Joshua,42939,"DMI Medical Supply Company, Inc.",CAFL becomes zero after running FS Doc,Service Request,Assigned,0,2026-01-27 21:52:39,1899-12-30,1,0.0,Davao
 Joshua,42941,Philfumes Petroleum Corporation,Lost transactions,Service Request,Assigned,0,2026-01-27 22:01:37,1899-12-30,1,0.0,Davao
+Joshua,42951,Elequin Pharmacy,Error upon printing in POS,Service Request,Assigned,0,2026-01-28 08:50:27,1899-12-30,0,0.0,CDO
 
 
 User: Jude
@@ -306,4 +307,5 @@ Venz Jan,42919,Meat JAS 4U OPC,Replication Maintenance (Main Branch),Service Req
 Venz Jan,42920,PiPrime Corporation,Price Difference during Price Update ( Ozamiz Branch) ,Service Request,Assigned,0,2026-01-27 13:45:36,1899-12-30,1,0.0,CDO
 Venz Jan,42922,Metro Cycle Mart,A1 Installation,Service Request,In Progress,0,2026-01-27 13:59:48,1899-12-30,1,30.0,Davao
 Venz Jan,42950,VMED Marketing,ActiveOne Installation,Service Request,Assigned,0,2026-01-28 08:46:26,1899-12-30,0,0.0,CDO
+Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,Assigned,0,2026-01-28 08:54:16,1899-12-30,0,0.0,Davao
 
