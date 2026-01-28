@@ -77,7 +77,7 @@ Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the
 Jeric Johann,42777,Light Diamond Enterprises,Delivery receipt (report customization),Service Request,Assigned,0,2026-01-22 10:14:36,1899-12-30,0,0.0,Gensan
 Jeric Johann,42788,"DMI Medical Supply Company, Inc.",Trial Balance Report Diagnosis,Service Request,Assigned,0,2026-01-22 12:34:05,1899-12-30,0,0.0,Davao
 Jeric Johann,42807,Light Diamond Enterprises,REPLICATION SYNCING MARBELBO2 ,Service Request,In Progress,0,2026-01-23 08:54:34,1899-12-30,0,240.0,Gensan
-Jeric Johann,42808,Gravala Enterprises,Disbursement Voucher Report in Bill Payment,Service Request,Assigned,0,2026-01-23 08:55:43,1899-12-30,0,0.0,Gensan
+Jeric Johann,42808,Gravala Enterprises,Disbursement Voucher Report in Bill Payment,Service Request,In Progress,0,2026-01-23 08:55:43,1899-12-30,0,60.0,Gensan
 Jeric Johann,42809,Gravala Enterprises,Petty Cash Voucher in Bill Payment ,Service Request,Assigned,0,2026-01-23 08:56:29,1899-12-30,0,0.0,Gensan
 Jeric Johann,42810,Gravala Enterprises,Purchase Request Report in Inventory Request,Service Request,Assigned,0,2026-01-23 08:57:05,1899-12-30,0,0.0,Gensan
 Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module,Service Request,Assigned,0,2026-01-23 08:57:42,1899-12-30,0,0.0,Gensan
@@ -103,6 +103,7 @@ Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password r
 Jeric Johann,42957,Jazz Save Pharmacy and Genedz Mini Mart,Order taker concern,Service Request,Assigned,0,2026-01-28 10:17:55,1899-12-30,0,0.0,Gensan
 Jeric Johann,42958,HS Merchandise,Additional unit to connect in server main ,Service Request,Assigned,0,2026-01-28 10:21:10,1899-12-30,0,0.0,Gensan
 Jeric Johann,42960,GJ and G Marketing,Move Active system (kidapawan & gensan) from laptop to new unit,Service Request,Assigned,0,2026-01-28 10:23:47,1899-12-30,0,0.0,Gensan
+Jeric Johann,42962,NEW ERA METALFORMING CORPORATION,No Syncing From All Branches,Service Request,Assigned,0,2026-01-28 10:48:13,1899-12-30,0,0.0,Gensan
 
 
 User: Joshua
@@ -181,8 +182,6 @@ Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Serv
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,5,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,5,0.0,Davao
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,In Progress,0,2026-01-20 16:19:10,1899-12-30,6,75.0,Davao
-Jude,42778,Beljen Variety Store,Hardware Assessment,Service Request,For Close,0,2026-01-22 10:14:48,1899-12-30,0,14.0,Cebu
-Jude,42782,Beljen Variety Store,Network Assessment,Service Request,For Close,0,2026-01-22 11:13:01,1899-12-30,0,14.0,Cebu
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,0,0.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,0,0.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,In Progress,0,2026-01-23 09:16:33,1899-12-30,0,0.0,CDO
@@ -195,10 +194,8 @@ Jude,42871,Zigmund Enterprises,VPN Installation (server),Service Request,In Prog
 Jude,42872,Zigmund Enterprises,VPN Installation (1 workstation),Service Request,In Progress,0,2026-01-26 14:34:31,1899-12-30,2,0.0,CDO
 Jude,42873,Zigmund Enterprises,MySQL Server Resetup,Service Request,In Progress,0,2026-01-26 14:35:11,1899-12-30,2,0.0,CDO
 Jude,42874,Zigmund Enterprises,Auto Backup Resetup ,Service Request,In Progress,0,2026-01-26 14:35:44,1899-12-30,2,0.0,CDO
-Jude,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,Assigned,0,2026-01-27 08:49:40,1899-12-30,1,0.0,Gensan
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,Assigned,0,2026-01-27 08:50:16,1899-12-30,1,0.0,Cebu
 Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,In Progress,0,2026-01-28 10:04:36,1899-12-30,0,0.0,Gensan
-Jude,42962,NEW ERA METALFORMING CORPORATION,No Syncing From All Branches,Service Request,Assigned,0,2026-01-28 10:48:13,1899-12-30,0,0.0,Gensan
 Jude,42965,JBC Technology and Trading Corporation,Masterlist Migration,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,0,0.0,Cebu
 
 
@@ -298,6 +295,7 @@ Venz Jan,42864,Philfumes Petroleum Corporation,Check Modification,Service Reques
 Venz Jan,42866,Xavi Hardware,Escape sequences in printing,Service Request,Assigned,0,2026-01-26 14:21:35,1899-12-30,2,0.0,Davao
 Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,2,0.0,Davao
 Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,In Progress,0,2026-01-26 17:19:27,1899-12-30,2,30.0,Davao
+Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,Assigned,0,2026-01-27 08:49:40,1899-12-30,1,0.0,Gensan
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,Assigned,0,2026-01-27 10:13:01,1899-12-30,1,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,1,0.0,Davao
 Venz Jan,42914,Thunder Park Inc.,Request for POS to remove the Cash received and change.,Service Request,Assigned,0,2026-01-27 10:33:46,1899-12-30,1,0.0,Davao
@@ -309,4 +307,5 @@ Venz Jan,42920,PiPrime Corporation,Price Difference during Price Update ( Ozamiz
 Venz Jan,42922,Metro Cycle Mart,A1 Installation,Service Request,In Progress,0,2026-01-27 13:59:48,1899-12-30,1,30.0,Davao
 Venz Jan,42950,VMED Marketing,ActiveOne Installation,Service Request,Assigned,0,2026-01-28 08:46:26,1899-12-30,0,0.0,CDO
 Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,Assigned,0,2026-01-28 08:54:16,1899-12-30,0,0.0,Davao
+Venz Jan,42966,VMED Marketing,Diagnosis: Database Backup Recovery,Service Request,Assigned,0,2026-01-28 11:22:52,1899-12-30,0,0.0,CDO
 
