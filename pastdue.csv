@@ -228,6 +228,7 @@ Junmar,42882,Casi Marketing Corporation,Data Migration - Inventory,Service Reque
 Junmar,42918,B & J Computer and Electronic Services,To Access ActiveOne in Valencia branch,Service Request,For Cancel,0,2026-01-27 10:52:28,1899-12-30,1,0.0,Gensan
 Junmar,42946,Ihran Enterprises & Auto Supply Inc.,Activeone Installation,Service Request,Assigned,0,2026-01-28 08:25:47,1899-12-30,0,0.0,Cebu
 Junmar,42947,Romeo’s Pharmaceutical Products Distribution Trading OPC,Transfer one unit for a new one ,Service Request,Assigned,0,2026-01-28 08:26:53,1899-12-30,0,0.0,Ilo-ilo
+Junmar,42968,Improvate Distributions,Migrate Contact Account in Customer name,Service Request,Assigned,0,2026-01-28 13:16:12,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
@@ -308,4 +309,6 @@ Venz Jan,42922,Metro Cycle Mart,A1 Installation,Service Request,In Progress,0,20
 Venz Jan,42950,VMED Marketing,ActiveOne Installation,Service Request,Assigned,0,2026-01-28 08:46:26,1899-12-30,0,0.0,CDO
 Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,Assigned,0,2026-01-28 08:54:16,1899-12-30,0,0.0,Davao
 Venz Jan,42966,VMED Marketing,Diagnosis: Database Backup Recovery,Service Request,Assigned,0,2026-01-28 11:22:52,1899-12-30,0,0.0,CDO
+Venz Jan,42969,VMED Marketing,MySQL Server Resetup,Service Request,Assigned,0,2026-01-28 13:18:26,1899-12-30,0,0.0,CDO
+Venz Jan,42970,VMED Marketing,Restore Database,Service Request,Assigned,0,2026-01-28 13:19:48,1899-12-30,0,0.0,CDO
 
