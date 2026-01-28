@@ -253,7 +253,7 @@ Rico,42384,"Instatech, Inc.", Delivery Receipt Template Modification ,Service Re
 Rico,42400,"Instatech, Inc.",Charge Invoice Template Modification ,Service Request,In Progress,0,2026-01-09 10:53:33,1899-12-30,10,0.0,Davao
 Rico,42401,"Instatech, Inc.",Credit MemoTemplate Modification ,Service Request,In Progress,0,2026-01-09 10:56:28,1899-12-30,10,0.0,Davao
 Rico,42402,"Instatech, Inc.",Debit Memo Template Modification ,Service Request,In Progress,0,2026-01-09 10:57:07,1899-12-30,10,0.0,Davao
-Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,Assigned,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
+Rico,42572,GEJ Shopping Center,PTU Set up,Service Request,In Progress,0,2026-01-15 08:38:27,1899-12-30,5,0.0,Davao
 Rico,42668,Remach Kitchen Equipment,Re-install ActiveOne on server,Service Request,In Progress,0,2026-01-19 14:02:45,1899-12-30,7,0.0,Davao
 Rico,42737,"DMI Medical Supply Company, Inc.",POS Concerns: Sales Invoice like POS Validity Expired. ,Service Request,In Progress,0,2026-01-21 14:18:30,1899-12-30,5,0.0,Davao
 Rico,42793,T.S.K. Rice Trading,Add user Account,Service Request,Assigned,0,2026-01-22 14:28:09,1899-12-30,0,0.0,Davao
@@ -311,4 +311,5 @@ Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount,
 Venz Jan,42966,VMED Marketing,Diagnosis: Database Backup Recovery,Service Request,Assigned,0,2026-01-28 11:22:52,1899-12-30,0,0.0,CDO
 Venz Jan,42969,VMED Marketing,MySQL Server Resetup,Service Request,Assigned,0,2026-01-28 13:18:26,1899-12-30,0,0.0,CDO
 Venz Jan,42970,VMED Marketing,Restore Database,Service Request,Assigned,0,2026-01-28 13:19:48,1899-12-30,0,0.0,CDO
+Venz Jan,42971,VMED Marketing,Auto Backup Resetup,Service Request,Assigned,0,2026-01-28 13:20:30,1899-12-30,0,0.0,CDO
 
