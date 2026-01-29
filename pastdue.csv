@@ -56,12 +56,10 @@ Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30,13,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30,13,47.0,Davao
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30,12,0.0,Gensan
-Jeric Johann,42645,NEW ERA METALFORMING CORPORATION,local replication syncing error to local server,Service Request,For Close,0,2026-01-19 08:42:03,1899-12-30,8,30.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,8,120.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,In Progress,0,2026-01-20 10:37:58,1899-12-30,7,0.0,Davao
 Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,Assigned,0,2026-01-20 11:42:01,1899-12-30,7,0.0,Davao
 Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,In Progress,0,2026-01-21 09:15:53,1899-12-30,6,0.0,Gensan
-Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,For Close,4,2026-01-21 10:09:00,1899-12-30,6,45.0,Gensan
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,Assigned,0,2026-01-21 10:11:06,1899-12-30,6,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,6,60.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,6,0.0,Davao
@@ -200,12 +198,10 @@ Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,107,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,106,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,55,0.0,Ilo-ilo
-Junmar,42499,Vexoil Phil Corporation,Re calculate LPI point for customer (Christopher jhon Ravena),Service Request,For Close,0,2026-01-13 11:02:19,1899-12-30,12,240.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,12,0.0,Ilo-ilo
 Junmar,42603,Improvate Distributions,Reflect Address in Sales Receipt,Service Request,In Progress,0,2026-01-15 17:29:48,1899-12-30,10,40.0,Cebu
 Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service Request,In Progress,0,2026-01-19 09:43:29,1899-12-30,8,384.0,Ilo-ilo
 Junmar,42677,Limco Pharma And Medical Supplies Distribution,Adjustment of Purchase Order Report,Service Request,In Progress,0,2026-01-20 09:59:53,1899-12-30,7,40.0,Gensan
-Junmar,42779,Baraclan Sari-Sari Store,Updated pricing not reflected on POS,Service Request,For Close,0,2026-01-22 10:53:39,1899-12-30,5,100.0,Davao
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,In Progress,0,2026-01-23 09:46:59,1899-12-30,0,0.0,Davao
 Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,In Progress,0,2026-01-23 10:44:46,1899-12-30,0,160.0,Cebu
 Junmar,42828,KRCK BudgetWise Trading OPC,Unbalance X and Z Reading,Service Request,In Progress,0,2026-01-23 10:57:18,1899-12-30,0,80.0,Davao
@@ -213,11 +209,7 @@ Junmar,42839,Mindanao Agriplus Corporation,Diagnose Trial Balance Concern,Servic
 Junmar,42882,Casi Marketing Corporation,Data Migration - Inventory,Service Request,Assigned,0,2026-01-26 16:12:18,1899-12-30,3,0.0,Davao
 Junmar,42915,Thunder Park Inc.,resurfaced closed customer balances after upgrade,Service Request,Assigned,0,2026-01-27 10:36:41,1899-12-30,2,0.0,Davao
 Junmar,42918,B & J Computer and Electronic Services,To Access ActiveOne in Valencia branch,Service Request,For Cancel,0,2026-01-27 10:52:28,1899-12-30,2,0.0,Gensan
-Junmar,42940,Golden Lakemore Corporation,ActiveOne installation,Service Request,For Close,0,2026-01-27 21:54:55,1899-12-30,2,30.0,Davao
-Junmar,42946,Ihran Enterprises & Auto Supply Inc.,Activeone Installation,Service Request,For Close,4,2026-01-28 08:25:47,1899-12-30,1,40.0,Cebu
-Junmar,42947,Romeo’s Pharmaceutical Products Distribution Trading OPC,Transfer one unit for a new one ,Service Request,For Close,5,2026-01-28 08:26:53,1899-12-30,1,40.0,Ilo-ilo
 Junmar,42968,Improvate Distributions,Migrate Contact Account in Customer name,Service Request,In Progress,0,2026-01-28 13:16:12,1899-12-30,1,185.0,Cebu
-Junmar,42973,Almarai Hardware and Electrical Supplies,Install Audit Trail,Service Request,For Close,0,2026-01-28 14:16:25,1899-12-30,1,40.0,Ilo-ilo
 Junmar,43003,Golden Lakemore Corporation,RS Installation in Server,Service Request,For Close,0,2026-01-29 09:25:23,1899-12-30,0,30.0,Davao
 Junmar,43016,Ihran Enterprises & Auto Supply Inc.,VPN Installation workstation,Service Request,Assigned,0,2026-01-29 10:07:11,1899-12-30,0,0.0,Cebu
 Junmar,43021,MCR Agriventure Corporation,"Assistance in generating Z-reading, back end report and reprint copy of last Invoice used",Internal,In Progress,0,2026-01-29 13:51:47,1899-12-30,0,0.0,Ilo-ilo
