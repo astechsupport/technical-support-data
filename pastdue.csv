@@ -61,7 +61,7 @@ Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili m
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,In Progress,0,2026-01-20 10:37:58,1899-12-30,7,0.0,Davao
 Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,Assigned,0,2026-01-20 11:42:01,1899-12-30,7,0.0,Davao
 Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,In Progress,0,2026-01-21 09:15:53,1899-12-30,6,0.0,Gensan
-Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,Assigned,0,2026-01-21 10:09:00,1899-12-30,6,0.0,Gensan
+Jeric Johann,42721,Migg Enterprises,Sa invoice po pag mag preview po kmi may name po na nka indicate po pero pag e print na po namin wla pong naka print na name po sa receipt po,Service Request,For Close,0,2026-01-21 10:09:00,1899-12-30,6,45.0,Gensan
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,Assigned,0,2026-01-21 10:11:06,1899-12-30,6,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,6,60.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,6,0.0,Davao
@@ -192,6 +192,14 @@ Jude,42953,Activesystems Software Inc,reset activeone for training purposes for 
 Jude,42965,JBC Technology and Trading Corporation,Masterlist Migration,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,1,0.0,Cebu
 Jude,42987,S & P Trucking Services,Clear documents,Service Request,Assigned,0,2026-01-28 16:31:28,1899-12-30,1,0.0,Ilo-ilo
 Jude,42988,S & P Trucking Services,Fix maam Toneth Laptop (ODBC Corrupt),Service Request,Assigned,0,2026-01-28 16:31:59,1899-12-30,1,0.0,Ilo-ilo
+Jude,43004,Niel Pharmacy OPC,Replication setup (Lipunan branch) proj 1,Service Request,Assigned,0,2026-01-29 09:36:14,1899-12-30,0,0.0,Ilo-ilo
+Jude,43005,Niel Pharmacy OPC,Replication setup (Lipunan branch) proj 2,Service Request,Assigned,0,2026-01-29 09:36:43,1899-12-30,0,0.0,Ilo-ilo
+Jude,43006,Niel Pharmacy OPC,Replication setup (Lipunan branch) proj 3,Service Request,Assigned,0,2026-01-29 09:37:16,1899-12-30,0,0.0,Ilo-ilo
+Jude,43007,Niel Pharmacy OPC,Replication setup (MAIN for Lipunan branch),Service Request,Assigned,0,2026-01-29 09:37:51,1899-12-30,0,0.0,Ilo-ilo
+Jude,43008,Niel Pharmacy OPC,OC Installation for Lipunan Branch,Service Request,Assigned,0,2026-01-29 09:38:19,1899-12-30,0,0.0,Ilo-ilo
+Jude,43009,Niel Pharmacy OPC,POS Installation for Lipunan Branch,Service Request,Assigned,0,2026-01-29 09:38:44,1899-12-30,0,0.0,Ilo-ilo
+Jude,43010,Niel Pharmacy OPC,POS Lipunan Branch AUTOBACKUP SETUP,Service Request,Assigned,0,2026-01-29 09:39:13,1899-12-30,0,0.0,Ilo-ilo
+Jude,43011,Niel Pharmacy OPC,VPN setup (Lipunan Branch),Service Request,Assigned,0,2026-01-29 09:39:43,1899-12-30,0,0.0,Ilo-ilo
 
 
 User: Junmar
@@ -216,7 +224,7 @@ Junmar,42839,Mindanao Agriplus Corporation,Diagnose Trial Balance Concern,Servic
 Junmar,42882,Casi Marketing Corporation,Data Migration - Inventory,Service Request,Assigned,0,2026-01-26 16:12:18,1899-12-30,3,0.0,Davao
 Junmar,42915,Thunder Park Inc.,resurfaced closed customer balances after upgrade,Service Request,Assigned,0,2026-01-27 10:36:41,1899-12-30,2,0.0,Davao
 Junmar,42918,B & J Computer and Electronic Services,To Access ActiveOne in Valencia branch,Service Request,For Cancel,0,2026-01-27 10:52:28,1899-12-30,2,0.0,Gensan
-Junmar,42940,Golden Lakemore Corporation,ActiveOne installation,Service Request,In Progress,0,2026-01-27 21:54:55,1899-12-30,2,0.0,Davao
+Junmar,42940,Golden Lakemore Corporation,ActiveOne installation,Service Request,In Progress,0,2026-01-27 21:54:55,1899-12-30,2,30.0,Davao
 Junmar,42946,Ihran Enterprises & Auto Supply Inc.,Activeone Installation,Service Request,Assigned,0,2026-01-28 08:25:47,1899-12-30,1,0.0,Cebu
 Junmar,42947,Romeo’s Pharmaceutical Products Distribution Trading OPC,Transfer one unit for a new one ,Service Request,For Close,5,2026-01-28 08:26:53,1899-12-30,1,40.0,Ilo-ilo
 Junmar,42968,Improvate Distributions,Migrate Contact Account in Customer name,Service Request,In Progress,0,2026-01-28 13:16:12,1899-12-30,1,185.0,Cebu
