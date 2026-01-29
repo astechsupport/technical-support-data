@@ -273,7 +273,6 @@ Rico,43019,GEJ Shopping Center,Create windows User (FALSE),Service Request,Assig
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,42586,ARTES DE SAN VICENTE PRODUCERS COOPERATIVE (Vat Exempt)),PTU Set Up,Service Request,For Close,0,2026-01-15 13:06:50,1899-12-30,10,35.0,Davao
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,8,370.0,Davao
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,In Progress,0,2026-01-20 13:10:00,1899-12-30,7,0.0,CDO
 Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,In Progress,0,2026-01-21 09:03:11,1899-12-30,6,0.0,Davao
