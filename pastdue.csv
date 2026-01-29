@@ -151,11 +151,11 @@ Joshua,42941,Philfumes Petroleum Corporation,Lost transactions,Service Request,A
 Joshua,42951,Elequin Pharmacy,Error upon printing in POS,Service Request,In Progress,0,2026-01-28 08:50:27,1899-12-30,1,240.0,CDO
 Joshua,42963, Chicktek Corporation,Request for Additional VPN Connection ,Service Request,Assigned,0,2026-01-28 10:49:38,1899-12-30,1,0.0,Davao
 Joshua,42964, Chicktek Corporation,When P.O. Created. The Item name is incomplete because the item name is long,Service Request,Assigned,0,2026-01-28 10:51:15,1899-12-30,1,0.0,Head Quarter
-Joshua,42975,St. Francis Shell Station V,Replication Bacolod,Service Request,Assigned,0,2026-01-28 14:40:23,1899-12-30,1,0.0,Davao
-Joshua,42976,St. Francis Shell Station V,POS installation,Service Request,In Progress,0,2026-01-28 14:41:51,1899-12-30,1,0.0,Davao
-Joshua,42999,St. Francis Shell Station V,VPN Installation,Service Request,In Progress,0,2026-01-29 09:18:52,1899-12-30,0,0.0,Davao
-Joshua,43000,St. Francis Shell Station V,Backup and Restore,Service Request,In Progress,0,2026-01-29 09:19:28,1899-12-30,0,0.0,Davao
-Joshua,43001,St. Francis Shell Station V,MySQL Setup,Service Request,In Progress,0,2026-01-29 09:19:57,1899-12-30,0,0.0,Davao
+Joshua,42975,St. Francis Shell Station V,Replication Bacolod,Service Request,In Progress,0,2026-01-28 14:40:23,1899-12-30,1,20.0,Davao
+Joshua,42976,St. Francis Shell Station V,POS installation,Service Request,In Progress,0,2026-01-28 14:41:51,1899-12-30,1,30.0,Davao
+Joshua,42999,St. Francis Shell Station V,VPN Installation,Service Request,In Progress,0,2026-01-29 09:18:52,1899-12-30,0,10.0,Davao
+Joshua,43000,St. Francis Shell Station V,Backup and Restore,Service Request,In Progress,0,2026-01-29 09:19:28,1899-12-30,0,30.0,Davao
+Joshua,43001,St. Francis Shell Station V,MySQL Setup,Service Request,In Progress,0,2026-01-29 09:19:57,1899-12-30,0,30.0,Davao
 
 
 User: Jude
@@ -224,11 +224,11 @@ Junmar,42901,GJ and G Marketing - Kidapawan,Activeone installation,Service Reque
 Junmar,42915,Thunder Park Inc.,resurfaced closed customer balances after upgrade,Service Request,Assigned,0,2026-01-27 10:36:41,1899-12-30,2,0.0,Davao
 Junmar,42918,B & J Computer and Electronic Services,To Access ActiveOne in Valencia branch,Service Request,For Cancel,0,2026-01-27 10:52:28,1899-12-30,2,0.0,Gensan
 Junmar,42940,Golden Lakemore Corporation,ActiveOne installation,Service Request,For Close,0,2026-01-27 21:54:55,1899-12-30,2,30.0,Davao
-Junmar,42946,Ihran Enterprises & Auto Supply Inc.,Activeone Installation,Service Request,For Close,0,2026-01-28 08:25:47,1899-12-30,1,40.0,Cebu
+Junmar,42946,Ihran Enterprises & Auto Supply Inc.,Activeone Installation,Service Request,For Close,4,2026-01-28 08:25:47,1899-12-30,1,40.0,Cebu
 Junmar,42947,Romeo’s Pharmaceutical Products Distribution Trading OPC,Transfer one unit for a new one ,Service Request,For Close,5,2026-01-28 08:26:53,1899-12-30,1,40.0,Ilo-ilo
 Junmar,42960,GJ and G Marketing,Move Active system (kidapawan & gensan) from laptop to new unit,Service Request,Assigned,0,2026-01-28 10:23:47,1899-12-30,1,0.0,Gensan
 Junmar,42968,Improvate Distributions,Migrate Contact Account in Customer name,Service Request,In Progress,0,2026-01-28 13:16:12,1899-12-30,1,185.0,Cebu
-Junmar,42973,Almarai Hardware and Electrical Supplies,Install Audit Trail,Service Request,In Progress,0,2026-01-28 14:16:25,1899-12-30,1,0.0,Ilo-ilo
+Junmar,42973,Almarai Hardware and Electrical Supplies,Install Audit Trail,Service Request,In Progress,0,2026-01-28 14:16:25,1899-12-30,1,40.0,Ilo-ilo
 Junmar,43003,Golden Lakemore Corporation,RS Installation in Server,Service Request,For Close,0,2026-01-29 09:25:23,1899-12-30,0,30.0,Davao
 Junmar,43016,Ihran Enterprises & Auto Supply Inc.,VPN Installation workstation,Service Request,Assigned,0,2026-01-29 10:07:11,1899-12-30,0,0.0,Cebu
 
