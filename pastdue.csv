@@ -125,9 +125,6 @@ Joshua,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation De
 Joshua,42817,Almico Drug OPC,VPN Installation(Workstation),Service Request,For Close,0,2026-01-23 09:17:26,1899-12-30,0,30.0,CDO
 Joshua,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,0,0.0,Gensan
 Joshua,42834,C7 Store,PTU Setup,Service Request,In Progress,0,2026-01-23 11:01:41,1899-12-30,0,20.0,CDO
-Joshua,42835,C7 Store,POS Installation,Service Request,For Close,0,2026-01-23 11:02:12,1899-12-30,0,20.0,CDO
-Joshua,42836,C7 Store, Printer and Cash Drawer Setup,Service Request,For Close,0,2026-01-23 11:02:49,1899-12-30,0,20.0,CDO
-Joshua,42837,C7 Store,Diagnoses error on POS,Service Request,For Close,0,2026-01-23 11:03:20,1899-12-30,0,240.0,CDO
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,In Progress,0,2026-01-26 11:12:05,1899-12-30,3,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,3,0.0,CDO
 Joshua,42875,ACQUA ENGINEERING AND TECHNICAL SERVICES ,ActiveOne Connection Setup (VPN),Service Request,In Progress,0,2026-01-26 15:39:05,1899-12-30,3,0.0,Cebu
@@ -204,7 +201,7 @@ Jude,43022,JBC Technology and Trading Corporation,customer vendor listings listi
 User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,In Progress,0,2025-07-14 16:38:22,1899-12-30,143,0.0,Cebu
-Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,Assigned,0,2025-08-04 16:39:40,1899-12-30,128,0.0,Cebu
+Junmar,37653,J and J Frozen Food Trading,Assist Zreading Concern on Amount reflected in Mobile Payment,Service Request,For Cancel,0,2025-08-04 16:39:40,1899-12-30,128,0.0,Cebu
 Junmar,37990,Jjysrinn Trading Incorporated,Diagnose Credit Limit Concern Exceeding Limit (Marycure Pharmacy),Service Request,For Cancel,0,2025-08-12 16:14:10,1899-12-30,122,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,Assigned,0,2025-09-02 09:09:43,1899-12-30,107,0.0,Cebu
 Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,107,0.0,Cebu
