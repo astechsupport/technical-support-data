@@ -64,7 +64,7 @@ Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper pa
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,In Progress,0,2026-01-21 10:11:06,1899-12-30,7,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,7,60.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,7,0.0,Davao
-Jeric Johann,42741,18 Degrees Air Cooling Solutions Inc.,Thinstuff Server Setup,Service Request,In Progress,0,2026-01-21 17:56:38,1899-12-30,7,29.0,Davao
+Jeric Johann,42741,18 Degrees Air Cooling Solutions Inc.,Thinstuff Server Setup,Service Request,For Close,0,2026-01-21 17:56:38,1899-12-30,7,29.0,Davao
 Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,6,0.0,Davao
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,6,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,6,0.0,Gensan
@@ -117,7 +117,7 @@ Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Pro
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,12,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,10,0.0,CDO
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,8,60.0,CDO
-Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,In Progress,0,2026-01-20 14:19:29,1899-12-30,8,0.0,Davao
+Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,In Progress,0,2026-01-20 14:19:29,1899-12-30,8,120.0,Davao
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,7,60.0,CDO
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,6,0.0,Davao
 Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,6,0.0,CDO
@@ -267,10 +267,10 @@ Rico,42948,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Davao to Tagum
 Rico,42949,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Tagum to Davao,Travel Ticket,For Close,0,2026-01-28 08:35:03,1899-12-30,2,0.0,Davao
 Rico,42984,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup Order Capture Connections,Service Request,For Close,0,2026-01-28 15:59:49,1899-12-30,2,60.0,Davao
 Rico,42985,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Network Checking,Service Request,For Close,0,2026-01-28 16:00:26,1899-12-30,2,60.0,Davao
-Rico,42991,Remach Kitchen Equipment,MySQL Setup,Service Request,In Progress,0,2026-01-28 16:42:03,1899-12-30,2,120.0,Davao
-Rico,42992,Remach Kitchen Equipment,Setup Auto Backup,Service Request,In Progress,0,2026-01-28 16:42:34,1899-12-30,2,60.0,Davao
-Rico,42993,Remach Kitchen Equipment,ActiveOne Installation,Service Request,In Progress,0,2026-01-28 16:43:09,1899-12-30,2,90.0,Davao
-Rico,42994,Remach Kitchen Equipment,VPN Setup,Service Request,In Progress,0,2026-01-28 16:43:41,1899-12-30,2,60.0,Davao
+Rico,42991,Remach Kitchen Equipment,MySQL Setup,Service Request,For Close,0,2026-01-28 16:42:03,1899-12-30,2,120.0,Davao
+Rico,42992,Remach Kitchen Equipment,Setup Auto Backup,Service Request,For Close,0,2026-01-28 16:42:34,1899-12-30,2,60.0,Davao
+Rico,42993,Remach Kitchen Equipment,ActiveOne Installation,Service Request,For Close,0,2026-01-28 16:43:09,1899-12-30,2,90.0,Davao
+Rico,42994,Remach Kitchen Equipment,VPN Setup,Service Request,For Close,0,2026-01-28 16:43:41,1899-12-30,2,60.0,Davao
 Rico,42996,PDP Convenience,Cashier cannot cash count,Service Request,Assigned,0,2026-01-28 17:20:48,1899-12-30,2,0.0,Gensan
 Rico,43018,GEJ Shopping Center,PTU set-up,Service Request,Assigned,0,2026-01-29 11:38:03,1899-12-30,1,0.0,Davao
 Rico,43019,GEJ Shopping Center,Create windows User (FALSE),Service Request,Assigned,0,2026-01-29 11:38:51,1899-12-30,1,0.0,Davao
