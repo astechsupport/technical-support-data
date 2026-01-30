@@ -5,7 +5,6 @@ Ceasar Ian,39425,"99 Commercial, Inc.",Template Modifcation in Invoice,Service R
 Ceasar Ian,40091,Fire Ox Trading Corporation,Diagnose hanging void transaction in Bank Recon,Internal,For Close,0,2025-10-13 14:22:28,1899-12-30,79,0.0,Davao
 Ceasar Ian,40162,"ANA'S BREEDERS FARMS, INC.",Diagnose inventory book (CAS) not the same amount in item val detail,Internal,In Progress,0,2025-10-15 11:29:45,1899-12-30,77,0.0,Davao
 Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - not reflecting 2025 sales,Internal,In Progress,0,2025-10-15 11:30:51,1899-12-30,77,0.0,Davao
-Ceasar Ian,40468,"99 Commercial, Inc.",New template for non with holding agent,Service Request,For Close,0,2025-10-23 16:09:31,1899-12-30,71,0.0,Davao
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,69,630.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,67,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,63,0.0,Davao
@@ -36,7 +35,6 @@ Ceasar Ian,42472,Sure-Spot Distribution Corporation,Payment/Credit Memo transact
 Ceasar Ian,42473,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2026-01-12 18:50:37,1899-12-30,14,0.0,Davao
 Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Progress,0,2026-01-13 08:51:42,1899-12-30,13,10.0,Davao
 Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Service Request,In Progress,0,2026-01-16 10:31:17,1899-12-30,10,0.0,Davao
-Ceasar Ian,42676,Wealthy Unisavers Distributors Inc.,Transfer A1 to New System Unit,Service Request,For Close,0,2026-01-20 09:10:20,1899-12-30,8,40.0,Davao
 Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,For Cancel,0,2026-01-20 16:12:57,1899-12-30,8,0.0,Davao
 Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,For Cancel,0,2026-01-20 16:13:50,1899-12-30,8,0.0,Davao
 Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,For Cancel,0,2026-01-20 16:14:37,1899-12-30,8,0.0,Davao
@@ -259,7 +257,6 @@ Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,For Close,0,2026-01-19 17:34:22,1899-12-30,9,370.0,Davao
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,For Cancel,0,2026-01-20 13:10:00,1899-12-30,8,0.0,CDO
 Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,For Cancel,0,2026-01-21 09:03:11,1899-12-30,7,0.0,Davao
 Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Service Request,For Cancel,0,2026-01-21 09:08:47,1899-12-30,7,0.0,Davao
@@ -271,7 +268,7 @@ Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
 Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,4,0.0,Davao
-Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,In Progress,0,2026-01-26 17:19:27,1899-12-30,4,30.0,Davao
+Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,For Close,0,2026-01-26 17:19:27,1899-12-30,4,30.0,Davao
 Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,3,0.0,Gensan
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,In Progress,0,2026-01-27 10:13:01,1899-12-30,3,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,3,0.0,Davao
