@@ -145,6 +145,8 @@ Joshua,42951,Elequin Pharmacy,Error upon printing in POS,Service Request,In Prog
 Joshua,42963, Chicktek Corporation,Request for Additional VPN Connection ,Service Request,Assigned,0,2026-01-28 10:49:38,1899-12-30,2,0.0,Davao
 Joshua,42964, Chicktek Corporation,When P.O. Created. The Item name is incomplete because the item name is long,Service Request,Assigned,0,2026-01-28 10:51:15,1899-12-30,2,0.0,Head Quarter
 Joshua,43020,Activesystems Software Inc,Set-up Loyalty Points (MJ Laptop),Internal,Assigned,0,2026-01-29 13:32:03,1899-12-30,1,0.0,CDO
+Joshua,43031,Multigro Healthcare Inc.,ActiveOne installation - shared license.,Service Request,Assigned,0,2026-01-30 08:42:20,1899-12-30,0,0.0,Davao
+Joshua,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,Assigned,0,2026-01-30 08:43:20,1899-12-30,0,0.0,Davao
 
 
 User: Jude
@@ -244,10 +246,10 @@ Rico,42822, Chicktek Corporation,Zero amount reflected in item valuation report,
 Rico,42823, Chicktek Corporation,QTY onhand concern,Service Request,Assigned,0,2026-01-23 09:36:46,1899-12-30,5,0.0,Davao
 Rico,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,5,0.0,Davao
 Rico,42924,Philfumes Petroleum Corporation,Template Modification in Purchase Order,Service Request,Assigned,0,2026-01-27 15:46:16,1899-12-30,3,0.0,Davao
-Rico,42925,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup VPN,Service Request,In Progress,0,2026-01-27 16:51:51,1899-12-30,3,0.0,Davao
-Rico,42926,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup Connection POS/OC,Service Request,In Progress,0,2026-01-27 16:54:33,1899-12-30,3,0.0,Cebu
-Rico,42927,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,MySQL Setup Server,Service Request,In Progress,0,2026-01-27 16:55:31,1899-12-30,3,0.0,Davao
-Rico,42928,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Backup and Restore,Service Request,In Progress,0,2026-01-27 16:55:58,1899-12-30,3,0.0,Davao
+Rico,42925,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup VPN,Service Request,In Progress,0,2026-01-27 16:51:51,1899-12-30,3,60.0,Davao
+Rico,42926,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup Connection POS/OC,Service Request,In Progress,0,2026-01-27 16:54:33,1899-12-30,3,60.0,Cebu
+Rico,42927,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,MySQL Setup Server,Service Request,In Progress,0,2026-01-27 16:55:31,1899-12-30,3,60.0,Davao
+Rico,42928,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Backup and Restore,Service Request,In Progress,0,2026-01-27 16:55:58,1899-12-30,3,60.0,Davao
 Rico,42929,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup Auto Backup,Service Request,In Progress,0,2026-01-27 16:56:28,1899-12-30,3,0.0,Davao
 Rico,42930,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,ActiveOne Installation,Service Request,In Progress,0,2026-01-27 16:57:02,1899-12-30,3,0.0,Davao
 Rico,42942,Activesystems Software Inc,Field sale set up for demo/presentation.,Service Request,Assigned,0,2026-01-27 22:03:30,1899-12-30,3,0.0,Davao
@@ -262,6 +264,7 @@ Rico,42994,Remach Kitchen Equipment,VPN Setup,Service Request,Assigned,0,2026-01
 Rico,42996,PDP Convenience,Cashier cannot cash count,Service Request,Assigned,0,2026-01-28 17:20:48,1899-12-30,2,0.0,Gensan
 Rico,43018,GEJ Shopping Center,PTU set-up,Service Request,Assigned,0,2026-01-29 11:38:03,1899-12-30,1,0.0,Davao
 Rico,43019,GEJ Shopping Center,Create windows User (FALSE),Service Request,Assigned,0,2026-01-29 11:38:51,1899-12-30,1,0.0,Davao
+Rico,43034,D'MAR MARKETING,Hardware Assessment,Service Request,Assigned,0,2026-01-30 08:44:12,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
@@ -303,4 +306,5 @@ Venz Jan,43002,St. Francis Shell Station V,A1 Installation(1-3 units),Service Re
 Venz Jan,43014,St. Francis Shell Station V,A1 Installation(Credits Account Officer),Service Request,In Progress,0,2026-01-29 09:49:27,1899-12-30,1,0.0,Davao
 Venz Jan,43023,St. Francis Shell Station V,VPN Installation(Credits Account Officer),Service Request,In Progress,0,2026-01-29 15:28:05,1899-12-30,1,0.0,Davao
 Venz Jan,43024,St. Francis Shell Station V,VPN Installation(RCAS Sales Associate PC),Service Request,In Progress,0,2026-01-29 15:28:32,1899-12-30,1,0.0,Davao
+Venz Jan,43033,Bahaya Balut Center,Unable to use POS ,Incident,Assigned,0,2026-01-30 08:43:54,1899-12-30,0,0.0,Davao
 
