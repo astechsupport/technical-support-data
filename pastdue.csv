@@ -8,7 +8,7 @@ Ceasar Ian,40163,"ANA'S BREEDERS FARMS, INC.",Diagnose sales by item detail - no
 Ceasar Ian,40557,"Royal Dragon Southern Distributors, Inc.",Replication issue in VALUEplus Centerpoint. ,Service Request,In Progress,0,2025-10-27 11:03:06,1899-12-30,69,630.0,Davao
 Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,In Progress,0,2025-10-29 17:55:00,1899-12-30,67,0.0,Davao
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,63,0.0,Davao
-Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,For Cancel,0,2025-12-02 08:04:04,1899-12-30,43,0.0,Davao
+Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,Assigned,0,2025-12-02 08:04:04,1899-12-30,43,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,43,0.0,Davao
 Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,37,0.0,Davao
 Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,33,0.0,Davao
@@ -47,7 +47,7 @@ Ceasar Ian,43039,The Generics Pharmacy - Matina,(TGP-Pangi) remaining quantity d
 
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,For Cancel,0,2025-11-27 10:30:23,1899-12-30,46,0.0,Davao
+Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,46,0.0,Davao
 Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30,24,0.0,Gensan
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30,14,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30,14,47.0,Davao
@@ -196,8 +196,6 @@ Junmar,43066,Fortune Agrivet Distribution Group Inc.,Item Details Table Sorting 
 User: Rico
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Rico,40992,Thunder Park Inc.,Invoice error,Service Request,In Progress,0,2025-11-10 16:51:29,1899-12-30,59,90.0,Davao
-Rico,41693,Davao Marinatuna Corporation,Diagnose disbalance Balance Sheet,Service Request,For Cancel,0,2025-12-04 11:02:03,1899-12-30,41,0.0,Davao
-Rico,41702,Memer Food Dealer and Manufacturing Corp,Database Simulation Upgrade,Service Request,For Cancel,0,2025-12-04 11:42:45,1899-12-30,41,0.0,Davao
 Rico,41731,Thunder Park Inc.,Review OC change log for blank payment.,Service Request,Assigned,0,2025-12-05 09:46:35,1899-12-30,40,0.0,Davao
 Rico,42025,Jupiter e-Mobility Corp,AP prefix series,Service Request,Assigned,0,2025-12-16 14:02:40,1899-12-30,33,0.0,Davao
 Rico,42152,Davao Great Wall Trading Inc., Invoice Reprint Control  (ActiveOne Back-End),Service Request,Assigned,0,2025-12-23 08:37:55,1899-12-30,28,0.0,Davao
@@ -228,8 +226,7 @@ User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,For Cancel,0,2026-01-20 13:10:00,1899-12-30,8,0.0,CDO
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,6,259.0,CDO
-Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,6,385.0,CDO
-Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,For Cancel,0,2026-01-23 10:57:40,1899-12-30,5,0.0,CDO
+Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,For Close,0,2026-01-22 17:00:26,1899-12-30,6,385.0,CDO
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,4.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
