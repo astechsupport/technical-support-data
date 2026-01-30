@@ -75,7 +75,7 @@ Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module
 Jeric Johann,42812,Gravala Enterprises,Withdrawal Slip in Sales Receipt Module,Service Request,Assigned,0,2026-01-23 08:58:12,1899-12-30,5,0.0,Gensan
 Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,Assigned,0,2026-01-23 09:19:47,1899-12-30,5,0.0,Davao
 Jeric Johann,42842,"Tacurong Fitmart, Inc.",Updating of unit ,Service Request,In Progress,0,2026-01-23 14:53:08,1899-12-30,5,0.0,Gensan
-Jeric Johann,42847,ASL Durian Marketing OPC,Set up New Generated PTU for POS,Service Request,For Close,0,2026-01-23 15:01:51,1899-12-30,5,105.0,Davao
+Jeric Johann,42847,ASL Durian Marketing OPC,Set up New Generated PTU for POS,Service Request,In Progress,0,2026-01-23 15:01:51,1899-12-30,5,105.0,Davao
 Jeric Johann,42879,Casi Marketing Corporation,Template Modification: Daily TRA Collection Report,Service Request,Assigned,0,2026-01-26 16:10:12,1899-12-30,4,0.0,Davao
 Jeric Johann,42880,Casi Marketing Corporation,Template Modification: Daily TRA Sales Report,Service Request,Assigned,0,2026-01-26 16:11:32,1899-12-30,4,0.0,Davao
 Jeric Johann,42894,Sultan Kudarat Coffee Ventures Incorporated,update of our VAT Registration status from VAT to Non-Vat.,Service Request,In Progress,0,2026-01-27 08:39:50,1899-12-30,3,71.0,Gensan
@@ -285,7 +285,6 @@ Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,4.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
-Venz Jan,42866,Xavi Hardware,Skip sequences in printing,Service Request,For Close,0,2026-01-26 14:21:35,1899-12-30,4,210.0,Davao
 Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,4,0.0,Davao
 Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,In Progress,0,2026-01-26 17:19:27,1899-12-30,4,30.0,Davao
 Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,3,0.0,Gensan
