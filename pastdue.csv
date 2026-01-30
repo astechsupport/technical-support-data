@@ -11,11 +11,11 @@ Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,63,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,For Cancel,0,2025-12-02 08:04:04,1899-12-30,43,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,43,0.0,Davao
-Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,37,0.0,Davao
+Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,For Cancel,0,2025-12-10 10:41:06,1899-12-30,37,0.0,Davao
 Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,33,0.0,Davao
 Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30,33,0.0,Davao
 Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,For Cancel,0,2025-12-22 11:28:52,1899-12-30,29,0.0,Davao
-Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-12-22 11:59:53,1899-12-30,29,0.0,Davao
+Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,For Cancel,0,2025-12-22 11:59:53,1899-12-30,29,0.0,Davao
 Ceasar Ian,42131,GDY Airtech Enterprises,template customization,Service Request,For Cancel,0,2025-12-22 12:06:15,1899-12-30,29,0.0,Davao
 Ceasar Ian,42144,"DMI Medical Supply Company, Inc.",DMI : VOIDED TRANSACTION IN GJ REFLECTED IN BALANCE SHEET DETAIL AFTER USING FS utility 5.0.20.21 (64x) (NORMAL RUN),Internal,Assigned,0,2025-12-22 16:21:16,1899-12-30,29,0.0,Davao
 Ceasar Ian,42151,"SOLI DEO GLORIA CHRISTIAN MINISTRIES, INC",Installation A1,Service Request,Assigned,0,2025-12-23 08:35:14,1899-12-30,28,0.0,Davao
@@ -196,6 +196,7 @@ Jude,43010,Niel Pharmacy OPC,POS Lipunan Branch AUTOBACKUP SETUP,Service Request
 Jude,43011,Niel Pharmacy OPC,VPN setup (Lipunan Branch),Service Request,In Progress,0,2026-01-29 09:39:43,1899-12-30,1,0.0,Ilo-ilo
 Jude,43022,JBC Technology and Trading Corporation,customer vendor listings listing,Service Request,In Progress,0,2026-01-29 15:05:15,1899-12-30,1,0.0,Cebu
 Jude,43042,Sultan Kudarat Coffee Ventures Incorporated,cant open activeone & pos (down mysql server),Incident,For Close,0,2026-01-30 09:31:05,1899-12-30,0,60.0,Gensan
+Jude,43050,Unisafe Marketing Inc.,Physical Inventory Report Modification,Service Request,Assigned,0,2026-01-30 13:07:22,1899-12-30,0,0.0,CDO
 
 
 User: Junmar
@@ -266,10 +267,10 @@ Rico,42948,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Davao to Tagum
 Rico,42949,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Tagum to Davao,Travel Ticket,For Close,0,2026-01-28 08:35:03,1899-12-30,2,0.0,Davao
 Rico,42984,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup Order Capture Connections,Service Request,For Close,0,2026-01-28 15:59:49,1899-12-30,2,60.0,Davao
 Rico,42985,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Network Checking,Service Request,For Close,0,2026-01-28 16:00:26,1899-12-30,2,60.0,Davao
-Rico,42991,Remach Kitchen Equipment,MySQL Setup,Service Request,In Progress,0,2026-01-28 16:42:03,1899-12-30,2,0.0,Davao
-Rico,42992,Remach Kitchen Equipment,Setup Auto Backup,Service Request,In Progress,0,2026-01-28 16:42:34,1899-12-30,2,0.0,Davao
-Rico,42993,Remach Kitchen Equipment,ActiveOne Installation,Service Request,In Progress,0,2026-01-28 16:43:09,1899-12-30,2,0.0,Davao
-Rico,42994,Remach Kitchen Equipment,VPN Setup,Service Request,In Progress,0,2026-01-28 16:43:41,1899-12-30,2,0.0,Davao
+Rico,42991,Remach Kitchen Equipment,MySQL Setup,Service Request,In Progress,0,2026-01-28 16:42:03,1899-12-30,2,120.0,Davao
+Rico,42992,Remach Kitchen Equipment,Setup Auto Backup,Service Request,In Progress,0,2026-01-28 16:42:34,1899-12-30,2,60.0,Davao
+Rico,42993,Remach Kitchen Equipment,ActiveOne Installation,Service Request,In Progress,0,2026-01-28 16:43:09,1899-12-30,2,90.0,Davao
+Rico,42994,Remach Kitchen Equipment,VPN Setup,Service Request,In Progress,0,2026-01-28 16:43:41,1899-12-30,2,60.0,Davao
 Rico,42996,PDP Convenience,Cashier cannot cash count,Service Request,Assigned,0,2026-01-28 17:20:48,1899-12-30,2,0.0,Gensan
 Rico,43018,GEJ Shopping Center,PTU set-up,Service Request,Assigned,0,2026-01-29 11:38:03,1899-12-30,1,0.0,Davao
 Rico,43019,GEJ Shopping Center,Create windows User (FALSE),Service Request,Assigned,0,2026-01-29 11:38:51,1899-12-30,1,0.0,Davao
@@ -288,7 +289,7 @@ Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Se
 Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,For Cancel,0,2026-01-22 11:04:58,1899-12-30,6,0.0,Davao
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,6,199.0,CDO
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,6,85.0,CDO
-Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,In Progress,0,2026-01-23 10:57:40,1899-12-30,5,0.0,CDO
+Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,For Cancel,0,2026-01-23 10:57:40,1899-12-30,5,0.0,CDO
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,4.0,CDO
 Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,For Close,0,2026-01-23 15:00:20,1899-12-30,5,34.0,Davao
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
