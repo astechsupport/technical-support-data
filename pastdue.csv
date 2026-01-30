@@ -24,7 +24,7 @@ Ceasar Ian,42243,GGM Pharmacy,Update Sales Invoice,Service Request,Assigned,0,20
 Ceasar Ian,42258,GDY Airtech Enterprises,Concern regarding the unreadable TIN on the invoice (Innoland and Hop Inn),Service Request,Assigned,0,2026-01-02 14:41:28,1899-12-30,20,0.0,Davao
 Ceasar Ian,42305,Dirty Sanchez Food & Beverage,Unable to open Restautant Solution on workstation,Service Request,Assigned,0,2026-01-06 10:33:11,1899-12-30,18,0.0,Davao
 Ceasar Ian,42317,"99 Commercial, Inc.",Transfer server to another unit,Service Request,In Progress,0,2026-01-06 15:31:47,1899-12-30,18,120.0,Davao
-Ceasar Ian,42340,Wealthy Unisavers Distributors Inc.,Can't connect to MySQL,Service Request,Assigned,0,2026-01-07 13:06:02,1899-12-30,17,0.0,Davao
+Ceasar Ian,42340,Wealthy Unisavers Distributors Inc.,Can't connect to MySQL,Service Request,For Cancel,0,2026-01-07 13:06:02,1899-12-30,17,0.0,Davao
 Ceasar Ian,42343,Sure-Spot Distribution Corporation,Sure-spot: Deployment of fixes in Balance Sheet vs Item Valuation disbalance,Service Request,Assigned,0,2026-01-07 13:48:26,1899-12-30,17,0.0,Davao
 Ceasar Ian,42376,"Davao Baker's Choice Enterprises, Inc.",Change name heading in Sales Receipt,Service Request,In Progress,0,2026-01-08 14:32:16,1899-12-30,16,0.0,Davao
 Ceasar Ian,42405,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,Assigned,0,2026-01-09 11:28:20,1899-12-30,15,0.0,Davao
@@ -36,7 +36,7 @@ Ceasar Ian,42472,Sure-Spot Distribution Corporation,Payment/Credit Memo transact
 Ceasar Ian,42473,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2026-01-12 18:50:37,1899-12-30,14,0.0,Davao
 Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Progress,0,2026-01-13 08:51:42,1899-12-30,13,10.0,Davao
 Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Service Request,In Progress,0,2026-01-16 10:31:17,1899-12-30,10,0.0,Davao
-Ceasar Ian,42676,Wealthy Unisavers Distributors Inc.,Transfer A1 to New System Unit,Service Request,In Progress,0,2026-01-20 09:10:20,1899-12-30,8,40.0,Davao
+Ceasar Ian,42676,Wealthy Unisavers Distributors Inc.,Transfer A1 to New System Unit,Service Request,For Close,0,2026-01-20 09:10:20,1899-12-30,8,40.0,Davao
 Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,For Cancel,0,2026-01-20 16:12:57,1899-12-30,8,0.0,Davao
 Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,For Cancel,0,2026-01-20 16:13:50,1899-12-30,8,0.0,Davao
 Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,For Cancel,0,2026-01-20 16:14:37,1899-12-30,8,0.0,Davao
@@ -131,7 +131,7 @@ Joshua,42876,J-Mart Supermarket ,Update Sale Invoice 1,Internal,Assigned,0,2026-
 Joshua,42877,Casi Marketing Corporation,Template Modification: Daily Collection Report,Service Request,Assigned,0,2026-01-26 16:08:33,1899-12-30,4,0.0,Davao
 Joshua,42878,Casi Marketing Corporation,Template Modification: Daily Sales Report,Service Request,Assigned,0,2026-01-26 16:09:25,1899-12-30,4,0.0,Davao
 Joshua,42887,AMR Healthcare Medical Supplies,Average Consumption Per Month,Service Request,Assigned,0,2026-01-26 16:57:52,1899-12-30,4,0.0,CDO
-Joshua,42890,ILT Food Products,ActiveOne Installation,Service Request,In Progress,0,2026-01-26 17:03:26,1899-12-30,4,0.0,CDO
+Joshua,42890,ILT Food Products,ActiveOne Installation,Service Request,In Progress,0,2026-01-26 17:03:26,1899-12-30,4,60.0,CDO
 Joshua,42906,J-Mart Supermarket ,Update Sale Invoice 2,Internal,Assigned,0,2026-01-27 09:34:53,1899-12-30,3,0.0,CDO
 Joshua,42907,J-Mart Supermarket ,Update Sale Invoice 3,Internal,Assigned,0,2026-01-27 09:35:25,1899-12-30,3,0.0,CDO
 Joshua,42908,J-Mart Supermarket ,Update Sale Invoice 4,Internal,Assigned,0,2026-01-27 09:36:03,1899-12-30,3,0.0,CDO
@@ -288,11 +288,11 @@ Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,4.0,CDO
 Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,In Progress,0,2026-01-23 15:00:20,1899-12-30,5,34.0,Davao
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
-Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,Assigned,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
+Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
 Venz Jan,42866,Xavi Hardware,Escape sequences in printing,Service Request,In Progress,0,2026-01-26 14:21:35,1899-12-30,4,210.0,Davao
 Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,4,0.0,Davao
 Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,In Progress,0,2026-01-26 17:19:27,1899-12-30,4,30.0,Davao
-Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,Assigned,0,2026-01-27 08:49:40,1899-12-30,3,0.0,Gensan
+Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,3,0.0,Gensan
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,In Progress,0,2026-01-27 10:13:01,1899-12-30,3,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,3,0.0,Davao
 Venz Jan,42914,Thunder Park Inc.,Request for POS to remove the Cash received and change.,Service Request,Assigned,0,2026-01-27 10:33:46,1899-12-30,3,0.0,Davao
