@@ -83,7 +83,7 @@ Jeric Johann,42879,Casi Marketing Corporation,Template Modification: Daily TRA C
 Jeric Johann,42880,Casi Marketing Corporation,Template Modification: Daily TRA Sales Report,Service Request,Assigned,0,2026-01-26 16:11:32,1899-12-30,4,0.0,Davao
 Jeric Johann,42894,Sultan Kudarat Coffee Ventures Incorporated,update of our VAT Registration status from VAT to Non-Vat.,Service Request,Assigned,0,2026-01-27 08:39:50,1899-12-30,3,0.0,Gensan
 Jeric Johann,42895,Migg Enterprises,Activeone reinstallation,Service Request,For Close,0,2026-01-27 08:42:59,1899-12-30,3,30.0,Gensan
-Jeric Johann,42896,Aylab Pharmacy,Sales pos concern,Service Request,In Progress,0,2026-01-27 08:45:41,1899-12-30,3,0.0,Gensan
+Jeric Johann,42896,Aylab Pharmacy,Sales pos concern,Service Request,In Progress,0,2026-01-27 08:45:41,1899-12-30,3,41.0,Gensan
 Jeric Johann,42900,Migg Enterprises,Installation of OC,Service Request,For Close,4,2026-01-27 08:53:39,1899-12-30,3,30.0,Gensan
 Jeric Johann,42901,GJ and G Marketing - Kidapawan,Activeone installation,Service Request,For Close,0,2026-01-27 08:59:15,1899-12-30,3,30.0,Gensan
 Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,Assigned,0,2026-01-27 09:06:02,1899-12-30,3,0.0,Gensan
@@ -284,7 +284,7 @@ Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEn
 Venz Jan,42672,Xavi Hardware,Need to configure or recalibrate the printer (LX or LQ -300-310 series),Service Request,In Progress,0,2026-01-19 17:34:22,1899-12-30,9,370.0,Davao
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,In Progress,0,2026-01-20 13:10:00,1899-12-30,8,0.0,CDO
 Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,For Cancel,0,2026-01-21 09:03:11,1899-12-30,7,0.0,Davao
-Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Service Request,In Progress,0,2026-01-21 09:08:47,1899-12-30,7,0.0,Davao
+Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Service Request,For Cancel,0,2026-01-21 09:08:47,1899-12-30,7,0.0,Davao
 Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,In Progress,0,2026-01-22 11:04:58,1899-12-30,6,0.0,Davao
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,6,199.0,CDO
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,6,85.0,CDO
