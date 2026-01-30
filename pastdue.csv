@@ -35,9 +35,9 @@ Ceasar Ian,42472,Sure-Spot Distribution Corporation,Payment/Credit Memo transact
 Ceasar Ian,42473,"DMI Medical Supply Company, Inc.",Modify Inventory Transfer list with QTY,Service Request,Assigned,0,2026-01-12 18:50:37,1899-12-30,14,0.0,Davao
 Ceasar Ian,42479,"99 Commercial, Inc.",Set up Autobackup,Service Request,In Progress,0,2026-01-13 08:51:42,1899-12-30,13,10.0,Davao
 Ceasar Ian,42619,GDY Airtech Enterprises,Can't Connect to Server,Service Request,In Progress,0,2026-01-16 10:31:17,1899-12-30,10,0.0,Davao
-Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,For Cancel,0,2026-01-20 16:12:57,1899-12-30,8,0.0,Davao
-Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,For Cancel,0,2026-01-20 16:13:50,1899-12-30,8,0.0,Davao
-Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,For Cancel,0,2026-01-20 16:14:37,1899-12-30,8,0.0,Davao
+Ceasar Ian,42701,"Royal Dragon Southern Distributors, Inc.",Windows Server 2022 installation,Service Request,Assigned,0,2026-01-20 16:12:57,1899-12-30,8,0.0,Davao
+Ceasar Ian,42702,"Royal Dragon Southern Distributors, Inc.",Database Set up,Service Request,Assigned,0,2026-01-20 16:13:50,1899-12-30,8,0.0,Davao
+Ceasar Ian,42703,"Royal Dragon Southern Distributors, Inc.",Set up AutoBackup,Service Request,Assigned,0,2026-01-20 16:14:37,1899-12-30,8,0.0,Davao
 Ceasar Ian,42718,Activesystems Software Inc,Setup Email,Internal,Assigned,0,2026-01-21 09:13:10,1899-12-30,7,0.0,Davao
 Ceasar Ian,42770,3A Dressed Chicken Trading,Report customization,Service Request,Assigned,0,2026-01-22 09:53:35,1899-12-30,6,0.0,Davao
 Ceasar Ian,42796,JTG Party Needs Central OPC ,Concern regarding loose-leaf,Service Request,In Progress,0,2026-01-22 15:51:37,1899-12-30,6,0.0,Davao
@@ -237,9 +237,6 @@ Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,For Cancel,0,2026-01-20 13:10:00,1899-12-30,8,0.0,CDO
-Venz Jan,42714,Golden Lakemore Corporation,Update item description,Service Request,For Cancel,0,2026-01-21 09:03:11,1899-12-30,7,0.0,Davao
-Venz Jan,42717,Villa Amparo Garden Beach Resort,create connection POS-Ola Bar,Service Request,For Cancel,0,2026-01-21 09:08:47,1899-12-30,7,0.0,Davao
-Venz Jan,42781,Two RJB Enterprises,POS Concern,Service Request,For Cancel,0,2026-01-22 11:04:58,1899-12-30,6,0.0,Davao
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,6,259.0,CDO
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,6,385.0,CDO
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,For Cancel,0,2026-01-23 10:57:40,1899-12-30,5,0.0,CDO
