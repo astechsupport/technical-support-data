@@ -137,7 +137,7 @@ Joshua,42907,J-Mart Supermarket ,Update Sale Invoice 3,Internal,Assigned,0,2026-
 Joshua,42908,J-Mart Supermarket ,Update Sale Invoice 4,Internal,Assigned,0,2026-01-27 09:36:03,1899-12-30,3,0.0,CDO
 Joshua,42909,J-Mart Supermarket ,Update Sale Invoice 5,Internal,Assigned,0,2026-01-27 09:37:05,1899-12-30,3,0.0,CDO
 Joshua,42911,DOLE X / Alomah's Agri-Venture Inc, Error on POS Latest Build ActiveOne - 5.0.107,Internal,In Progress,0,2026-01-27 09:46:45,1899-12-30,3,0.0,CDO
-Joshua,42935,OK Southern Mercantile Corp.,MySQL Server Error,Service Request,Assigned,0,2026-01-27 21:35:53,1899-12-30,3,0.0,Davao
+Joshua,42935,OK Southern Mercantile Corp.,MySQL Server Error,Service Request,In Progress,0,2026-01-27 21:35:53,1899-12-30,3,0.0,Davao
 Joshua,42936,Ab-s Pharma and medical Suppliers Distribution,Error upon making deposit,Service Request,Assigned,0,2026-01-27 21:38:37,1899-12-30,3,0.0,Davao
 Joshua,42937,"RBDB & Sons Ventures, Inc.",Change Check Template,Service Request,Assigned,0,2026-01-27 21:40:56,1899-12-30,3,0.0,Davao
 Joshua,42938,"DMI Medical Supply Company, Inc.",Owner’s equity becomes zero after FS generation,Service Request,Assigned,0,2026-01-27 21:51:10,1899-12-30,3,0.0,Davao
@@ -217,7 +217,7 @@ Junmar,42839,Mindanao Agriplus Corporation,Diagnose Trial Balance Concern,Servic
 Junmar,42882,Casi Marketing Corporation,Data Migration - Inventory,Service Request,Assigned,0,2026-01-26 16:12:18,1899-12-30,4,0.0,Davao
 Junmar,42915,Thunder Park Inc.,resurfaced closed customer balances after upgrade,Service Request,Assigned,0,2026-01-27 10:36:41,1899-12-30,3,0.0,Davao
 Junmar,42918,B & J Computer and Electronic Services,To Access ActiveOne in Valencia branch,Service Request,For Cancel,0,2026-01-27 10:52:28,1899-12-30,3,0.0,Gensan
-Junmar,42968,Improvate Distributions,Migrate Contact Account in Customer name,Service Request,In Progress,0,2026-01-28 13:16:12,1899-12-30,2,185.0,Cebu
+Junmar,42968,Improvate Distributions,update database version 5.0.106,Service Request,In Progress,0,2026-01-28 13:16:12,1899-12-30,2,185.0,Cebu
 Junmar,43003,Golden Lakemore Corporation,RS Installation in Server,Service Request,For Close,0,2026-01-29 09:25:23,1899-12-30,1,30.0,Davao
 Junmar,43016,Ihran Enterprises & Auto Supply Inc.,VPN Installation workstation,Service Request,For Cancel,0,2026-01-29 10:07:11,1899-12-30,1,0.0,Cebu
 Junmar,43021,MCR Agriventure Corporation,"Assistance in generating Z-reading, back end report and reprint copy of last Invoice used",Internal,In Progress,0,2026-01-29 13:51:47,1899-12-30,1,0.0,Ilo-ilo
