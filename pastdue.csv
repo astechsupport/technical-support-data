@@ -114,7 +114,7 @@ Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,In Progress,
 Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,For Cancel,0,2026-01-02 11:24:50,1899-12-30,20,120.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,17,0.0,CDO
 Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Progress,0,2026-01-09 11:26:09,1899-12-30,15,30.0,CDO
-Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,For Close,0,2026-01-14 09:21:10,1899-12-30,12,90.0,Gensan
+Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,For Close,5,2026-01-14 09:21:10,1899-12-30,12,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,10,0.0,CDO
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,8,60.0,CDO
 Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,For Close,0,2026-01-20 14:19:29,1899-12-30,8,120.0,Davao
@@ -279,6 +279,7 @@ Rico,43034,D'MAR MARKETING,Hardware Assessment,Service Request,Assigned,0,2026-0
 Rico,43035,D'MAR MARKETING,ActiveOne Installation,Service Request,Assigned,0,2026-01-30 08:46:58,1899-12-30,0,0.0,Davao
 Rico,43036,D'MAR MARKETING,MySQL Setup,Service Request,Assigned,0,2026-01-30 08:48:03,1899-12-30,0,0.0,Davao
 Rico,43037,D'MAR MARKETING,Auto backup Setup,Service Request,Assigned,0,2026-01-30 08:48:51,1899-12-30,0,0.0,Davao
+Rico,43052,Merlion Enterprises,PTU Setup,Service Request,Assigned,0,2026-01-30 13:45:03,1899-12-30,0,0.0,Davao
 
 
 User: Venz Jan
