@@ -65,7 +65,7 @@ Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description i
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,7,60.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,7,0.0,Davao
 Jeric Johann,42741,18 Degrees Air Cooling Solutions Inc.,Thinstuff Server Setup,Service Request,For Close,0,2026-01-21 17:56:38,1899-12-30,7,29.0,Davao
-Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,Assigned,0,2026-01-22 10:08:57,1899-12-30,6,0.0,Davao
+Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,In Progress,0,2026-01-22 10:08:57,1899-12-30,6,0.0,Davao
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,6,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,6,0.0,Gensan
 Jeric Johann,42777,Light Diamond Enterprises,Delivery receipt (report customization),Service Request,Assigned,0,2026-01-22 10:14:36,1899-12-30,6,0.0,Gensan
@@ -88,7 +88,7 @@ Jeric Johann,42900,Migg Enterprises,Installation of OC,Service Request,For Close
 Jeric Johann,42901,GJ and G Marketing - Kidapawan,Activeone installation,Service Request,For Close,0,2026-01-27 08:59:15,1899-12-30,3,30.0,Gensan
 Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,Assigned,0,2026-01-27 09:06:02,1899-12-30,3,0.0,Gensan
 Jeric Johann,42943,Malagos Agri-Ventures Corporation,Active 1 complains about not balancing amount and quantity. In Per location Detail VS. Per Invoice.,Service Request,Assigned,0,2026-01-27 22:05:38,1899-12-30,3,0.0,Davao
-Jeric Johann,42945,Brigada Distributions Inc.,activeone installation,Service Request,Assigned,0,2026-01-27 22:12:02,1899-12-30,3,0.0,Davao
+Jeric Johann,42945,Brigada Distributions Inc.,activeone installation,Service Request,In Progress,0,2026-01-27 22:12:02,1899-12-30,3,0.0,Davao
 Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password restriction set-up - Credit memo,Service Request,Assigned,0,2026-01-28 10:16:45,1899-12-30,2,0.0,Gensan
 Jeric Johann,42957,Jazz Save Pharmacy and Genedz Mini Mart,Order taker concern,Service Request,In Progress,0,2026-01-28 10:17:55,1899-12-30,2,0.0,Gensan
 Jeric Johann,42958,HS Merchandise,Additional unit to connect in server main ,Service Request,Assigned,0,2026-01-28 10:21:10,1899-12-30,2,0.0,Gensan
@@ -169,10 +169,10 @@ Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Serv
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,For Close,5,2026-01-20 16:19:10,1899-12-30,8,75.0,Davao
-Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,5,90.0,CDO
-Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,5,0.0,CDO
-Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,In Progress,0,2026-01-23 09:16:33,1899-12-30,5,0.0,CDO
-Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,In Progress,0,2026-01-23 09:17:13,1899-12-30,5,0.0,CDO
+Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,For Close,0,2026-01-23 09:14:28,1899-12-30,5,90.0,CDO
+Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,For Close,0,2026-01-23 09:15:20,1899-12-30,5,30.0,CDO
+Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,For Close,0,2026-01-23 09:16:33,1899-12-30,5,30.0,CDO
+Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,In Progress,0,2026-01-23 09:17:13,1899-12-30,5,30.0,CDO
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
