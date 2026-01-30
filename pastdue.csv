@@ -115,7 +115,6 @@ Joshua,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Descrip
 Joshua,42834,C7 Store,PTU Setup,Service Request,In Progress,0,2026-01-23 11:01:41,1899-12-30,5,20.0,CDO
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,In Progress,0,2026-01-26 11:12:05,1899-12-30,4,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,4,0.0,CDO
-Joshua,42875,ACQUA ENGINEERING AND TECHNICAL SERVICES ,ActiveOne Connection Setup (VPN),Service Request,For Close,0,2026-01-26 15:39:05,1899-12-30,4,60.0,Cebu
 Joshua,42876,J-Mart Supermarket ,Update Sale Invoice 1,Internal,Assigned,0,2026-01-26 15:41:19,1899-12-30,4,0.0,CDO
 Joshua,42877,Casi Marketing Corporation,Template Modification: Daily Collection Report,Service Request,Assigned,0,2026-01-26 16:08:33,1899-12-30,4,0.0,Davao
 Joshua,42878,Casi Marketing Corporation,Template Modification: Daily Sales Report,Service Request,Assigned,0,2026-01-26 16:09:25,1899-12-30,4,0.0,Davao
@@ -195,22 +194,16 @@ Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Se
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,107,0.0,Cebu
 Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,56,0.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,13,0.0,Ilo-ilo
-Junmar,42603,Improvate Distributions,Update ActiveOne to version 5.0.106 3 units,Service Request,For Close,0,2026-01-15 17:29:48,1899-12-30,11,90.0,Cebu
 Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service Request,In Progress,0,2026-01-19 09:43:29,1899-12-30,9,384.0,Ilo-ilo
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,In Progress,0,2026-01-23 09:46:59,1899-12-30,5,0.0,Davao
-Junmar,42827,LM Commercial,POS Sales Book Report,Service Request,For Close,0,2026-01-23 10:44:46,1899-12-30,5,160.0,Cebu
 Junmar,42828,KRCK BudgetWise Trading OPC,Unbalance X and Z Reading,Service Request,In Progress,0,2026-01-23 10:57:18,1899-12-30,5,80.0,Davao
 Junmar,42839,Mindanao Agriplus Corporation,Diagnose Trial Balance Concern,Service Request,In Progress,0,2026-01-23 11:11:44,1899-12-30,5,179.0,Davao
 Junmar,42882,Casi Marketing Corporation,Data Migration - Inventory,Service Request,Assigned,0,2026-01-26 16:12:18,1899-12-30,4,0.0,Davao
 Junmar,42915,Thunder Park Inc.,resurfaced closed customer balances after upgrade,Service Request,Assigned,0,2026-01-27 10:36:41,1899-12-30,3,0.0,Davao
 Junmar,42918,B & J Computer and Electronic Services,To Access ActiveOne in Valencia branch,Service Request,For Cancel,0,2026-01-27 10:52:28,1899-12-30,3,0.0,Gensan
-Junmar,42968,Improvate Distributions,update database version 5.0.106,Service Request,For Close,0,2026-01-28 13:16:12,1899-12-30,2,225.0,Cebu
 Junmar,43016,Ihran Enterprises & Auto Supply Inc.,VPN Installation workstation,Service Request,For Cancel,0,2026-01-29 10:07:11,1899-12-30,1,0.0,Cebu
 Junmar,43021,MCR Agriventure Corporation,"Assistance in generating Z-reading, back end report and reprint copy of last Invoice used",Internal,In Progress,0,2026-01-29 13:51:47,1899-12-30,1,0.0,Ilo-ilo
-Junmar,43046,Improvate Distributions,Update ActiveOne to version 5.0.106 4-6 units,Service Request,For Close,0,2026-01-30 11:26:45,1899-12-30,0,30.0,Cebu
-Junmar,43047,Madilou's Marketing,Cant open ActiveOne in Server and POS,Incident,For Close,0,2026-01-30 11:29:20,1899-12-30,0,40.0,Cebu
 Junmar,43048,Ihran Enterprises & Auto Supply Inc.,"Main Server Issue, there is an SQL Error On Item Finder in Fields portion at dropdown list if there is checked on box the assign from Custom Field 1 to 5. ",Service Request,In Progress,0,2026-01-30 11:30:32,1899-12-30,0,0.0,Cebu
-Junmar,43051,Improvate Distributions,ActiveOne Setup & Installation additional 3units,Service Request,For Close,0,2026-01-30 13:33:25,1899-12-30,0,20.0,Cebu
 
 
 User: Rico
@@ -266,7 +259,6 @@ Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
 Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,4,0.0,Davao
-Venz Jan,42893,Davao Great Wall Trading Inc.,Can't Punch an Item in POS,Service Request,For Close,0,2026-01-26 17:19:27,1899-12-30,4,30.0,Davao
 Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,3,0.0,Gensan
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,In Progress,0,2026-01-27 10:13:01,1899-12-30,3,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,3,0.0,Davao
