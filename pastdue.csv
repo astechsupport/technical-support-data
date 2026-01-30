@@ -114,7 +114,7 @@ Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,In Progress,
 Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,For Cancel,0,2026-01-02 11:24:50,1899-12-30,20,120.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,17,0.0,CDO
 Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Progress,0,2026-01-09 11:26:09,1899-12-30,15,30.0,CDO
-Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,12,90.0,Gensan
+Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,For Close,0,2026-01-14 09:21:10,1899-12-30,12,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,10,0.0,CDO
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,8,60.0,CDO
 Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,For Close,0,2026-01-20 14:19:29,1899-12-30,8,120.0,Davao
@@ -172,7 +172,7 @@ Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,For Clos
 Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,For Close,0,2026-01-23 09:14:28,1899-12-30,5,90.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,For Close,0,2026-01-23 09:15:20,1899-12-30,5,30.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,For Close,0,2026-01-23 09:16:33,1899-12-30,5,30.0,CDO
-Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,In Progress,0,2026-01-23 09:17:13,1899-12-30,5,30.0,CDO
+Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,For Close,0,2026-01-23 09:17:13,1899-12-30,5,30.0,CDO
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
@@ -226,6 +226,7 @@ Junmar,43021,MCR Agriventure Corporation,"Assistance in generating Z-reading, ba
 Junmar,43046,Improvate Distributions,Update ActiveOne to version 5.0.106 4-6 units,Service Request,Assigned,0,2026-01-30 11:26:45,1899-12-30,0,0.0,Cebu
 Junmar,43047,Madilou's Marketing,Cant open ActiveOne in Server and POS,Incident,For Close,0,2026-01-30 11:29:20,1899-12-30,0,40.0,Cebu
 Junmar,43048,Ihran Enterprises & Auto Supply Inc.,"Main Server Issue, there is an SQL Error On Item Finder in Fields portion at dropdown list if there is checked on box the assign from Custom Field 1 to 5. ",Service Request,Assigned,0,2026-01-30 11:30:32,1899-12-30,0,0.0,Cebu
+Junmar,43051,Improvate Distributions,ActiveOne Setup & Installation additional 3units,Service Request,Assigned,0,2026-01-30 13:33:25,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
