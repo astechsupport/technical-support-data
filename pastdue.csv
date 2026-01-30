@@ -59,7 +59,7 @@ Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,S
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30,13,0.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,9,120.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,In Progress,0,2026-01-20 10:37:58,1899-12-30,8,0.0,Davao
-Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,Assigned,0,2026-01-20 11:42:01,1899-12-30,8,0.0,Davao
+Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,In Progress,0,2026-01-20 11:42:01,1899-12-30,8,0.0,Davao
 Jeric Johann,42719,Tropiland Enterprises,Mag pa format po Kami ng print paper para sa printer ng barcode,Service Request,For Close,0,2026-01-21 09:15:53,1899-12-30,7,20.0,Gensan
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,In Progress,0,2026-01-21 10:11:06,1899-12-30,7,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,7,60.0,Gensan
@@ -117,7 +117,7 @@ Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Pro
 Joshua,42529,JML Glass & Aluminum Supply,Transfer A1 to another Unit,Service Request,In Progress,0,2026-01-14 09:21:10,1899-12-30,12,90.0,Gensan
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,10,0.0,CDO
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,8,60.0,CDO
-Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,In Progress,0,2026-01-20 14:19:29,1899-12-30,8,120.0,Davao
+Joshua,42689,RB Shopping Center,Item Valuation Summary - ret amount,Service Request,For Close,0,2026-01-20 14:19:29,1899-12-30,8,120.0,Davao
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,7,60.0,CDO
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,6,0.0,Davao
 Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,6,0.0,CDO
@@ -169,7 +169,7 @@ Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Serv
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
 Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,For Close,5,2026-01-20 16:19:10,1899-12-30,8,75.0,Davao
-Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,5,0.0,CDO
+Jude,42813,Loulens / Bakeshop,Item List Migration,Service Request,In Progress,0,2026-01-23 09:14:28,1899-12-30,5,90.0,CDO
 Jude,42814,Loulens / Bakeshop,Customer List Migration,Service Request,In Progress,0,2026-01-23 09:15:20,1899-12-30,5,0.0,CDO
 Jude,42815,Loulens / Bakeshop,Vendor List Migration,Service Request,In Progress,0,2026-01-23 09:16:33,1899-12-30,5,0.0,CDO
 Jude,42816,Loulens / Bakeshop,Employee List Migration,Service Request,In Progress,0,2026-01-23 09:17:13,1899-12-30,5,0.0,CDO
