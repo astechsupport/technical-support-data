@@ -10,12 +10,12 @@ Ceasar Ian,40700,D-40 Emporium,Different Owners Name on receipt,Service Request,
 Ceasar Ian,40796,"DMI Medical Supply Company, Inc.",Trial Balance Not Balanced,Internal,For Close,0,2025-11-04 09:48:17,1899-12-30,63,0.0,Davao
 Ceasar Ian,41571,Harry's Performance Center Inc.,Install latest version of ActiveSystem,Service Request,For Cancel,0,2025-12-02 08:04:04,1899-12-30,43,0.0,Davao
 Ceasar Ian,41577,RB Shopping Center,PTU Set-up,Service Request,In Progress,0,2025-12-02 09:09:57,1899-12-30,43,0.0,Davao
-Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,For Cancel,0,2025-12-10 10:41:06,1899-12-30,37,0.0,Davao
+Ceasar Ian,41839,"Royal Dragon Southern Distributors, Inc.",Windows Server Installation,Service Request,Assigned,0,2025-12-10 10:41:06,1899-12-30,37,0.0,Davao
 Ceasar Ian,42021,Shop and Save More Grocers Corporation,POS database error since MYSQL upgrade to 8.0,Service Request,Assigned,0,2025-12-16 13:56:29,1899-12-30,33,0.0,Davao
 Ceasar Ian,42036,Sure-Spot Distribution Corporation,Setup connection for test database,Service Request,Assigned,0,2025-12-16 16:59:47,1899-12-30,33,0.0,Davao
-Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,For Cancel,0,2025-12-22 11:28:52,1899-12-30,29,0.0,Davao
-Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,For Cancel,0,2025-12-22 11:59:53,1899-12-30,29,0.0,Davao
-Ceasar Ian,42131,GDY Airtech Enterprises,template customization,Service Request,For Cancel,0,2025-12-22 12:06:15,1899-12-30,29,0.0,Davao
+Ceasar Ian,42116,Harry's Performance Center Inc.,Install latest Active1,Service Request,In Progress,0,2025-12-22 11:28:52,1899-12-30,29,0.0,Davao
+Ceasar Ian,42127,Staze Inc.,Hardware assessment,Service Request,Assigned,0,2025-12-22 11:59:53,1899-12-30,29,0.0,Davao
+Ceasar Ian,42131,GDY Airtech Enterprises,template customization,Service Request,Assigned,0,2025-12-22 12:06:15,1899-12-30,29,0.0,Davao
 Ceasar Ian,42144,"DMI Medical Supply Company, Inc.",DMI : VOIDED TRANSACTION IN GJ REFLECTED IN BALANCE SHEET DETAIL AFTER USING FS utility 5.0.20.21 (64x) (NORMAL RUN),Internal,Assigned,0,2025-12-22 16:21:16,1899-12-30,29,0.0,Davao
 Ceasar Ian,42151,"SOLI DEO GLORIA CHRISTIAN MINISTRIES, INC",Installation A1,Service Request,Assigned,0,2025-12-23 08:35:14,1899-12-30,28,0.0,Davao
 Ceasar Ian,42162,Sure-Spot Distribution Corporation,Sure-spot: Deployment of fixes in their Balance Sheet disbalance,Service Request,Assigned,0,2025-12-23 13:24:47,1899-12-30,28,0.0,Davao
@@ -70,7 +70,7 @@ Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module
 Jeric Johann,42812,Gravala Enterprises,Withdrawal Slip in Sales Receipt Module,Service Request,In Progress,0,2026-01-23 08:58:12,1899-12-30,5,0.0,Gensan
 Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,Assigned,0,2026-01-23 09:19:47,1899-12-30,5,0.0,Davao
 Jeric Johann,42842,"Tacurong Fitmart, Inc.",Updating of unit ,Service Request,In Progress,0,2026-01-23 14:53:08,1899-12-30,5,0.0,Gensan
-Jeric Johann,42847,ASL Durian Marketing OPC,Set up New Generated PTU for POS,Service Request,In Progress,0,2026-01-23 15:01:51,1899-12-30,5,105.0,Davao
+Jeric Johann,42847,ASL Durian Marketing OPC,Set up New Generated PTU for POS,Service Request,For Close,0,2026-01-23 15:01:51,1899-12-30,5,105.0,Davao
 Jeric Johann,42879,Casi Marketing Corporation,Template Modification: Daily TRA Collection Report,Service Request,Assigned,0,2026-01-26 16:10:12,1899-12-30,4,0.0,Davao
 Jeric Johann,42880,Casi Marketing Corporation,Template Modification: Daily TRA Sales Report,Service Request,Assigned,0,2026-01-26 16:11:32,1899-12-30,4,0.0,Davao
 Jeric Johann,42894,Sultan Kudarat Coffee Ventures Incorporated,update of our VAT Registration status from VAT to Non-Vat.,Service Request,In Progress,0,2026-01-27 08:39:50,1899-12-30,3,71.0,Gensan
@@ -98,7 +98,6 @@ Joshua,41794,RL Enterprises, Loyalty Poits Simulation,Internal,In Progress,0,202
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,36,0.0,CDO
 Joshua,41873,King Motors,Diagnoses of journal balance in bills payment,Service Request,In Progress,0,2025-12-11 09:26:57,1899-12-30,36,0.0,CDO
 Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,In Progress,0,2025-12-29 11:53:31,1899-12-30,24,30.0,CDO
-Joshua,42256,Jaykris Motorcycle Parts and Accessories Shop/Jaylean Balloons Party Needs,Problem about connection in every branches,Service Request,For Cancel,0,2026-01-02 11:24:50,1899-12-30,20,120.0,CDO
 Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,17,0.0,CDO
 Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,In Progress,0,2026-01-09 11:26:09,1899-12-30,15,30.0,CDO
 Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Laptop,Internal,Assigned,0,2026-01-16 09:08:06,1899-12-30,10,0.0,CDO
@@ -156,11 +155,6 @@ Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
-Jude,42869,Zigmund Enterprises,ActiveOne Installation (server and 2 workstation),Service Request,For Cancel,0,2026-01-26 14:32:42,1899-12-30,4,0.0,CDO
-Jude,42871,Zigmund Enterprises,VPN Installation (server),Service Request,For Cancel,0,2026-01-26 14:33:29,1899-12-30,4,0.0,CDO
-Jude,42872,Zigmund Enterprises,VPN Installation (1 workstation),Service Request,For Cancel,0,2026-01-26 14:34:31,1899-12-30,4,0.0,CDO
-Jude,42873,Zigmund Enterprises,MySQL Server Resetup,Service Request,For Cancel,0,2026-01-26 14:35:11,1899-12-30,4,0.0,CDO
-Jude,42874,Zigmund Enterprises,Auto Backup Resetup ,Service Request,For Cancel,0,2026-01-26 14:35:44,1899-12-30,4,0.0,CDO
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,In Progress,0,2026-01-27 08:50:16,1899-12-30,3,0.0,Cebu
 Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,In Progress,0,2026-01-28 10:04:36,1899-12-30,2,0.0,Gensan
 Jude,42965,JBC Technology and Trading Corporation,item listing migration ,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,2,0.0,Cebu
@@ -258,10 +252,10 @@ Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,Ass
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,2,0.0,Davao
 Venz Jan,42979,Richstar Variety Store,Can't Find Item,Service Request,In Progress,0,2026-01-28 15:22:31,1899-12-30,2,4.0,CDO
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,1,0.0,Davao
-Venz Jan,43002,St. Francis Shell Station V,A1 Installation(1-3 units),Service Request,In Progress,0,2026-01-29 09:20:39,1899-12-30,1,180.0,Davao
-Venz Jan,43014,St. Francis Shell Station V,A1 Installation(Credits Account Officer),Service Request,In Progress,0,2026-01-29 09:49:27,1899-12-30,1,30.0,Davao
-Venz Jan,43023,St. Francis Shell Station V,VPN Installation(Credits Account Officer),Service Request,In Progress,0,2026-01-29 15:28:05,1899-12-30,1,30.0,Davao
-Venz Jan,43024,St. Francis Shell Station V,VPN Installation(RCAS Sales Associate PC),Service Request,In Progress,0,2026-01-29 15:28:32,1899-12-30,1,30.0,Davao
+Venz Jan,43002,St. Francis Shell Station V,A1 Installation(1-3 units),Service Request,For Close,0,2026-01-29 09:20:39,1899-12-30,1,180.0,Davao
+Venz Jan,43014,St. Francis Shell Station V,A1 Installation(Credits Account Officer),Service Request,For Close,0,2026-01-29 09:49:27,1899-12-30,1,30.0,Davao
+Venz Jan,43023,St. Francis Shell Station V,VPN Installation(Credits Account Officer),Service Request,For Close,0,2026-01-29 15:28:05,1899-12-30,1,30.0,Davao
+Venz Jan,43024,St. Francis Shell Station V,VPN Installation(RCAS Sales Associate PC),Service Request,For Close,0,2026-01-29 15:28:32,1899-12-30,1,30.0,Davao
 Venz Jan,43033,Bahaya Balut Center,Unable to use POS ,Service Request,In Progress,0,2026-01-30 08:43:54,1899-12-30,0,30.0,Davao
 Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audit trail. ,Service Request,Assigned,0,2026-01-30 09:06:21,1899-12-30,0,0.0,Davao
 Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,Assigned,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
