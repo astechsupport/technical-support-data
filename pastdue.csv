@@ -93,6 +93,7 @@ Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password r
 Jeric Johann,42957,Jazz Save Pharmacy and Genedz Mini Mart,Order taker concern,Service Request,In Progress,0,2026-01-28 10:17:55,1899-12-30,2,0.0,Gensan
 Jeric Johann,42958,HS Merchandise,Additional unit to connect in server main ,Service Request,Assigned,0,2026-01-28 10:21:10,1899-12-30,2,0.0,Gensan
 Jeric Johann,42960,GJ and G Marketing,Move Active system (kidapawan & gensan) from laptop to new unit,Service Request,For Close,0,2026-01-28 10:23:47,1899-12-30,2,30.0,Gensan
+Jeric Johann,42961,NOVAL DRESSED CHICKEN AND POULTY FARM,Report customization put total of heads to the report (sales item by detail),Service Request,In Progress,0,2026-01-28 10:45:24,1899-12-30,2,0.0,Gensan
 Jeric Johann,42962,NEW ERA METALFORMING CORPORATION,No Syncing From All Branches,Service Request,For Close,0,2026-01-28 10:48:13,1899-12-30,2,233.0,Gensan
 Jeric Johann,42972,RGJ Hardware and Construction Supplies,Pos invoice showing incorrect company,Service Request,Assigned,0,2026-01-28 13:25:44,1899-12-30,2,0.0,Gensan
 Jeric Johann,42995,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",System Error,Service Request,Assigned,0,2026-01-28 17:19:31,1899-12-30,2,0.0,Gensan
@@ -191,6 +192,7 @@ Jude,43009,Niel Pharmacy OPC,POS Installation for Lipunan Branch,Service Request
 Jude,43010,Niel Pharmacy OPC,POS Lipunan Branch AUTOBACKUP SETUP,Service Request,In Progress,0,2026-01-29 09:39:13,1899-12-30,1,0.0,Ilo-ilo
 Jude,43011,Niel Pharmacy OPC,VPN setup (Lipunan Branch),Service Request,In Progress,0,2026-01-29 09:39:43,1899-12-30,1,0.0,Ilo-ilo
 Jude,43022,JBC Technology and Trading Corporation,customer vendor listings listing,Service Request,In Progress,0,2026-01-29 15:05:15,1899-12-30,1,0.0,Cebu
+Jude,43042,Sultan Kudarat Coffee Ventures Incorporated,cant open activeone & pos (down mysql server),Incident,Assigned,0,2026-01-30 09:31:05,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
@@ -258,7 +260,7 @@ Rico,42948,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Davao to Tagum
 Rico,42949,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Tagum to Davao,Travel Ticket,For Close,0,2026-01-28 08:35:03,1899-12-30,2,0.0,Davao
 Rico,42984,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Setup Order Capture Connections,Service Request,For Close,0,2026-01-28 15:59:49,1899-12-30,2,60.0,Davao
 Rico,42985,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Network Checking,Service Request,For Close,0,2026-01-28 16:00:26,1899-12-30,2,60.0,Davao
-Rico,42991,Remach Kitchen Equipment,MySQL Setup,Service Request,Assigned,0,2026-01-28 16:42:03,1899-12-30,2,0.0,Davao
+Rico,42991,Remach Kitchen Equipment,MySQL Setup,Service Request,In Progress,0,2026-01-28 16:42:03,1899-12-30,2,0.0,Davao
 Rico,42992,Remach Kitchen Equipment,Setup Auto Backup,Service Request,Assigned,0,2026-01-28 16:42:34,1899-12-30,2,0.0,Davao
 Rico,42993,Remach Kitchen Equipment,ActiveOne Installation,Service Request,Assigned,0,2026-01-28 16:43:09,1899-12-30,2,0.0,Davao
 Rico,42994,Remach Kitchen Equipment,VPN Setup,Service Request,Assigned,0,2026-01-28 16:43:41,1899-12-30,2,0.0,Davao
