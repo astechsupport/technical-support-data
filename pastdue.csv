@@ -127,6 +127,7 @@ Joshua,42951,Elequin Pharmacy,Error upon printing in POS,Service Request,In Prog
 Joshua,42963, Chicktek Corporation,Request for Additional VPN Connection ,Service Request,Assigned,0,2026-01-28 10:49:38,1899-12-30,2,0.0,Davao
 Joshua,42964, Chicktek Corporation,When P.O. Created. The Item name is incomplete because the item name is long,Service Request,Assigned,0,2026-01-28 10:51:15,1899-12-30,2,0.0,Head Quarter
 Joshua,43020,Activesystems Software Inc,Set-up Loyalty Points (MJ Laptop),Internal,In Progress,0,2026-01-29 13:32:03,1899-12-30,1,60.0,CDO
+Joshua,43028,"Jadsons Marketing, Inc.",No sales value replicated ,Service Request,Assigned,0,2026-01-30 08:33:44,1899-12-30,0,0.0,Gensan
 Joshua,43031,Multigro Healthcare Inc.,ActiveOne installation - shared license.,Service Request,In Progress,0,2026-01-30 08:42:20,1899-12-30,0,0.0,Davao
 Joshua,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,Assigned,0,2026-01-30 08:43:20,1899-12-30,0,0.0,Davao
 Joshua,43044,DB Enterprises,POS Concern,Service Request,Assigned,0,2026-01-30 09:56:27,1899-12-30,0,0.0,CDO
@@ -174,9 +175,9 @@ User: Junmar
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Junmar,36822,ZJF Corporation,"Diagnose Issue on Income Statement  (July 10-12, 2025)",Service Request,For Cancel,0,2025-07-14 16:38:22,1899-12-30,144,0.0,Cebu
 Junmar,38669,Nutribasics Corporation,Income Statement Customization/Modification,Service Request,For Cancel,0,2025-09-02 09:09:43,1899-12-30,108,0.0,Cebu
-Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,Assigned,0,2025-09-02 09:10:18,1899-12-30,108,0.0,Cebu
+Junmar,38670,Nutribasics Corporation,Balance Sheet Customization/Modification,Service Request,For Cancel,0,2025-09-02 09:10:18,1899-12-30,108,0.0,Cebu
 Junmar,38724,Activesystems Software Inc,Update Asset Monitoring,Internal,In Progress,0,2025-09-03 13:02:28,1899-12-30,107,0.0,Cebu
-Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,In Progress,0,2025-11-13 10:47:42,1899-12-30,56,0.0,Ilo-ilo
+Junmar,41103,Vexoil Phil Corporation,Concern on Uncredited LPI Points for San Jose (September–October),Service Request,For Cancel,0,2025-11-13 10:47:42,1899-12-30,56,0.0,Ilo-ilo
 Junmar,42525,Romeo’s Pharmaceutical Products Distribution Trading OPC,To adjust/update the formula/computation of the senior/pwd discount,Service Request,In Progress,0,2026-01-13 18:18:34,1899-12-30,13,0.0,Ilo-ilo
 Junmar,42651,GoHealth Plus Pharmacy OPC,Customize Invoice print to shoot,Service Request,In Progress,0,2026-01-19 09:43:29,1899-12-30,9,384.0,Ilo-ilo
 Junmar,42825,Manong J,ServPOS connection Concern,Service Request,In Progress,0,2026-01-23 09:46:59,1899-12-30,5,0.0,Davao
@@ -246,10 +247,6 @@ Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,Ass
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,2,0.0,Davao
 Venz Jan,42979,Richstar Variety Store,Can't Find Item,Service Request,In Progress,0,2026-01-28 15:22:31,1899-12-30,2,4.0,CDO
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,1,0.0,Davao
-Venz Jan,43002,St. Francis Shell Station V,A1 Installation(1-3 units),Service Request,For Close,0,2026-01-29 09:20:39,1899-12-30,1,180.0,Davao
-Venz Jan,43014,St. Francis Shell Station V,A1 Installation(Credits Account Officer),Service Request,For Close,0,2026-01-29 09:49:27,1899-12-30,1,30.0,Davao
-Venz Jan,43023,St. Francis Shell Station V,VPN Installation(Credits Account Officer),Service Request,For Close,0,2026-01-29 15:28:05,1899-12-30,1,30.0,Davao
-Venz Jan,43024,St. Francis Shell Station V,VPN Installation(RCAS Sales Associate PC),Service Request,For Close,0,2026-01-29 15:28:32,1899-12-30,1,30.0,Davao
 Venz Jan,43033,Bahaya Balut Center,Unable to use POS ,Service Request,In Progress,0,2026-01-30 08:43:54,1899-12-30,0,30.0,Davao
 Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audit trail. ,Service Request,Assigned,0,2026-01-30 09:06:21,1899-12-30,0,0.0,Davao
 Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,Assigned,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
