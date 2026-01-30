@@ -63,7 +63,6 @@ Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa tra
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,In Progress,0,2026-01-21 10:11:06,1899-12-30,7,0.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,7,60.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,7,0.0,Davao
-Jeric Johann,42741,18 Degrees Air Cooling Solutions Inc.,Thinstuff Server Setup,Service Request,For Close,0,2026-01-21 17:56:38,1899-12-30,7,29.0,Davao
 Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,In Progress,0,2026-01-22 10:08:57,1899-12-30,6,39.0,Davao
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,6,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,6,0.0,Gensan
@@ -89,7 +88,6 @@ Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password r
 Jeric Johann,42957,Jazz Save Pharmacy and Genedz Mini Mart,Order taker concern,Service Request,For Cancel,0,2026-01-28 10:17:55,1899-12-30,2,0.0,Gensan
 Jeric Johann,42958,HS Merchandise,Additional unit to connect in server main ,Service Request,In Progress,0,2026-01-28 10:21:10,1899-12-30,2,0.0,Gensan
 Jeric Johann,42961,NOVAL DRESSED CHICKEN AND POULTY FARM,Report customization put total of heads to the report (sales item by detail),Service Request,In Progress,0,2026-01-28 10:45:24,1899-12-30,2,0.0,Gensan
-Jeric Johann,42962,NEW ERA METALFORMING CORPORATION,No Syncing From All Branches,Service Request,For Close,0,2026-01-28 10:48:13,1899-12-30,2,233.0,Gensan
 Jeric Johann,42972,RGJ Hardware and Construction Supplies,Pos invoice showing incorrect company,Service Request,Assigned,0,2026-01-28 13:25:44,1899-12-30,2,0.0,Gensan
 Jeric Johann,42995,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",System Error,Service Request,Assigned,0,2026-01-28 17:19:31,1899-12-30,2,0.0,Gensan
 Jeric Johann,43030,Anoche's Marketing,Change Printer Epson to Bixolon,Service Request,Assigned,0,2026-01-30 08:36:19,1899-12-30,0,0.0,Gensan
@@ -126,7 +124,7 @@ Joshua,42876,J-Mart Supermarket ,Update Sale Invoice 1,Internal,Assigned,0,2026-
 Joshua,42877,Casi Marketing Corporation,Template Modification: Daily Collection Report,Service Request,Assigned,0,2026-01-26 16:08:33,1899-12-30,4,0.0,Davao
 Joshua,42878,Casi Marketing Corporation,Template Modification: Daily Sales Report,Service Request,Assigned,0,2026-01-26 16:09:25,1899-12-30,4,0.0,Davao
 Joshua,42887,AMR Healthcare Medical Supplies,Average Consumption Per Month,Service Request,Assigned,0,2026-01-26 16:57:52,1899-12-30,4,0.0,CDO
-Joshua,42890,ILT Food Products,ActiveOne Installation,Service Request,In Progress,0,2026-01-26 17:03:26,1899-12-30,4,60.0,CDO
+Joshua,42890,ILT Food Products,ActiveOne Installation,Service Request,For Close,0,2026-01-26 17:03:26,1899-12-30,4,60.0,CDO
 Joshua,42906,J-Mart Supermarket ,Update Sale Invoice 2,Internal,Assigned,0,2026-01-27 09:34:53,1899-12-30,3,0.0,CDO
 Joshua,42907,J-Mart Supermarket ,Update Sale Invoice 3,Internal,Assigned,0,2026-01-27 09:35:25,1899-12-30,3,0.0,CDO
 Joshua,42908,J-Mart Supermarket ,Update Sale Invoice 4,Internal,Assigned,0,2026-01-27 09:36:03,1899-12-30,3,0.0,CDO
@@ -165,7 +163,6 @@ Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List
 Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,In Progress,0,2026-01-16 11:22:51,1899-12-30,10,0.0,Davao
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
-Jude,42707,Visuals In Motion Advertising,Item Migration,Service Request,For Close,5,2026-01-20 16:19:10,1899-12-30,8,75.0,Davao
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
@@ -286,7 +283,6 @@ Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Ser
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,In Progress,0,2026-01-22 17:00:26,1899-12-30,6,385.0,CDO
 Venz Jan,42829,District Market Mini Grocery,Update sales Invoice receipt,Service Request,For Cancel,0,2026-01-23 10:57:40,1899-12-30,5,0.0,CDO
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,4.0,CDO
-Venz Jan,42846,Prokrate International Trading,ActiveOne installation - additional license,Service Request,For Close,0,2026-01-23 15:00:20,1899-12-30,5,34.0,Davao
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,4,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,4,0.0,Gensan
 Venz Jan,42866,Xavi Hardware,Skip sequences in printing,Service Request,For Close,0,2026-01-26 14:21:35,1899-12-30,4,210.0,Davao
@@ -319,4 +315,5 @@ Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audi
 Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,Assigned,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
 Venz Jan,43041,Davao Banson Marketing,Msql on Activeone sign in (Karen Unit),Service Request,Assigned,0,2026-01-30 09:24:08,1899-12-30,0,0.0,Davao
 Venz Jan,43057,Art Gallery Philippines,Install ActiveOne for a new computer main server,Service Request,Assigned,0,2026-01-30 14:32:53,1899-12-30,0,0.0,Davao
+Venz Jan,43062,GDY Airtech Enterprises,Change POS template ,Service Request,Assigned,0,2026-01-30 15:44:18,1899-12-30,0,0.0,Davao
 
