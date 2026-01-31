@@ -103,8 +103,8 @@ Joshua,42615,Activesystems Software Inc,Restore Blank Database on Regine's Lapto
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,9,240.0,CDO
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,8,60.0,CDO
 Joshua,42774,Davao Antelop Trading Corporation,Financial and Sales Report Mismatch Amount,Service Request,Assigned,0,2026-01-22 10:10:23,1899-12-30,7,0.0,Davao
-Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,7,0.0,CDO
-Joshua,42792,J-Mart Supermarket ,Printer Setup,Service Request,In Progress,0,2026-01-22 14:07:12,1899-12-30,7,30.0,CDO
+Joshua,42787,Phoeshan JDPS Digital Printing,Printer Setup,Service Request,In Progress,0,2026-01-22 11:26:04,1899-12-30,7,59.0,CDO
+Joshua,42792,J-Mart Supermarket ,Printer Setup,Service Request,In Progress,0,2026-01-22 14:07:12,1899-12-30,7,60.0,CDO
 Joshua,42801,MIX 'N MAGIC SNACKS & PASTRIES,Inventory Concern (Item Valuation Detail),Service Request,In Progress,0,2026-01-22 17:27:40,1899-12-30,7,60.0,Gensan
 Joshua,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Description naa iyaha mga concen na taas,Service Request,Assigned,0,2026-01-23 09:48:38,1899-12-30,6,0.0,Gensan
 Joshua,42834,C7 Store,PTU Setup,Service Request,In Progress,0,2026-01-23 11:01:41,1899-12-30,6,20.0,CDO
@@ -220,7 +220,6 @@ Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,7,379.0,CDO
-Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,For Close,0,2026-01-22 17:00:26,1899-12-30,7,385.0,CDO
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,6,4.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,5,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,5,0.0,Gensan
