@@ -219,7 +219,6 @@ Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,42685,Gift Trafik Inc.,Printer Concern (Can't Print),Service Request,For Cancel,0,2026-01-20 13:10:00,1899-12-30,9,0.0,CDO
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,7,379.0,CDO
 Venz Jan,42800,Pharmapro Pharmacy,User can't log.in to other branches.,Service Request,For Close,0,2026-01-22 17:00:26,1899-12-30,7,385.0,CDO
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,6,4.0,CDO
