@@ -138,7 +138,7 @@ Jude,39165,Timber Motor Parts,1) Inventory discrepancies concerns,Service Reques
 Jude,41868,"Jadsons Marketing, Inc.","ActiveOneBeatRoute  API Blank Dispatches Nov. 11, 2025 transaction, request for Payload of this invoice and the JSON responce.",Service Request,In Progress,0,2025-12-10 16:35:31,1899-12-30,35,0.0,Gensan
 Jude,41869,J and G Trading Corporation,The prices do not match between the POS and the system.,Service Request,In Progress,0,2025-12-10 16:37:19,1899-12-30,35,0.0,Gensan
 Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 08:28:18,1899-12-30,30,0.0,Gensan
-Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,15,0.0,Davao
+Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,For Cancel,0,2026-01-12 19:16:24,1899-12-30,15,0.0,Davao
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,In Progress,0,2026-01-15 08:26:51,1899-12-30,10,0.0,Davao
 Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,For Close,0,2026-01-16 11:19:30,1899-12-30,10,0.0,Davao
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,For Close,0,2026-01-16 11:20:26,1899-12-30,10,0.0,Davao
@@ -230,7 +230,7 @@ Venz Jan,42917,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In
 Venz Jan,42919,Meat JAS 4U OPC,Replication Maintenance (Main Branch),Service Request,In Progress,0,2026-01-27 13:30:30,1899-12-30,0,0.0,Davao
 Venz Jan,42920,PiPrime Corporation,Price Difference during Price Update ( Ozamiz Branch) ,Service Request,For Cancel,0,2026-01-27 13:45:36,1899-12-30,0,0.0,CDO
 Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,In Progress,0,2026-01-28 08:54:16,1899-12-30,0,0.0,Davao
-Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,Assigned,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
+Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,In Progress,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,0,0.0,Davao
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,0,0.0,Davao
 Venz Jan,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,Assigned,0,2026-01-30 08:43:20,1899-12-30,0,0.0,Davao
