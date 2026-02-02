@@ -143,8 +143,6 @@ Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Serv
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
-Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,For Close,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
-Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,For Close,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,In Progress,0,2026-01-27 08:50:16,1899-12-30,0,0.0,Cebu
 Jude,42965,JBC Technology and Trading Corporation,item listing migration ,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,0,0.0,Cebu
 Jude,42987,S & P Trucking Services,Clear documents,Service Request,For Close,0,2026-01-28 16:31:28,1899-12-30,0,120.0,Ilo-ilo
@@ -162,6 +160,8 @@ Jude,43050,Unisafe Marketing Inc.,Physical Inventory Report Modification,Service
 Jude,43072,JJM Trading and Services,Reflect Particulars in Customized Project Profitability Report,Service Request,Assigned,0,2026-01-30 17:32:03,1899-12-30,0,0.0,Cebu
 Jude,43076,MIKE RUECO FOOD PRODUCTS MARKETING,Assistance on deleting errors,Service Request,In Progress,0,2026-02-02 09:09:38,1899-12-30,0,0.0,Ilo-ilo
 Jude,43080,Activesystems Software Inc,preparation of laptop unit for Lauriane ,Service Request,In Progress,0,2026-02-02 14:12:34,1899-12-30,0,0.0,Gensan
+Jude,43093,Jaag Bakery Products Manufacturing,MYSQL server installation,Service Request,Assigned,0,2026-02-02 17:29:30,1899-12-30,0,0.0,Ilo-ilo
+Jude,43094,Jaag Bakery Products Manufacturing,autobackup database  installation ,Service Request,Assigned,0,2026-02-02 17:30:02,1899-12-30,0,0.0,Ilo-ilo
 
 
 User: Junmar
