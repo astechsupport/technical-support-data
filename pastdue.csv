@@ -72,7 +72,7 @@ Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases 
 Jeric Johann,42842,"Tacurong Fitmart, Inc.",Updating of unit ,Service Request,In Progress,0,2026-01-23 14:53:08,1899-12-30,5,0.0,Gensan
 Jeric Johann,42879,Casi Marketing Corporation,Template Modification: Daily TRA Collection Report,Service Request,Assigned,0,2026-01-26 16:10:12,1899-12-30,5,0.0,Davao
 Jeric Johann,42880,Casi Marketing Corporation,Template Modification: Daily TRA Sales Report,Service Request,Assigned,0,2026-01-26 16:11:32,1899-12-30,5,0.0,Davao
-Jeric Johann,42894,Sultan Kudarat Coffee Ventures Incorporated,update of our VAT Registration status from VAT to Non-Vat.,Service Request,In Progress,0,2026-01-27 08:39:50,1899-12-30,0,0.0,Gensan
+Jeric Johann,42894,Sultan Kudarat Coffee Ventures Incorporated,update of our VAT Registration status from VAT to Non-Vat.,Service Request,For Close,0,2026-01-27 08:39:50,1899-12-30,0,0.0,Gensan
 Jeric Johann,42895,Migg Enterprises,Activeone reinstallation,Service Request,For Close,0,2026-01-27 08:42:59,1899-12-30,0,0.0,Gensan
 Jeric Johann,42900,Migg Enterprises,Installation of OC,Service Request,For Close,4,2026-01-27 08:53:39,1899-12-30,0,0.0,Gensan
 Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,In Progress,0,2026-01-27 09:06:02,1899-12-30,0,0.0,Gensan
@@ -87,6 +87,7 @@ Jeric Johann,43030,Anoche's Marketing,Change Printer Epson to Bixolon,Service Re
 Jeric Johann,43049,GJ and G Marketing - Kidapawan,"Sales by Rep detail- blank po, ",Service Request,Assigned,0,2026-01-30 11:31:54,1899-12-30,0,0.0,Gensan
 Jeric Johann,43077,Jazz Save Pharmacy and Genedz Mini Mart,No Connection Order taker,Service Request,In Progress,0,2026-02-02 12:19:40,1899-12-30,0,60.0,Gensan
 Jeric Johann,43081,Anoche's Marketing,install  ActiveONE on one of our computers ,Service Request,Assigned,0,2026-02-02 14:16:46,1899-12-30,0,0.0,Gensan
+Jeric Johann,43086,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,Assigned,0,2026-02-02 16:14:55,1899-12-30,0,0.0,Gensan
 
 
 User: Joshua
@@ -228,7 +229,6 @@ Venz Jan,42914,Thunder Park Inc.,Request for POS to remove the Cash received and
 Venz Jan,42916,Thunder Park Inc.,wrong total amount on Z- Reading,Service Request,Assigned,0,2026-01-27 10:37:52,1899-12-30,0,0.0,Davao
 Venz Jan,42917,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-27 10:50:46,1899-12-30,0,0.0,Davao
 Venz Jan,42919,Meat JAS 4U OPC,Replication Maintenance (Main Branch),Service Request,In Progress,0,2026-01-27 13:30:30,1899-12-30,0,0.0,Davao
-Venz Jan,42920,PiPrime Corporation,Price Difference during Price Update ( Ozamiz Branch) ,Service Request,For Cancel,0,2026-01-27 13:45:36,1899-12-30,0,0.0,CDO
 Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,In Progress,0,2026-01-28 08:54:16,1899-12-30,0,0.0,Davao
 Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,In Progress,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,0,0.0,Davao
@@ -236,8 +236,8 @@ Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another uni
 Venz Jan,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,Assigned,0,2026-01-30 08:43:20,1899-12-30,0,0.0,Davao
 Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audit trail. ,Service Request,Assigned,0,2026-01-30 09:06:21,1899-12-30,0,0.0,Davao
 Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,In Progress,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
-Venz Jan,43041,Davao Banson Marketing,Msql on Activeone sign in (Karen Unit),Service Request,In Progress,0,2026-01-30 09:24:08,1899-12-30,0,0.0,Davao
-Venz Jan,43057,Art Gallery Philippines,Install ActiveOne for a new computer main server,Service Request,Assigned,0,2026-01-30 14:32:53,1899-12-30,0,0.0,Davao
+Venz Jan,43041,Davao Banson Marketing,Msql on Activeone sign in (Karen Unit),Service Request,For Cancel,0,2026-01-30 09:24:08,1899-12-30,0,0.0,Davao
+Venz Jan,43057,Art Gallery Philippines,Install ActiveOne for a new computer main server,Service Request,In Progress,0,2026-01-30 14:32:53,1899-12-30,0,0.0,Davao
 Venz Jan,43058,C.P.C. Incorporated ,"POS Zero Beggining of February 11, 2025",Service Request,Assigned,0,2026-01-30 14:49:00,1899-12-30,0,0.0,Davao
 Venz Jan,43059,C.P.C. Incorporated ,Price Adjustment not reflected on POS,Service Request,Assigned,0,2026-01-30 14:50:17,1899-12-30,0,0.0,Davao
 Venz Jan,43060,C.P.C. Incorporated ,Sales Invoice Template Adjustment,Service Request,Assigned,0,2026-01-30 14:51:25,1899-12-30,0,0.0,Davao
