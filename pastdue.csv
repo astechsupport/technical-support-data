@@ -68,14 +68,14 @@ Jeric Johann,42809,Gravala Enterprises,Petty Cash Voucher in Bill Payment ,Servi
 Jeric Johann,42810,Gravala Enterprises,Purchase Request Report in Inventory Request,Service Request,Assigned,0,2026-01-23 08:57:05,1899-12-30,5,0.0,Gensan
 Jeric Johann,42811,Gravala Enterprises,Purchase Order Report in Create PO Module,Service Request,Assigned,0,2026-01-23 08:57:42,1899-12-30,5,0.0,Gensan
 Jeric Johann,42812,Gravala Enterprises,Withdrawal Slip in Sales Receipt Module,Service Request,In Progress,0,2026-01-23 08:58:12,1899-12-30,5,0.0,Gensan
-Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,Assigned,0,2026-01-23 09:19:47,1899-12-30,5,0.0,Davao
+Jeric Johann,42818,Philfumes Petroleum Corporation,Naa discrepancy sa purchases na account sa Tagum Station na Location only:,Service Request,In Progress,0,2026-01-23 09:19:47,1899-12-30,5,0.0,Davao
 Jeric Johann,42842,"Tacurong Fitmart, Inc.",Updating of unit ,Service Request,In Progress,0,2026-01-23 14:53:08,1899-12-30,5,0.0,Gensan
 Jeric Johann,42879,Casi Marketing Corporation,Template Modification: Daily TRA Collection Report,Service Request,Assigned,0,2026-01-26 16:10:12,1899-12-30,5,0.0,Davao
 Jeric Johann,42880,Casi Marketing Corporation,Template Modification: Daily TRA Sales Report,Service Request,Assigned,0,2026-01-26 16:11:32,1899-12-30,5,0.0,Davao
 Jeric Johann,42894,Sultan Kudarat Coffee Ventures Incorporated,update of our VAT Registration status from VAT to Non-Vat.,Service Request,In Progress,0,2026-01-27 08:39:50,1899-12-30,0,0.0,Gensan
 Jeric Johann,42895,Migg Enterprises,Activeone reinstallation,Service Request,For Close,0,2026-01-27 08:42:59,1899-12-30,0,0.0,Gensan
 Jeric Johann,42900,Migg Enterprises,Installation of OC,Service Request,For Close,4,2026-01-27 08:53:39,1899-12-30,0,0.0,Gensan
-Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,Assigned,0,2026-01-27 09:06:02,1899-12-30,0,0.0,Gensan
+Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,In Progress,0,2026-01-27 09:06:02,1899-12-30,0,0.0,Gensan
 Jeric Johann,42943,Malagos Agri-Ventures Corporation,Active 1 complains about not balancing amount and quantity. In Per location Detail VS. Per Invoice.,Service Request,Assigned,0,2026-01-27 22:05:38,1899-12-30,0,0.0,Davao
 Jeric Johann,42945,Brigada Distributions Inc.,activeone installation,Service Request,In Progress,0,2026-01-27 22:12:02,1899-12-30,0,0.0,Davao
 Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password restriction set-up - Credit memo,Service Request,Assigned,0,2026-01-28 10:16:45,1899-12-30,0,0.0,Gensan
@@ -144,8 +144,8 @@ Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Re
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,For Close,0,2026-01-16 11:20:26,1899-12-30,10,0.0,Davao
 Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,For Close,0,2026-01-16 11:21:31,1899-12-30,10,0.0,Davao
 Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,In Progress,0,2026-01-16 11:22:51,1899-12-30,10,0.0,Davao
-Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
-Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
+Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
+Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
@@ -228,7 +228,7 @@ Venz Jan,42914,Thunder Park Inc.,Request for POS to remove the Cash received and
 Venz Jan,42916,Thunder Park Inc.,wrong total amount on Z- Reading,Service Request,Assigned,0,2026-01-27 10:37:52,1899-12-30,0,0.0,Davao
 Venz Jan,42917,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-27 10:50:46,1899-12-30,0,0.0,Davao
 Venz Jan,42919,Meat JAS 4U OPC,Replication Maintenance (Main Branch),Service Request,In Progress,0,2026-01-27 13:30:30,1899-12-30,0,0.0,Davao
-Venz Jan,42920,PiPrime Corporation,Price Difference during Price Update ( Ozamiz Branch) ,Service Request,Assigned,0,2026-01-27 13:45:36,1899-12-30,0,0.0,CDO
+Venz Jan,42920,PiPrime Corporation,Price Difference during Price Update ( Ozamiz Branch) ,Service Request,In Progress,0,2026-01-27 13:45:36,1899-12-30,0,0.0,CDO
 Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,In Progress,0,2026-01-28 08:54:16,1899-12-30,0,0.0,Davao
 Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,Assigned,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,0,0.0,Davao
