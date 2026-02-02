@@ -81,9 +81,9 @@ Jeric Johann,42945,Brigada Distributions Inc.,activeone installation,Service Req
 Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password restriction set-up - Credit memo,Service Request,Assigned,0,2026-01-28 10:16:45,1899-12-30,0,0.0,Gensan
 Jeric Johann,42958,HS Merchandise,Additional unit to connect in server main ,Service Request,In Progress,0,2026-01-28 10:21:10,1899-12-30,0,0.0,Gensan
 Jeric Johann,42961,NOVAL DRESSED CHICKEN AND POULTY FARM,Report customization put total of heads to the report (sales item by detail),Service Request,In Progress,0,2026-01-28 10:45:24,1899-12-30,0,0.0,Gensan
-Jeric Johann,42972,RGJ Hardware and Construction Supplies,Pos invoice showing incorrect company,Service Request,Assigned,0,2026-01-28 13:25:44,1899-12-30,0,0.0,Gensan
+Jeric Johann,42972,RGJ Hardware and Construction Supplies,Pos invoice showing incorrect company,Service Request,In Progress,0,2026-01-28 13:25:44,1899-12-30,0,0.0,Gensan
 Jeric Johann,42995,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",System Error,Service Request,Assigned,0,2026-01-28 17:19:31,1899-12-30,0,0.0,Gensan
-Jeric Johann,43030,Anoche's Marketing,Change Printer Epson to Bixolon,Service Request,Assigned,0,2026-01-30 08:36:19,1899-12-30,0,0.0,Gensan
+Jeric Johann,43030,Anoche's Marketing,Change Printer Epson to Bixolon,Service Request,In Progress,0,2026-01-30 08:36:19,1899-12-30,0,0.0,Gensan
 Jeric Johann,43049,GJ and G Marketing - Kidapawan,"Sales by Rep detail- blank po, ",Service Request,Assigned,0,2026-01-30 11:31:54,1899-12-30,0,0.0,Gensan
 Jeric Johann,43077,Jazz Save Pharmacy and Genedz Mini Mart,No Connection Order taker,Service Request,In Progress,0,2026-02-02 12:19:40,1899-12-30,0,60.0,Gensan
 Jeric Johann,43081,Anoche's Marketing,install  ActiveONE on one of our computers ,Service Request,Assigned,0,2026-02-02 14:16:46,1899-12-30,0,0.0,Gensan
@@ -147,8 +147,8 @@ Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Serv
 Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:28:31,1899-12-30,10,0.0,Davao
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
-Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,In Progress,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
-Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,In Progress,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
+Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,For Close,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
+Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,For Close,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,In Progress,0,2026-01-27 08:50:16,1899-12-30,0,0.0,Cebu
 Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,In Progress,0,2026-01-28 10:04:36,1899-12-30,0,0.0,Gensan
 Jude,42965,JBC Technology and Trading Corporation,item listing migration ,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,0,0.0,Cebu
@@ -248,6 +248,6 @@ Venz Jan,43070,"Ma-an's Bakeshop, Co.",Template Modification - Delivery Receipt,
 Venz Jan,43071,"Ma-an's Bakeshop, Co.",Template Modification - Check Voucher,Service Request,Assigned,0,2026-01-30 17:28:48,1899-12-30,0,0.0,Davao
 Venz Jan,43082,FLUIDZ Minimart,Z-LOG not balance with Journal (Auto) Entry,Service Request,Assigned,0,2026-02-02 14:22:42,1899-12-30,0,0.0,Davao
 Venz Jan,43083,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit Ticket No. 00042324,Service Request,Assigned,0,2026-02-02 14:25:20,1899-12-30,0,0.0,Davao
-Venz Jan,43084,Madilou's Marketing,Install ActiveOne,Service Request,Assigned,0,2026-02-02 14:33:46,1899-12-30,0,0.0,Cebu
+Venz Jan,43084,Madilou's Marketing,Install ActiveOne,Service Request,In Progress,0,2026-02-02 14:33:46,1899-12-30,0,0.0,Cebu
 Venz Jan,43085,Jupiter e-Mobility Corp,INVENTORY MATTERS- Cant proceed to invoicing,Service Request,In Progress,0,2026-02-02 14:34:48,1899-12-30,0,0.0,Davao
 
