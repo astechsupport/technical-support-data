@@ -85,7 +85,7 @@ Jeric Johann,42972,RGJ Hardware and Construction Supplies,Pos invoice showing in
 Jeric Johann,42995,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",System Error,Service Request,Assigned,0,2026-01-28 17:19:31,1899-12-30,0,0.0,Gensan
 Jeric Johann,43030,Anoche's Marketing,Change Printer Epson to Bixolon,Service Request,Assigned,0,2026-01-30 08:36:19,1899-12-30,0,0.0,Gensan
 Jeric Johann,43049,GJ and G Marketing - Kidapawan,"Sales by Rep detail- blank po, ",Service Request,Assigned,0,2026-01-30 11:31:54,1899-12-30,0,0.0,Gensan
-Jeric Johann,43077,Jazz Save Pharmacy and Genedz Mini Mart,No Connection Order taker,Service Request,In Progress,0,2026-02-02 12:19:40,1899-12-30,0,30.0,Gensan
+Jeric Johann,43077,Jazz Save Pharmacy and Genedz Mini Mart,No Connection Order taker,Service Request,In Progress,0,2026-02-02 12:19:40,1899-12-30,0,60.0,Gensan
 Jeric Johann,43081,Anoche's Marketing,install  ActiveONE on one of our computers ,Service Request,Assigned,0,2026-02-02 14:16:46,1899-12-30,0,0.0,Gensan
 
 
@@ -140,7 +140,7 @@ Jude,41869,J and G Trading Corporation,The prices do not match between the POS a
 Jude,42041,CT ARTS GROCERY STORE,Reset,Service Request,In Progress,0,2025-12-17 08:28:18,1899-12-30,30,0.0,Gensan
 Jude,42478,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-01-12 19:16:24,1899-12-30,15,0.0,Davao
 Jude,42569,FOODSCO FOOD PRODUCTS MARKETING, Re-Migration of Items,Service Request,In Progress,0,2026-01-15 08:26:51,1899-12-30,10,0.0,Davao
-Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,In Progress,0,2026-01-16 11:19:30,1899-12-30,10,0.0,Davao
+Jude,42621,MCPIL Pharmaceutical Laboratory,Data Migration - Item List,Service Request,For Close,0,2026-01-16 11:19:30,1899-12-30,10,0.0,Davao
 Jude,42622,MCPIL Pharmaceutical Laboratory,Data Migration - Customer List,Service Request,In Progress,0,2026-01-16 11:20:26,1899-12-30,10,0.0,Davao
 Jude,42623,MCPIL Pharmaceutical Laboratory,Details: Data Migration - Vendor List,Service Request,In Progress,0,2026-01-16 11:21:31,1899-12-30,10,0.0,Davao
 Jude,42624,MCPIL Pharmaceutical Laboratory, Data Migration - Build Assembly,Service Request,In Progress,0,2026-01-16 11:22:51,1899-12-30,10,0.0,Davao
@@ -163,10 +163,10 @@ Jude,43009,Niel Pharmacy OPC,POS Installation for Lipunan Branch,Service Request
 Jude,43010,Niel Pharmacy OPC,POS Lipunan Branch AUTOBACKUP SETUP,Service Request,In Progress,0,2026-01-29 09:39:13,1899-12-30,0,0.0,Ilo-ilo
 Jude,43011,Niel Pharmacy OPC,VPN setup (Lipunan Branch),Service Request,In Progress,0,2026-01-29 09:39:43,1899-12-30,0,0.0,Ilo-ilo
 Jude,43022,JBC Technology and Trading Corporation,customer vendor listings listing,Service Request,In Progress,0,2026-01-29 15:05:15,1899-12-30,0,0.0,Cebu
-Jude,43050,Unisafe Marketing Inc.,Physical Inventory Report Modification,Service Request,Assigned,0,2026-01-30 13:07:22,1899-12-30,0,0.0,CDO
+Jude,43050,Unisafe Marketing Inc.,Physical Inventory Report Modification,Service Request,In Progress,0,2026-01-30 13:07:22,1899-12-30,0,0.0,CDO
 Jude,43072,JJM Trading and Services,Reflect Particulars in Customized Project Profitability Report,Service Request,Assigned,0,2026-01-30 17:32:03,1899-12-30,0,0.0,Cebu
 Jude,43076,MIKE RUECO FOOD PRODUCTS MARKETING,Assistance on deleting errors,Service Request,In Progress,0,2026-02-02 09:09:38,1899-12-30,0,0.0,Ilo-ilo
-Jude,43080,Activesystems Software Inc,preparation of laptop unit for Lauriane ,Service Request,Assigned,0,2026-02-02 14:12:34,1899-12-30,0,0.0,Gensan
+Jude,43080,Activesystems Software Inc,preparation of laptop unit for Lauriane ,Service Request,In Progress,0,2026-02-02 14:12:34,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
