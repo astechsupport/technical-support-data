@@ -151,7 +151,7 @@ Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name
 Jude,42844,Metro Cycle Mart,Simulation for Upgrade Database,Service Request,For Close,0,2026-01-23 14:57:05,1899-12-30,5,0.0,Davao
 Jude,42845,Metro Cycle Mart,Loyalty Points Installation,Service Request,For Close,0,2026-01-23 14:58:14,1899-12-30,5,0.0,Davao
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,In Progress,0,2026-01-27 08:50:16,1899-12-30,0,0.0,Cebu
-Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,In Progress,0,2026-01-28 10:04:36,1899-12-30,0,0.0,Gensan
+Jude,42953,Activesystems Software Inc,reset activeone for training purposes for Judith's training activity ,Service Request,For Close,0,2026-01-28 10:04:36,1899-12-30,0,0.0,Gensan
 Jude,42965,JBC Technology and Trading Corporation,item listing migration ,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,0,0.0,Cebu
 Jude,42987,S & P Trucking Services,Clear documents,Service Request,In Progress,0,2026-01-28 16:31:28,1899-12-30,0,0.0,Ilo-ilo
 Jude,42988,S & P Trucking Services,Fix maam Toneth Laptop (ODBC Corrupt),Service Request,In Progress,0,2026-01-28 16:31:59,1899-12-30,0,0.0,Ilo-ilo
@@ -218,7 +218,7 @@ Rico,43088,Casi Marketing Corporation,Inventory Migration,Service Request,Assign
 
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
-Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,5,0.0,CDO
+Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,5,60.0,CDO
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,0.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,5,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,5,0.0,Gensan
@@ -234,7 +234,7 @@ Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount,
 Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,In Progress,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,0,0.0,Davao
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,0,0.0,Davao
-Venz Jan,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,In Progress,0,2026-01-30 08:43:20,1899-12-30,0,0.0,Davao
+Venz Jan,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,In Progress,0,2026-01-30 08:43:20,1899-12-30,0,30.0,Davao
 Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audit trail. ,Service Request,Assigned,0,2026-01-30 09:06:21,1899-12-30,0,0.0,Davao
 Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,In Progress,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
 Venz Jan,43057,Art Gallery Philippines,Install ActiveOne for a new computer main server,Service Request,In Progress,0,2026-01-30 14:32:53,1899-12-30,0,0.0,Davao
