@@ -57,7 +57,7 @@ Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa tra
 Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,In Progress,0,2026-01-21 10:11:06,1899-12-30,5,30.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,In Progress,0,2026-01-21 10:12:12,1899-12-30,5,51.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,Assigned,0,2026-01-21 11:22:15,1899-12-30,5,0.0,Davao
-Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,In Progress,0,2026-01-22 10:08:57,1899-12-30,5,0.0,Davao
+Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,In Progress,0,2026-01-22 10:08:57,1899-12-30,5,60.0,Davao
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,5,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,5,0.0,Gensan
 Jeric Johann,42777,Light Diamond Enterprises,Delivery receipt (report customization),Service Request,In Progress,0,2026-01-22 10:14:36,1899-12-30,5,0.0,Gensan
@@ -184,7 +184,7 @@ Junmar,43048,Ihran Enterprises & Auto Supply Inc.,"Main Server Issue, there is a
 Junmar,43065,Fortune Agrivet Distribution Group Inc.,Price Manager Concern,Service Request,Assigned,0,2026-01-30 16:29:54,1899-12-30,0,0.0,Cebu
 Junmar,43066,Fortune Agrivet Distribution Group Inc.,Item Details Table Sorting Concern (Custom Sales Order),Service Request,Assigned,0,2026-01-30 16:32:11,1899-12-30,0,0.0,Cebu
 Junmar,43079,Ihran Enterprises & Auto Supply Inc.,Auto Back-up Set Up & Configuration in Server,Service Request,In Progress,0,2026-02-02 14:09:26,1899-12-30,1,0.0,Cebu
-Junmar,43098,Activesystems Software Inc,Fixing of laptop - Everly,Service Request,For Close,0,2026-02-02 17:56:34,1899-12-30,1,60.0,Cebu
+Junmar,43098,Activesystems Software Inc,Fixing of laptop - Everly,Service Request,For Close,5,2026-02-02 17:56:34,1899-12-30,1,60.0,Cebu
 Junmar,43104,GMY Ventures Corporation/Biboy Foods,Amount in Sales by item detail not visible (Test and Deployment),Internal,Assigned,0,2026-02-03 11:47:00,1899-12-30,0,0.0,Cebu
 
 
@@ -234,7 +234,7 @@ Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount,
 Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,In Progress,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,0,0.0,Davao
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,0,0.0,Davao
-Venz Jan,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,In Progress,0,2026-01-30 08:43:20,1899-12-30,0,30.0,Davao
+Venz Jan,43032,IDG Enterprises,Printer set up for OC - 2 units,Service Request,In Progress,0,2026-01-30 08:43:20,1899-12-30,0,40.0,Davao
 Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audit trail. ,Service Request,Assigned,0,2026-01-30 09:06:21,1899-12-30,0,0.0,Davao
 Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,In Progress,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
 Venz Jan,43057,Art Gallery Philippines,Install ActiveOne for a new computer main server,Service Request,In Progress,0,2026-01-30 14:32:53,1899-12-30,0,0.0,Davao
