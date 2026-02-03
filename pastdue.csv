@@ -61,7 +61,7 @@ Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not r
 Jeric Johann,42775,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-01-22 10:13:00,1899-12-30,5,0.0,Gensan
 Jeric Johann,42776,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,Assigned,0,2026-01-22 10:13:50,1899-12-30,5,0.0,Gensan
 Jeric Johann,42777,Light Diamond Enterprises,Delivery receipt (report customization),Service Request,In Progress,0,2026-01-22 10:14:36,1899-12-30,5,0.0,Gensan
-Jeric Johann,42788,"DMI Medical Supply Company, Inc.",Trial Balance Report Diagnosis,Service Request,Assigned,0,2026-01-22 12:34:05,1899-12-30,5,0.0,Davao
+Jeric Johann,42788,"DMI Medical Supply Company, Inc.",Trial Balance Report Diagnosis,Service Request,For Cancel,0,2026-01-22 12:34:05,1899-12-30,5,0.0,Davao
 Jeric Johann,42808,Gravala Enterprises,Disbursement Voucher Report in Bill Payment,Service Request,In Progress,0,2026-01-23 08:55:43,1899-12-30,5,0.0,Gensan
 Jeric Johann,42809,Gravala Enterprises,Petty Cash Voucher in Bill Payment ,Service Request,In Progress,0,2026-01-23 08:56:29,1899-12-30,5,0.0,Gensan
 Jeric Johann,42810,Gravala Enterprises,Purchase Request Report in Inventory Request,Service Request,Assigned,0,2026-01-23 08:57:05,1899-12-30,5,0.0,Gensan
@@ -125,6 +125,7 @@ Joshua,42963, Chicktek Corporation,Request for Additional VPN Connection ,Servic
 Joshua,42964, Chicktek Corporation,When P.O. Created. The Item name is incomplete because the item name is long,Service Request,Assigned,0,2026-01-28 10:51:15,1899-12-30,0,0.0,Head Quarter
 Joshua,43028,"Jadsons Marketing, Inc.",No sales value replicated ,Service Request,Assigned,0,2026-01-30 08:33:44,1899-12-30,0,0.0,Gensan
 Joshua,43031,Multigro Healthcare Inc.,ActiveOne installation - shared license.,Service Request,In Progress,0,2026-01-30 08:42:20,1899-12-30,0,0.0,Davao
+Joshua,43043,AMR Healthcare Medical Supplies,ACPM FOR ORDERING,Service Request,Assigned,0,2026-01-30 09:54:09,1899-12-30,0,0.0,CDO
 Joshua,43044,DB Enterprises,POS Concern,Service Request,Assigned,0,2026-01-30 09:56:27,1899-12-30,0,0.0,CDO
 Joshua,43054,DURIAN TRADERS OPC,Update the 'valid until' label in the POS receipt ,Service Request,Assigned,0,2026-01-30 14:29:39,1899-12-30,0,0.0,Davao
 Joshua,43055,DURIAN TRADERS OPC,TAX Computation concern,Service Request,Assigned,0,2026-01-30 14:30:21,1899-12-30,0,0.0,Davao
