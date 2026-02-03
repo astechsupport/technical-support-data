@@ -95,7 +95,7 @@ Joshua,41631,KNKS Construction Services,Customize vendor balance detail,Service 
 Joshua,41708,RL Enterprises,POS Receipt Modification,Service Request,In Progress,0,2025-12-04 14:24:50,1899-12-30,40,0.0,CDO
 Joshua,41870,Gasatan-Quality Incorporated/GQ9 Multisales,POS Concern,Service Request,In Progress,0,2025-12-11 08:41:14,1899-12-30,35,0.0,CDO
 Joshua,42232,Richstar Variety Store,2307 deployment,Service Request,In Progress,0,2025-12-29 11:53:31,1899-12-30,26,0.0,CDO
-Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,Assigned,0,2026-01-07 08:56:02,1899-12-30,15,0.0,CDO
+Joshua,42331,Bethel Baptist Christian Academy Inc.,Deployment of 2307 Form,Service Request,In Progress,0,2026-01-07 08:56:02,1899-12-30,15,30.0,CDO
 Joshua,42404,The Purple Tree Corp.,Can't access Activeone,Service Request,For Close,0,2026-01-09 11:26:09,1899-12-30,15,0.0,CDO
 Joshua,42675,Farmer's Choice Minimart,Printing Concern,Service Request,In Progress,0,2026-01-20 08:28:50,1899-12-30,10,0.0,CDO
 Joshua,42728,Activesystems Software Inc,Printer Cleaning Office,Internal,In Progress,0,2026-01-21 10:48:35,1899-12-30,5,0.0,CDO
@@ -268,4 +268,6 @@ Venz Jan,43117,Tonya's Agrivet Supply,Installation (2SEv21),Service Request,Assi
 Venz Jan,43118,LGM Global Industries Inc.,VPN SET UP LAPTOP 1,Service Request,Assigned,0,2026-02-03 15:09:20,1899-12-30,0,0.0,Davao
 Venz Jan,43119,LGM Global Industries Inc.,VPN SET UP LAPTOP 2,Service Request,Assigned,0,2026-02-03 15:10:12,1899-12-30,0,0.0,Davao
 Venz Jan,43120,LGM Global Industries Inc.,VPN SET UP LAPTOP 3,Service Request,Assigned,0,2026-02-03 15:14:32,1899-12-30,0,0.0,Davao
+Venz Jan,43121,LGM Global Industries Inc.,VPN SET UP LAPTOP 4,Service Request,Assigned,0,2026-02-03 15:15:14,1899-12-30,0,0.0,Davao
+Venz Jan,43122,LGM Global Industries Inc.,VPN SET UP LAPTOP 5,Service Request,Assigned,0,2026-02-03 15:15:58,1899-12-30,0,0.0,Davao
 
