@@ -126,7 +126,7 @@ Joshua,42964, Chicktek Corporation,When P.O. Created. The Item name is incomplet
 Joshua,43028,"Jadsons Marketing, Inc.",No sales value replicated ,Service Request,Assigned,0,2026-01-30 08:33:44,1899-12-30,0,0.0,Gensan
 Joshua,43031,Multigro Healthcare Inc.,ActiveOne installation - shared license.,Service Request,In Progress,0,2026-01-30 08:42:20,1899-12-30,0,0.0,Davao
 Joshua,43043,AMR Healthcare Medical Supplies,ACPM FOR ORDERING,Service Request,Assigned,0,2026-01-30 09:54:09,1899-12-30,0,0.0,CDO
-Joshua,43044,DB Enterprises,POS Concern,Service Request,In Progress,0,2026-01-30 09:56:27,1899-12-30,0,0.0,CDO
+Joshua,43044,DB Enterprises,POS Concern,Service Request,In Progress,0,2026-01-30 09:56:27,1899-12-30,0,120.0,CDO
 Joshua,43054,DURIAN TRADERS OPC,Update the 'valid until' label in the POS receipt ,Service Request,Assigned,0,2026-01-30 14:29:39,1899-12-30,0,0.0,Davao
 Joshua,43055,DURIAN TRADERS OPC,TAX Computation concern,Service Request,Assigned,0,2026-01-30 14:30:21,1899-12-30,0,0.0,Davao
 Joshua,43056,DURIAN TRADERS OPC,New item encoded in item list on the ActiveOne incorrect price when being transact in POS concern ,Service Request,Assigned,0,2026-01-30 14:31:12,1899-12-30,0,0.0,Davao
@@ -202,7 +202,7 @@ Rico,42821, Chicktek Corporation,Customized PO form w/ image layout adjustment,S
 Rico,42840,Supersun Consumer Goods Trading / Platinum Food Products,Set up Router,Service Request,Assigned,0,2026-01-23 13:54:52,1899-12-30,5,0.0,Davao
 Rico,42924,Philfumes Petroleum Corporation,Template Modification in Purchase Order,Service Request,Assigned,0,2026-01-27 15:46:16,1899-12-30,5,0.0,Davao
 Rico,42942,Activesystems Software Inc,Field sale set up for demo/presentation.,Service Request,Assigned,0,2026-01-27 22:03:30,1899-12-30,5,0.0,Davao
-Rico,42996,PDP Convenience,Cashier cannot cash count,Service Request,Assigned,0,2026-01-28 17:20:48,1899-12-30,0,0.0,Gensan
+Rico,42996,PDP Convenience,Cashier cannot cash count,Service Request,In Progress,0,2026-01-28 17:20:48,1899-12-30,0,0.0,Gensan
 Rico,43018,GEJ Shopping Center,PTU set-up,Service Request,Assigned,0,2026-01-29 11:38:03,1899-12-30,0,0.0,Davao
 Rico,43019,GEJ Shopping Center,Create windows User (FALSE),Service Request,Assigned,0,2026-01-29 11:38:51,1899-12-30,0,0.0,Davao
 Rico,43034,D'MAR MARKETING,Hardware Assessment,Service Request,Assigned,0,2026-01-30 08:44:12,1899-12-30,0,0.0,Davao
