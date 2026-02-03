@@ -240,7 +240,7 @@ Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Ser
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,0.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,6,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,6,0.0,Gensan
-Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,In Progress,0,2026-01-26 17:11:11,1899-12-30,6,0.0,Davao
+Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,For Cancel,0,2026-01-26 17:11:11,1899-12-30,6,0.0,Davao
 Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,5,60.0,Gensan
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,In Progress,0,2026-01-27 10:13:01,1899-12-30,5,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,5,0.0,Davao
@@ -248,7 +248,7 @@ Venz Jan,42914,Thunder Park Inc.,Request for POS to remove the Cash received and
 Venz Jan,42916,Thunder Park Inc.,wrong total amount on Z- Reading,Service Request,Assigned,0,2026-01-27 10:37:52,1899-12-30,5,0.0,Davao
 Venz Jan,42917,Meat JAS 4U OPC,Syncing of POS buhangin Outlet,Service Request,In Progress,0,2026-01-27 10:50:46,1899-12-30,5,0.0,Davao
 Venz Jan,42919,Meat JAS 4U OPC,Replication Maintenance (Main Branch),Service Request,In Progress,0,2026-01-27 13:30:30,1899-12-30,5,0.0,Davao
-Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,In Progress,0,2026-01-28 08:54:16,1899-12-30,0,60.0,Davao
+Venz Jan,42952,Kelly Interior Supplies Trading,"Receipt: No display of discount, and negative display of change item(same amount).",Service Request,In Progress,0,2026-01-28 08:54:16,1899-12-30,0,120.0,Davao
 Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,In Progress,0,2026-01-28 15:04:48,1899-12-30,0,0.0,Davao
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,0,0.0,Davao
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,0,0.0,Davao
