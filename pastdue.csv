@@ -42,8 +42,6 @@ Ceasar Ian,42718,Activesystems Software Inc,Setup Email,Internal,Assigned,0,2026
 Ceasar Ian,42770,3A Dressed Chicken Trading,Report customization,Service Request,Assigned,0,2026-01-22 09:53:35,1899-12-30,5,0.0,Davao
 Ceasar Ian,42903,Padrino General Merchandise,back-up file for unit updating,Service Request,Assigned,0,2026-01-27 09:16:44,1899-12-30,6,0.0,Davao
 Ceasar Ian,43039,The Generics Pharmacy - Matina,(TGP-Pangi) remaining quantity doesn't match from the deducted transactions ,Service Request,Assigned,0,2026-01-30 09:19:01,1899-12-30,0,0.0,Davao
-Ceasar Ian,43169,Sports Town Incorporated,Replication reset up Node (POS) 2,Service Request,Assigned,0,2026-02-04 14:02:07,1899-12-30,0,0.0,Davao
-Ceasar Ian,43170,Sports Town Incorporated,Replication reset up Node (POS) 3,Service Request,Assigned,0,2026-02-04 14:03:22,1899-12-30,0,0.0,Davao
 
 
 User: Jeric Johann
@@ -88,6 +86,8 @@ Jeric Johann,43049,GJ and G Marketing - Kidapawan,"Sales by Rep detail- blank po
 Jeric Johann,43081,Anoche's Marketing,install  ActiveONE on one of our computers ,Service Request,In Progress,0,2026-02-02 14:16:46,1899-12-30,2,0.0,Gensan
 Jeric Johann,43086,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-02-02 16:14:55,1899-12-30,2,30.0,Gensan
 Jeric Johann,43168,Sports Town Incorporated,Replication reset up Node (POS) 1,Service Request,Assigned,0,2026-02-04 14:00:45,1899-12-30,0,0.0,Davao
+Jeric Johann,43169,Sports Town Incorporated,Replication reset up Node (POS) 2,Service Request,Assigned,0,2026-02-04 14:02:07,1899-12-30,0,0.0,Davao
+Jeric Johann,43170,Sports Town Incorporated,Replication reset up Node (POS) 3,Service Request,Assigned,0,2026-02-04 14:03:22,1899-12-30,0,0.0,Davao
 
 
 User: Joshua
@@ -224,13 +224,15 @@ Junmar,43111,Vexoil Phil Corporation,LPI installation (Sigma),Service Request,Fo
 Junmar,43112,Vexoil Phil Corporation,LPI Installation (Panay),Service Request,For Close,0,2026-02-03 13:22:16,1899-12-30,1,20.0,Ilo-ilo
 Junmar,43113,Vexoil Phil Corporation, LPI Installation (Dayao),Service Request,For Close,0,2026-02-03 13:22:53,1899-12-30,1,20.0,Ilo-ilo
 Junmar,43114,Vexoil Phil Corporation, LPI Installation (Ivisan),Service Request,For Close,0,2026-02-03 13:23:25,1899-12-30,1,60.0,Ilo-ilo
-Junmar,43178,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Ivisan),Service Request,Assigned,0,2026-02-04 16:03:12,1899-12-30,0,0.0,Cebu
-Junmar,43179,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Dayao),Service Request,Assigned,0,2026-02-04 16:04:47,1899-12-30,0,0.0,Cebu
-Junmar,43180,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Panay),Service Request,Assigned,0,2026-02-04 16:05:27,1899-12-30,0,0.0,Cebu
-Junmar,43181,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Sigma),Service Request,Assigned,0,2026-02-04 16:06:55,1899-12-30,0,0.0,Cebu
-Junmar,43182,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Ivisan),Service Request,Assigned,0,2026-02-04 16:07:34,1899-12-30,0,0.0,Cebu
-Junmar,43183,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Dayao),Service Request,Assigned,0,2026-02-04 16:08:32,1899-12-30,0,0.0,Cebu
-Junmar,43184,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Panay),Service Request,Assigned,0,2026-02-04 16:09:11,1899-12-30,0,0.0,Cebu
+Junmar,43178,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Ivisan),Service Request,In Progress,0,2026-02-04 16:03:12,1899-12-30,0,0.0,Cebu
+Junmar,43179,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Dayao),Service Request,In Progress,0,2026-02-04 16:04:47,1899-12-30,0,0.0,Cebu
+Junmar,43180,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Panay),Service Request,In Progress,0,2026-02-04 16:05:27,1899-12-30,0,0.0,Cebu
+Junmar,43181,Vexoil Phil Corporation,Vexoil Phil Corporation : Vpn Installation (Sigma),Service Request,In Progress,0,2026-02-04 16:06:55,1899-12-30,0,0.0,Cebu
+Junmar,43182,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Ivisan),Service Request,In Progress,0,2026-02-04 16:07:34,1899-12-30,0,0.0,Cebu
+Junmar,43183,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Dayao),Service Request,In Progress,0,2026-02-04 16:08:32,1899-12-30,0,0.0,Cebu
+Junmar,43184,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Panay),Service Request,In Progress,0,2026-02-04 16:09:11,1899-12-30,0,0.0,Cebu
+Junmar,43185,Vexoil Phil Corporation,Vexoil Phil Corporation : Mysql Installation (Sigma),Service Request,Assigned,0,2026-02-04 16:14:01,1899-12-30,0,0.0,Cebu
+Junmar,43186,Vexoil Phil Corporation,Vexoil Phil Corporation : Set Up Replication (Ivisan),Service Request,Assigned,0,2026-02-04 16:14:39,1899-12-30,0,0.0,Cebu
 
 
 User: Rico
