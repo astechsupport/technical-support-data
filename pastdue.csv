@@ -52,7 +52,7 @@ Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not bein
 Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30,27,0.0,Gensan
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30,17,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30,17,0.0,Davao
-Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,In Progress,0,2026-01-13 10:12:09,1899-12-30,16,0.0,Gensan
+Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,For Cancel,0,2026-01-13 10:12:09,1899-12-30,16,0.0,Gensan
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,12,0.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,In Progress,0,2026-01-20 10:37:58,1899-12-30,11,0.0,Davao
 Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,In Progress,0,2026-01-20 11:42:01,1899-12-30,11,0.0,Davao
@@ -219,11 +219,11 @@ Junmar,43106,Light Diamond Enterprises,Cash count report difference to the repor
 Junmar,43107,Vexoil Phil Corporation,POS installation (Sigma),Service Request,In Progress,0,2026-02-03 13:19:26,1899-12-30,1,20.0,Ilo-ilo
 Junmar,43108,Vexoil Phil Corporation,POS Installation (Panay),Service Request,For Close,0,2026-02-03 13:19:59,1899-12-30,1,20.0,Ilo-ilo
 Junmar,43109,Vexoil Phil Corporation, POS Installation (Dayao),Service Request,For Close,0,2026-02-03 13:20:27,1899-12-30,1,20.0,Ilo-ilo
-Junmar,43110,Vexoil Phil Corporation,POS Installation (Ivisan),Service Request,In Progress,0,2026-02-03 13:21:04,1899-12-30,1,0.0,Ilo-ilo
-Junmar,43111,Vexoil Phil Corporation,LPI installation (Sigma),Service Request,In Progress,0,2026-02-03 13:21:45,1899-12-30,1,0.0,Ilo-ilo
-Junmar,43112,Vexoil Phil Corporation,LPI Installation (Panay),Service Request,In Progress,0,2026-02-03 13:22:16,1899-12-30,1,0.0,Ilo-ilo
-Junmar,43113,Vexoil Phil Corporation, LPI Installation (Dayao),Service Request,In Progress,0,2026-02-03 13:22:53,1899-12-30,1,0.0,Ilo-ilo
-Junmar,43114,Vexoil Phil Corporation, LPI Installation (Ivisan),Service Request,In Progress,0,2026-02-03 13:23:25,1899-12-30,1,0.0,Ilo-ilo
+Junmar,43110,Vexoil Phil Corporation,POS Installation (Ivisan),Service Request,For Close,0,2026-02-03 13:21:04,1899-12-30,1,20.0,Ilo-ilo
+Junmar,43111,Vexoil Phil Corporation,LPI installation (Sigma),Service Request,For Close,0,2026-02-03 13:21:45,1899-12-30,1,20.0,Ilo-ilo
+Junmar,43112,Vexoil Phil Corporation,LPI Installation (Panay),Service Request,For Close,0,2026-02-03 13:22:16,1899-12-30,1,20.0,Ilo-ilo
+Junmar,43113,Vexoil Phil Corporation, LPI Installation (Dayao),Service Request,For Close,0,2026-02-03 13:22:53,1899-12-30,1,20.0,Ilo-ilo
+Junmar,43114,Vexoil Phil Corporation, LPI Installation (Ivisan),Service Request,For Close,0,2026-02-03 13:23:25,1899-12-30,1,60.0,Ilo-ilo
 
 
 User: Rico
