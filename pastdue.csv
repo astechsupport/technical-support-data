@@ -233,6 +233,7 @@ Rico,43037,D'MAR MARKETING,Auto backup Setup,Service Request,Assigned,0,2026-01-
 Rico,43052,Merlion Enterprises,PTU Setup,Service Request,Assigned,0,2026-01-30 13:45:03,1899-12-30,0,0.0,Davao
 Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-30 13:45:41,1899-12-30,0,0.0,Davao
 Rico,43088,Casi Marketing Corporation,Inventory Migration,Service Request,Assigned,0,2026-02-02 16:18:54,1899-12-30,2,0.0,Davao
+Rico,43137,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,Assigned,0,2026-02-04 09:21:08,1899-12-30,0,0.0,CDO
 
 
 User: Venz Jan
@@ -241,7 +242,6 @@ Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Ser
 Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,In Progress,0,2026-01-23 14:18:10,1899-12-30,5,0.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,7,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,7,0.0,Gensan
-Venz Jan,42892,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,For Cancel,0,2026-01-26 17:11:11,1899-12-30,7,0.0,Davao
 Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,6,60.0,Gensan
 Venz Jan,42912,Thunder Park Inc.,"Requesting for Order Capture..not to require exact amount to Save. instead, accept even zero lang ang e input.",Service Request,In Progress,0,2026-01-27 10:13:01,1899-12-30,6,0.0,Davao
 Venz Jan,42913,Thunder Park Inc.,"Request Order Capture, to Resume suspended transactions and to encode returned items",Service Request,Assigned,0,2026-01-27 10:14:46,1899-12-30,6,0.0,Davao
