@@ -76,7 +76,7 @@ Jeric Johann,42879,Casi Marketing Corporation,Template Modification: Daily TRA C
 Jeric Johann,42880,Casi Marketing Corporation,Template Modification: Daily TRA Sales Report,Service Request,In Progress,0,2026-01-26 16:11:32,1899-12-30,7,30.0,Davao
 Jeric Johann,42895,Migg Enterprises,Activeone reinstallation,Service Request,For Close,0,2026-01-27 08:42:59,1899-12-30,6,0.0,Gensan
 Jeric Johann,42900,Migg Enterprises,Installation of OC,Service Request,For Close,4,2026-01-27 08:53:39,1899-12-30,6,0.0,Gensan
-Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,In Progress,0,2026-01-27 09:06:02,1899-12-30,6,30.0,Gensan
+Jeric Johann,42902,ACYAP Enterprises Inc.,"Showing error/warning when exporting whole year & comparative transactions in Income Statement, Balance Sheet & Cash Flow. ",Service Request,For Cancel,0,2026-01-27 09:06:02,1899-12-30,6,30.0,Gensan
 Jeric Johann,42943,Malagos Agri-Ventures Corporation,Active 1 complains about not balancing amount and quantity. In Per location Detail VS. Per Invoice.,Service Request,In Progress,0,2026-01-27 22:05:38,1899-12-30,6,60.0,Davao
 Jeric Johann,42945,Brigada Distributions Inc.,activeone installation,Service Request,For Cancel,0,2026-01-27 22:12:02,1899-12-30,6,0.0,Davao
 Jeric Johann,42956,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",Password restriction set-up - Credit memo,Service Request,In Progress,0,2026-01-28 10:16:45,1899-12-30,5,0.0,Gensan
@@ -216,7 +216,7 @@ Junmar,43098,Activesystems Software Inc,Fixing of laptop - Everly,Service Reques
 Junmar,43104,GMY Ventures Corporation/Biboy Foods,Amount in Sales by item detail not visible (Test and Deployment),Internal,In Progress,0,2026-02-03 11:47:00,1899-12-30,1,20.0,Cebu
 Junmar,43105,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-02-03 13:08:09,1899-12-30,1,0.0,Head Quarter
 Junmar,43106,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,In Progress,0,2026-02-03 13:15:52,1899-12-30,1,0.0,Davao
-Junmar,43107,Vexoil Phil Corporation,POS installation (Sigma),Service Request,Assigned,0,2026-02-03 13:19:26,1899-12-30,1,0.0,Ilo-ilo
+Junmar,43107,Vexoil Phil Corporation,POS installation (Sigma),Service Request,In Progress,0,2026-02-03 13:19:26,1899-12-30,1,0.0,Ilo-ilo
 Junmar,43108,Vexoil Phil Corporation,POS Installation (Panay),Service Request,Assigned,0,2026-02-03 13:19:59,1899-12-30,1,0.0,Ilo-ilo
 Junmar,43109,Vexoil Phil Corporation, POS Installation (Dayao),Service Request,Assigned,0,2026-02-03 13:20:27,1899-12-30,1,0.0,Ilo-ilo
 Junmar,43110,Vexoil Phil Corporation,POS Installation (Ivisan),Service Request,Assigned,0,2026-02-03 13:21:04,1899-12-30,1,0.0,Ilo-ilo
