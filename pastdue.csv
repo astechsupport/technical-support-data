@@ -54,7 +54,7 @@ Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Servi
 Jeric Johann,42649,DEXLUCK AUTO PARTS TRADING/FOREMOST AUTO CARE SERVICES,Dili makalog in sa system,Service Request,In Progress,0,2026-01-19 09:38:55,1899-12-30,13,0.0,Davao
 Jeric Johann,42678,Green Leaves Enterprise Corporation,Change Format of Sales Invoice,Service Request,In Progress,0,2026-01-20 10:37:58,1899-12-30,12,0.0,Davao
 Jeric Johann,42679,Philfumes Petroleum Corporation,Pa check nako usab ang sa transition sa beggining inventory sa income statement kay nawala ang mga beginning inventory. Sa kato ning sa customized na IS. Same pud sa customized na consolidated na IS nangawala ang mga figures.,Service Request,In Progress,0,2026-01-20 11:42:01,1899-12-30,12,0.0,Davao
-Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,For Close,0,2026-01-21 10:11:06,1899-12-30,11,113.0,Gensan
+Jeric Johann,42722,"Mega Grand Commercial Inc.,",Diagnosis - sales description in item general info is not functioning,Service Request,For Close,5,2026-01-21 10:11:06,1899-12-30,11,113.0,Gensan
 Jeric Johann,42723,"Mega Grand Commercial Inc.,",Diagnosis - there's no error/prompt when creating the same description in the item,Service Request,For Close,0,2026-01-21 10:12:12,1899-12-30,11,51.0,Gensan
 Jeric Johann,42729,GJ and G Marketing,Or # and Or date is not reflecting to the ar aging raw data report,Service Request,For Cancel,0,2026-01-21 11:22:15,1899-12-30,11,0.0,Davao
 Jeric Johann,42773,Farmers Edge Agriventures Inc.,Bayugan Branch POS Sales not reflect to Deposits,Service Request,In Progress,0,2026-01-22 10:08:57,1899-12-30,10,120.0,Davao
@@ -259,10 +259,10 @@ Rico,42924,Philfumes Petroleum Corporation,Template Modification in Purchase Ord
 Rico,42942,Activesystems Software Inc,Field sale set up for demo/presentation.,Service Request,Assigned,0,2026-01-27 22:03:30,1899-12-30,7,0.0,Davao
 Rico,43018,GEJ Shopping Center,PTU set-up,Service Request,In Progress,0,2026-01-29 11:38:03,1899-12-30,5,0.0,Davao
 Rico,43019,GEJ Shopping Center,Create windows User (FALSE),Service Request,In Progress,0,2026-01-29 11:38:51,1899-12-30,5,0.0,Davao
-Rico,43034,D'MAR MARKETING,Hardware Assessment,Service Request,In Progress,0,2026-01-30 08:44:12,1899-12-30,0,0.0,Davao
-Rico,43035,D'MAR MARKETING,ActiveOne Installation,Service Request,In Progress,0,2026-01-30 08:46:58,1899-12-30,0,0.0,Davao
-Rico,43036,D'MAR MARKETING,MySQL Setup,Service Request,In Progress,0,2026-01-30 08:48:03,1899-12-30,0,0.0,Davao
-Rico,43037,D'MAR MARKETING,Auto backup Setup,Service Request,Assigned,0,2026-01-30 08:48:51,1899-12-30,0,0.0,Davao
+Rico,43034,D'MAR MARKETING,Hardware Assessment,Service Request,In Progress,0,2026-01-30 08:44:12,1899-12-30,0,30.0,Davao
+Rico,43035,D'MAR MARKETING,ActiveOne Installation,Service Request,In Progress,0,2026-01-30 08:46:58,1899-12-30,0,60.0,Davao
+Rico,43036,D'MAR MARKETING,MySQL Setup,Service Request,In Progress,0,2026-01-30 08:48:03,1899-12-30,0,60.0,Davao
+Rico,43037,D'MAR MARKETING,Auto backup Setup,Service Request,In Progress,0,2026-01-30 08:48:51,1899-12-30,0,60.0,Davao
 Rico,43052,Merlion Enterprises,PTU Setup,Service Request,Assigned,0,2026-01-30 13:45:03,1899-12-30,0,0.0,Davao
 Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-30 13:45:41,1899-12-30,0,0.0,Davao
 Rico,43083,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit Ticket No. 00042324,Service Request,Assigned,0,2026-02-02 14:25:20,1899-12-30,3,0.0,Davao
