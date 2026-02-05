@@ -143,12 +143,12 @@ Joshua,43134,J-Mart Supermarket ,Update Sale Invoice 5,Internal,Assigned,0,2026-
 Joshua,43138,Pharmapro Pharmacy,Travel Ticket 1 ,Travel Ticket,Assigned,0,2026-02-04 11:22:50,1899-12-30,1,0.0,CDO
 Joshua,43139,Pharmapro Pharmacy,Travel Ticket 2,Travel Ticket,Assigned,0,2026-02-04 11:23:41,1899-12-30,1,0.0,CDO
 Joshua,43141,Pharmapro Pharmacy,Setup POSToInvoice,Service Request,In Progress,0,2026-02-04 11:24:19,1899-12-30,1,180.0,CDO
-Joshua,43142,Pharmapro Pharmacy,Diagnosis on Casisang POS2,Service Request,In Progress,0,2026-02-04 11:24:48,1899-12-30,1,0.0,CDO
+Joshua,43142,Pharmapro Pharmacy,Diagnosis on Casisang POS2,Service Request,In Progress,0,2026-02-04 11:24:48,1899-12-30,1,120.0,CDO
 Joshua,43177,Companero Commercial,Template modification ,Service Request,Assigned,0,2026-02-04 14:52:33,1899-12-30,1,0.0,CDO
-Joshua,43194,Pharmapro Pharmacy,Diagnose POS2 on Qualicare Branch,Service Request,Assigned,0,2026-02-05 08:47:08,1899-12-30,0,0.0,CDO
-Joshua,43195,Pharmapro Pharmacy,Disable Allow Negative on Casisang Branch,Service Request,Assigned,0,2026-02-05 08:47:48,1899-12-30,0,0.0,CDO
-Joshua,43196,Pharmapro Pharmacy,Checking of Main Server Syncing stops on Screen Timeout,Service Request,Assigned,0,2026-02-05 08:48:22,1899-12-30,0,0.0,CDO
-Joshua,43197,Pharmapro Pharmacy,Checking of Sales Invoice Receipts,Service Request,Assigned,0,2026-02-05 08:49:04,1899-12-30,0,0.0,CDO
+Joshua,43194,Pharmapro Pharmacy,Diagnose POS2 on Qualicare Branch,Service Request,In Progress,0,2026-02-05 08:47:08,1899-12-30,0,60.0,CDO
+Joshua,43195,Pharmapro Pharmacy,Disable Allow Negative on Casisang Branch,Service Request,In Progress,0,2026-02-05 08:47:48,1899-12-30,0,30.0,CDO
+Joshua,43196,Pharmapro Pharmacy,Checking of Main Server Syncing stops on Screen Timeout,Service Request,In Progress,0,2026-02-05 08:48:22,1899-12-30,0,60.0,CDO
+Joshua,43197,Pharmapro Pharmacy,Checking of Sales Invoice Receipts,Service Request,In Progress,0,2026-02-05 08:49:04,1899-12-30,0,30.0,CDO
 Joshua,43200,AMR Healthcare Medical Supplies,Inquiry new products regarding sales,Service Request,Assigned,0,2026-02-05 10:21:28,1899-12-30,0,0.0,CDO
 
 
@@ -187,7 +187,7 @@ Jude,43095,Jaag Bakery Products Manufacturing,activeone  installation (working s
 Jude,43096,Jaag Bakery Products Manufacturing,Restaurant solution installation ,Service Request,Assigned,0,2026-02-02 17:31:41,1899-12-30,3,0.0,Ilo-ilo
 Jude,43097,Jaag Bakery Products Manufacturing,activeone installation at macbook unit ,Service Request,Assigned,0,2026-02-02 17:32:52,1899-12-30,3,0.0,Ilo-ilo
 Jude,43102,Kelly Interior Supplies Trading,Update item description,Service Request,Assigned,0,2026-02-03 11:21:32,1899-12-30,2,0.0,Davao
-Jude,43135,Kergen Marketing,Reconfigure 3 workstation,Service Request,Assigned,0,2026-02-03 16:38:46,1899-12-30,2,0.0,Ilo-ilo
+Jude,43135,Kergen Marketing,Reconfigure 3 workstation,Service Request,In Progress,0,2026-02-03 16:38:46,1899-12-30,2,0.0,Ilo-ilo
 Jude,43143,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT SELLING AREA SUPERMARKET,Service Request,In Progress,0,2026-02-04 11:29:54,1899-12-30,1,0.0,Gensan
 Jude,43144,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT SELLING AREA DEPT STORE,Service Request,Assigned,0,2026-02-04 11:30:54,1899-12-30,1,0.0,Gensan
 Jude,43145,Raysmart Maitum Corporation,"INVENTORY COUNT ZERO OUT AGRI CHEMICAL, KIAMBA , PALIMBANG ",Service Request,In Progress,0,2026-02-04 11:31:31,1899-12-30,1,0.0,Gensan
@@ -321,7 +321,7 @@ Venz Jan,43160,FTC Group of Companies Corp.,Access restriction of Sales Report,S
 Venz Jan,43164,Chefbuddy FoodServices Inc.,A1 Installation,Service Request,In Progress,0,2026-02-04 13:27:36,1899-12-30,1,60.0,CDO
 Venz Jan,43165,Chefbuddy FoodServices Inc.,VPN Installation,Service Request,In Progress,0,2026-02-04 13:29:16,1899-12-30,1,30.0,CDO
 Venz Jan,43167,Preman Marketing & Distribution Network Inc.," Installation an ActivoneOne back - end 1 unit of computer located at Talisay, Cebu.",Service Request,Assigned,0,2026-02-04 13:54:04,1899-12-30,1,0.0,Cebu
-Venz Jan,43171,D'PRIME OFFICE DEPOT OPC,ACTIVE ONE ERROR: LOCK WAIT TIMEOUT EXCEEDED,Service Request,Assigned,0,2026-02-04 14:11:24,1899-12-30,1,0.0,Davao
+Venz Jan,43171,D'PRIME OFFICE DEPOT OPC,ACTIVE ONE ERROR: LOCK WAIT TIMEOUT EXCEEDED,Service Request,In Progress,0,2026-02-04 14:11:24,1899-12-30,1,0.0,Davao
 Venz Jan,43172,FABLAB BIO SOULTIONS INC,Install VPN - Server and Workstation,Service Request,Assigned,0,2026-02-04 14:14:00,1899-12-30,1,0.0,Davao
 Venz Jan,43173,Jupiter e-Mobility Corp,Serial No. error in invoice,Service Request,Assigned,0,2026-02-04 14:32:55,1899-12-30,1,0.0,Davao
 Venz Jan,43174,Jupiter e-Mobility Corp,Configure Supervisor Access,Service Request,Assigned,0,2026-02-04 14:33:46,1899-12-30,1,0.0,Davao
