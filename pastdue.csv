@@ -82,7 +82,7 @@ Jeric Johann,42961,NOVAL DRESSED CHICKEN AND POULTY FARM,Report customization pu
 Jeric Johann,42972,RGJ Hardware and Construction Supplies,Pos invoice showing incorrect company,Service Request,In Progress,0,2026-01-28 13:25:44,1899-12-30,6,0.0,Gensan
 Jeric Johann,42995,"EXTREME REACH DISTRIBUTION, INC / JSDR Marketing",System Error,Service Request,In Progress,0,2026-01-28 17:19:31,1899-12-30,6,0.0,Gensan
 Jeric Johann,43049,GJ and G Marketing - Kidapawan,"Sales by Rep detail- blank po, ",Service Request,In Progress,0,2026-01-30 11:31:54,1899-12-30,0,0.0,Gensan
-Jeric Johann,43081,Anoche's Marketing,install  ActiveONE on one of our computers ,Service Request,In Progress,0,2026-02-02 14:16:46,1899-12-30,3,0.0,Gensan
+Jeric Johann,43081,Anoche's Marketing,install  ActiveONE on one of our computers ,Service Request,For Cancel,0,2026-02-02 14:16:46,1899-12-30,3,0.0,Gensan
 Jeric Johann,43086,K&A Med Horizon Plus Corp,Template must be alphabetical,Service Request,In Progress,0,2026-02-02 16:14:55,1899-12-30,3,30.0,Gensan
 Jeric Johann,43168,Sports Town Incorporated,Replication reset up Node (POS) 1,Service Request,For Close,0,2026-02-04 14:00:45,1899-12-30,1,60.0,Davao
 Jeric Johann,43169,Sports Town Incorporated,Replication reset up Node (POS) 2,Service Request,Assigned,0,2026-02-04 14:02:07,1899-12-30,1,0.0,Davao
@@ -310,7 +310,7 @@ Venz Jan,43100,Rapid Technologies Inc. ,unable to add in sales Order,Service Req
 Venz Jan,43101,Golden Lakemore Corporation,Update item description,Service Request,In Progress,0,2026-02-03 11:10:29,1899-12-30,2,100.0,CDO
 Venz Jan,43116,Fire Ox Trading Corporation,"Lock Payment Term on SO form (uneditable), Authorization required on creating new customer",Service Request,Assigned,0,2026-02-03 14:49:13,1899-12-30,2,0.0,Gensan
 Venz Jan,43117,Tonya's Agrivet Supply,Installation (2SEv21),Service Request,In Progress,0,2026-02-03 15:05:37,1899-12-30,2,0.0,Davao
-Venz Jan,43118,LGM Global Industries Inc.,VPN SET UP LAPTOP 1,Service Request,Assigned,0,2026-02-03 15:09:20,1899-12-30,2,0.0,Davao
+Venz Jan,43118,LGM Global Industries Inc.,VPN SET UP LAPTOP 1,Service Request,In Progress,0,2026-02-03 15:09:20,1899-12-30,2,0.0,Davao
 Venz Jan,43119,LGM Global Industries Inc.,VPN SET UP LAPTOP 2,Service Request,Assigned,0,2026-02-03 15:10:12,1899-12-30,2,0.0,Davao
 Venz Jan,43120,LGM Global Industries Inc.,VPN SET UP LAPTOP 3,Service Request,Assigned,0,2026-02-03 15:14:32,1899-12-30,2,0.0,Davao
 Venz Jan,43121,LGM Global Industries Inc.,VPN SET UP LAPTOP 4,Service Request,Assigned,0,2026-02-03 15:15:14,1899-12-30,2,0.0,Davao
