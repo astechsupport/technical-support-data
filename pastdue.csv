@@ -197,6 +197,7 @@ Jude,43150,Raysmart Maitum Corporation,EXECUTION OF COUNTING POSTING,Service Req
 Jude,43151,Raysmart Maitum Corporation,TRAVEL TICKET 1 GSC - MAITUM,Travel Ticket,Assigned,0,2026-02-04 11:35:36,1899-12-30,1,0.0,Gensan
 Jude,43152,Raysmart Maitum Corporation,TRAVEL TICKET 2 MAITUM - GSC,Service Request,Assigned,0,2026-02-04 11:36:04,1899-12-30,1,0.0,Gensan
 Jude,43201,Famous Hardware & Construction Supply,MySQL Server Setup,Service Request,In Progress,0,2026-02-05 10:50:46,1899-12-30,0,0.0,CDO
+Jude,43207,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,Assigned,0,2026-02-05 16:26:27,1899-12-30,0,0.0,Gensan
 
 
 User: Junmar
@@ -292,7 +293,7 @@ Venz Jan,42977,"Ma-an's Bakeshop, Co.",Deploy Check template,Service Request,In 
 Venz Jan,42978,"Ma-an's Bakeshop, Co.",Template modification - Invoice,Service Request,Assigned,0,2026-01-28 15:05:24,1899-12-30,6,0.0,Davao
 Venz Jan,42998,Servityre Sales and Service Center,Addtional User for another unit,Service Request,In Progress,0,2026-01-29 09:10:08,1899-12-30,5,0.0,Davao
 Venz Jan,43038,LGM Global Industries Inc.,Lag in receiving inventory and no audit trail. ,Service Request,Assigned,0,2026-01-30 09:06:21,1899-12-30,0,0.0,Davao
-Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,In Progress,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
+Venz Jan,43040,Famous Hardware & Construction Supply,Installation of SEv21,Service Request,For Cancel,0,2026-01-30 09:23:48,1899-12-30,0,0.0,Davao
 Venz Jan,43057,Art Gallery Philippines,Install ActiveOne for a new computer main server,Service Request,In Progress,0,2026-01-30 14:32:53,1899-12-30,0,0.0,Davao
 Venz Jan,43062,GDY Airtech Enterprises,Change POS template ,Service Request,In Progress,0,2026-01-30 15:44:18,1899-12-30,0,0.0,Davao
 Venz Jan,43068,MCPIL Pharmaceutical Laboratory,Template Modification - Delivery Receipt,Service Request,Assigned,0,2026-01-30 17:25:40,1899-12-30,0,0.0,Davao
