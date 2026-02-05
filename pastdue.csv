@@ -267,6 +267,7 @@ Rico,43036,D'MAR MARKETING,MySQL Setup,Service Request,Assigned,0,2026-01-30 08:
 Rico,43037,D'MAR MARKETING,Auto backup Setup,Service Request,Assigned,0,2026-01-30 08:48:51,1899-12-30,0,0.0,Davao
 Rico,43052,Merlion Enterprises,PTU Setup,Service Request,Assigned,0,2026-01-30 13:45:03,1899-12-30,0,0.0,Davao
 Rico,43053,Merlion Enterprises,Printer Setup,Service Request,Assigned,0,2026-01-30 13:45:41,1899-12-30,0,0.0,Davao
+Rico,43083,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit Ticket No. 00042324,Service Request,Assigned,0,2026-02-02 14:25:20,1899-12-30,3,0.0,Davao
 Rico,43088,Casi Marketing Corporation,Inventory Migration,Service Request,Assigned,0,2026-02-02 16:18:54,1899-12-30,3,0.0,Davao
 Rico,43124,IDG Enterprises,Modify Print Result of Order Capture,Service Request,Assigned,0,2026-02-03 15:31:57,1899-12-30,2,0.0,Davao
 Rico,43137,Harveysheen Hardware,ActiveONE & POS Installation,Service Request,Assigned,0,2026-02-04 09:21:08,1899-12-30,1,0.0,CDO
@@ -301,7 +302,6 @@ Venz Jan,43068,MCPIL Pharmaceutical Laboratory,Template Modification - Delivery 
 Venz Jan,43069,MCPIL Pharmaceutical Laboratory,Template Modification - Sales Invoice,Service Request,Assigned,0,2026-01-30 17:26:41,1899-12-30,0,0.0,Davao
 Venz Jan,43070,"Ma-an's Bakeshop, Co.",Template Modification - Delivery Receipt,Service Request,Assigned,0,2026-01-30 17:28:00,1899-12-30,0,0.0,Davao
 Venz Jan,43071,"Ma-an's Bakeshop, Co.",Template Modification - Check Voucher,Service Request,Assigned,0,2026-01-30 17:28:48,1899-12-30,0,0.0,Davao
-Venz Jan,43083,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit Ticket No. 00042324,Service Request,Assigned,0,2026-02-02 14:25:20,1899-12-30,3,0.0,Davao
 Venz Jan,43085,Jupiter e-Mobility Corp,INVENTORY MATTERS- Cant proceed to invoicing,Service Request,In Progress,0,2026-02-02 14:34:48,1899-12-30,3,0.0,Davao
 Venz Jan,43087,Jupiter e-Mobility Corp,SALES INVOICE ENTRY CONCERN,Service Request,Assigned,0,2026-02-02 16:17:42,1899-12-30,3,0.0,Davao
 Venz Jan,43090,Jupiter e-Mobility Corp,ADDITIONAL LICENSE  for new warehouse use,Service Request,Assigned,0,2026-02-02 16:25:04,1899-12-30,3,0.0,Davao
@@ -328,4 +328,5 @@ Venz Jan,43172,FABLAB BIO SOULTIONS INC,Install VPN - Server and Workstation,Ser
 Venz Jan,43173,Jupiter e-Mobility Corp,Serial No. error in invoice,Service Request,Assigned,0,2026-02-04 14:32:55,1899-12-30,1,0.0,Davao
 Venz Jan,43174,Jupiter e-Mobility Corp,Configure Supervisor Access,Service Request,Assigned,0,2026-02-04 14:33:46,1899-12-30,1,0.0,Davao
 Venz Jan,43175,Jupiter e-Mobility Corp,Serial No. error in Inventory Adj. & transfer,Service Request,Assigned,0,2026-02-04 14:34:54,1899-12-30,1,0.0,Davao
+Venz Jan,43203,J and G Trading Corporation,"Make password for discount, return, price change POS transaction. And hide unit cost",Service Request,Assigned,0,2026-02-05 11:46:22,1899-12-30,0,0.0,Gensan
 
