@@ -47,7 +47,7 @@ Ceasar Ian,43039,The Generics Pharmacy - Matina,(TGP-Pangi) remaining quantity d
 User: Jeric Johann
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Jeric Johann,41485,Malipay Shopping Center Inc.,The redeemed points are not being deducted even though it is calculated every night before shutdown,Service Request,In Progress,0,2025-11-27 10:30:23,1899-12-30,50,0.0,Davao
-Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,In Progress,0,2025-12-29 13:23:24,1899-12-30,28,0.0,Gensan
+Jeric Johann,42234,Four DR Meat Stand,upgrade,Service Request,For Cancel,0,2025-12-29 13:23:24,1899-12-30,28,0.0,Gensan
 Jeric Johann,42453,Seawind Damosa Condominium Corporation,Need assistance for Printer Concer,Service Request,In Progress,0,2026-01-12 14:01:05,1899-12-30,18,0.0,Davao
 Jeric Johann,42475,Ecotrans Car Rentals Transport,Service Invoice Modification,Service Request,In Progress,0,2026-01-12 18:59:35,1899-12-30,18,0.0,Davao
 Jeric Johann,42492,"Brigada Hospitality Group, Inc",Kap Alfredo Restaurant,Service Request,For Cancel,0,2026-01-13 10:12:09,1899-12-30,17,0.0,Gensan
