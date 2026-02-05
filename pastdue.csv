@@ -165,7 +165,7 @@ Jude,42628,SRED Inc.,Data Migration - Item List,Service Request,For Cancel,0,202
 Jude,42632,Staze Inc.,Data Migration - Item List,Service Request,For Cancel,0,2026-01-16 11:36:08,1899-12-30,10,0.0,Davao
 Jude,42843,Sultan Kudarat Coffee Ventures Incorporated," Removal of company name and address to the void receipt, End of shift and z read.",Service Request,In Progress,0,2026-01-23 14:55:18,1899-12-30,5,0.0,Gensan
 Jude,42899,"Lubritek, Inc.",Assessment of server connect,Service Request,In Progress,0,2026-01-27 08:50:16,1899-12-30,7,0.0,Cebu
-Jude,42965,JBC Technology and Trading Corporation,item listing migration ,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,6,0.0,Cebu
+Jude,42965,JBC Technology and Trading Corporation,item listing migration ,Service Request,In Progress,0,2026-01-28 11:00:54,1899-12-30,6,60.0,Cebu
 Jude,42987,S & P Trucking Services,Clear documents,Service Request,For Close,0,2026-01-28 16:31:28,1899-12-30,6,120.0,Ilo-ilo
 Jude,42988,S & P Trucking Services,Fix maam Toneth Laptop (ODBC Corrupt),Service Request,For Close,0,2026-01-28 16:31:59,1899-12-30,6,0.0,Ilo-ilo
 Jude,43004,Niel Pharmacy OPC,Replication setup (Lipunan branch) proj 1,Service Request,In Progress,0,2026-01-29 09:36:14,1899-12-30,5,0.0,Ilo-ilo
@@ -176,7 +176,7 @@ Jude,43008,Niel Pharmacy OPC,OC Installation for Lipunan Branch,Service Request,
 Jude,43009,Niel Pharmacy OPC,POS Installation for Lipunan Branch,Service Request,In Progress,0,2026-01-29 09:38:44,1899-12-30,5,0.0,Ilo-ilo
 Jude,43010,Niel Pharmacy OPC,POS Lipunan Branch AUTOBACKUP SETUP,Service Request,In Progress,0,2026-01-29 09:39:13,1899-12-30,5,0.0,Ilo-ilo
 Jude,43011,Niel Pharmacy OPC,VPN setup (Lipunan Branch),Service Request,In Progress,0,2026-01-29 09:39:43,1899-12-30,5,0.0,Ilo-ilo
-Jude,43022,JBC Technology and Trading Corporation,customer vendor listings listing,Service Request,In Progress,0,2026-01-29 15:05:15,1899-12-30,5,60.0,Cebu
+Jude,43022,JBC Technology and Trading Corporation,customer vendor listings listing,Service Request,For Close,0,2026-01-29 15:05:15,1899-12-30,5,60.0,Cebu
 Jude,43050,Unisafe Marketing Inc.,Physical Inventory Report Modification,Service Request,In Progress,0,2026-01-30 13:07:22,1899-12-30,0,0.0,CDO
 Jude,43072,JJM Trading and Services,Reflect Particulars in Customized Project Profitability Report,Service Request,Assigned,0,2026-01-30 17:32:03,1899-12-30,0,0.0,Cebu
 Jude,43076,MIKE RUECO FOOD PRODUCTS MARKETING,Assistance on deleting errors,Service Request,In Progress,0,2026-02-02 09:09:38,1899-12-30,3,0.0,Ilo-ilo
