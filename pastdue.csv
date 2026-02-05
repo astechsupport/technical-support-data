@@ -188,9 +188,9 @@ Jude,43096,Jaag Bakery Products Manufacturing,Restaurant solution installation ,
 Jude,43097,Jaag Bakery Products Manufacturing,activeone installation at macbook unit ,Service Request,Assigned,0,2026-02-02 17:32:52,1899-12-30,3,0.0,Ilo-ilo
 Jude,43102,Kelly Interior Supplies Trading,Update item description,Service Request,Assigned,0,2026-02-03 11:21:32,1899-12-30,2,0.0,Davao
 Jude,43135,Kergen Marketing,Reconfigure 3 workstation,Service Request,Assigned,0,2026-02-03 16:38:46,1899-12-30,2,0.0,Ilo-ilo
-Jude,43143,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT SELLING AREA SUPERMARKET,Service Request,Assigned,0,2026-02-04 11:29:54,1899-12-30,1,0.0,Gensan
+Jude,43143,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT SELLING AREA SUPERMARKET,Service Request,In Progress,0,2026-02-04 11:29:54,1899-12-30,1,0.0,Gensan
 Jude,43144,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT SELLING AREA DEPT STORE,Service Request,Assigned,0,2026-02-04 11:30:54,1899-12-30,1,0.0,Gensan
-Jude,43145,Raysmart Maitum Corporation,"INVENTORY COUNT ZERO OUT AGRI CHEMICAL, KIAMBA , PALIMBANG ",Service Request,Assigned,0,2026-02-04 11:31:31,1899-12-30,1,0.0,Gensan
+Jude,43145,Raysmart Maitum Corporation,"INVENTORY COUNT ZERO OUT AGRI CHEMICAL, KIAMBA , PALIMBANG ",Service Request,In Progress,0,2026-02-04 11:31:31,1899-12-30,1,0.0,Gensan
 Jude,43146,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT WAREHOUSE,Service Request,Assigned,0,2026-02-04 11:32:13,1899-12-30,1,0.0,Gensan
 Jude,43147,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT STOCK ROOM SUPERMARKET,Service Request,Assigned,0,2026-02-04 11:33:13,1899-12-30,1,0.0,Gensan
 Jude,43148,Raysmart Maitum Corporation,INVENTORY COUNT ZERO OUT STOCK ROOM HARDWARE,Service Request,Assigned,0,2026-02-04 11:33:51,1899-12-30,1,0.0,Gensan
@@ -280,7 +280,6 @@ Rico,43176,FB Lastimosa Enterprises,My SQL Set up,Service Request,Assigned,0,202
 User: Venz Jan
 Assigned,Ticket_No,TradeName,Summary,TicketType,Status,Rating,DateCreated,DateEnded,BusinessDaysOpen,TimeSpentMinutes,Operation
 Venz Jan,42786,Buffalo Industrial Supply,Trust Receipt Form Discount Concern,Service Request,In Progress,0,2026-01-22 11:25:31,1899-12-30,10,60.0,CDO
-Venz Jan,42841,Quinn Essentials,Can't Connect to MySQL Server,Service Request,For Close,0,2026-01-23 14:18:10,1899-12-30,5,0.0,CDO
 Venz Jan,42855,PC GATE TECHNOLOGIES INC. (temporary),Server Transfer to Another Location,Service Request,In Progress,0,2026-01-26 10:59:35,1899-12-30,8,0.0,Davao
 Venz Jan,42856,Titanium Pharma,Upgrade 2SE Licenses,Service Request,In Progress,0,2026-01-26 11:02:15,1899-12-30,8,0.0,Gensan
 Venz Jan,42898,HUILAMS DISTRIBUTION INC.,Error in Sending Invoices from Activeone thru Thunderbird and Outlook,Service Request,In Progress,0,2026-01-27 08:49:40,1899-12-30,7,60.0,Gensan
