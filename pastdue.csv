@@ -113,14 +113,14 @@ Joshua,42826,MIX 'N MAGIC SNACKS & PASTRIES,System error and pls see the Descrip
 Joshua,42834,C7 Store,PTU Setup,Service Request,In Progress,0,2026-01-23 11:01:41,1899-12-30,5,0.0,CDO
 Joshua,42857,Quinn Essentials,POS Receipt Modification,Service Request,In Progress,0,2026-01-26 11:12:05,1899-12-30,8,0.0,CDO
 Joshua,42865,Madlink Corporation,Modification of Expenses Report,Service Request,Assigned,0,2026-01-26 13:54:37,1899-12-30,8,0.0,CDO
-Joshua,42876,J-Mart Supermarket ,Update Sale Invoice 1,Internal,Assigned,0,2026-01-26 15:41:19,1899-12-30,8,0.0,CDO
+Joshua,42876,J-Mart Supermarket ,Update Sale Invoice 1,Internal,For Cancel,0,2026-01-26 15:41:19,1899-12-30,8,0.0,CDO
 Joshua,42877,Casi Marketing Corporation,Template Modification: Daily Collection Report,Service Request,Assigned,0,2026-01-26 16:08:33,1899-12-30,8,0.0,Davao
 Joshua,42878,Casi Marketing Corporation,Template Modification: Daily Sales Report,Service Request,Assigned,0,2026-01-26 16:09:25,1899-12-30,8,0.0,Davao
 Joshua,42887,AMR Healthcare Medical Supplies,Average Consumption Per Month,Service Request,Assigned,0,2026-01-26 16:57:52,1899-12-30,8,0.0,CDO
-Joshua,42906,J-Mart Supermarket ,Update Sale Invoice 2,Internal,Assigned,0,2026-01-27 09:34:53,1899-12-30,7,0.0,CDO
-Joshua,42907,J-Mart Supermarket ,Update Sale Invoice 3,Internal,Assigned,0,2026-01-27 09:35:25,1899-12-30,7,0.0,CDO
-Joshua,42908,J-Mart Supermarket ,Update Sale Invoice 4,Internal,Assigned,0,2026-01-27 09:36:03,1899-12-30,7,0.0,CDO
-Joshua,42909,J-Mart Supermarket ,Update Sale Invoice 5,Internal,Assigned,0,2026-01-27 09:37:05,1899-12-30,7,0.0,CDO
+Joshua,42906,J-Mart Supermarket ,Update Sale Invoice 2,Internal,For Cancel,0,2026-01-27 09:34:53,1899-12-30,7,0.0,CDO
+Joshua,42907,J-Mart Supermarket ,Update Sale Invoice 3,Internal,For Cancel,0,2026-01-27 09:35:25,1899-12-30,7,0.0,CDO
+Joshua,42908,J-Mart Supermarket ,Update Sale Invoice 4,Internal,For Cancel,0,2026-01-27 09:36:03,1899-12-30,7,0.0,CDO
+Joshua,42909,J-Mart Supermarket ,Update Sale Invoice 5,Internal,For Cancel,0,2026-01-27 09:37:05,1899-12-30,7,0.0,CDO
 Joshua,42936,Ab-s Pharma and medical Suppliers Distribution,Error upon making deposit,Service Request,Assigned,0,2026-01-27 21:38:37,1899-12-30,7,0.0,Davao
 Joshua,42938,"DMI Medical Supply Company, Inc.",Owner’s equity becomes zero after FS generation,Service Request,Assigned,0,2026-01-27 21:51:10,1899-12-30,7,0.0,Davao
 Joshua,42939,"DMI Medical Supply Company, Inc.",CAFL becomes zero after running FS Doc,Service Request,Assigned,0,2026-01-27 21:52:39,1899-12-30,7,0.0,Davao
@@ -214,7 +214,7 @@ Junmar,42915,Thunder Park Inc.,resurfaced closed customer balances after upgrade
 Junmar,43021,MCR Agriventure Corporation,"Assistance in generating Z-reading, back end report and reprint copy of last Invoice used",Internal,In Progress,0,2026-01-29 13:51:47,1899-12-30,5,0.0,Ilo-ilo
 Junmar,43058,C.P.C. Incorporated ,"POS Zero Beggining of February 11, 2025",Service Request,In Progress,0,2026-01-30 14:49:00,1899-12-30,0,0.0,Davao
 Junmar,43059,C.P.C. Incorporated ,Price Adjustment not reflected on POS,Service Request,In Progress,0,2026-01-30 14:50:17,1899-12-30,0,0.0,Davao
-Junmar,43060,C.P.C. Incorporated ,Sales Invoice Template Adjustment,Service Request,In Progress,0,2026-01-30 14:51:25,1899-12-30,0,0.0,Davao
+Junmar,43060,C.P.C. Incorporated ,Sales Invoice Template Adjustment,Service Request,In Progress,0,2026-01-30 14:51:25,1899-12-30,0,44.0,Davao
 Junmar,43065,Fortune Agrivet Distribution Group Inc.,Price Manager Concern,Service Request,Assigned,0,2026-01-30 16:29:54,1899-12-30,0,0.0,Cebu
 Junmar,43066,Fortune Agrivet Distribution Group Inc.,Item Details Table Sorting Concern (Custom Sales Order),Service Request,Assigned,0,2026-01-30 16:32:11,1899-12-30,0,0.0,Cebu
 Junmar,43079,Ihran Enterprises & Auto Supply Inc.,Auto Back-up Set Up & Configuration in Server,Service Request,In Progress,0,2026-02-02 14:09:26,1899-12-30,3,0.0,Cebu
