@@ -215,6 +215,7 @@ Junmar,43060,C.P.C. Incorporated ,Sales Invoice Template Adjustment,Service Requ
 Junmar,43065,Fortune Agrivet Distribution Group Inc.,Price Manager Concern,Service Request,Assigned,0,2026-01-30 16:29:54,1899-12-30,0,0.0,Cebu
 Junmar,43066,Fortune Agrivet Distribution Group Inc.,Item Details Table Sorting Concern (Custom Sales Order),Service Request,Assigned,0,2026-01-30 16:32:11,1899-12-30,0,0.0,Cebu
 Junmar,43079,Ihran Enterprises & Auto Supply Inc.,Auto Back-up Set Up & Configuration in Server,Service Request,In Progress,0,2026-02-02 14:09:26,1899-12-30,3,0.0,Cebu
+Junmar,43082,FLUIDZ Minimart,Z-LOG not balance with Journal (Auto) Entry,Service Request,Assigned,0,2026-02-02 14:22:42,1899-12-30,3,0.0,Cebu
 Junmar,43104,GMY Ventures Corporation/Biboy Foods,Amount in Sales by item detail not visible (Test and Deployment),Internal,In Progress,0,2026-02-03 11:47:00,1899-12-30,2,20.0,Cebu
 Junmar,43105,Light Diamond Enterprises,Ref 1-124091 invoice no data upon open,Service Request,Assigned,0,2026-02-03 13:08:09,1899-12-30,2,0.0,Head Quarter
 Junmar,43106,Light Diamond Enterprises,Cash count report difference to the report short/over,Service Request,In Progress,0,2026-02-03 13:15:52,1899-12-30,2,0.0,Davao
@@ -298,7 +299,6 @@ Venz Jan,43068,MCPIL Pharmaceutical Laboratory,Template Modification - Delivery 
 Venz Jan,43069,MCPIL Pharmaceutical Laboratory,Template Modification - Sales Invoice,Service Request,Assigned,0,2026-01-30 17:26:41,1899-12-30,0,0.0,Davao
 Venz Jan,43070,"Ma-an's Bakeshop, Co.",Template Modification - Delivery Receipt,Service Request,Assigned,0,2026-01-30 17:28:00,1899-12-30,0,0.0,Davao
 Venz Jan,43071,"Ma-an's Bakeshop, Co.",Template Modification - Check Voucher,Service Request,Assigned,0,2026-01-30 17:28:48,1899-12-30,0,0.0,Davao
-Venz Jan,43082,FLUIDZ Minimart,Z-LOG not balance with Journal (Auto) Entry,Service Request,Assigned,0,2026-02-02 14:22:42,1899-12-30,3,0.0,Davao
 Venz Jan,43083,Davao Great Wall Trading Inc.,Setup MySQL to simulation server unit Ticket No. 00042324,Service Request,Assigned,0,2026-02-02 14:25:20,1899-12-30,3,0.0,Davao
 Venz Jan,43085,Jupiter e-Mobility Corp,INVENTORY MATTERS- Cant proceed to invoicing,Service Request,In Progress,0,2026-02-02 14:34:48,1899-12-30,3,0.0,Davao
 Venz Jan,43087,Jupiter e-Mobility Corp,SALES INVOICE ENTRY CONCERN,Service Request,Assigned,0,2026-02-02 16:17:42,1899-12-30,3,0.0,Davao
